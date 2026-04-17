@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "d7a411b4ef144901",
+    "type": "split",
+    "children": [
+      {
+        "id": "733a59704ef835db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf778d9cce328f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conhecimento/Mercado_Financeiro/CDI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CDI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "383e8ca0110dc67c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d106beb573ed7a9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afea07ff3a930530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b6372a490829c911",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef0452b51856c1af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22969983e5cc316a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3afdfc96fbe4480c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d7e05907faad18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9a6a4dee3ec687d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "962d160e613c981c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a5d727284d795b5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "62f52c8ae1e247fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fdf778d9cce328f8",
+  "lastOpenFiles": [
+    "Conhecimento/Credito_e_Risco/CPR_Cedula_Produto_Rural.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Contratos_e_Medicoes.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Recebiveis_de_Cartao.md",
+    "Conhecimento/Estruturacao_e_Operacoes/CCB_Cedula_de_Credito_Bancario.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Duplicatas_Mercantis_e_de_Servico.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Tipos_de_Direitos_Creditorios.md",
+    "Conhecimento/Credito_e_Risco/Covenants_Financeiros_Detalhados.md",
+    "Conhecimento/Credito_e_Risco/Covenants.md",
+    "Conhecimento/Fundos_Investimento/FIDC/FIDC_Conceitos.md",
+    "Conhecimento/Mercado_Financeiro/Curva_de_Juros_e_Spread.md",
+    "Conhecimento/Credito_e_Risco/Limites_de_Concentracao.md",
+    "Conhecimento/Mercado_Financeiro/Duration_e_Convexidade.md",
+    "Conhecimento/Contabilidade_e_Controle/Fluxo_de_Caixa_Descontado_DCF.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Escrituracao.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Auditoria_Lastro.md",
+    "Conhecimento/Juridico_e_Regulatorio/Recuperacao_Judicial.md",
+    "Conhecimento/Credito_e_Risco/Rating_Agencias.md",
+    "Conhecimento/Fundos_Investimento/Tributacao_Fundos.md",
+    "Conhecimento/Contabilidade_e_Controle/Marcacao_a_Mercado_vs_Curva.md",
+    "Conhecimento/Contabilidade_e_Controle/Indice_Contabilidade.md",
+    "Conhecimento/Contabilidade_e_Controle/COSIF.md",
+    "Conhecimento/Fundos_Investimento/CVM_175.md",
+    "Conhecimento/Fundos_Investimento/FIDC/Subordinacao_e_Reforco_Credito.md",
+    "Conhecimento/Credito_e_Risco/LTV_Loan_To_Value.md",
+    "Conhecimento/Estruturacao_e_Operacoes/Registradoras_e_Depositarias.md",
+    "Conhecimento/Mercado_Financeiro/Indices_de_Precos.md",
+    "daily"
+  ]
+}

@@ -1,0 +1,24 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# OS/System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Agent/Temp
+.gemini/
+.claude/backups/
+*.tmp
+*.log
+
+# Git/Secrets
+.env
+.idea/
+.vscode/
+node_modules/
