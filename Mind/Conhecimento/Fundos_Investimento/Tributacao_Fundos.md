@@ -17,8 +17,8 @@ O IOF incide apenas se houver resgate em menos de 30 dias após a aplicação, s
 
 ## Isenções para Pessoa Física (PF)
 Certos veículos possuem isenção de IR sobre os rendimentos (dividendos) para investidores PF, sob certas condições:
-- **[[FII/FII_Conceitos|FIIs]] (Fundos de Investimento Imobiliário)**: Isenção nos dividendos se o fundo tiver mais de 100 cotistas e as cotas forem negociadas em bolsa.
-- **[[FIAGRO/FIAGRO_Conceitos|FIAGROs]] (Fundos de Investimento nas Cadeias Produtivas Agroindustriais)**: Seguem regra similar aos FIIs para isenção de dividendos para PF.
-- **LCA (Letra de Crédito do Agronegócio)**: Isenção total de IR sobre o ganho de capital e rendimentos para investidores PF.
+- **[[Fundos_Investimento/FII/FII_Conceitos|FII]] (Fundos de Investimento Imobiliário)**: Isenção nos dividendos se o fundo tiver mais de 100 cotistas e as cotas forem negociadas em bolsa.
+- **[[Fundos_Investimento/FIAGRO/FIAGRO_Conceitos|FIAGRO]] (Fundos de Investimento nas Cadeias Produtivas Agroindustriais)**: Seguem regra similar aos FIIs para isenção de dividendos para PF.
+- **[[Mercado_Financeiro/LCA_e_LCI|LCA/LCI]] (Letra de Crédito do Agronegócio)**: Isenção total de IR sobre o ganho de capital e rendimentos para investidores PF.
 
 #tributacao #investimentos #ir #pf #fiagro

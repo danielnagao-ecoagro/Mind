@@ -1,16 +1,23 @@
-# SecuritizaÃ§Ã£o
+# Securitização
 
-A securitizaÃ§Ã£o Ã© o processo financeiro de transformar ativos relativamente ilÃ­quidos, como fluxos de caixa futuros ou recebÃ­veis, em tÃ­tulos mobiliÃ¡rios negociÃ¡veis no mercado de capitais.
+A securitização é o processo financeiro de transformar ativos relativamente ilíquidos, como fluxos de caixa futuros ou recebíveis, em títulos mobiliários negociáveis no mercado de capitais.
 
 ## O Processo
-1. **OriginaÃ§Ã£o**: Uma empresa (cedente) possui direitos creditÃ³rios a receber (ex: duplicatas, contratos, parcelas).
-2. **CessÃ£o**: Esses ativos são vendidos para uma **Securitizadora** (ou um veÃ­culo de propÃ³sito especÃ­fico - SPV).
-3. **EmissÃ£o**: A securitizadora empacota esses recebÃ­veis e emite tÃ­tulos (como [[CRA_Certificado_Recebiveis_Agro|CRA]] ou [[FIDC_Conceitos|cotas de FIDC]]) lastreados nesses fluxos.
-4. **ColocaÃ§Ã£o**: Os tÃ­tulos sÃ£o vendidos para **Investidores**, que buscam rentabilidade em troca do risco de crÃ©dito dos ativos subjacentes.
+1. **Originação**: Uma empresa (cedente) possui direitos creditórios a receber (ex: duplicatas, contratos, parcelas).
+2. **Cessão**: Esses ativos são vendidos para uma **Securitizadora** (ou um veículo de propósito específico - SPV).
+3. **Emissão**: A securitizadora empacota esses recebíveis e emite títulos (como [[CRA_Certificado_Recebiveis_Agro|CRA]] ou [[FIDC_Conceitos|cotas de FIDC]]) lastreados nesses fluxos.
+4. **Colocação**: Os títulos são vendidos para **Investidores**, que buscam rentabilidade em troca do risco de crédito dos ativos subjacentes.
 
-## PapÃ©is Principais
-- **Cedente**: Empresa que origina o crÃ©dito e busca antecipar recursos.
-- **Securitizadora**: InstituiÃ§Ã£o que estrutura a operaÃ§Ã£o, isola o risco dos ativos e emite os tÃ­tulos.
-- **Investidores**: Compradores dos tÃ­tulos que recebem o fluxo de pagamentos (principal + juros).
+## Papéis Principais
+- **Cedente**: Empresa que origina o crédito e busca antecipar recursos.
+- **Securitizadora**: Instituição que estrutura a operação, isola o risco dos ativos e emite os títulos.
+- **Investidores**: Compradores dos títulos que recebem o fluxo de pagamentos (principal + juros).
+
+## Referências e Links
+- [[Estruturacao_e_Operacoes/Indice_Estruturacao|Voltar para Estruturação e Operações]]
+- [[indice|Voltar ao Índice Principal]]
+
+---
+[[indice|Índice Principal]]
 
 #securitizacao #mercado_de_capitais #estruturacao

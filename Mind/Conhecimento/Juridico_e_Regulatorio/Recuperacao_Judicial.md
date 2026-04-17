@@ -1,6 +1,6 @@
 # Recuperação Judicial (RJ)
 
-A Recuperação Judicial é regida pela **Lei 11.101/2005**, com o objetivo de viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores.
+A Recuperação Judicial é regida pela **Lei 11.101/2005**, sendo um estágio avançado em processos de [[Credito_e_Risco/Default_e_Recuperacao|Default e Recuperação]], com o objetivo de viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores.
 
 ## Impacto na Cobrança de Créditos
 Com o deferimento do processamento da RJ, ocorre o *stay period* (geralmente 180 dias), suspendendo as execuções e cobranças de créditos contra a empresa devedora por dívidas sujeitas à recuperação. Isso altera significativamente o [[Tipos_de_Risco|Risco de Crédito]] da operação.

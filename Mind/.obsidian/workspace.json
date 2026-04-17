@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "733a59704ef835db",
+        "id": "6144e8aa94936e21",
         "type": "tabs",
         "children": [
           {
-            "id": "fdf778d9cce328f8",
+            "id": "cff82f38a6803308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conhecimento/Mercado_Financeiro/CDI.md",
+                "file": "Conhecimento/Credito_e_Risco/Covenants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CDI"
+              "title": "Covenants"
             }
           }
         ]
@@ -183,9 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "fdf778d9cce328f8",
+  "active": "cff82f38a6803308",
   "lastOpenFiles": [
+    "Conhecimento/Glossario/Glossario.md",
+    "Welcome.md",
+    "Novo",
+    "REGRAS_CONHECIMENTO.md",
+    "Conhecimento/Fundos_Investimento/Indice_FII.md",
+    "Conhecimento/Contabilidade_e_Controle/Indice_Contabilidade.md",
+    "Conhecimento/Contabilidade_e_Controle/Marcacao_a_Mercado_vs_Curva.md",
+    "Conhecimento/Contabilidade_e_Controle/Fluxo_de_Caixa_Descontado_DCF.md",
+    "Conhecimento/Contabilidade_e_Controle/COSIF.md",
+    "Conhecimento/Agronegocio/Indice_Agro.md",
+    "Conhecimento/Agronegocio/ESG_no_Agro.md",
+    "Conhecimento/Agronegocio/Cadeia_Valor_Agro.md",
+    "Conhecimento/Agronegocio/Barter.md",
     "Conhecimento/Credito_e_Risco/CPR_Cedula_Produto_Rural.md",
+    "Conhecimento/Fundos_Investimento/CVM_175.md",
+    "Fundos_Investimento/FII",
+    "Fundos_Investimento",
+    "Conhecimento/Mercado_Financeiro/CDI.md",
     "Conhecimento/Estruturacao_e_Operacoes/Contratos_e_Medicoes.md",
     "Conhecimento/Estruturacao_e_Operacoes/Recebiveis_de_Cartao.md",
     "Conhecimento/Estruturacao_e_Operacoes/CCB_Cedula_de_Credito_Bancario.md",
@@ -197,20 +214,6 @@
     "Conhecimento/Mercado_Financeiro/Curva_de_Juros_e_Spread.md",
     "Conhecimento/Credito_e_Risco/Limites_de_Concentracao.md",
     "Conhecimento/Mercado_Financeiro/Duration_e_Convexidade.md",
-    "Conhecimento/Contabilidade_e_Controle/Fluxo_de_Caixa_Descontado_DCF.md",
-    "Conhecimento/Estruturacao_e_Operacoes/Escrituracao.md",
-    "Conhecimento/Estruturacao_e_Operacoes/Auditoria_Lastro.md",
-    "Conhecimento/Juridico_e_Regulatorio/Recuperacao_Judicial.md",
-    "Conhecimento/Credito_e_Risco/Rating_Agencias.md",
-    "Conhecimento/Fundos_Investimento/Tributacao_Fundos.md",
-    "Conhecimento/Contabilidade_e_Controle/Marcacao_a_Mercado_vs_Curva.md",
-    "Conhecimento/Contabilidade_e_Controle/Indice_Contabilidade.md",
-    "Conhecimento/Contabilidade_e_Controle/COSIF.md",
-    "Conhecimento/Fundos_Investimento/CVM_175.md",
-    "Conhecimento/Fundos_Investimento/FIDC/Subordinacao_e_Reforco_Credito.md",
-    "Conhecimento/Credito_e_Risco/LTV_Loan_To_Value.md",
-    "Conhecimento/Estruturacao_e_Operacoes/Registradoras_e_Depositarias.md",
-    "Conhecimento/Mercado_Financeiro/Indices_de_Precos.md",
     "daily"
   ]
 }

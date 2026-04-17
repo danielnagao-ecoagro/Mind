@@ -1,6 +1,6 @@
 # Duration e Convexidade
 
-A **Duration** e a **Convexidade** são medidas fundamentais para a gestão do [[Tipos_de_Risco|Risco de Mercado]] em tìtulos de renda fixa, pois quantificam a sensibilidade do preço de um ativo às variações nas taxas de juros.
+A **Duration** e a **Convexidade** são medidas fundamentais para a gestão do [[Credito_e_Risco/Tipos_de_Risco|Risco de Mercado]] em tìtulos de renda fixa, pois quantificam a sensibilidade do preço de um ativo às variações nas taxas de juros, sendo componentes essenciais na análise da [[Mercado_Financeiro/Curva_de_Juros_e_Spread|Curva de Juros]].
 
 ## Duration (Macaulay e Modificada)
 A Duration de Macaulay representa o prazo médio ponderado para o recebimento dos fluxos de caixa de um título (cupons e principal), expressa em unidades de tempo (geralmente anos).

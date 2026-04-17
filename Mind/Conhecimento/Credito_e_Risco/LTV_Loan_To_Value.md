@@ -1,6 +1,6 @@
 # LTV (Loan-to-Value)
 
-O **LTV (Loan-to-Value)** é uma métrica fundamental na análise de risco de crédito, representando a relação entre o valor do empréstimo (principal) e o valor de avaliação da garantia oferecida.
+O **LTV (Loan-to-Value)** é uma métrica fundamental na análise de risco de crédito, representando a relação entre o valor do empréstimo (principal) e o valor de avaliação da [[Credito_e_Risco/Garantias|garantia]] oferecida.
 
 ## Cálculo
 A fórmula básica é:

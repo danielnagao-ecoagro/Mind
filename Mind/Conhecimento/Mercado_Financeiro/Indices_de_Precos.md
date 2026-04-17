@@ -13,6 +13,15 @@ Calculado pela FGV, o **IGP-M** é conhecido como a "inflação do aluguel" ou "
 - **Uso no Crédito**: Frequentemente utilizado em contratos de aluguel e em alguns títulos de dívida corporativa e imobiliária, embora sua volatilidade (devido à exposição ao dólar e commodities no IPA) tenha reduzido sua adoção em novos títulos de crédito em favor do IPCA.
 
 ## Papel como Indexadores
-Títulos de crédito estruturados costumam utilizar a variação desses índices acrescida de uma taxa fixa (ex: IPCA + 6% a.a.) para remunerar o investidor. Isso protege o capital contra a desvalorização da moeda e alinha o retorno do ativo ao cenário macroeconômico.
+Títulos de crédito estruturados costumam utilizar a variação desses índices acrescida de uma taxa fixa (ex: IPCA + 6% a.a.) para remunerar o investidor. Isso protege o capital contra a desvalorização da moeda e alinha o retorno do ativo ao cenário macroeconômico. 
+
+Diferente do [[CDI]] ou da [[Taxa_Selic]], que são taxas de juros, os índices de preços medem o custo de vida e o poder de compra.
+
+## Referências e Links
+- [[Mercado_Financeiro/Indice_Mercado|Voltar para Mercado Financeiro]]
+- [[indice|Voltar ao Índice Principal]]
+
+---
+[[indice|Índice Principal]]
 
 #inflacao #IPCA #IGPM #indexadores #mercadofinanceiro

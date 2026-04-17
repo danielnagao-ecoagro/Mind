@@ -10,11 +10,20 @@ Exigem que o emissor mantenha determinados índices financeiros dentro de limite
 - **Índice de Cobertura de Juros (EBITDA / Despesa Financeira)**: Garante que a empresa gera caixa suficiente para honrar os juros da dívida.
 - **Current Ratio (Índice de Liquidez Corrente)**: Ativo Circulante / Passivo Circulante.
 
+Os covenants financeiros costumam ser monitorados em conjunto com os [[Limites_de_Concentracao]] da carteira.
+
 ### Covenants Não Financeiros (Afirmativos e Negativos)
 - **Afirmativos**: Obrigações de fazer, como enviar demonstrações financeiras auditadas periodicamente ou manter licenças ambientais em dia.
 - **Negativos**: Restrições, como a proibição de vender ativos estratégicos, contratar novas dívidas acima de um valor X, ou distribuir dividendos acima do mínimo legal se os índices financeiros estiverem degradados.
 
 ## Consequências do Descumprimento (Breach)
-O descumprimento de um covenant pode resultar no **Vencimento Antecipado** da operação ou na necessidade de uma assembleia de credores para conceder um *waiver* (perdão temporário), muitas vezes em troca do aumento da taxa de juros ou reforço de [[Garantias]].
+O descumprimento de um covenant pode resultar no **Vencimento Antecipado** da operação ou na necessidade de uma assembleia de credores para conceder um *waiver* (perdão temporário), muitas vezes em troca do aumento da taxa de juros ou reforço de [[Garantias]]. Eventos graves de quebra de covenants podem levar ao estado de [[Default_e_Recuperacao]].
+
+## Referências e Links
+- [[Credito_e_Risco/Indice_Credito|Voltar para Crédito e Risco]]
+- [[indice|Voltar ao Índice Principal]]
+
+---
+[[indice|Índice Principal]]
 
 #covenants #riscodecredito #analisefinanceira #EBITDA #compliance
