@@ -1,4 +1,4 @@
-﻿# Mercado Financeiro
+# Mercado Financeiro
 
 Base de conhecimento sobre macroeconomia, instrumentos, precificação e dinâmica de mercado.
 
@@ -18,18 +18,30 @@ Base de conhecimento sobre macroeconomia, instrumentos, precificação e dinâmi
 - [[Derivativos_e_Hedge|Derivativos e Hedge]]
 - [[Termo_e_Futuro|Termo e Futuro]]
 - [[Swap]]
+- [[NDF_Non_Deliverable_Forward|NDF - Non-Deliverable Forward]]
 - [[Opcoes|Opções]]
 - [[Investimentos_Alternativos|Investimentos Alternativos]]
 - [[Mercado_de_Acoes_Internacional|Mercado de Ações Internacional]]
+- [[Indices_da_Bolsa|Índices da Bolsa]]
+- [[Segmentos_de_Listagem_B3|Segmentos de Listagem B3]]
+- [[Direitos_dos_Acionistas_Minoritarios|Direitos dos Acionistas Minoritários]]
+- [[Remuneracao_dos_Acionistas_e_Liquidez|Remuneração dos Acionistas e Liquidez]]
+- [[Precificacao_de_Acoes|Precificação de Ações]]
+- [[Estrategias_de_Investimento_em_Acoes|Estratégias de Investimento em Ações]]
 - [[Hedge_Funds|Hedge Funds]]
 - [[Commodities]]
 - [[Investimentos_no_Exterior|Investimentos no Exterior]]
+
+## Referências e Links
 - [[Economia/Indice_Economia|Economia]]
 - [[Metodos_Quantitativos/Indice_Quantitativo|Métodos Quantitativos]]
 - [[Analise_Financeira_e_Corporativa/Indice_Analise_Corporativa|Análise Financeira e Corporativa]]
 - [[Gestao_de_Carteiras/Indice_Carteiras|Gestão de Carteiras]]
+- [[Fundos_Investimento/ETF/Indice_ETF|ETF]]
+- [[Fundos_Investimento/FIDC/Indice_FIDC|FIDC]]
+- [[Glossario/Glossario|Glossário]]
 
 ---
-[[Mind/Conhecimento/indice|Voltar ao Índice Principal]]
+[[Mind/Conhecimento/indice|Índice Principal]]
 
 #mercado #renda_fixa #renda_variavel #derivativos

@@ -39,9 +39,13 @@ Esta nota centraliza a governança de atualização da base. O objetivo é reduz
 | [[Juridico_e_Regulatorio/CVM_175_Anexo_V|CVM 175 - Anexo V]] | Jurídico e Regulatório | alta | 2026-04-18 | 2026-06-18 | ajuste de correspondência do anexo | Resolução CVM 175 | parcial |
 | [[Fundos_Investimento/FIAGRO/FIAGRO_Conceitos|FIAGRO - Conceitos]] | Fundos de Investimento | alta | 2026-04-18 | 2026-06-18 | mudança regulatória ou tributária | Lei 14.130/2021 e CVM 175 | vigente |
 | [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC - Conceitos]] | Fundos de Investimento | alta | 2026-04-18 | 2026-06-18 | mudança regulatória ou estrutural | Resolução CVM 175 | vigente |
+| [[Juridico_e_Regulatorio/True_Sale_em_FIDC|True Sale em FIDC]] | Jurídico e Regulatório | alta | 2026-04-18 | 2026-06-18 | mudança legal, regulatória ou jurisprudencial relevante | Resolução CVM 175 | vigente |
+| [[Juridico_e_Regulatorio/Patrimonio_Segregado_e_Risco_de_Originador|Patrimônio Segregado e Risco de Originador]] | Jurídico e Regulatório | alta | 2026-04-18 | 2026-06-18 | mudança legal, regulatória ou jurisprudencial relevante | Resolução CVM 175 | vigente |
+| [[Juridico_e_Regulatorio/Conflitos_de_Interesse_em_FIDC|Conflitos de Interesse em FIDC]] | Jurídico e Regulatório | alta | 2026-04-18 | 2026-06-18 | mudança regulatória ou alteração de governança relevante | Resolução CVM 175 | vigente |
 | [[Fundos_Investimento/Tributacao_Fundos|Tributação de Fundos]] | Fundos de Investimento | alta | 2026-04-18 | 2026-05-18 | mudança tributária | legislação tributária e regras dos veículos | revisar |
 | [[Juridico_e_Regulatorio/Lei_do_Agro|Lei do Agro]] | Jurídico e Regulatório | alta | 2026-04-18 | 2026-06-18 | alteração legal ou regulamentar | Lei 13.986/2020 | vigente |
-| [[Mercado_Financeiro/Taxa_Selic|Taxa Selic]] | Mercado Financeiro | media | 2026-04-18 | 2026-07-18 | revisão de contexto macro ou política monetária | Banco Central do Brasil | vigente |
+| [[Mercado_Financeiro/Taxa_Selic|Taxa Selic]] | Mercado Financeiro | média | 2026-04-18 | 2026-07-18 | revisão de contexto macro ou política monetária | Banco Central do Brasil | vigente |
+| [[Mercado_Financeiro/NDF_Non_Deliverable_Forward|NDF - Non-Deliverable Forward]] | Mercado Financeiro | média | 2026-04-18 | 2026-10-18 | mudança de prática de hedge, produto ou marcação | material didático consolidado | vigente |
 
 ## Prioridade operacional
 - Priorize links e YAML apenas nas notas tocadas pelo lote.

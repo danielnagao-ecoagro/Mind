@@ -1,4 +1,4 @@
-﻿# Crédito e Risco
+# Crédito e Risco
 
 Metodologias de análise, mitigação e monitoramento dos riscos de crédito e mercado.
 
@@ -14,12 +14,18 @@ Metodologias de análise, mitigação e monitoramento dos riscos de crédito e m
 - [[Rating_Agencias|Rating de Agências]]
 - [[Tipos_de_Risco|Tipos de Risco]]
 - [[Default_e_Recuperacao|Default e Recuperação]]
+- [[Risco_de_Cedente_vs_Risco_de_Sacado|Risco de Cedente vs. Risco de Sacado]]
 - [[Mercado_Financeiro/Riscos_em_Renda_Fixa|Riscos em Renda Fixa]]
+
+## Referências e Links
+- [[Fundos_Investimento/FIDC/Indice_FIDC|FIDC]]
+- [[Agronegocio/Indice_Agro|Agronegócio]]
 - [[Analise_Financeira_e_Corporativa/Indice_Analise_Corporativa|Análise Financeira e Corporativa]]
 - [[Metodos_Quantitativos/Indice_Quantitativo|Métodos Quantitativos]]
 - [[Estruturacao_e_Operacoes/Indice_Estruturacao|Estruturação e Operações]]
+- [[Mercado_Financeiro/Indice_Mercado|Mercado Financeiro]]
 
 ---
-[[Mind/Conhecimento/indice|Voltar ao Índice Principal]]
+[[Mind/Conhecimento/indice|Índice Principal]]
 
 #credito #risco #rating #garantias
