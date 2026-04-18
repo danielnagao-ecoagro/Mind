@@ -3,6 +3,7 @@
 Uma gestora de [[FIDC_Conceitos|FIDC]] trabalha diariamente com cálculos de preço, accrual, provisão, subordinação, rentabilidade e sensibilidade da carteira. Esta nota funciona como hub prático para os principais blocos quantitativos da estrutura.
 
 ## Blocos de cálculo recorrentes
+- [[Matematica_Financeira_de_FIDC|matemática financeira de FIDC]]
 - [[Calculo_de_PL_e_Cota_em_FIDC|PL e cota]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|precificação da carteira]]
 - [[Excesso_de_Spread|excesso de spread]]
@@ -14,6 +15,7 @@ Os cálculos servem tanto para fechamento quanto para monitoramento de risco, co
 
 ## Referências e Links
 - [[Indice_FIDC|FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
 - [[Calculo_de_PL_e_Cota_em_FIDC|Cálculo de PL e Cota em FIDC]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|Precificação de Carteiras de Recebíveis]]
 - [[Indicadores_Chave_de_FIDC|Indicadores-Chave de FIDC]]

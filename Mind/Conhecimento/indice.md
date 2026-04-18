@@ -21,5 +21,8 @@ Bem-vindo à base de conhecimento da gestora. Este índice organiza os principai
 ## Governança editorial
 - [[Controle_de_Revisao_do_Conhecimento|Controle de Revisão do Conhecimento]]
 
+## Trilhas aplicadas
+- [[Fundos_Investimento/FIDC/Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+
 ---
 Última atualização: 2026-04-18

@@ -16,6 +16,7 @@ A estrutura deve observar processamento, contestação, chargeback, concentraç�
 - [[Estruturacao_e_Operacoes/Registradoras_e_Depositarias|Registradoras e Depositárias]]
 - [[Monitoramento_de_Carteira_FIDC|Monitoramento de Carteira em FIDC]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|Precificação de Carteiras de Recebíveis]]
+- [[Caso_Numerico_FIDC_Cartao_Agenda_Chargeback_e_Spread|Caso Numérico de FIDC Cartão com Agenda, Chargeback e Spread]]
 
 ---
 [[Indice_FIDC|Voltar para FIDC]]

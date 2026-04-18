@@ -29,6 +29,7 @@ Este índice organiza o aprendizado sobre [[FIDC_Conceitos|FIDC]] em uma sequên
 
 ## Contabilidade e cálculo
 - [[Calculos_Aplicados_em_Gestora_de_FIDC|Cálculos Aplicados em Gestora de FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
 - [[Calculo_de_PL_e_Cota_em_FIDC|Cálculo de PL e Cota em FIDC]]
 - [[Amortizacao_de_Cotas_em_FIDC|Amortização de Cotas em FIDC]]
 - [[Excesso_de_Spread|Excesso de Spread]]
@@ -43,10 +44,19 @@ Este índice organiza o aprendizado sobre [[FIDC_Conceitos|FIDC]] em uma sequên
 
 ## Casos e convenções
 - [[Convencoes_de_Calculo_em_FIDC|Convenções de Cálculo em FIDC]]
+- [[Desagio_Cessao_PU_e_Taxa_Compra|Deságio, Cessão, PU e Taxa de Compra]]
+- [[Accrual_Pro_Rata_em_Direitos_Creditorios|Accrual Pro Rata em Direitos Creditórios]]
+- [[Modelagem_de_Cash_Flow_de_FIDC|Modelagem de Cash Flow de FIDC]]
+- [[TIR_Bruta_vs_TIR_Liquida_em_FIDC|TIR Bruta vs. TIR Líquida em FIDC]]
+- [[Break_Even_de_Excesso_de_Spread|Break-Even de Excesso de Spread]]
 - [[Glossario_de_Formulas_e_Siglas_de_FIDC|Glossário de Fórmulas e Siglas de FIDC]]
 - [[Exemplo_Numerico_de_Precificacao_de_Recebiveis_em_FIDC|Exemplo Numérico de Precificação de Recebíveis em FIDC]]
 - [[Exemplo_Numerico_de_PL_Cota_e_Amortizacao_em_FIDC|Exemplo Numérico de PL, Cota e Amortização em FIDC]]
 - [[Mini_Caso_de_Fechamento_Diario_em_FIDC|Mini Caso de Fechamento Diário em FIDC]]
+- [[Caso_Numerico_de_Cash_Flow_TIR_e_Spread_em_FIDC|Caso Numérico de Cash Flow, TIR e Spread em FIDC]]
+- [[Caso_Numerico_FIDC_Cartao_Agenda_Chargeback_e_Spread|Caso Numérico de FIDC Cartão com Agenda, Chargeback e Spread]]
+- [[Caso_Numerico_FIDC_Consignado_Averbacao_Fluxo_e_Inadimplencia|Caso Numérico de FIDC Consignado com Averbação, Fluxo e Inadimplência]]
+- [[Caso_Numerico_FIDC_NPL_Recuperacao_Prazo_e_Custo_Juridico|Caso Numérico de FIDC NPL com Recuperação, Prazo e Custo Jurídico]]
 - [[Rotina_Diaria_de_Fechamento_de_FIDC|Rotina Diária de Fechamento de FIDC]]
 
 ## Especializações de lastro

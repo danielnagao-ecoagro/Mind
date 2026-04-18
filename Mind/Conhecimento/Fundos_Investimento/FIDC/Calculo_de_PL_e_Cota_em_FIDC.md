@@ -13,6 +13,8 @@ Preço da carteira, atraso, [[PDD_Esperada_vs_PDD_Realizada_em_FIDC|PDD]], despe
 
 ## Referências e Links
 - [[Indice_FIDC|FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[Modelagem_de_Cash_Flow_de_FIDC|Modelagem de Cash Flow de FIDC]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|Precificação de Carteiras de Recebíveis]]
 - [[Contabilidade_e_Controle/Conciliacao_de_Caixa_e_Posicao_em_FIDC|Conciliação de Caixa e Posição em FIDC]]
 - [[Contabilidade_e_Controle/Marcacao_e_Provisionamento_em_FIDC|Marcação e Provisionamento em FIDC]]

@@ -13,6 +13,9 @@ Spread aparente elevado pode ser ilusório se a carteira embutir atraso, risco d
 
 ## Referências e Links
 - [[Indice_FIDC|FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[Break_Even_de_Excesso_de_Spread|Break-Even de Excesso de Spread]]
+- [[TIR_Bruta_vs_TIR_Liquida_em_FIDC|TIR Bruta vs. TIR Líquida em FIDC]]
 - [[Subordinacao_e_Reforco_Credito|Subordinação e Reforço de Crédito]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|Precificação de Carteiras de Recebíveis]]
 - [[Indicadores_Chave_de_FIDC|Indicadores-Chave de FIDC]]

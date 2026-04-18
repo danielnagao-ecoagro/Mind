@@ -13,6 +13,8 @@ A comparação temporal depende de taxa de desconto, prazo, risco e regime de ca
 ## Referências e Links
 - [[Metodos_Quantitativos/Indice_Quantitativo|Métodos Quantitativos]]
 - [[Metodos_Quantitativos/Conversao_de_Taxas|Conversão de Taxas]]
+- [[Fundos_Investimento/FIDC/Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[Fundos_Investimento/FIDC/PU_e_Valor_Presente_em_FIDC|PU e Valor Presente em FIDC]]
 - [[Mercado_Financeiro/CDI]]
 - [[Mercado_Financeiro/Taxa_Selic|Taxa Selic]]
 - [[Contabilidade_e_Controle/Fluxo_de_Caixa_Descontado_DCF|DCF]]

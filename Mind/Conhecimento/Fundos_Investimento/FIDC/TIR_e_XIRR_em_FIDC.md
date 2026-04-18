@@ -11,6 +11,8 @@ Essas métricas dependem da qualidade do fluxo projetado e podem ser enganadoras
 
 ## Referências e Links
 - [[Indice_FIDC|FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[TIR_Bruta_vs_TIR_Liquida_em_FIDC|TIR Bruta vs. TIR Líquida em FIDC]]
 - [[PU_e_Valor_Presente_em_FIDC|PU e Valor Presente em FIDC]]
 - [[Metodos_Quantitativos/Valor_do_Dinheiro_no_Tempo|Valor do Dinheiro no Tempo]]
 - [[Metodos_Quantitativos/Conversao_de_Taxas|Conversão de Taxas]]

@@ -10,6 +10,8 @@ O conceito é central para [[Precificacao_de_Carteiras_de_Recebiveis|precificaç
 
 ## Referências e Links
 - [[Indice_FIDC|FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[Desagio_Cessao_PU_e_Taxa_Compra|Deságio, Cessão, PU e Taxa de Compra]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|Precificação de Carteiras de Recebíveis]]
 - [[TIR_e_XIRR_em_FIDC|TIR e XIRR em FIDC]]
 - [[Metodos_Quantitativos/Valor_do_Dinheiro_no_Tempo|Valor do Dinheiro no Tempo]]

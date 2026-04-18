@@ -14,6 +14,9 @@ Esse cálculo afeta diretamente [[Calculo_de_PL_e_Cota_em_FIDC|PL e cota]], leit
 
 ## Referências e Links
 - [[Indice_FIDC|FIDC]]
+- [[Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[Desagio_Cessao_PU_e_Taxa_Compra|Deságio, Cessão, PU e Taxa de Compra]]
+- [[Accrual_Pro_Rata_em_Direitos_Creditorios|Accrual Pro Rata em Direitos Creditórios]]
 - [[PU_e_Valor_Presente_em_FIDC|PU e Valor Presente em FIDC]]
 - [[Valor_na_Curva_em_FIDC|Valor na Curva em FIDC]]
 - [[PDD_Esperada_vs_PDD_Realizada_em_FIDC|PDD Esperada vs. PDD Realizada em FIDC]]

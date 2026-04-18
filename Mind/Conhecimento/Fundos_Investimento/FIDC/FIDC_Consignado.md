@@ -16,6 +16,7 @@ Falhas em averbação, mudança de vínculo, fraudes cadastrais e interrupção 
 - [[Monitoramento_de_Carteira_FIDC|Monitoramento de Carteira em FIDC]]
 - [[Subordinacao_e_Reforco_Credito|Subordinação e Reforço de Crédito]]
 - [[Precificacao_de_Carteiras_de_Recebiveis|Precificação de Carteiras de Recebíveis]]
+- [[Caso_Numerico_FIDC_Consignado_Averbacao_Fluxo_e_Inadimplencia|Caso Numérico de FIDC Consignado com Averbação, Fluxo e Inadimplência]]
 
 ---
 [[Indice_FIDC|Voltar para FIDC]]
