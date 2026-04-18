@@ -1,0 +1,9 @@
+=== PAGE 131 ===
+254CFG – Certificação de Fundamentos de Gestão
+Índices de EstiloEstilos de investimento são, por exemplo, Value, Growth, Small, Mid e Large Cap. Portanto, índices de estilos representam uma parte específica de uma categoria de ativos.Como vantagens, podemos citar:ØDisponibilidade: os índices de estilos de mercado são conhecidos, facilmente entendidos e amplamente disponíveis para investimento;ØApropriado: se refletir o estilo do gestor, será um benchmark apropriado.Porém, há algumas desvantagens:ØPesos diferentes: alguns índices de estilo podem possuir pesos diferentes em determinados ativos ou setores e, assim, não reproduzir fielmente o estilo do gestor;ØFalta de clareza: não há um consenso sobre os intervalos de faturamento, por exemplo, do que seria uma ação small, mid ou large cap..
+Tipos de Benchmarks
+255CFG – Certificação de Fundamentos de Gestão
+Modelo baseado em fatoresOs modelos de benchmarks baseado em fatores envolve definir a exposição a determinados fatores que podem influenciar o retorno de uma carteira.Uma forma geral de expressar esse modelo seria:
+Em que:Rp = Retorno da carteira;ap = Termo fator zero, que representa o valor de Rp se todos os demais valores forem zero;b1, b2,...,bn = Sensibilidade dos retornos da carteira aos retornos gerados pelos fatores 1, 2,..., n;F1, F2,..., Fn = fatores de riscos sistemáticos que influenciam a performance da carteiraε = Termo de erro, representando a parte dos returnos da carteira não explicada pelo modelo fatorial.
+Tipos de Benchmarks
+#(1)=ap+&!×F!+&$×F$+... +&2×F2 + ε

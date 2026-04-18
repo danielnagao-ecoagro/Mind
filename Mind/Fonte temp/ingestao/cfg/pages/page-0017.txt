@@ -1,0 +1,12 @@
+=== PAGE 17 ===
+CFG – Certificação em Fundamentos de Finanças25
+R$PV = Valor AtualR$ 2.640,00R$ 3.000,00 Preço Futuro, Valor de NominalDesconto (D): R$ 360,00 
+N =6 (período de antecipação)6 meses
+P tempo
+Exemplo 3 (Gráfico)
+Regimes de Capitalização: Juros Simples
+CFG – Certificação em Fundamentos de Finanças26
+No Regime de Capitalização Composta, também conhecido como Regime de Juros Composto, os Juros incidem sobre o capital acrescido dos juros do período anterior e é por este motivo, que falamos que são “juros sobre juros”. Da mesma forma como nos juros simples, os cálculos só podem ser executados se o tempo de aplicação (n) for expresso na mesma unidade de tempo a que se refere a taxa (i), ou seja, considerando o prazo em ano, a taxa deve ser ao ano;  prazo em mês, taxa ao mês, etc. 
+Sendo que:§ PV = Valor Presente§ FV = Valor Futuro§ i = taxa de juros§ n = prazo ou período§ PMT = parcelas iguais no fluxo
+Regimes de Capitalização: Juros CompostosConceito
+PV=!"#(/)(%&')/+!"#(1)(%&')1 +... +!"#2&	*+(%&')2FV=PV×(1+)),FÓRMULA PADRÃO (Futuro)FÓRMULA COM PARCELAS (Presente)

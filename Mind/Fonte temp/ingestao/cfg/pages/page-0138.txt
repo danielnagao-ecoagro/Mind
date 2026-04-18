@@ -1,0 +1,12 @@
+=== PAGE 138 ===
+CFG – Certificação de fundamentos de Gestão266
+PagamentoVendedor Comprador
+Contrato VendidoPagamento
+Contrato Vendido
+Clearing HouseConceitoAs Clearing House (Câmara de Compensação) são responsáveis pelo registro de todas as operações realizadas, além do  acompanhamento das posições mantidas, compensação financeira dos fluxos e liquidação dos contratos e tem como uma das suas principais funções MITIGAR O RISCO DE LIQUIDAÇÃO.
+CFG – Certificação de fundamentos de Gestão267
+B3 S/A 
+–
+ 
+Brasil, Bolsa e Balcão 
+ConceitoA B3 é o resultado da combinação entre a BM&FBOVESPA (fusão entre a BOVESPA e a BM&F) e a CETIP , oferecendo serviços de negociação (bolsa), pós-negociação (clearing), registro de operações de balcão e de financiamento de veículos e imóveis. Desta forma, a B3 acaba sendo a clearing house de todos os títulos privados, juntamente com alguns títulos públicos.

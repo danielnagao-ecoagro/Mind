@@ -1,0 +1,12 @@
+=== PAGE 376 ===
+736CFG – Certificação de Fundamentos em Gestão
+ConceitoQuando analisamos investimentos, basicamente consideramos apenas RISCO e RETORNO, e desta forma, você já deve ter escutado alguma vez que “quanto maior o risco, maior o retorno”. No entanto, nem sempre os investimentos encontrados no dia apresentam esta relação de maior o risco, maior o rendimento que o investidor terá. Com isso, surge o conceito do “PRINCÍPIO DA DOMINÂNCIA”.OPRINCÍPIO DA DOMINÂNCIA, em resumo, diz que quando temos a nossa disposição DOIS investimentos com o MESMO RISCO, escolheremos aquele que tem o MAIOR RETORNO. Já quando os investimentos disponíveis apresentam o MESMO RETORNO, optaremos pelo que apresentam o MENOR RISCO.O conceito de risco aqui poderá ser: liquidez do investimento (prazo na renda fixa; por exemplo, um CDB com carência de 12 meses deverá render mais que um CDB com carência de 1 mês, da mesma instituição); o risco de crédito (um devedor ruim deve pagar mais juros que um bom pagador de dívidas); ou até mesmo a volatilidade do investimento (desvio padrão do ativo), já que é uma métrica de risco total.
+Princípio da Dominância
+737CFG – Certificação de Fundamentos em Gestão
+Analisando o gráfico abaixo, no qual possui três Ativos (A, B e C), temos a seguinte situação: Ativo A e Ativo B com mesmo risco (igual a 3); e Ativo B e Ativo C com o mesmo retorno (igual a 9). O importante de perceber aqui, é que não faz sentido investir no                  Ativo A, tendo a possibilidade de investir no Ativo B, pois os dois apresentam o mesmo risco, mas o Ativo B apresenta um retorno maior. Desta forma, dizemos que B “preDOMINA”  sobre o ativo A. Da mesma forma, o Ativo C predomina sobre o Ativo B, já que os dois possuem o mesmo retorno, mas o Ativo C apresente um risco menor.
+Retorno
+RISCOA13
+6 9
+BC Mesmo riscoMesmo retorno
+Gráfico
+Princípio da Dominância

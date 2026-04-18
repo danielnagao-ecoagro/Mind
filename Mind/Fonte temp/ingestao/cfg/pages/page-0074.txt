@@ -1,0 +1,7 @@
+=== PAGE 74 ===
+CFG – Certificação em Fundamentos de Finanças139
+Regressão Linear SimplesANOVAANOVA, Análise de Variância (em inglês, Analysis of Variance) é um procedimento estatístico para analisar a variabilidade total da variável dependente. Primeiro temos que definir alguns termos antes de visualizarmos a tabela ANOVA.Ø Soma Total dos Quadrados (SQT): a soma total dos quadrados mede a variação total na variável dependente. STQ é igual à soma dos quadrados das diferenças entre os valores de Y e a média de Y .SQT = (Yi – Y)2, somando os resultados para i observaçõesØSoma dos Quadrados da Regressão (SQR): mede a variação na variável dependente que é explicada pela variável independente. É a soma dos quadrados das distâncias entre os valores de Y previstos e a média de YSQR = (Yi – Y)2, somando os resultados para i observaçõesØ Soma dos Quadrados dos Erros (SQE): mede a variação inexplicada na variável dependente. É a soma dos quadrados das distâncias entre os valores de Y e os valores previstos de Y.SQE = (Yi – Y)2, somando os resultados para i observações.
+CFG – Certificação em Fundamentos de Finanças140
+Regressão Linear SimplesANOVAPodemos concluir que:SQT (variação total) = SQR (variação explicada) + SQE (variação inexplicada) 
+Y (Yi – Y) à SQTYi
+(Yi – Y) à SQR (Yi – Y) à SQE

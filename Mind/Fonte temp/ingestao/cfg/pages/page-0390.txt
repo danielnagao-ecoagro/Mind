@@ -1,0 +1,21 @@
+=== PAGE 390 ===
+764CFG – Certificação de Fundamentos em Gestão
+Retorno (R)
+Risco Sistemático (β)
+BETA = 1Carteira Mercado MRM
+1RETORNO QUE NÃO POSSUI RISCO
+PRÊMIO POR RISCO
+SML
+SML 
+–
+ 
+Security Market 
+LineGráfico
+TLR
+765CFG – Certificação de Fundamentos em Gestão
+O preço esperado pelos analistas para as ações da RToro Education S/A é de R$ 66,00. Esta ação está sendo negociada hoje no mercado pelo valor de R$ 60,00. Sabendo que a taxa livre de risco é 5%, o retorno do mercado (Ibovespa) é 15% e o Beta da ação é 0,7, qual o retorno requerido segundo a SML? Esta ação está super ou subvalorizada?q RESPOSTA: devemos realizar dois cálculos, o do Retorno Esperado e o do Retorno Requerido do ativo. Após isso, iremos comparar os retornos:Ø RETORNO ESPERADO:§ 60 [ENTER]§ 66 [Δ%]§ Resposta: 10% é o retorno esperado para o ativo.Ø RETORNO REQUERIDO (CAPM)§ RR = 5% + 0,7×(15% - 5%)§ RR = 5% + 0,7×(10%)§ RR = 12%Como o retorno requerido é superior ao retorno esperado do mercado, o investidor não deve adquirir as ações e com isso, podemos afirmar que ela está supervalorizada.
+SML 
+–
+ 
+Security Market 
+LineExemplo

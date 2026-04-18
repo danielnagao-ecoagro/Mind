@@ -1,0 +1,10 @@
+=== PAGE 65 ===
+124CFG – Certificação de Fundamentos de Gestão
+Duration
+ 
+ModificadaDuration Modificada = ./012345	67	8191/:1;*)<=8 Sendo a Duration de Macaulay de 4,55 anos, podemos calcular a Duration Modificada:
+Duration Modificada = ,,$$*)(,($	= 4,33 JKLMKÇÃP	@P	QÍQSTP=−@A×(WEXYEçã\	]E	^E_E	]`	abX\c)JKLMKÇÃP	@P	QÍQSTP=−k,ll×>=−m,nn%
+125CFG – Certificação de Fundamentos de Gestão
+ConvexidadePV @ 5%PV @ 7%Variação RealVariação estimada (Duration Modificada)1.000918-8,20%- 8,66%
+Resumindo, a variação real do preço do ativo foi de - 8,20%. Quando utilizamos a duration modificada, a variação calculada por esse método foi maior, de - 8,66%, conforme tabela abaixo.
+Precisamos então fazer um ajuste na Duration Modificada justamente para tentar minimizar esse erro de aproximação, que é decorrente de se estimar como linear uma relação entre preço e taxa de juros que não é linear. Esse ajuste é chamado Convexidade e que visa justamente a incorporar esse formato mais curvilíneo à reta da duration modificada.A Convexidade é uma medida melhor para avaliar o impacto nos preços dos títulos quando há maiores flutuações nas taxas de juros.

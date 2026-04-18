@@ -1,0 +1,9 @@
+=== PAGE 339 ===
+664CFG – Certificado em Fundamentos de Gestão
+Credit
+ 
+Default SwapConceitoCaso ocorra o evento de crédito, ou seja, haja a inadimplência, o pagamento da liquidação em dinheiro é determinado por um leilão da dívida, que fornece a avaliação do mercado sobre a provável taxa de recuperação. Dessa forma, o comprador de proteção de crédito deve aceitar o resultado do leilão, mesmo que a taxa de recuperação final possa ser diferente da inicialmente pactuada.Os preços dos CDS são frequentemente cotados em termos de spreads de crédito, o número implícito de pontos-base que o vendedor de proteção de crédito recebe do comprador de proteção de crédito para justificar o fornecimento da proteção.Tais spreads de crédito são geralmente expressos em termos de uma curva de crédito, que demonstra a relação entre os spreads de crédito de títulos de diferentes vencimentos para o mesmo tomador.Os CDS mudam de valor ao longo de suas vidas conforme a qualidade de crédito da entidade de referência muda, o que leva a ganhos e perdas para as contrapartes, mesmo que a inadimplência não tenha ocorrido ou possa nunca ocorrer. Os spreads de CDS aproximam-se de zero à medida que o CDS se aproxima do vencimento.
+665CFG – Certificado em Fundamentos de Gestão
+Credit
+ 
+Default SwapConceitoA forma mais comum de negociação de CDSs é no mercado de balcão. Com isso, por um lado, é possível negociar contratos bastante personalizados; mas, por outro lado, ativos negociados em balcão geralmente têm menor liquidez e são mais difíceis de serem rastreados por reguladores. Por conta disso, há muita especulação no mercado de CDS, em que os investidores podem negociar as obrigações do CDS se acreditarem que podem obter lucro.

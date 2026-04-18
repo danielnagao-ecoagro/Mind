@@ -1,0 +1,9 @@
+=== PAGE 180 ===
+349CFG – Certificação de Fundamentos de Gestão
+EBITDA (LAJIDA)ExemploA empresa RToro Education S/A obteve no seu último ano fiscal, os seguintes resultados financeiros:Ø Receita Líquida:R$ 100.000,00Ø Despesas com fornecedores:R$ 60.000,00Ø Despesas operacionais:R$ 17.000,00Ø Despesas financeiras:R$ 4.000,00Ø Depreciação:R$ 4.000,00Ø Amortização:R$ 2.000,00Ø Impostos (IRPJ e CSLL):R$ 7.000,00Ø Lucro Líquido: R$ 6.000,00Desta forma, qual foi o valor do seu EBITDA?
+350CFG – Certificação de Fundamentos de Gestão
+EBITDA (LAJIDA)Solução do Exemplo
+R$ 100.000,00RECEITA LÍQUIDA(-) R$ 60.000,00Despesas com Fornecedores(-) R$ 17.000,00Despesas Operacionais(=)R$ 23.000,00EBITDA (LAJIDA)(+) R$ 4.000,00Juros (Despesas Financeiras)(+)R$ 7.000,00Impostos (IRPJ e CSLL)(+)R$ 4.000,00Depreciação(+)R$ 2.000,00AmortizaçãoR$ 6.000,00LUCRO LÍQUIDO
+SUBTRAI
+SOMA LAJIDA
+O EBITDA, também chamado de LAJIDA, pode ser calculado partindo tanto da sua Receita Operacional (descontando seus custos operacionais), quanto do seu Lucro Líquido (adicionando a parte não operacional: Juros, Impostos, Depreciações e Amortizações). Desta forma, mostraremos das duas formas para chegarmos na resposta de R$ 23.000,00:

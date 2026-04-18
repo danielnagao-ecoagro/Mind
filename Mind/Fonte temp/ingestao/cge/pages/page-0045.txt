@@ -1,0 +1,19 @@
+=== PAGE 45 ===
+80CGE – Certificação de Gestores Anbima para Fundos Estruturados
+FIDC
+ 
+–
+ 
+Direitos CreditóriosTipos de CotasNão há regime fiduciário para o patrimônio do fundo,de forma que todos os cotistas têm direitos sobre opatrimôniototal do fundo. Estes direitos, no entanto, estão divididos de acordo com os três tipos de cotas que um FIDC pode emitir, que são:Ø COTA SÊNIOR: tem preferência para amortização e resgate em relação aos demais tipos de cotas. Desta forma, é a cota mais segura dentre os cotistas.Ø COTA MEZANINO (Subordinada Preferencial):é uma cota intermediaria entre a sênior e a subordinada, ou seja, tem prioridade sobre o pagamento da subordinada, mas recebe após os cotista da classe sênior.Ø COTA SUBORDINADA (Subordinada Ordinária): só são remuneradas após todos os demais cotistas (sênior e mezanino) terem sido totalmente pagas. Portanto, podem ter rentabilidade inferior ou superior a cada exercício em relação a Cota Sênior.Como as cotas seniores são protegidas de calote (até um certo limite), elas possuem risco significantemente menor. Cotas subordinadas possuem muito mais risco, no entanto, podem gerar um lucro muito maior. Este mecanismo de quotas permite a um FIDC atrair num só fundo, diferentes classes de investidores.
+81CGE – Cer9ﬁcação de Gestores Anbima para Fundos Estruturados
+ClientesOriginadores dos Recebíveis
+AdministradorAuditorAgência de RatingInvestidores (cotistas)Venda a prazo
+Cobrança
+CotasFIDCGestor
+Direitos CreditóriosDireitos Creditórios$$$$$$
+Custodiante
+FIDC
+ 
+–
+ 
+Direitos CreditóriosProcesso Estrutural

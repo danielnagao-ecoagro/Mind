@@ -1,0 +1,14 @@
+=== PAGE 25 ===
+CFG – Certificação em Fundamentos de Finanças41
+R$ 2.485,41
+6- 400
+Taxa de juros (i) = 1% a.m.0
+Exemplo 9 (PMT Antecipado - Gráfico)
+Regimes de Capitalização: Juros Compostos
+- 400- 400- 400- 400- 40012345
+Neste gráfico fica claro como a HP-12C trabalha com as parcelas postecipadas, com a primeira parcela ocorrendo no período 1 (no nosso exemplo, um mês após a assinatura do plano de previdência). Outro ponto importante, é perceber que a última parcela entrará junto com o valor final (FV). 
+CFG – Certificação em Fundamentos de Finanças42
+Através desta tabela, podemos perceber como a HP-12C chegou no valor final (FV) de             R$ 2.485,41. Diferentemente do caso postecipado, no antecipado, a primeira parcela de PMT ocorre no período zero, juntamente com PV (caso houvesse). Outro ponto interessante, no período 6, não há contribuições que impactam no resultado final, demonstrando de fato que “n”, “i” e “PMT” devem sempre estar no mesmo período.
+Exemplo 9 (PMT Antecipado - Tabela)
+Regimes de Capitalização: Juros Compostos
+PeríodoAPORTE (PMT)JUROS (1%)TOTAL (FV)0 R$ 400,00R$ 0,00R$ 400,001 R$ 400,00R$ 4,00R$ 804,002 R$ 400,00R$ 8,04R$ 1.212,043 R$ 400,00R$ 12,12R$ 1.624,164 R$ 400,00R$ 16,24R$ 2.040,405 R$ 400,00R$ 20,40R$ 2.460,816 - R$ 24,61R$ 2.485,41

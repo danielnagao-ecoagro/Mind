@@ -1,0 +1,3 @@
+=== PAGE 712 ===
+1399CFG – Certificação de Fundamentos de Gestão
+IOF/TVM (Título de Valores Mobiliários): ExemploUm investidor aplicou R$ 100.000,00 em um CDB por 18 dias e resgatou  R$ 101.000,00. Qual o valor resgatado, líquido do IOF?Ø Valor do IOF = R$ 1.000,00 x 40% (18 dias)= R$ 400,00 Ø Valor do IRRF = (R$ 1.000,00 – R$ 400,00) × 22,50%      Logo: R$ 600,00 × 22,50% = R$ 135,00Ø Valor líquido do resgate:                      = R$ 100.000,00 + R$ 1.000,00 – R$ 400,00 – R$ 135,00                       = R$ 100.465,00q OBS: Para não inverter as ordens de IOF e IR, lembre-se do alfabeto, primeiro vem a letra F para depois vir o R, ou seja, primeiro o ioF e depois o iR.

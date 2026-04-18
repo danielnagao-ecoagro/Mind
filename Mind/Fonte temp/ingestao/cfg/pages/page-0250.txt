@@ -1,0 +1,10 @@
+=== PAGE 250 ===
+486CFG – Certificado em Fundamentos de Gestão
+O Discounted Cash Flow (DCF), conhecido também com Método do Fluxo de caixa Descontado, é uma teoria em que pressupõe que o valor de um negócio depende dos benefícios futuros que ele irá produzir, descontados para um valor presente, através da utilização de uma taxa de desconto apropriada, a qual reflita os riscos inerentes aos fluxos estimados.q FÓRMULA:
+As três principais maneiras a ser calculado este modelo são:Ø Modelo de Fluxo de Caixa Descontado da Firma – “Free Cash Flow to the Firm”;Ø Modelo de Fluxo de Caixa do Acionista – “Free Cash Flow to Equity”; Ø Modelo de Fluxo de Dividendos Descontados (Modelo de Gordon).
+Análise FundamentalistaFluxo de Caixa Descontado
+!"#$%=(()!)(1+YTM)!+(()")(1+YTM)"+⋯.(()#)(1+YTM)#
+487CFG – Certificado em Fundamentos de Gestão
+RECEITA LÍQUIDA           EBITDA ...(-) Depreciação      (=) EBIT (LAJIR) EBIT × [1 – Taxa de Imposto (alíquota fiscal)]      (=) Lucro Operacional Líquido menos Imposto Ajustado (+) Depreciações e Amortizações (-) Gastos de Capital (CAPEX) (-) Variação de Capital de Giro      (=) Fluxo de Caixa da Firma (Free Cash Flow to the Firm)NCG:NECESSIDADE DECAPITAL DE GIRO
+Fluxo de Caixa Descontado da Firma (FCFF)Trata dos direitos dos proprietários do Patrimônio Líquido, dos preferencialistas e dos financiadores, por tanto, abrange todo o fluxo de caixa da empresa a ser distribuído entre os credores e acionistas, sob a forma de juros e dividendos.  Seu cálculo é realizado a partir do Lucro Operacional, incluindo impostos, antes de qualquer remuneração aos donos de capital mencionados, ou seja, é ofluxo de caixa operacionalmenos as despesas necessárias para manter os ativos e o crescimento do negócio.
+Análise Fundamentalista

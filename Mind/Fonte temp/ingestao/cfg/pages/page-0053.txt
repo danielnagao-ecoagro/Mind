@@ -1,0 +1,12 @@
+=== PAGE 53 ===
+CFG – Certificação em Fundamentos de Finanças97
+Com os dados calculados, percebemos que a ART Education possui um risco menor, mas também um retorno esperado menor. Já a Toro Cursos teve um retorno esperado maior, mas um risco de mercado maior.
+Importante salientar nos cálculos que os processos são os mesmos de quando foi feito com pesos iguais, com o único detalhe de que, ao invés de dividir por “N” ou “N  ‒1”, deverá ser multiplicado pela probabilidade e posteriormente somar os resultados.
+TORO CURSOSART EDUCATIONRetorno Esperado22% a.a.19% a.a.Risco (Desvio Padrão)13,82%9,6964%
+Exemplo: Conclusão
+Risco & Retorno Esperado
+CFG – Certificação em Fundamentos de Finanças98
+Da mesma forma que podemos calcular o Desvio Padrão dos Retornos Esperados, também podemos calcular a Covariância de duas empresas baseado nas projeções das rentabilidades. Nosso passo-a-passo será:Ø ETAPA 1: Calcular a média ponderada de cada uma das empresas;Ø ETAPA 2: Calcular o “risco” do grupo X de cada retorno de não dar a média e fazer o mesmo para o grupo Y;Ø ETAPA 3: Multiplicar as “ETAPA 2” de cada empresa entre elas, multiplicando também o peso de cada cenário corresponder;Ø ETAPA 4: Somar todos os valores da ETAPA 3. Este será nossa Covariância.A fórmula acaba sendo:
+§8	9:	Média da variável x§8	;:	Média da variável y§ P: probabilidade (peso)<=>9,;=94−89×;4−8;×@4+95−89×;5−8;×@5
+Covariância do Retorno Esperado
+Risco & Retorno Esperado

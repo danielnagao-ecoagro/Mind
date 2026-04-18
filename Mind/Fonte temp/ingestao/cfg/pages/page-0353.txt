@@ -1,0 +1,11 @@
+=== PAGE 353 ===
+692CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasProtective PutEste é o gráfico do resultado financeiro de um investidor que COMPRA O ATIVO a R$ 5,00 e COMPRA uma PUT  (Strike R$ 3,00, preço R$ 1,00).  Resultado  da operação Covered CallCOMPRAATIVOCOMPRAPUTLucros/ Perdas0-5 2 -32-3 0 -33-2 -1 -350 -1 -172 -1 194 -1 32      3      5             7         9   
+Lucro
+3210-1-2-3-4PrejuízoPrejuízo Máximo
+693CFG – Certificado em Fundamentos de Gestão
+Cap 
+(Teto) e 
+Floor
+ 
+(Piso)DefiniçãoEste tipo de operação consiste em fixar a taxa máxima de juro do financiamento ou garantir um valor mínimo para a taxa de juro da aplicação financeira. Desta forma, as operações são:Ø Cap (Teto): estrutura que envolve a compra de uma opção de compra (call) de taxa de juros. Na prática, funciona como um limite de taxa de juros em um produto de crédito de taxa variável. Isso porque um devedor de um empréstimo com taxa de juros variável é prejudicado com a elevação dos juros. Ao adquirir uma call de taxa de juros, ele continua sendo prejudicado com a elevação dos juros, mas os ganhos com a opção neutralizam esse movimento. Assim, é estabelecido um teto (cap) para elevação dos juros. ØFloor (Piso): estrutura análoga à do cap, mas que envolve a compra de uma opção de venda (put) e, com isso, funciona como um limite mínimo de rentabilidade dos papéis de um investidor. Com a queda dos juros, o investidor pós-fixado é prejudicado; porém, a compra da put, nesse cenário, proporciona ganhos, neutralizando a perda com a redução dos juros, funcionando como um piso (floor).

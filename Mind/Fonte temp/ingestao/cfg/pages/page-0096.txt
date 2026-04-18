@@ -1,0 +1,25 @@
+=== PAGE 96 ===
+CFG – Certificação de fundamentos de Gestão182
+MicroeconomiaCurvas de Oferta e a Elasticidade-PreçoOferta perfeitamente inelástica: elasticidade = 0810
+20Aumento no preço não altera em nada a quantidade ofertada.
+Oferta inelástica: elasticidade < 1
+810
+17Aumento no preço em 22% aumenta a quantidade ofertada em apenas 6,1%.
+16
+Oferta com elasticidade unitária: elasticidade = 1
+810
+20Aumento no preço em 22% aumentou a quantidade ofertada em exatamente 22%.
+16
+Preço
+Quant.Quant.
+PreçoPreço
+CFG – Certificação de fundamentos de Gestão183
+MicroeconomiaCurvas de Oferta e a Elasticidade-PreçoOferta elástica: elasticidade > 1
+Aumento no preço em 22% aumentou a quantidade ofertada em 40%.
+Oferta perfeitamente elástica: elasticidade infinita
+8
+Ao preço de R$ 8, os produtores venderão qualquer quantidade. Acima de R$ 8, a oferta é infinita e, abaixo de R$ 8, é zero.
+Quant.
+Preço10
+2416Quant.
+Preço

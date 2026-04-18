@@ -1,0 +1,9 @@
+=== PAGE 22 ===
+CFG – Certificação em Fundamentos de Finanças35
+Exemplo 7 (PMT)q EXEMPLO: Você irá adquirir um imóvel financiado no valor de R$ 500.000,00. Se o financiamento prevê pagamentos iguais mensais durante 30 anos, à taxa de 0,5% ao mês, qual será o valor das prestações? q RESPOSTA:Ø Zerar os registros da HP 12C! Pressione [f][CLX]Ø Digite [500.000] e pressione [PV]Ø Digite [0,5] e pressione [i]Ø Digite [30] e [ENTER], digite [12], pressione [x] e pressione [n]Ø Digite [0] e pressione [FV] Ø Aperte [PMT]Ø Resposta: - R$ 2.997,75q OBSERVAÇÃO: quando uma das variáveis for zero, não é necessário inseri-la. No entanto, sempre teremos as 5 variáveis: [n], [i], [PV], [PMT] e [FV]
+Regimes de Capitalização: Juros Compostos
+CFG – Certificação em Fundamentos de Finanças36
+R$ 500.000360 mesesR$ 0,00-R$ 2.997,75
+Taxa de juros (i) = 0,5 a.m.0
+Exemplo 7 (PMT - Gráfico)Quando uma pessoa toma uma empréstimo, este recurso entra na conta corrente (ou seja, um valor positivo). Assim, as parcelas pagas serão negativas. Outro ponto importante é: o final de uma dívida é zero, portanto, o FV será igual a zero (salve exceções).
+Regimes de Capitalização: Juros Compostos

@@ -1,6 +1,6 @@
 # Rating de Agências
 
-O rating é uma opinião independente sobre a qualidade de crédito e a probabilidade de inadimplência de um emissor ou de uma emissão específica (como uma série de cotas de um [[FIDC/FIDC_Conceitos|FIDC]]).
+O rating é uma opinião independente sobre a qualidade de crédito e a probabilidade de inadimplência de um emissor ou de uma emissão específica (como uma série de cotas de um [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC]]).
 
 ## Principais Agências e Escalas
 As três principais agências globais (S&P, Moody's, Fitch) utilizam escalas alfanuméricas similares para classificar o risco.
@@ -16,7 +16,7 @@ Indica maior vulnerabilidade a condições adversas e maior risco de crédito.
 - **Moody's**: Ba, B, Caa, Ca, C
 
 ## Processo de Rating em FIDC
-Em uma emissão de [[FIDC/FIDC_Conceitos|FIDC]], a agência analisa:
+Em uma emissão de [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC]], a agência analisa:
 1. **Estrutura de Subordinação**: O tamanho do colchão de cotas subordinadas em relação às seniores.
 2. **Histórico da Carteira**: Taxas de inadimplência e recomposição passadas.
 3. **Qualidade do Cedente e Gestor**: Capacidade operacional e financeira das partes envolvidas.

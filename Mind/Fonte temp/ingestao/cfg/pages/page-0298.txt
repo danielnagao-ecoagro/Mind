@@ -1,0 +1,11 @@
+=== PAGE 298 ===
+582CFG – Certificado em Fundamentos de Gestão
+Precificação de Ativos
+(1) CUPOM SEMESTRAL:Ø 12 [i]Ø 360 [n]Ø 180Ø R/SR = 5,830% ao semestreØ CUPOM: 5,83% × R$ 1.000R = R$ 58,30 ao semestre 
+CY: Exemplo de Cálculo 2 Uma debênture com vencimento em 10 anos está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento semestral, calcule qual é seu Current Yield?q SOLUÇÃO: Desta vez, o cupom é pago semestralmente. Assim, devemos encontrar esta taxa semestral, para multiplicarmos por R$ 1.000,00. Como são dois semestres por ano, ele receberá o cupom duas vezes, sem ser considerado o valor do dinheiro no tempo.(1) FÓRMULAØ 58,30 [ENTER]Ø 2 [×]Visor: 116,60Ø 1040 [÷]Visor: 0,112115Ø 100 [×]R = 11,21%
+(2) ATRAVÉS DE [%T]:Ø 1040 [ENTER]Ø 116,60  [%T]R: 11,21%a.a.Quando utilizamos o [T%] basta colocar o valor de mercado primeiro e depois a renda anual e clicar [%T]
+583CFG – Certificado em Fundamentos de Gestão
+Ø (1) TR:o 100 [ENTER]o 1,38 [%] [+]o 0,27 [%] [+]o 100 [-]R: 1,65%
+Ø (1) CDB 10%aa:o 10 [i]o 252 [n]o 42o [R/S]R: 1,60%
+Ø (2) Rentabilidade TOTAL:o 100 [ENTER]o 1,65 [%] [+]o 1,60 [%] [+]o 100 [-]R: 3,28% no período
+Precificação de AtivosTítulos Híbridos: Exemplo de CálculoJoão aplica em R$ 100 mil em um CDB que está remunerando TR + 10% a.a. Após dois meses (60 dias corridos e 42 dias úteis), ele decide resgatar sua aplicação. Qual foi a sua remuneração, sabendo que a TR foi de 1,38% e 0,27% em cada mês?q SOLUÇÃO: Quando os títulos são híbridos (remuneração fixa MAIS uma taxa), como por exemplo Poupança e NTN-B, aparecerá o sinal +. Porém, já vimos que este MAIS significa vezes por ser de juros compostos. Assim, devemos (1) descobrir o retorno de cada variável no período desejável e depois; (2) multiplicar os resultados. Desta forma:

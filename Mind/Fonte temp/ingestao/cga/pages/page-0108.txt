@@ -1,0 +1,9 @@
+=== PAGE 108 ===
+209CGA - Certificação de Gestores Anbima
+Títulos Americanos de Renda FixaYield SpreadsUm Yield Spread, ou Spread de Rendimento, é a diferença entre os rendimentos de diferentes instrumentos de dívida com diferentes vencimentos, classificações de crédito, emissores ou níveis de risco. Assim, o Yield Spread é calculado deduzindo o rendimento de um instrumento do outro. Esta diferença é mais frequentemente expressa em pontos base (bps) ou pontos percentuais.Os Yield Spreads são comumente cotados em termos de um rendimento versus o rendimento dos títulos do Tesouro dos EUA, sendo chamado nesse caso de spread de crédito. Por exemplo, se o título do Tesouro a 5 anos estiver a 4% e o título do Tesouro a 30 anos estiver a 5%, o spread de rendimento entre os dois instrumentos de dívida é de 1%. 
+210CGA - Certificação de Gestores Anbima
+QRSTUVT	RWXYZ[\RVSR=QRSTUVT	Y]RVST^	−[\íWXTS[	aR	bcdT]ST
+CálculoO RETORNO LÍQUIDO DE IMPOSTOS é calculado a partir da aplicação da alíquota de imposto sobre o ganho bruto. Por exemplo, se um investidor obteve rentabilidade de 10% em um período, devendo pagar 20% sobre ganhos de capital de imposto, o retorno líquido seria 10% x (1 – 0,20) = 8%. Porém, suponha que ele aplicou seus recursos em um título isento de imposto. Qual seria o retorno equivalente?
+q EXEMPLO: Um investidor obteve 10% de retorno em um título isento de imposto de renda. Supondo alíquota de imposto de 20%, o retorno equivalente seria de:
+Retorno Líquido de Imposto
+QRSTUVT	RWXYZ[\RVSR=!"!	$",&" = 12,5%

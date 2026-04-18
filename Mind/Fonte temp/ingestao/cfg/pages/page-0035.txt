@@ -1,0 +1,13 @@
+=== PAGE 35 ===
+CFG – Certificação em Fundamentos de Finanças61
+Rafael é seu cliente no banco e deseja saber qual foi o retorno médio da sua aplicação financeira no Fundo de investimentos “A”. Analisando os dados abaixo, o que você diria?
+Para fazer o cálculo da média, devemos somar todos os meses e dividir pela quantidade de meses, ou seja (1 + 3 + 3 + 5 + 3 = 15) e dividir este valor por 5.  Desta forma, a média do retorno do fundo aplicado pelo Rafael, foi de 3% ao mês. É como se cada mês tivesse tido um retorno de 3%, ao invés de ter tido as devidas rentabilidades.
+Medidas de Posição Central
+MÊSRETORNOJaneiro+1%Fevereiro+3%Março+3%Abril+5%Maio+3%5 meses++++Total = 15%
+Média Simples: Exemplo
+CFG – Certificação em Fundamentos de Finanças62
+Para calcular o conjunto anterior  (+3%, +1%, +3%, +3%, +5%) na HP 12C, devemos seguir os seguintes passos:
+A tecla [∑+] serve para adicionar um número em um grupo estatístico, sendo avisado no visor, quantos números esse grupo tem no momento.
+FLUXOTECLAMOTIVOVisor1 [∑+]1º número do grupoNúmero 13 [∑+]2º número do grupoNúmero 23 [∑+]3º número do grupoNúmero 35 [∑+]4º número do grupoNúmero 43 [∑+]5º número do grupoNúmero 5Média+,: [g][0]Média3%
+Medidas de Posição Central
+Média Simples: HP 12C

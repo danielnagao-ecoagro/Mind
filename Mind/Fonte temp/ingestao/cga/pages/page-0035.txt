@@ -1,0 +1,8 @@
+=== PAGE 35 ===
+65CGA - Certificação de Gestores Anbima
+Análise TécnicaConceitoA Análise Técnica (Gráfica) estabelece projeções para os preços das ações baseadas no comportamento em si do preço e do volume na observação do comportamento passado dos preços e dos volumes negociados. Em resumo, a análise técnica estuda as movimentações nos preços passados e, a partir daí, explica a sua evolução futura.Diferentes métodos são utilizados, mas todos confiam nos mesmos princípios:Ø	Existência de tendências;Ø Procura por padrões no comportamento dos preços que ocorreram no passado e possam ocorrer novamente;Ø Preços das ações já refletem todas as informações disponíveis até o momento (fundamentos da empresa não são relevantes).Ø Principal Indicador: § Suporte: Preço da ação não diminui mais que o valor do suporte.§ Resistência: Preço da ação não sobe mais que o valor da resistência. 
+66CGA - Certificação de Gestores Anbima
+Análise Técnica
+Resistência
+Suporte
+Suporte e ResistênciaPercebemos abaixo os pontos aonde eram suporte (momento de comprar a ação) e após a sua perda (diminuição do preço do suporte), se transformou em resistência (não consegue mais superar o valor). qCONCLUSÃO: no suporte se COMPRA e na resistência se VENDE o ativo.

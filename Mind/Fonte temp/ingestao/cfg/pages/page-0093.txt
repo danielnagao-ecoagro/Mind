@@ -1,0 +1,22 @@
+=== PAGE 93 ===
+CFG – Certificação de fundamentos de Gestão176
+MicroeconomiaElasticidade ao longo de curva de demandaApesar de parecer contra intuitivo à primeira vista, a elasticidade varia ao longo de uma curva de demanda linear. Isso porque a elasticidade é a razão das variações percentuais de duas variáveis.
+01020304050607080
+020406080100120140
+Preço
+Quantidade
+Elasticidade > 1Elasticidade < 1
+CFG – Certificação de fundamentos de Gestão177
+MicroeconomiaCurvas de Demanda e a Elasticidade-PreçoDemanda perfeitamente inelástica: elasticidade = 0810
+20Aumento no preço não altera em nada a quantidade demandada.
+Demanda inelástica: elasticidade < 1
+810
+20Aumento no preço em 22% diminuiu a quantidade demandada em apenas 5,13%.
+19
+Demanda com elasticidade unitária: elasticidade = 1
+810
+20Aumento no preço em 22% diminuiu a quantidade demandada em exatamente 22%.
+16
+Preço
+Quant.Quant.Quant.
+PreçoPreço

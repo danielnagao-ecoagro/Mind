@@ -1,0 +1,9 @@
+=== PAGE 246 ===
+478CFG – Certificado em Fundamentos de Gestão
+P/VP: Preço por Valor PatrimonialComo mencionamos no início deste capítulo, uma das formas de analisar uma empresa é através do seu Valor Patrimonial. Desta forma, o P/VP (Preço por Valor Patrimonial) é quanto deveria estar sendo negociada uma ação, baseado somente sobre o seu Patrimônio Líquido (ativos menos as dívidas da companhia). Como este indicador leva em consideração o Valor Patrimonial por Ação, ele também é conhecido por P/VPA.Normalmente, quando a companhia está negociando com valores superiores ao seu P/PV, o mercado financeiro projeta que a companhia continuará crescendo e gerando lucros. Quando está abaixo, acredita que os prejuízos irão perdurar por um longo período, fazendo com que o seu Valor Patrimonial seja diminuído.q FÓRMULA: 
+Análise Fundamentalista
+"/>"=Preço	de	MercadoValor	Patrimonial
+479CFG – Certificado em Fundamentos de Gestão
+EV/EBITDAO EV/EBITDA (Enterprise Value ÷ EBITDA), possui uma compreensão maior de contabilidade. Isto por que adentramos em dois conceitos contáveis:Ø (1) EV (Enterprise Value): Este é o valor de mercado da companhia somado com a sua dívida líquida (dívida total menos o caixa da empresa, sendo que o caixa da empresa são as aplicações financeiras de curto prazo). Ø (2) EBITDA: Lucro operacional da companhia.Da mesma forma que o indicador P/L, quanto menor o EV/EBITDA, mais barato está a companhia. Esse conceito é importante, pois quando alguém adquire uma empresa, comprando as ações (ou cotas) de um outra pessoa, o novo investidor assume todas as dívidas da companhia comprada. Assim, esse indicar serve para analisar “quantos anos serão necessários para, além de recuperar o capital investido na compra da companhia, quitar todas as suas dívidas (EV - Enterprise Value), apenas pela geração de caixa atual da empresa (EBITDA)”.q FÓRMULA:
+Análise Fundamentalista
+!"/!$%&'(=*+,-.	0+	123.45++7í9:0+	;í<=:0+Lucro	Operacional

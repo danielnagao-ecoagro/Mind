@@ -1,0 +1,18 @@
+=== PAGE 89 ===
+172CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFEstratégias de curvas de jurosO movimento contrário seria o Flattening ou achatamento da curva. Nesse cenário, o spread entre os títulos de longo e curto prazo diminui, com a queda mais acentuada das taxas de juros de longo prazo comparativamente às de médio e curto prazo. Nesse cenário, temos justamente o inverso: a estratégia Barbell terá melhor performance e a estratégia Bullet, a pior. O resultado da estratégia Ladder fica no meio das duas!Com a queda acentuada dos juros dos vencimentos de longo prazo, a estratégia Barbell é muito beneficiada, por alocar metade da carteira nesses vértices mais longos. Já a Ladder também é beneficiada, mas esse movimento positivo é “diluído” ao longo da curva, em função da distribuição dos ativos ao longo dos vencimentos.E, por último, a Bullet seria a menos beneficiada.
+173CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosFlattening                      Juros (yield) dos vencimentos de longo prazo diminuem com mais intensidade que os de curto prazo.0,0 0%
+0,5 0%
+1,0 0%
+1,5 0%
+2,0 0%
+2,5 0%
+3,0 0%
+3,5 0%
+4,0 0%
+4,5 0%
+5,0 0%
+1 2 3 4 5
+Bull Flattening
+Antes De po is

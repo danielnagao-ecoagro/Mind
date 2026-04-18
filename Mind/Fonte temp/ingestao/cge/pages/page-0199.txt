@@ -1,0 +1,11 @@
+=== PAGE 199 ===
+380CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+–
+ 
+Resolução CVM 175CaracterísticasContinuação:Øo índice não pode estar sujeito a ajustes retroativos; Øo índice escolhido deve representar um objetivo de investimento claro e único, sem condicionantes como, por exemplo, cláusulas ou regras que impliquem, em determinadas circunstâncias, que o desempenho do índice não reflita o retorno da carteira teórica de ativos;Ønão são aceitos índices cujo provedor seja parte relacionada ao administrador ou ao gestor;Ønão são aceitos índices cujo provedor receba pagamentos de potenciais emissores para sua inclusão como componentes.Øo desempenho do índice deve ser público, ter ampla divulgação e fácil acesso por meio da rede mundial de computadores; eØnão são aceitos índices que representem múltiplos de outros índices, o inverso destes índices, ou ainda múltiplos do seu inverso.
+381CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+–
+ 
+Resolução CVM 175CaracterísticasA composição, os pesos de cada ativo financeiro e outros parâmetros que permitam a replicação do índice podem ser divulgados retrospectivamente após cada rebalanceamento do índice, tendo como prazo limite a data do rebalanceamento subsequente.

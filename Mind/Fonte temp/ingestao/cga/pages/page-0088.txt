@@ -1,0 +1,18 @@
+=== PAGE 88 ===
+170CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFEstratégias de curvas de jurosConsiderando três carteiras com a mesma duration, mas com estruturas diferentes (bullet, ladder e barbell), ocorrendo um steepening, teremos o seguinte:  Qual a melhor estratégia nesse cenário? Bullet. Por quê? Com o aumento das taxas em todos os vencimentos, os valores presentes serão negativamente impactados. Porém, como a carteira bullet está concentrada em um único vencimento no meio da curva, somente ele sofrerá, ao contrário da ladder (vários vencimentos ao longo da curva) e da barbell, principalmente por conta do vencimento no longo prazo.E qual sofrerá mais nesse cenário? Barbell, por conta da concentração de metade da carteira nos vencimentos de longo prazo, o que acarretará grandes perdas ao valor presente do título ou da carteira.
+171CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosSteepening                      Juros (yield) dos vencimentos de longo prazo aumentam com mais intensidade que os de curto prazo.0,0 0%
+0,5 0%
+1,0 0%
+1,5 0%
+2,0 0%
+2,5 0%
+3,0 0%
+3,5 0%
+4,0 0%
+4,5 0%
+5,0 0%
+1 2 3 4 5
+Bear Steepening
+De po is Antes

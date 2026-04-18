@@ -1,0 +1,13 @@
+=== PAGE 19 ===
+33CGA - Certificação de Gestores Anbima
+Long
+ 
+and
+ 
+ShortConceitoRealizar uma operação LONG & SHORT significa vender uma ação que não possui(ficar short) e, com o recurso da venda, comprar uma outra ação (ficar long). Quando não se possui a ação, é necessárioalugá-la e, assim, vender para entregar ao comprador.É uma operação que visa lucrar em virtude da distorção destes preços. Por isso, dizemos que o investidor pode ganhar 2 alfas, um na posição comprada e outro, na posição vendida.Lembre-se: quando você compra (LONG) um ativo, o seu lucro ocorre com a valorização do seu preço; já quando você vende (SHORT), o seu lucro vem da desvalorização.Existem várias maneiras diferentes de se montar posições long and short, definidas pela exposição bruta (gross) e líquida (net). A exposição bruta é a soma do valor da posição comprada (long) mais o valor absoluto da posição vendida (short). Já a exposição líquida é a diferença entre o valor da posição comprada (long) e da posição vendida (short).
+34CGA - Certificação de Gestores Anbima
+Long
+ 
+and
+ 
+ShortConceitoPor exemplo, um fundo Long and Short possui R$ 10 milhões de patrimônio líquido. O gestor investe R$ 9 milhões (90%) em posições compradas (long) e R$ 3 milhões (30%) em posições vendidas. A exposição bruta será de 90% + 30% = 120% e a exposição líquida, de 90% - 30% = 60%. Ele ainda tem 10% do patrimônio para aplicar em outros ativos.Temos, em linhas gerais, dois tipos específicos de estratégias long and short: Long Extension (Posições Compradas) e Market Neutral (Mercado Neutro).Long Extension são carteiras que tipicamente tem a restrição de uma exposição. Por exemplo, um fundo Long and Short possui R$ 10 milhões de patrimônio líquido. O gestor investe R$ 13 milhões (130%) em posições compradas (long) e R$ 3 milhões (30%) em posições vendidas. A exposição bruta será de 130% + 30% = 160%, mas a exposição líquida, de 130% - 30% = 100%.  É indicado para investidores que desejam ter 100% de exposição líquida ao mercado, mas também permitir ao gestor assumir algum tipo de estratégia vendida (short) para se beneficiar de perspectivas negativas para determinado ativo ou setor.

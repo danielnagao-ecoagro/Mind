@@ -1,0 +1,18 @@
+=== PAGE 557 ===
+1089CFG – Cer(ﬁcação em Fundamentos de Gestão
+Subclasse 
+Y
+ Subclasse 
+Z
+Fundos de InvestimentosNova EstruturaçãoFUNDO
+Classe C
+Classe B
+Classe A
+Subclasse 
+X
+§ Regulamento§ Prestadores de Serviços Essenciais§ Código de Identificação• Classe única: CNPJ igual ao CNPJ da classe• Multiclasses: um CNPJ para cada classe
+NOVA ESTRUTURAFUNÇÕES DE CADA SEGMENTAÇÃO
+§ Anexo§ Enquadramento§ Patrimônio Segregado§ Código de IdenBﬁcação§ Apêndice§ Prazos§ Público Alvo§ Informes de Posição§ Código de IdenBﬁcação§ Taxas (Adm, Gestão, Distribuição e Performance)
+§ Tributação§ Informes de Posição§ Taxa de Custódia
+1090CFG – Certificação em Fundamentos de Gestão
+Fundos de InvestimentosClasses de CotasO regulamento do fundo de invesVmento pode prever a existência de diferentes classes de cotas, com direitos e obrigações disBntos, devendo o administrador consBtuir um patrimônio segregado para cada classe de cotas. Vale ressaltar que o regulamento é o documento que rege a consVtuição e o funcionamento do fundo de invesVmento e contém, no mínimo, as disposições obrigatóriasq OBSERVAÇÕES:Ø Todas as classes devem pertencer à mesma categoria do fundo, não sendo permiBda a consBtuição de classes de cotas que alterem o tratamento tributário aplicável em relação ao fundo ou às demais classes existentes.ØCada patrimônio segregado responde somente por obrigações referentes à respecVva classe de cotas.ØO fundo que não contar com diferentes classes de cotas deve efetuar emissões de cotas em classe única, preservada a possibilidade de serem consVtuídas subclasses.ØÉ vedada a afetação ou a vinculação, a qualquer [tulo, de parcela do patrimônio de uma classe de cotas a qualquer subclasse.

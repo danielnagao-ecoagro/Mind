@@ -1,0 +1,33 @@
+=== PAGE 93 ===
+180CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFBear SteepeningJá no Bear Steepening (gráfico ao lado), o juro de longo  prazo sobe mais rápido que o de curto prazo.Portanto, todas as posições seriam prejudicadas pelo aumento dos juros. A parte mais longa sofrerá mais, não somente pelo aumento de maior magnitude dos juros, como também pela maior duration dos vencimentos.A parte curta sofrerá menos, pois o aumento será menor e a duration também é inferior.
+0,0 0%
+0,5 0%
+1,0 0%
+1,5 0%
+2,0 0%
+2,5 0%
+3,0 0%
+3,5 0%
+4,0 0%
+4,5 0%
+5,0 0%
+1 2 3 4 5
+Bear Steepening
+De po isAntes
+181CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFBear FlatteningPor fim, no Bear Flattening (gráfico ao lado), juro de curto prazo sobe mais rápido que o de longo prazo.Novamente, todas as posições seriam prejudicadas pelo aumento dos juros. A parte mais curta sofrerá mais, com o aumento dos juros, mas o impacto tende a ser menor, por conta da duration inferior.Já a parte longa sofrerá menos com o aumento dos juros, mas o impacto pode ser majorado por conta da maior duration dos vencimentos mais longos.
+0,0 0%
+0,5 0%
+1,0 0%
+1,5 0%
+2,0 0%
+2,5 0%
+3,0 0%
+3,5 0%
+4,0 0%
+4,5 0%
+5,0 0%
+1 2 3 4 5
+Bear Flattening
+De po is Antes

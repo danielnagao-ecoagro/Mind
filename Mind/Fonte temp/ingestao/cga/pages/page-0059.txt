@@ -1,0 +1,9 @@
+=== PAGE 59 ===
+112CFG – Certificação de Fundamentos de Gestão
+                      Preço
+YTM
+Risco de Taxa de JurosGráfico com opção de venda (put) embutida
+Strike
+Put embutida
+113CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosDuration: Relações Diretas e IndiretasA duration de um títuloZERO-CUPOM (sem pagamentos de juros, como uma LTN) é IGUAL ao seu prazo de vencimento.q Relação de Duration com:Ø Prazo do título                DiretaØ Taxas de juros               Inversa Ø TIR (YTM)                              InversaØ Tamanho do Cupom               InversaØ Frequência de pagamento de Cupons           InversaqCONCLUSÕES: Quanto menor a duration MENOR o risco de taxa de juros. Entre um título COM cupom e outro SEM cupom com mesmo vencimento, o título COM cupom possui Duration MENOR, e o SEM cupom, possui  Duration Maior!

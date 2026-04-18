@@ -1,0 +1,7 @@
+=== PAGE 172 ===
+335CGA – Certificação de Gestores Anbima
+BacktestingConceitoUm tema muito relevante quando se fala em gestão de risco é o Backtesting.Esse procedimento consiste em utilizar uma série histórica de cotações, que cobre determinado período, para verificar a rentabilidade que seria produzida por determinada estratégia se fosse usada naquele período. Se a base de dados históricos for de boa qualidade e o teste for conduzido com rigor, a realização de backtesting representa um poderoso meio de avaliar estratégias e selecionar as melhores. Simplificadamente, um exemplo do que se faz é testar diferentes valores para os parâmetros de uma estratégia entre um período (Ex. 2000 a 2010), até encontrar o conjunto de parâmetros que produz resultados atraentes, para após isso, aplicar no mercado financeiro.Portanto, VERIFICA A PRECISÃO DE UM MODELO DE MENSURAÇÃO DE RISCOS.
+336CGA – Certificação de Gestores Anbima
+ConceitoO Benchmark VaR, ou simplesmente B-VaR, calcula exatamente o mesmo que o VaR: a perda máxima de um ativo ou carteira. A diferença é que, no B-Var, a perda máxima calculada é aquela além de um índice de referência (benchmark).Por exemplo, suponha um Benchmark VaR de 10%, com 95% de confiança. Isso significa que, em 5% das vezes, a carteira registrará uma perda de 10% a mais do que se desvalorizar o benchmark nesse período.
+Benchmark 
+VaR

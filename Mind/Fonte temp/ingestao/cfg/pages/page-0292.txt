@@ -1,0 +1,6 @@
+=== PAGE 292 ===
+570CFG – Certificado em Fundamentos de Gestão
+5.2.4 Precificação dos Títulos de 
+Renda Fixa570
+571CFG – Certificado em Fundamentos de Gestão
+Precificação de títulos de Renda FixaConceitoA precificação de títulos de renda fixa (principalmente os negociados no mercado secundário) baseia-se em calcular o valor presente de todos os recebimentos e somá-los, ou seja, trazer a valor presente os juros e as amortizações!Como já vimos na matemática financeira, para calcular o valor presente, necessitamos utilizar uma taxa de desconto. Essa taxa de desconto utilizada será o valor que o novo investidor deseja receber pela aquisição do título, ou seja, é a TIR deste investimento (também chamada de YTM – Yield to Maturity, na renda fixa).Nos exercícios, importante ressaltar que pode ser fornecido o cupom do título através de uma taxa, que deverá ser multiplicada pelo valor final de recebimento, que será sempre R$ 1.000,00 (definição). Por exemplo, uma debênture possui cupom com taxa de 12% ao ano com pagamento anual, ou seja, quer dizer que os juros periódicos pagos ao investidor serão de R$ 120,00 pagos anualmente. Caso o pagamento fosse SEMESTRALMENTE, deveríamos transformar os 12% ao ano para semestre e multiplicar pelos mesmos R$ 1.000,00.

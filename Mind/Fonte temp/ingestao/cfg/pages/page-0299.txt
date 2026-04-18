@@ -1,0 +1,6 @@
+=== PAGE 299 ===
+584CFG – Certificado em Fundamentos de Gestão
+5.2.5 Análise de Crédito
+584
+585CFG – Certificado em Fundamentos de Gestão
+Análise de CréditoProcesso de Análise de CréditoO processo tradicional de análise de crédito é essencial para instituições financeiras e outras organizações que fornecem crédito, pois permite avaliar o risco associado à concessão de empréstimos a indivíduos ou empresas. O processo tradicional de análise de crédito envolve os seguintes aspectos:Ø Coleta de informações;Ø Consulta a Bureaus de Crédito;Ø Análise Financeira, envolvendo a análise de balanços patrimoniais, demonstrações de resultados, fluxo de caixa, endividamento, liquidez, rentabilidade, entre outros;Ø Avaliação de Riscos, contemplando a utilização de modelos estatísticos para cálculo de scores de crédito e análise qualitativa;Ø Tomada de Decisão, ou seja, aprovação ou rejeição da concessão de crédito; eØ Acompanhamento, relacionado ao monitoramento do pagamento e da saúde financeira do tomador do crédito.

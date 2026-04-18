@@ -1,0 +1,11 @@
+=== PAGE 52 ===
+CFG – Certificação em Fundamentos de Finanças95
+Probabilidade dos Cenários Retorno Esperado(ETAPA 2) Retorno – Média(ETAPA 3) Elevar ao quadrado(ETAPA 4) Multiplicar pela ProbabilidadeÓtimo20%‒5(‒5 ‒ 22) = ‒27(-27)2 = 729(20%)×(729) = 145,8Bom30%25(25 ‒ 22) = +3(+3)2 = 9(30%)×(9) = 2,7Normal40%30(30 ‒ 22) = +8(+8)2 = 64(40%)×(64) = 25,6Fraco10%35(35 ‒ 22) = +13(+13)2 = 169(10%)×(169) = 16,9(ETAPA 1) Média Ponderada = 22%(ETAPA 5) Somar:Variância = 191(ETAPA 6): Desvio Padrão =/>/=	±13,82
++++
+Exemplo: Toro CursosConforme o passo-a-passo, primeiramente devemos calcular a média ponderada do retorno esperado, lembrando que podemos fazer na HP-12C inserindo todo os dados através de “Retorno [Enter] probabilidade [∑+]” e por último clicando em “[g][6]”.
+Risco & Retorno Esperado
+CFG – Certificação em Fundamentos de Finanças96
+Probabilidade dos Cenários Retorno Esperado(ETAPA 2) Retorno – Média(ETAPA 3) Elevar ao quadrado(ETAPA 4) Multiplicar pela ProbabilidadeÓtimo20%35(35 ‒ 19) = +16(+16)2 = 256(20%)×(256) = 51,2Bom30%20(20 ‒ 19) = +1(+1)2 = 1 (30%)×(1) = 0,3Normal40%15(15 ‒ 19) = ‒4(‒4)2 = 16(40%)×(16) = 6,4Fraco10%0(0 ‒ 19) = ‒19(‒19)2 = 361(10%)×(361) = 36,1(ETAPA 1) Média Ponderada = 19%(ETAPA 5) Somar:Variância = 94(ETAPA 6): Desvio Padrão =>2=	±9,6964
++++
+Exemplo: ART EducationDevemos seguir o mesmo passo-a-passo para calcularmos o risco do retorno esperado da ART Education.
+Risco & Retorno Esperado

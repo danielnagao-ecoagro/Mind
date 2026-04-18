@@ -1,0 +1,11 @@
+=== PAGE 198 ===
+378CGE – Certificação de Gestores Anbima para Fundos Estruturados
+378
+8.5 Anexo 
+Normativo V
+Resolução CVM 175
+379CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+–
+ 
+Resolução CVM 175CaracterísticasO fundo é uma comunhão de recursos destinado à aplicação em carteira de ativos financeiros que vise refletir as variações e rentabilidade de um índice de referência, por prazo indeterminado. Por índice de referência denomina-se o índice de mercado específico reconhecido pela Comissão de Valores Mobiliários - CVM, ao qual a política de investimento do fundo esteja associada.Para que um índice seja aprovado para servir de referência, é necessário, no mínimo, a observância dos seguintes critérios:Ønão são aceitos índices cuja metodologia completa de seu cálculo não seja disponibilizada de forma gratuita e por meio da rede mundial de computadores, incluindo sua composição, os pesos de cada ativo financeiro, os critérios de rebalanceamento e sua frequência, e demais parâmetros necessários à sua replicação;Ønão são admitidos índices cuja metodologia de cálculo não inclua regras predeterminadas e critérios objetivos; Øa frequência de rebalanceamento do índice não pode impedir que os investidores possam replicá-lo;

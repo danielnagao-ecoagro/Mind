@@ -1,0 +1,8 @@
+=== PAGE 66 ===
+126CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosConvexidadeO ajuste da Convexidade ao cálculo da Duraton Modificada é feito através da seguinte fórmula:
+qEm que:V- = Valor do ativo quando a taxa de juros cai;V+ = Valor do ativo quando a taxa de juros sobeV0 = Valor inicial do ativo; eΔy = Variação da taxa de juros.Por fim, fazemos o seguinte Ajuste de Convexidade:
+V- + V+ - 2V0V0 x Δy2 Convexidade = 
+Convexidade2Ajuste de Convexidade = x Δy2
+127CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosConvexidadePrecisamos então simular a variação do preço do título em função de uma elevação e de uma redução da taxa juros em 2 pontos percentuais. Quando os juros sobem 2 pontos percentuais (de 5% para 7%), já calculamos que o preço cairá para R$ 918.Agora, quando a taxa de juros cair 2 pontos percentuais (de 5% para 3%), o preço do título subirá para:ØPV na HP 12C (@3% ao ano): o FV = R$ 1.000; o PMT = R$ 50; o n = 5 anos;o i = 3% ao anoo PV = ? = - 1.091,59.

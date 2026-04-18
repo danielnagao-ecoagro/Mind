@@ -1,0 +1,12 @@
+=== PAGE 378 ===
+740CFG – Certificação de Fundamentos em Gestão
+ConceitoPara atender à exigência do investidor avesso a riscos, uma opção é diversificar a carteira de investimentos, conforme velho ditado: “não coloque todos os ovos na mesma cesta”. Porém, para termos uma diversificação mais eficiente, deve-se construir uma carteira de investimos no qual os ativos tenham comportamentos inversos com as notícias financeiras, ou seja, sejam inversamente correlacionados. Desta forma, deve-se analisar o coeficiente de correlação entre os ativos (valor que varia entre -1 e 1, e quanto menor for o número, mais diversificada será), vide exemplo dado de petrolíferas & empresas aéreas no capítulo de estatística.Em meados da década de 50, Harry Markowitz provou que existe uma fronteira que é formada por infinitas carteiras, onde se tem o maior retorno possível com o mesmo nível de risco, ou no qual se atinge o menor risco com o mesmo nível de retorno (princípio da Dominância). Esta fronteira é denominada de FRONTEIRA EFICIENTEde Markowitz e seu entendimento é o mesmo da Teoria da Utilidade Esperada: pontos abaixo da fronteira eficiente não são interessantes para o investidor e pontos acima da fronteira, ele não tem acesso.
+Fronteira Eficiente de Markowitz
+741CFG – Certificação de Fundamentos em Gestão
+Retorno (R)
+Risco Total ())
+U1
+CARTEIRA ÓTIMA
+FRONTEIRA EFICIENTE
+Carteira ÓtimaA escolha da Carteira Ótima é determinada pelo ponto em que a curva de investimento tangencia sua mais alta curva de indiferença, combinando assim as carteiras otimizadas possíveis com o perfil do investidor. Portanto, será a com melhor risco x retorno dentro do perfil de risco do investidor e das suas possibilidades de escolha.
+Fronteira Eficiente de Markowitz

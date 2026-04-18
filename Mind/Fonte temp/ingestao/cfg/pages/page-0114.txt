@@ -1,0 +1,23 @@
+=== PAGE 114 ===
+CFG – Certificação de fundamentos de Gestão218
+MicroeconomiaCompetição MonopolísticaCURTO PRAZO
+Lucro
+Quantidade
+Custo Total MédioP = RMgConc. PerfeitaDemanda
+Preço
+Receita MarginalQMon
+PMon
+Custo Total Médio
+Custo Marginal
+No curto prazo, a Competição Monopolística é muito semelhante ao monopólio. Além disso, as empresas operando sob a Competição Monopolística seguem as regras de maximização de lucros, produzindo no ponto em que a Receita Marginal é igual ao Custo Marginal. Nesse ponto, projeta-se a quantidade e o preço sobre a curva da demanda (como no monopólio) e temos a quantidade e o preço nesse cenário, o que leva a lucros econômicos no curto prazo!
+CFG – Certificação de fundamentos de Gestão219
+MicroeconomiaCompetição MonopolísticaLONGO PRAZO
+Porém, essa situação de lucro econômico positivo é efêmera pois, nesse mercado, há poucas barreiras de entrada. Logo, novas empresas passarão a ofertar o produto e, com isso, há uma redução da demanda para cada empresa, deslocando para a esquerda a curva de demanda. Com isso, à medida que cai a demanda para cada empresa, seus lucros também diminuem, até que chegam a zero. Portanto, no longo prazo, a estrutura se parece uma competição. 
+Quantidade
+Custo Total Médio
+Demanda
+Preço
+Receita MarginalQuantidade que maximiza o lucro
+Preço = Custo Total Médio
+Custo Marginal
+Demanda inferior

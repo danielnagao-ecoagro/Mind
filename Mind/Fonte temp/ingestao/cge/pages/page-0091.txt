@@ -1,0 +1,9 @@
+=== PAGE 91 ===
+168CGE – Certificação de Gestores Anbima para Produtos Estruturados
+Avaliação de Desempenho
+Retorno RealRetorno Exigido (CAPM)
+Alfa de Jensen
+!"#$%(")='(")−)*'+	β(")×'($)−)*'
+Também de uma forma mais genérica, listamos aqui alguns outros índices que podem ser utilizados para avaliação de desempenho. O Alfa de Jensen é um indicador para determinar o rendimento real da carteira comparado ao retorno exigido do investidor em relação ao risco sistêmico. Ou seja, o quanto a mais o investidor teve de retorno extra ao cálculo do CAPM. Desta forma, o Alfa de Jensen é uma medida direta de performance, já que:Ø Se positivo, o gestor está performando acima do retorno exigido;Ø Se negativo, o gestor está tendo um desempenho pior que o risco incorrido.q FÓRMULA: 
+169CGE – Certificação de Gestores Anbima para Produtos Estruturados
+Avaliação de DesempenhoAlfa de JensenO Alfa de Jensen possui um cálculo simples e objetivo: excesso de retorno gerado sobre o retorno requerido calculado pelo CAPM. Trata-se de uma grande vantagem do modelo e em parte explica tamanha popularidade do alfa entre os mais diversos gestores.Porém, ao considerar a possibilidade de se obter um retorno ativo, o Alfa de Jensen não considera válidas as premissas da Hipótese do Mercado Eficiente (EMH). Essa teoria defende que os preços de mercado incorporam a todo momento todas as informações disponíveis, de modo que os títulos sempre estão precificados adequadamente. Em sendo identificados erros de precificação, tais preços são rapidamente arbitrados e, portanto, padrões persistentes de anomalias de mercado que podem ser aproveitados tendem a ser poucos e esparsos.

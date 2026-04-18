@@ -1,0 +1,12 @@
+=== PAGE 13 ===
+21CGA - Certificação de Gestores Anbima
+ExemploContinuando o nosso exemplo, a RToro Education S/A assina um SWAP com as seguintes condições com o banco: Ø Taxa prefixada: 10% ao ano. Ø Taxa pós-fixada: 100%  do CDIDesta forma, a RToro Education S/A ficará no swap ATIVA em pós-fixada e PASSIVA em prefixada, já o banco estará ao contrário: ATIVO em prefixada e PASSIVO em pós-fixada. Agora que temos o contrato firmado, vamos simular exatamente alguns cenários e saber o que irá ocorrer no contrato de swap!
+Swap
+Taxa de Juros no vencimentoPonta Ativa do Swap Pós-fixadaPonta Passiva do Swap PrefixadaResultado do SWAP8,00%+ R$ 1.080.000- R$ 1.100.000- R$ 20.000RToro Education PAGA10,00%+ R$ 1.100.000- R$ 1.100.000R$ 0,00Não há fluxo12,00%+ R$ 1.120.000- R$ 1.100.000+ R$ 20.000RToro Education RECEBE
+22CGA - Certificação de Gestores Anbima
+Total 
+Return
+ 
+Equity
+ 
+SwapConceitoUm Total Return Equity Swap (TRES) é um acordo de swap em que uma parte faz pagamentos com base em uma taxa definida, fixa ou variável, enquanto a outra parte faz pagamentos com base no retorno de um ativo subjacente.É importante ressaltar que, por retorno do ativo subjacente, entende-se a receita gerada (dividendos, juros sobre capital próprio) e quaisquer ganhos de capital capital (apreciação do ativo). Portanto, não é somente uma eventual variação positiva do preço do ativo.A diferença de um Total Return Equity Swap para um swap convencional é que, no TRES, o ativo subjacente geralmente é um índice de ações, um título ou uma cesta de título.Com isso, o TRES permite que a parte que recebe o retorno total ganhe exposição e se beneficie de um ativo de referência sem realmente possuí-lo. Em outras palavras, o TRES oferece o benefício de uma grande exposição a um ativo com um desembolso mínimo de caixa.

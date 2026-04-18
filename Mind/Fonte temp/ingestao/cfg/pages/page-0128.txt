@@ -1,0 +1,15 @@
+=== PAGE 128 ===
+CFG – Certificação de fundamentos de Gestão246
+Banco CentralVenda de TPF
+IF =  Instituição Financeira
+IF
+IF
+Títulos Privados (CDI)Taxa CDI
+Taxa Selic OverTítulos Públicos Federais
+IF
+CDI X SELICConceitoO Tesouro Nacional, através da emissão de papéis (mercado primário) dá o parâmetro para a curva de juros da economia brasileira - curva Selic. No entanto, a taxa Selic Over é obtida mediante o cálculo da taxa média das operações de financiamento por um dia entre as instituições financeiras, lastreadas em títulos públicos federais. Quando o financiamento é lastreado em Títulos Privados, temos a taxa CDI.
+CFG – Certificação de fundamentos de Gestão247
+TR 
+–
+ 
+Taxa ReferencialConceitoA TR é um índice de referência dejurosda economia brasileira, principalmente utilizada para correções da Poupança, empréstimos de habitação como o SFH, títulos da dívida agrária (TDA) e do FGTS. Para chegarmos no valor da Taxa Referencial, o banco central aplica um redutor sobre a Taxa Básica Financeira. Para a formação da TBF, calculasse as taxas de juros negociadas no mercado secundário com Letras do Tesouro Nacional (LTN). Assim, a TBF de um mês será uma média ponderada entre as taxas médias das LTNs com vencimentos imediatamente anterior e imediatamente posterior ao prazo de um mês, seguida da aplicação, ao valor resultante, de um fator multiplicativo fixado em 0,93.

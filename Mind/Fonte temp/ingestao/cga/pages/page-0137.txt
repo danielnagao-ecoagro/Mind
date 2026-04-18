@@ -1,0 +1,8 @@
+=== PAGE 137 ===
+266CFG – Certificação de Fundamentos de Gestão
+ConceitoAtribuição de desempenho micro analisa carteiras individuais relativas ao benchmark designado. O retorno do valor adicionado, que pode ser entendido como sendo o retorno da carteira menos o retorno do benchmark, pode ser dividido em três componentes: Alocação de Setorial Pura (Pure Section Allocation), Seleção Dentro do Setor (Within-Sector Selection) e Interação Alocação/Seleção (Allocation/Selection Interaction).
+Atribuição Micro
+267CFG – Certificação de Fundamentos de Gestão
+ConceitoComeçando pela Alocação Setorial Pura, o retorno agregado pode ser obtido a partir dessa equação:
+Em que:WP, i = Peso no portfólio do setor iWB,i = Peso no benchmark do setor iRB,i = Retorno no benchmark do setor iRB = Retorno do benchmarkN = Número de setores
+Atribuição Micro

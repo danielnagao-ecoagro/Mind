@@ -1,0 +1,7 @@
+=== PAGE 155 ===
+CFG – Certificação de fundamentos de Gestão300
+Política MonetáriaRegra de Taylor - ExemploA taxa de juros de equilíbrio de um país é de 2% ao ano. Na reunião do Comitê de Política Monetária, os integrantes avaliam os seguintes dados econômicos:• Taxa de crescimento do PIB atual: 2%• Taxa de crescimento do PIB potencial: 4%.• Inflação projetada para os próximos 12 meses: 3% ao ano.• Meta de Inflação: 3% ao ano.De acordo com a Regra de Taylor, qual deveria ser a decisão do comitê de política monetária sobre a taxa de juros básica da economia?
+Taxa nominal = 2 + 3 + 0,5 x (3 – 3) + 0,5 x (2 - 4) Taxa nominal = 2 + 3 + 0 - 1 = 4%.Nesse cenário, o Banco Central deveria fixar a meta para a taxa de juros em 4% ao ano. 
+Taxa nominal = r* + ∏t + 0,5 x (∏t - ∏*) + 0,5 x (yt – y*)
+CFG – Certificação de fundamentos de Gestão301
+2.2.5 Câmbio e Comércio Internacional301

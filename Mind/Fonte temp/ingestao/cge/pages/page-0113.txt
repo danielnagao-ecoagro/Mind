@@ -1,0 +1,7 @@
+=== PAGE 113 ===
+208CGE – Certificação de Gestores Anbima para Fundos Estruturados
+208
+8.1 Anexo Normativo II
+Resolução CVM 175
+209CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Resolução CVM 175CotasAs cotas seniores devem ser emitidas em uma única subclasse.As cotas seniores e subordinadas mezanino de classe fechada podem ser emitidas em séries com índices referenciais diferentes e prazos diferenciados para amortização, permanecendo inalterados os demais direitos e obrigações.É vedada a existência de subordinação entre diferentes subclasses de cotas subordinadas, sem prejuízo da possibilidade de o Regulamento estabelecer outras diferenciações entre direitos econômicos e políticos para as referidas subclasses.O Regulamento deve estabelecer a forma como as obrigações das cotas subordinadas serão cumpridas pelas diferentes subclasses de cotas subordinadas, se houver.Na emissão de cotas de classe aberta deve ser utilizado o valor da cota em vigor no próprio dia ou no primeiro dia útil subsequente ao da efetiva disponibilidade dos recursos aplicados pelo investidor.

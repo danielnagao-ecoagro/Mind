@@ -1,0 +1,6 @@
+=== PAGE 193 ===
+377CGA – Certificação de Gestores Anbima
+377
+5.7 Métodos de Alocação de Ativos377
+378CGA – Certificação de Gestores Anbima
+Métodos de Alocação de AtivosConceitosDentro dos métodos de alocação de ativos, estudaremos os seguintes:Ø Fronteira Eficiente (Markowitz): Também chamada de Modelo da Média Variância, é o processo de ponderação do risco, expresso como variância, em relação ao retorno esperado;Ø Black Litterman: Incorporação das expectativas do investidor ao Modelo da Média Variância;Ø Simulação de Monte Carlo: A probabilidade de resultados para determinada variável (ex: retorno de um ativo) não pode ser determinada devido à interferência de variáveis aleatórias. O modelo foca na repetição constante de amostras aleatórias para atingir os resultados;ØAsset-Liability Management (ALM): Modelo que foca no gerenciamento de ativos e fluxos de caixa para reduzir o risco de perdas em caso de não pagamento de passivos. É bastante usado por instituições financeiras e por fundos de pensão.

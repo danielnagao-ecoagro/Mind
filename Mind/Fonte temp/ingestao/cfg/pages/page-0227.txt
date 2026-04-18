@@ -1,0 +1,14 @@
+=== PAGE 227 ===
+440CFG – Certificado em Fundamentos de Gestão
+Conceito
+Direito de SubscriçãoO DIREITO DE SUBSCRIÇÃO, também chamado de Bônus de Subscrição, são títulos negociáveis emitidos por sociedades por ações que conferem aos seus titulares, nas condições constantes do certificado, o direito de subscrever ações do capital social da companhia, dentro do limite de capital autorizado no estatuto. Tem como objetivo a proteção dos acionistas dos efeitos de diluição e valor de sua propriedade já existente. Por se tratar de um título negociável, que dá o direito de comprar novas ações e possui um prazo definido, o direito de Subscrição se assemelha a uma CALL (opção de compra). Para a prova, uma das diferenças entre esses Direitos e a Bonificação de Ações, é que no primeiro o acionista precisa desembolsar os recursos para comprar as ações, já no segundo é gratuito.
+FÓRMULA PARA PREÇO EX-SUBSCRIÇÃO (X):
+441CFG – Certificado em Fundamentos de Gestão
+Para você não se apegar a fórmula, vamos então entender o raciocínio passo-a-passo!
+100 açõesUma empresa possui ao total 100 ações, que estão sendo negociadas na bolsa por R$ 5,00. Desta forma, o seu valor de mercado é de R$ 500,00!Esta empresa deseja captar R$ 100,00 de recursos novos, então ela dá o direito de subscrição de 50 ações a  R$ 2,00 a seus acionista (para cada 2 ações que um acionista possui, ele pode adquirir 1 nova).50 AÇÕES NOVASAgora a empresa estará valendo os R$ 500,00 MAIS R$ 100,00 do dinheiro que entrou (R$ 600,00), porém possuindo 150 ações. Assim, o novo preço no mercado será  de R$ 600 ÷ 150 = R$ 4,00.150 AÇÕESRToro Education S/A
+RToro Education1
+2
+3
+100 açõesRToro Education
+Gráfico Demonstrativo
+Direito de Subscrição

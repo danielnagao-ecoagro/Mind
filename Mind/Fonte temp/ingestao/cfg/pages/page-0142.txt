@@ -1,0 +1,7 @@
+=== PAGE 142 ===
+CFG – Certificação de fundamentos de Gestão274
+Sistema de Pagamento Brasileiro (SPB)ResumoOs principais pontos de exames sobre o SPB são:Ø Podemos definir o SPB como “O conjunto de procedimentos, regras, instrumentos e operações integradas que, por meio eletrônico, dão suporte à movimentação financeira entre os diversos agentes econômicos do mercado brasileiro é o sistema”Ø É o BACEN que administra o SPB e o meio circulante (moeda na economia);Ø Principal função do SPB é diminuir o risco sistêmico.Ø O SPB dá mais segurança e agilidade nas transferências entre agentes financeiros;Ø Toda transação econômica que envolva como forma de pagamento a TED, DOC, Cartão de Crédito, Cheque, Pix, Drex, entre outras, envolve o SPB.Ø OSistema de Transferência de Reservas (STR)realiza a transferência de recursos entre instituições financeiras, sendo o sistema central do SPB, responsável pela transferência de fundos com liquidação bruta em tempo real (LBTR).
+CFG – Certificação de fundamentos de Gestão275
+2.2.3 Política Fiscal
+275
+275

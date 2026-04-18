@@ -1,0 +1,13 @@
+=== PAGE 198 ===
+CFG - Certificado de Fundamentos de Gestão384
+TIRM 
+–
+ 
+Taxa Interna de Retorno Modificada ConceitoA Taxa Interna de Retorno Modificada (TIRM) é um método de análise de projetos de investimentos que consiste em trazer os fluxos de caixa negativos para valor presente e levar os fluxos de caixa positivos para valor futuro, gerando desta forma um novo fluxo de caixa convencional e eliminando assim, alguns dos problemas da TIR quando estimada na sua maneira tradicional.q Limitações do indicador: A Taxa Interna de Retorno Modificada (TIRM) traz como principal desvantagem não poder ser aplicada nas seguintes situações:Ø Taxa de reinvestimento igual à taxa de captação: o cálculo apropriado é o da Taxa Interna de Retorno (TIR).Ø Desconhecimento da taxa de captação de recursos e/ou de reinvestimento: o que torna a tarefa de projetar os fluxos de caixa mais sujeita ao insucesso.
+CFG - Certificado de Fundamentos de Gestão385
+-R$ 50.000
+R$ 20.0000 Ano 1R$ 20.000Ano 2R$ 20.000Ano 3R$ 20.000Ano 4Fluxo 1 renderá 10% por mais 3 anos (até o ano 4)Fluxo 2 renderá 10% por mais 2 anos (até o ano 4)Fluxo 3 renderá 10% por mais 2 anos (até o ano 4)Encerramento do projeto
+TIRM 
+–
+ 
+Taxa Interna de Retorno Modificada ExemploUm investidor aplica R$ 50.000 em um projeto que prevê fluxos de caixa anuais positivos de R$ 20.000 pelos próximos 4 anos, sem valor residual. Se o investidor consegue reinvestir esses fluxos à taxa de 10% ao ano, qual a taxa de retorno do projeto?

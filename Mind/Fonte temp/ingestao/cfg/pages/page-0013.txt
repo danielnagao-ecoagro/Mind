@@ -1,0 +1,6 @@
+=== PAGE 13 ===
+CFG – Certificação em Fundamentos de Finanças17
+1.2 Entendendo o valor do Dinheiro 
+no Tempo17
+CFG – Certificação em Fundamentos de Finanças18
+Matemática FinanceiraConceitoAMATEMÁTICA FINANCEIRAé uma área da matemática para calcular o valor do dinheiro no tempo, ou seja, quanto um valor de hoje deverá valer no futuro ou quanto um valor no futuro deveria valer hoje. A partir de diferentes fórmulas, é possível mensurar este valor e ter uma melhor compreensão sobre finanças e com isso, utilizar melhor o dinheiro, como por exemplo, realizar investimentos, decidir se é melhor comprar um veículo a vista ou tomar uma empréstimo, quanto necessito acumular todos os meses para atingir meu objetivo ou até mesmo, qual deveria ser o valor de uma empresa hoje baseado nos seu lucros futuros.A fórmula básica desta compreensão da matemática é que o montante (valor futuro) será o principal (valor de hoje) mais os juros gerados deste principal, ou seja, a sua fórmula é:Valor Futuro (Montante) = Valor Presente (Principal) + JUROS

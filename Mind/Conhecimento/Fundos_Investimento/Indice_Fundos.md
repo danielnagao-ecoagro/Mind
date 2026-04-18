@@ -1,15 +1,23 @@
-# Fundos de Investimento
+﻿# Fundos de Investimento
 
-Conceitos teóricos e regulatórios sobre fundos.
+Conceitos, estruturas, estratégias e regulação aplicáveis aos principais veículos de investimento.
 
 ## Categorias
-- [[FIDC/FIDC_Conceitos|FIDC - Conceitos]]
-    - [[FIDC/Subordinacao_e_Reforco_Credito|Subordinação e Reforço de Crédito]]
-- [[FIAGRO/FIAGRO_Conceitos|FIAGRO - Conceitos]]
-- [[FII/FII_Conceitos|FII - Conceitos]]
+- [[FIDC/Indice_FIDC|FIDC]]
+- [[FIAGRO/Indice_FIAGRO|FIAGRO]]
+- [[FII/Indice_FII|FII]]
+- [[FIP/Indice_FIP|FIP]]
+- [[ETF/Indice_ETF|ETF]]
 - [[Tributacao_Fundos|Tributação de Fundos]]
-- [[CVM_175|ResoluÃ§Ã£o CVM 175]]
-- [[CRA_Certificado_Recebiveis_Agro|CRA - Certificado de RecebÃ­veis do Agro]]
+- [[Tributacao_de_Renda_Fixa|Tributação de Renda Fixa]]
+- [[Tributacao_de_Renda_Variavel|Tributação de Renda Variável]]
+- [[CVM_175|Resolução CVM 175]]
+- [[CRA_Certificado_Recebiveis_Agro|CRA - Certificado de Recebíveis do Agro]]
+- [[Analise_Financeira_e_Corporativa/Indice_Analise_Corporativa|Análise Financeira e Corporativa]]
+- [[Gestao_de_Carteiras/Indice_Carteiras|Gestão de Carteiras]]
+- [[Tecnologia_e_Inovacao_Financeira/Indice_Tecnologia|Tecnologia e Inovação Financeira]]
 
 ---
 [[Mind/Conhecimento/indice|Voltar ao Índice Principal]]
+
+#fundos #regulacao #tributacao #investimentos

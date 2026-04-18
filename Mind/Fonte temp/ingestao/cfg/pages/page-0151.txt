@@ -1,0 +1,14 @@
+=== PAGE 151 ===
+CFG – Certificação de fundamentos de Gestão292
+O IPCA é o índice de inflação oficial do Brasil, sendo calculado pelo IBGE. Ele tem como objetivo medir a inflação de um conjunto de produtos e serviços comercializados no varejo, referentes ao consumo pessoal das famílias, ou seja, é influenciado pela variação dos preços no VAREJO. Atualmente, a população-objetivo do IPCA abrange as famílias com rendimentos de 1 a 40 salários mínimos, qualquer que seja a fonte, residentes nas áreas urbanas das regiões de abrangência do SNIPC (Sistema Nacional de Índices de Preços ao Consumidor), as quais são: regiões metropolitanas de Belém, Fortaleza, Recife, Salvador, Belo Horizonte, Vitória, Rio de Janeiro, São Paulo, Curitiba, Porto Alegre, além do Distrito Federal e dos municípios de Goiânia, Campo Grande, Rio Branco, São Luís e Aracaju. A utilização do IPCA ocorre em diversas frentes, como por exemplo:Ø É o indicador que o CMN utiliza como meta da inflação;Ø Nos títulos públicos do governo federal (NTN-B e NTN-B Principal);Ø Correção dos balanços e das demonstrações financeiras de companhias abertas;Ø Fornecer um panorama sobre como está opoder de compra da população.
+IPCA 
+–
+ 
+Índice de Preços ao Consumidor AmploDefinição
+CFG – Certificação de fundamentos de Gestão293
+A PONDERAÇÃO DAS DESPESAS DAS PESSOAS PARA SE VERIFICAR A VARIAÇÃO DOS CUSTOS FOI DEFINIDA PELO SEGUINTE MODO:Tipo de GastoPeso % do Gasto• Índice Oficial de Inflação do Brasil;• Calculado pelo IBGE;• Divulgado mensalmente;• Utilizado como referência para META de inflação definida pelo CMN para o COPOM;• População-objetivo do IPCA abrange as famílias com rendimentos mensais compreendidos entre 1 (hum) e 40 (quarenta) salários-mínimos, qualquer que seja a fonte de rendimentos, e residentes nas áreas urbanas das regiões metropolitanas de Belém, Fortaleza, Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo, Curitiba, Porto Alegre, Brasília e município de Goiânia.
+Alimentação25,21Transporte e Comunicação18,77Despesas Pessoais15,68Vestuário12,49Habitação10,91Saúde e cuidados pessoais8,85Artigos de residência8,09Total100,00
+IPCA 
+–
+ 
+Índice de Preços ao Consumidor AmploConceito

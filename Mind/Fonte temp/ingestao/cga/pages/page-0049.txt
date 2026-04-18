@@ -1,0 +1,9 @@
+=== PAGE 49 ===
+92CFG – Certificação de Fundamentos de Gestão
+Precificação de AtivosYTM: Exemplo de Cálculo 1 Uma debênture com vencimento em 10 anos, está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento anual, calcule qual é seu YTM.   q SOLUÇÃO: Primeiramente, devemos saber que as debêntures são títulos que são emitidas por R$ 1.000,00. Assim, o cupom será a multiplicação da taxa de cupom por                 R$ 1.000,00 e o valor recebido na última prestação, será o cupom mais os R$ 1.000,00. Desta forma:Ø	YTM na HP 12C: o PV = - R$ 1.040,00 [CHS];o FV = R$ 1.000,00; o PMT = R$ 120,00 → 1.000 × 12%o n = 10 anos;o i (YTM) = ? = 11,31% ao ano
+93CFG – Certificação de Fundamentos de Gestão
+Precificação de Ativos
+(1) CUPOM SEMESTRAL:Ø12 [i]Ø360 [n]Ø180ØR/SR = 5,830% ao semestreØCUPOM: 5,83% × R$ 1.000R = R$ 58,30 ao semestre 
+(2) YTM SEMESTRAL:ØPV = - R$ 1.040,00 [CHS]ØFV = R$ 1.000,00 ØPMT = 58,30Øn = 20 semestresØi (YTM) = ? = 5,4954 a.s
+(3) YTM AO ANO:Ø5,4954 [i]Ø180 [n]Ø360ØR/SRESPOSTO FINAL 11,29% ao ano
+YTM: Exemplo de Cálculo 2 Uma debênture com vencimento em 10 anos, está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento SEMESTRAL, calcule qual é seu YTM.   q SOLUÇÃO: Desta vez, o cupom é pago semestralmente. Assim, devemos encontrar esta taxa semestral, para multiplicarmos por R$ 1.000,00 e achar o PMT. Não podemos esquecer também que o YTM é sempre dito em ano! Desta forma, faremos em 3 etapas:

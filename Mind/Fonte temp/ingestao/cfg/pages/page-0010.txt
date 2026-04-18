@@ -1,0 +1,11 @@
+=== PAGE 10 ===
+CFG – Certificação em Fundamentos de Finanças11
+HP
+-
+12C ConceitoA HP-12C trabalha em um sistema chamado RPN (Reverse Polish Notation) e não no usual Algébrico. O que isso quer dizer? É que ao invés de você digitar o número, a operação e o número (2 MAIS 3, que será 5), será necessário informar o número, o número e a operação (2 3 MAIS, aparecerá 5). Isso ocorre pois a metodologia do RPN é por pilhas, ou seja, ele é resolvido de trás para frente (no caso a cima, iremos SOMAR o TRÊS ao número DOIS). Se utilizássemos o operador DIVISÃO, estaríamos dizendo “divida o número 2 por 3”.
+23
+CFG – Certificação em Fundamentos de Finanças12
+Operações Básicasq EXEMPLO 1: Quanto é R$ 2,00 mais R$ 3,00? E se perder R$ 1,00?Ø 2 [ENTER]Ø 3 [+]Ø Resposta: R$ 5,00Ø 1 [ꟷ]Ø Resposta: R$ 4,00q EXEMPLO 2: Rafael comprou 7 ingressos por R$ 8,00 cada. Quando ele gastou?Ø 7 [ENTER]Ø 8 [×]Ø Resposta: R$ 56,00q EXEMPLO 3: Rafael gastou R$ 56,00 em 7 ingressos. Quanto custou cada ingresso?Ø 56 [ENTER]Ø 7 [÷]Ø Resposta: R$ 8,00
+HP
+-
+12C

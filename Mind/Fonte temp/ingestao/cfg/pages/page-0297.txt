@@ -1,0 +1,12 @@
+=== PAGE 297 ===
+580CFG – Certificado em Fundamentos de Gestão
+Precificação de Ativos
+(1) CUPOM SEMESTRAL:Ø12 [i]Ø360 [n]Ø180ØR/SR = 5,830% ao semestreØCUPOM: 5,83% × R$ 1.000R = R$ 58,30 ao semestre 
+(2) YTM SEMESTRAL:ØPV = - R$ 1.040,00 [CHS]ØFV = R$ 1.000,00 ØPMT = 58,30Øn = 20 semestresØi (YTM) = ? = 5,4954 a.s
+(3) YTM AO ANO:Ø5,4954 [i]Ø180 [n]Ø360ØR/SRESPOSTA FINAL 11,29% ao ano
+YTM: Exemplo de Cálculo 2 Uma debênture com vencimento em 10 anos está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento SEMESTRAL, calcule qual é seu YTM.q SOLUÇÃO: Desta vez, o cupom é pago semestralmente. Assim, devemos encontrar esta taxa semestral para multiplicarmos por R$ 1.000,00 e achar o PMT. Não podemos esquecer também que o YTM é sempre dito em ano! Desta forma, faremos em 3 etapas:
+581CFG – Certificado em Fundamentos de Gestão
+Uma debênture com vencimento em 10 anos está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento anual, calcule qual é seu Current Yield?q SOLUÇÃO: Como o Current Yield é somente a relação entre “os juros recebidos anualmente” pelo preço pago pelo título, devemos primeiramente saber qual o cupom que o investidor irá receber. Sendo assim, o cupom será a multiplicação da taxa do cupom por R$ 1.000,00 e não pelo valor pago no mercado. Lembre-se de que o cupom é pago pelo que a empresa pegou emprestado (para as debêntures, o valor sempre é R$ 1.000,00) e não por quanto estão negociando seus títulos no mercado secundário.
+Precificação de AtivosCY: Exemplo de Cálculo 1 
+(1) FÓRMULA (Cupom ÷ Valor de Mercado)Ø 120 [ENTER]Ø 1040 [÷]Visor: 0,115385Ø 100 [×]R = 11,54%Na fórmula, precisamos multiplicar por 100
+(2) ATRAVÉS DE [%T]:Ø 1040 [ENTER]Ø 120  [%T]R: 11,54%a.a.Deste jeito, a resposta já vem em porcentagem e perceba que o cupom vem sempre por último.

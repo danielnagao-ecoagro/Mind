@@ -1,0 +1,13 @@
+=== PAGE 192 ===
+375CGA – Certificação de Gestores Anbima
+Alocação de Ativos (
+Asset
+ 
+Allocation
+)Estratégica x TáticaQuando se trata de Classe de Ativos, o ASSET ALLOCATION pode ser dividido entre: Ø ALOCAÇÃO ESTRATÉGICA (Fixa): Conceitualmente, os objetivos de rentabilidade, tolerância ao risco e restrições do investidor são integradas aos cenários econômicos de longo prazo, para que seja definido quais serão as classes de ativos aceitas no IPS (Política de Investimentos). Desta forma, entende-se que os retornos futuros serão semelhantes ao retornos passados e a volatilidade tende a ser baixa. Desta forma, se um investidor necessita de 15% ao ano de retorno para seus objetivos, e sabendo que o retorno da Renda Fixa foi de 10% ao ano e o do Ibovespa foi de 20% ao ano, a alocação do estratégica diria que deveríamos investir 50% em cada classe.Ø ALOCAÇÃO TÁTICA (Flexível): Aqui já falamos de uma questão de “momentum”, de “timming”, ou seja, é uma alocação que utiliza os princípios da ESTRATÉGICA, mas que permite ajustes de curto prazo aos pesos das classes de ativos baseados nas expectativas de curto prazo relativas às performances destas classes de ativos. Desta forma, se o gestor acredita que o cenário para os próximos meses não seja favorável para o Ibovespa (Carteira de Ações), ele pode diminuir a exposição a ações e aumentando em renda fixa, ficando por exemplo, em 80% em renda fixa e 20% em ações, ao invés de 50% de renda fixa e 50% de Ibovespa.
+376CGA – Certificação de Gestores Anbima
+Alocação de Ativos (
+Asset
+ 
+Allocation
+)Dinâmica x EstáticaTambém podemos dividir o ASSET ALLOCATION em: Ø ALOCAÇÃO DINÂMICA (ATIVA): Este tipo de Alocação tem por objetivo ajustar dinamicamente (ativamente) a seleção de ativos da carteira cliente, baseado na expectativa de alta ou baixa de determinados setores da economia, vendendo e comprando ativos. Por exemplo, se o gestor acredita que algum setor se desvalorizou rapidamente na bolsa de valores, ele pode comprar essas ações para quando se recuperar, já vender com lucro suas posições.Ø ALOCAÇÃO ESTÁTICA (PASSIVA): A Alocação Estática se caracteriza pela manutenção das posições ao longo do tempo, mesmo que possa haver um desequilíbrio em percentuais da carteira. Poderíamos resumir como um “não fazer nada”, que também é uma tomada de decisão.Ø ALOCAÇÃO SEMIATIVA: Como o próprio nome diz, combina aspectos da alocação ativa com características da alocação passiva. Por exemplo, é possível montar uma carteira baseada em um índice (gestão passiva), mas alterar o peso de determinados setores ou ativos com base nas expectativas do gestor (gestão ativa).

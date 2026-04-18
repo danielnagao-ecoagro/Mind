@@ -1,0 +1,125 @@
+=== PAGE 1 ===
+Apostila
+CGA
+MATERIAL ATUALIZADO
+Pra ficar por dentro de todas as
+novidades, siga a gente no Instagram:
+Clique aqui para
+acessar os outros materiais
+@academiarafaeltoro
+ou Escaneie o QR Code
+
+=== PAGE 2 ===
+Também conhecida como 
+ART , a Academia Rafael 
+Toro foi fundada em 2017, 
+tendo o  professor Rafael 
+Toro como idealizador e 
+fundador. 
+Movido pela vontade de 
+transformar a maneira 
+com que as pessoas 
+aprendiam, o Toro, como 
+é chamado pelos alunos, 
+queria oferecer algo 
+diferente e desenvolveu 
+uma metodologia 
+de aprendizado que 
+revolucionou o mercado 
+de Certificações 
+Financeiras no Brasil. 
+Siga as nossas Redes Sociais 
+www.academiarafaeltoro.com.br
+
+=== PAGE 3 ===
+Sumário Apostila CGA 
+Capítulo 1 – Gestão de Carteiras Renda Variável ....................................................................... 04 
+1.1 Estratégias Passivas ........................................................................................................ 06 
+1.2 Estratégias Ativas e Agnósticas ....................................................................................... 32 
+1.3 Gestão de Fundos de Fundos de Renda Variável ............................................................ 57 
+1.4 Estruturas de Áreas de Análises na Gestão de Renda Variável....................................... 62 
+Capítulo 2: Gestão de Carteiras de Renda Fixa  .......................................................................... 81 
+2.1 Precificação dos Títulos de Renda Fixa ........................................................................... 83 
+2.2 Riscos em Aplicações de Renda Fixa ............................................................................... 97 
+2.3 Gestão de Cart. de Renda Fixa em Relação a um Índice de Mercado (Benchmark).....130 
+2.4 Gestão de Carteiras de Renda Fixa em Relação a Passivos...........................................135 
+2.5 Outras Estratégias de Gestão de Carteiras de Renda Fixa............................................153 
+Capítulo 3: Investimentos no Exterior ...................................................................................... 184 
+3.1 Títulos de Renda Fixa ................................................................................................... 186 
+3.2 Mercado de Ações Internacional ................................................................................. 214 
+3.3 Hedge Funds ................................................................................................................ 221 
+Capítulo 4: Avaliação de Desempenho ..................................................................................... 229 
+4.1 Medição de Desempenho (Performance Measurement) ............................................. 232 
+4.2 Atribuição de Desempenho (Performance Attribution) ............................................... 248 
+4.3 Avaliação de Desempenho (Performance Appraisal) ................................................... 274 
+Capítulo 5: Gestão de Riscos ................................................................................................... 290 
+5.1 Fundamentos da Gestão de Risco ................................................................................. 292 
+5.2 Medidas de Riscos de Mercado .................................................................................... 314 
+5.3 Riscos Associados a Títulos de Renda Fixa .................................................................... 343 
+5.4 Gestão e Medidas de Riscos de Crédito ........................................................................ 352 
+5.5 Riscos de Derivativos e Risco Operacional ................................................................... 363 
+5.6 Alocação de Ativos ....................................................................................................... 372 
+5.7 Métodos de Alocação de Ativos ................................................................................... 377 
+5.8 Rebalanceamento de Carteiras....................................................................................383 
+Capítulo 6: Legislação, Regulação e Tributação ........................................................................ 394 
+6.1 Resolução CVM 175 Anexo I – Fundos de Investimento Financeiro ........................... 397 
+6.2 Código ANBIMA: Administração e Gestão de Recursos de Terceiros ......................... 466 
+6.3 Tributação de Fundos de Investimentos..................................................................... 492
+
+=== PAGE 4 ===
+4
+Capítulo 1: 
+Gestão de Carteiras de Renda 
+Variável
+
+=== PAGE 6 ===
+7CGA - Certificação de Gestores Anbima
+Estratégias PassivasConceitoEstratégias passivas são aquelas que buscam acompanhar um índice de referência (benchmark). Quando falamos em estratégias passivas de Renda Variável, podemos implementá-las da seguinte forma: Ø Fundos de Investimentos de Ações Indexados;Ø Futuros de Ações;Ø Total Return Equity Swap; eØ ETFs (Exchange Traded Funds).Vamos detalhar melhor cada uma dessas formas de implementação de gestão passiva de Renda Variável.
+8CGA - Certificação de Gestores Anbima
+Fundo de Ações 
+-
+ 
+PassivoCaracterísticasFundos Passivos: procuram acompanhar o benchmark (índice de referência). Estes fundos possuem dificuldades de replicação dos seus benchmarks por questões custos, impostos, dinâmica de cálculo da rentabilidade do fundo, regras de contabilização a mercado e necessidade de liquidez para resgates. Para minimizar estes impactos, eles utilizam como estratégias derivativos para proteção de carteiras (em inglês, hedge).Veremos mais adiante formas mais detalhadas de replicação da carteira visando a uma gestão passiva.
+
+=== PAGE 7 ===
+9CGA - Certificação de Gestores Anbima
+Fundo de AçõesCaracterísticasSão fundos de investimento que investem no mínimo 67% do seu patrimônio líquido em ativos que tenham como principal fator de risco a variação de preços de ações admitidas à negociação em mercado organizado, como por exemplo: AÇÕES negociadas em bolsa ou balcão organizado; Bônus ou recibos de subscrição e certificados de depósito de ações admitidas à negociação em bolsa ou balcão organizado; Cotas de fundos de ações e cotas dos fundos de índice de ações negociação em bolsa ou balcão organizado; ou BDRs classificados como nível II e III. Desta forma, este é um fundo que no máximo poderá investir 33% em outras modalidades, como por exemplo, em renda fixa.q PRINCIPAIS REGRAS: Ø Composição mínima de 67% do patrimônio líquido em ações.Ø Proibida a utilização de cota de abertura (ou seja, sempre cota de fechamento).Ø Permitida a cobrança de taxa performance.Ø DERIVATIVOS: Não há restrição.Ø Principais fatores de risco: risco de mercado e liquidez.
+10CGA - Certificação de Gestores Anbima
+Contrato FuturoConceitoO CONTRATO FUTURO é caracterizado por ser um contrato PADRONIZADO (característica do ativo, tamanho do contrato, vencimento pré-definido), no qual ambas as partes possuem obrigações, tendo o vendedor a obrigação de entregar o ativo, e o comprador a obrigação de pagar na data futura. Este é o único contrato que possui AJUSTE DIÁRIO, pois ele NÃO TEM RISCO DE CONTRAPARTE, já que todo vendedor vende para a clearing B3 e todo comprador compra da clearing B3.Estes contratos se encerram por Liquidação Financeira (pagamento ou recebimento da diferença de preços do ativo, sem necessidade de entrega física), que é a forma mais comum, ou pela Liquidação Física (entrega do ativo negociado).Os contratos futuros mais relevantes são:Ø Ibovespa Futuro (foco do nosso exame);Ø DI Futuro (foco do nosso exame);Ø Futuro de Dólar;Ø Cupom Cambial;Ø FRA de Cupom (FRC).
+
+=== PAGE 8 ===
+11CGA - Certificação de Gestores Anbima
+O Preço Futuro (F)  de qualquer é o seu preço à vista (S – spot) acrescido da taxa de juros livre de risco. Assumindo que a taxa de juros livre de risco (i) é constante e igual para todos os vencimentos (t), temos:
+Um conceito importante é o de BASE, que é a diferença entre o preço futuro de uma mercadoria para um vencimento qualquer e o seu preço a vista.Preços
+(t)Preço FuturoPreço à vistaBaseData de vencimento do contrato futuro
+Contrato Futuro
+!=#	×&+(!
+Formação de Preço
+12CGA - Certificação de Gestores Anbima
+Contrato FuturoIbovespa FuturoO ÍNDICE FUTURO DE IBOVESPA é o principal contrato futuro cobrado em provas. Este contrato consiste em negociar a cesta de ações composta do índice Bovespa, em uma data futura, sem a necessidade realizar a compra de cada ação que compõe este índice. Como característica, este contrato é negociado através dos pontos do Ibovespa mais uma taxa de juros. Cada ponto do contrato vale R$ 1,00, portanto, se o índice futuro está 60.000 pontos, ele está valendo R$ 60 mil.q PRINCIPAIS VANTAGENS:Ø Mecanismo de proteção (hedge) contra oscilações ou para alavancagem no mercado financeiro, quando se trata de renda variável;Ø Por ser um contrato futuro, não necessita de desembolso financeiro para replicar o comportamento do principal índice brasileiro, o Ibovespa. Somente da margem de garantia e dos possíveis ajustes diários;Ø Baixo custo de transação, por se tratar de um derivativo; Ø Possibilidade de arbitragem entre as ações no mercado à vista, quando os devidos preços não condizerem com o seu valor mais taxa de juros brasil (SELIC).
+
+=== PAGE 9 ===
+13CGA - Certificação de Gestores Anbima
+Resultado
+Preço do Ativo(PV)PrejuízoLucro60.000
+RESULTADO DA COMPRA DO CONTRATO FUTUROPVCustoLucros e Perdas por contrato (R$)Total (10 contratos)58.00060.000- 2.000-20.00059.00060.000-1.000-10.00059.50060.000-500-5.00060.00060.0000060.50060.000+ 500+ 5.00061.00060.000+ 1.000+ 10.00062.00060.000+ 2.000+ 20.000
+Resultado Financeiro
+Exemplo: Compra de Contrato FuturoRafael COMPROU 10 contratos futuros de Ibovespa a 60.000. Se o índice subir 2.000 pontos, ele estará ganhando 2.000 pontos (que equivalem R$ 2 mil) por contrato. Assim, ele lucrará R$ 20 mil reais ao total. Já caso o índice cair e vier para 58.000 pontos, ele perderá R$ 20 mil reais, conforme demonstração na tabela.
+Contrato Futuro
+14CGA - Certificação de Gestores Anbima
+Resultado
+PrejuízoLucro
+RESULTADO DA VENDADO CONTRATO FUTUROPVCustoLucros e Perdas por contrato (R$)Total (10 contratos)58.00060.000+2.000+20.00059.00060.000+1.000+10.00059.50060.000+500+5.00060.00060.0000060.50060.000-500-5.00061.00060.000-1.000-10.00062.00060.000-2.000-20.000
+Preço do Ativo(PV)60.000
+Resultado Financeiro
+Exemplo: Venda de Contrato FuturoRafael VENDEU 10 contratos futuros de Ibovespa a 60.000. Se o índice cair 2.000 pontos, ele estará ganhando 2.000 pontos (que equivalem R$ 2 mil) por contrato. Assim, ele lucrará R$ 20 mil reais ao total. Já caso o índice subir e for para 62.000 pontos, ele perderá R$ 20 mil reais, conforme demonstração na tabela.
+Contrato Futuro
+
+=== PAGE 12 ===
+19CGA - Certificação de Gestores Anbima
+SwapCaracterísticasAs principais características do Swap são:Ø São operações ocorrem no mercado de balcão.Ø Os contratos podem ser registrado na B3 (podendo ser com ou sem garantias), da mesma forma como os contratos a termos de moeda (assim, contratos a termos e swaps possuem características semelhantes).Ø Podem ser realizados diversos tipos de contratos de swap:o Swap de Juros (CDI, pré-fixada, Selic e TJLP);o Swap de Moeda (Dólar, euro e iene);o Swap de Crédito (CDS – Credit Default Swap: “seguro contra calote”);o Swap de Índice de Preços (IPCA e IGP-M).q TÓPICO DE PROVA: ØPara se proteger o EXPORTADOR FICA PASSIVO EM DÓLAR (e ativo em taxa de juros) e o IMPORTADOR FICA ATIVO EM DÓLAR (e passivo em taxa de juros).ØEm swap de juros, quem está ativo em prefixado (passivo em pós-fixado) acredita na queda da taxa de juros; já quem está ativo em pós-fixado (passivo em prefixado), acredita na alta da taxa de juros.
+20CGA - Certificação de Gestores Anbima
+ExemploA empresa RToro Education S/A possui uma dívida de R$ 1.000.000,00 pós-fixada, com vencimento em um ano (ou seja, ela não sabe o quanto irá pagar ao total por essa dívida), mas ela já possui vendas realizadas, recebendo os devidos valores em um ano (vendas através de cartão de crédito). Desta forma, podemos afirmar que a empresa possui um PASSIVO em pós-fixada e um ATIVO em prefixado (já que quando se faz uma venda financiada com preço fixo, é embutido uma taxa de juros prefixada).Assim, a empresa pode levar a situação ao banco e fazer um contrato de SWAP , no qual se houver um aumento da taxa de juros, o banco paga a diferença e caso a taxa de juros caia, a empresa paga ao banco. Com isso, o contrato feito seria feito desta forma:
+Swap
+PASSIVO EM PRÉ(Paga Taxa Prefixada)PASSIVO EM CDI(Paga Taxa CDI)RToro Education S/ABANCOATIVO EM CDI(Recebe Taxa CDI)
+ATIVO EM PRÉ(Recebe Taxa Prefixada)CONTRATO DE SWAP(TROCA DE FLUXOS)

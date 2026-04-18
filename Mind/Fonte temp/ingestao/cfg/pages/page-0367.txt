@@ -1,0 +1,8 @@
+=== PAGE 367 ===
+720CFG – Certificado em Fundamentos de Gestão
+Vantagens:•Permite a proteção dos riscos de mudanças adversas de preços em um ativo;•Pode proteger os lucros de uma opção ou posição de ações no curto prazo sem desfazer a posição de longo prazo.Desvantagens:•Um alto número de transações pode ser necessário para ajustar constantemente o delta hedge, elevando o seu custo;•Pode ocorrer over-hedging, se o delta for compensado demais ou se os mercados mudarem inesperadamente depois que o hedge estiver em vigor.
+Vantagens e riscos
+Delta Hedge
+721CFG – Certificado em Fundamentos de Gestão
+ExemploUm investidor possui 10.000 contratos de opção de compra da ação X, que por sua vez é negociada a R$ 5,00 no mercado à vista. Cada contrato de opção de compra equivale a 100 opções e a opção tem um delta de 0,80.Isso significa que a exposição do investidor será de 10.000 contratos x 100 ações/contrato = 1.000.000 ações. Se a ação X subir 1%, isso significa que o preço da opção subirá 0,8 x 1% = 0,80%. Logo, o financeiro da carteira do investidor subirá 0,80%.Sendo R$ 5,00 o valor de cada ação, a variação do financeiro da carteira será de R$ 5,00/ação x 1.000.000 ações x 0,80 (delta) x 1,01 (variação de 1% no preço da ação) = R$ 40.000,00.
+Delta Hedge

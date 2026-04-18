@@ -1,0 +1,13 @@
+=== PAGE 141 ===
+274CFG – Certificação de Fundamentos de Gestão
+4.3 Avaliação de Desempenho 
+(
+Performance 
+Appraisal
+)274
+275CFG – Certificação de Fundamentos de Gestão
+Avaliação de Desempenho ajustada ao risco
+Retorno RealRetorno Exigido (CAPM)
+Alfa de Jensen
+!"#$%(")='(")−)*'+	β(")×'($)−)*'
+O Alfa de Jensen é um indicador para determinar o rendimento real da carteira comparado ao retorno exigido do investidor em relação ao risco sistêmico. Ou seja, o quanto a mais o investidor teve de retorno extra ao cálculo do CAPM. Desta forma, o Alfa de Jensen é uma medida direta de performance, já que:Ø Se positivo, o gestor está performando acima do retorno exigido;Ø Se negativo, o gestor está tendo um desempenho pior que o risco incorrido.q FÓRMULA:

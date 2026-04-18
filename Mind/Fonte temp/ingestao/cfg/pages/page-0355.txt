@@ -1,0 +1,11 @@
+=== PAGE 355 ===
+696CFG – Certificado em Fundamentos de Gestão
+Call
+ 
+SpreadDefiniçãoA Call Spread, muito conhecida por Trava de Alta, é uma operação recomendada para investidores que não querem desembolsar todo o valor para adquirir determinado ativo e também não desejam se expor ao risco de queda desde ativo.Geralmente é usado quando há expectativa de valorização do ativo-objeto e o investidor gostaria de participar da alta do ativo, mas sem comprá-lo diretamente.Assim, o investidor tem ganhos e perdas limitadas.Para montar essa estrutura, é necessário:ØComprar opção de compra (Call) de strike menor;ØVender opção de compra (Call) de strike maior, diminuindo assim o custo da operação.
+697CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasCall Spread (Trava de alta)Este é o gráfico do resultado financeiro de um investidor que COMPRA uma CALL (Strike: R$ 12, preço R$ 1) e VENDE uma CALL (Strike R$ 14, preço R$ 0,50).  
+10    12   13   14   15   16
+Lucro543210-1-2-3-4Prejuízo
+Lucro Máximo
+Resultado  da operação Call SpreadCOMPRACALLVENDACALLLucros/ Perdas10-10,5-0,512-10,5-0,5130 0,50,5141 0,51,5152-0,51,5163-1,51,5

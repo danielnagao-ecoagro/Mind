@@ -1,0 +1,9 @@
+=== PAGE 70 ===
+CFG – Certificação em Fundamentos de Finanças131
+Teste de HipótesesResumoCauda inferiorCauda superiorBicaudalHipótesesEstatística do testeRegra de rejeição pelo critério do valor-pRegra de rejeição pelo critério do valor crítico
+H0: µ ≥	µ0;      Ha: µ <	µ0 H0: µ ≤	µ0;      Ha: µ >	µ0. H0: µ =	µ0;      Ha: µ ≠	µ.x - µ0 sXz = x - µ0 sXz = x - µ0 sXz =
+Desvio-padrão da população é conhecido!
+Rejeitar H0 se o valor-p ≤a Rejeitar H0 se o valor-p ≤aRejeitar H0 se o valor-p ≤aRejeitar H0 se z ≤−	Za. Rejeitar H0 se z ≥	Za. Rejeitar H0 se z ≤−	Za/2 ou se z ≥	Za/2.
+CFG – Certificação em Fundamentos de Finanças132
+1.8 Regressão
+132

@@ -1,0 +1,29 @@
+=== PAGE 125 ===
+242CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money 
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoTerceiro cenário: investidor faz uma solicitação de resgate de R$ 200.000.Perí-odoInícioRentabili-dade (%) Rentabilidade ($$)Movimenta-çãoFinal1R$ 1.000.00010%R$ 100.000-R$ 200.000R$ 900.0002R$ 900.000-5%- R$ 45.0000R$ 855.000FLUXOTECLAMOTIVORESULTADO1.000.000CHSCF0: [g][PV]Fluxo de Caixa ZERO, ou seja, Valor Presente200.000CFj: [g][PMT]Recebimento do Ano 1855.000CFj: [g][PMT]Recebimento do Ano 2TIRIRR: [f][FV]Retorno do Investimento3,01% a.a
+243CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money 
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoResumindo os resultados dos três cenários:CenárioTIR (ao ano)TIR (ao período)TWRR12,23%4,50%4,5%21,58%3,18%33,016,10%CenárioMovimentação1Sem movimentações.2Aporte de R$ 200.000.3Resgate de R$ 200.000.

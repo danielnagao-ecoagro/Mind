@@ -1,0 +1,8 @@
+=== PAGE 460 ===
+898CFG – Certificação de Fundamentos de Gestão
+10.2 
+Crowdfunding
+898
+898
+899CFG – Certificação de Fundamentos de Gestão
+CrowdfundingDefiniçãoAs diferentes formas de crowdfunding – levantamento de recursos financeiros através da Internet para atender às necessidades de uma causa ou projeto – começaram a ser difundidas no mundo a partir de 2009.Tornaram-se rapidamente populares os sites de levantamento de recursos para fins filantrópicos, que foram denominados “Donation Based Crowdfunding”, como também os sistemas de levantamento de recursos para a realização e entrega de um projeto, produto, obra ou serviço, que se tornaram populares como “Rewarding based Crowdfunding”.Em seguida surgiram plataformas de Crowdfunding para viabilizar empréstimos – que aliás apresentam o crescimento mais expressivo, conhecidos como “Lending Based Crowdfunding” – e o Equity Crowdfunding ou Crowdfunding de Investimento (a qual estudaremos adiante), que permite a pessoas físicas em geral participar, via Internet, do capital de uma empresa nascente, comumente designadas “startups”. No Brasil essa modalidade é também identificada como investimento colaborativo.

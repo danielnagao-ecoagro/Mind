@@ -1,0 +1,10 @@
+=== PAGE 359 ===
+704CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasShort StraddleA operação “Short Straddle” também é conhecida como “Venda de Volatilidade”. Está operação é o contrário da compra de volatilidade, pois ao invés do investidor comprar as opções CALL e PUT, ele venderá, recebendo o prêmio ao invés de desembolsar. Desta forma, o prejuízo é ilimitado e o lucro limitado (prêmio recebido).Nesta operação o investidor espera que o ativo em referência não tenha muita volatilidade, com o ativo ficando estável até a data do exercício das opções. Lembrando que as opções CALL e PUT necessitam ser do mesmo vencimento e do mesmo strike (mesmo valor de vencimento).
+705CFG – Certificado em Fundamentos de Gestão
+78      82               86       
+Lucro43210-1-2-3-4PrejuízoCenário Atual
+VencimentoCALLPUT
+Operações EstruturadasShort Straddle
+Ex: V Call 82 – R$ 2,00      V Put 82 – R$ 2,00Resultado  da operação Short StraddlePVStrikeCALLPUTLucros/ Perdas1082+2-70-687682+2-4-27882+2-208082+20+28282+2+2+484820+2+28682-2+209082-6+2-49982-15+2-13
+Este é o gráfico do resultado financeiro de um investidor que VENDE uma CALL e também VENDE uma PUT por R$ 2,00 cada, com o mesmo strike (no caso R$ 82,00). Com isso, ele RECEBEU R$ 4,00 para fazer a operação.

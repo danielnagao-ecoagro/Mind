@@ -1,0 +1,15 @@
+=== PAGE 183 ===
+357CGA – Certificação de Gestores Anbima
+Loss
+ 
+Given
+ 
+Default 
+(LGD)ConceitoLoss Given Default (LGD) ou, em tradução livre, Perda Dada a Inadimplência, é a quantia de dinheiro que um banco ou outra instituição financeira perde quando um devedor deixa de pagar um empréstimo.Determinar o valor da perda é um parâmetro importante e muito comum na maioria dos modelos de risco. A LGD é um componente essencial do Modelo de Basileia, um conjunto de regulamentações bancárias internacionais, pois é utilizado no cálculo de capital econômico, perda esperada e capital regulatório. O cálculo do LGD compara o valor em unidades monetárias da perda potencial ou real com o valor total da exposição no momento em que um devedor se torna inadimplente. Embora existam várias maneiras de calcular a LGD, a mais preferida pelo mercado é o cálculo que envolve apenas esses fatores. Isso porque se trata de uma fórmula simples, mas que não leva em consideração o valor de uma eventual garantia do empréstimo. 
+358CGA – Certificação de Gestores Anbima
+Loss
+ 
+Given
+ 
+Default 
+(LGD)ConceitoAssim, a Perda Dada a Inadimplência (LGD) pode ser calculada como sendo: LGD= 1 – Taxa de RecuperaçãoA Taxa de Recuperação, por sua vez, refere-se à possibilidade de se recuperar parte das perdas em caso de inadimplência. Por exemplo, se devedor deixar de pagar o financiamento de um imóvel, o valor da exposição do banco (credor) é o saldo remanescente do empréstimo. Em o banco executando a garantia (imóvel), é possível vendê-la e recuperar parte do saldo devedor do empréstimo no momento da inadimplência. E, sem dúvida, essa taxa de recuperação precisa ser levada em consideração na perda esperada dada a inadimplência (LGD).

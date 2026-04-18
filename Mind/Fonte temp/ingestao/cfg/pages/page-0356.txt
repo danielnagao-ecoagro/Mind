@@ -1,0 +1,11 @@
+=== PAGE 356 ===
+698CFG – Certificado em Fundamentos de Gestão
+Put
+ 
+SpreadDefiniçãoA Put Spread, muito conhecida por Trava de Baixa, é uma operação recomendada para investidores com expectativa de baixa dos ativos no mercado, proporcionando um resultado positivo se o ativo de fato não subir.Geralmente é usado quando há pouca expectativa de valorização do ativo-objeto, ou quando o investidor gostaria de se proteger contra a desvalorização em uma posição comprada no ativo, sem pagar por isso. Assim como na trava de alta, novamente o investidor tem ganhos e perdas limitadas.Para montar essa estrutura, é necessário:ØVender opção de venda (Put) de strike menor;ØComprar opção de venda (Put) de strike maior.
+699CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasPut Spread (Trava de baixa)Este é o gráfico do resultado financeiro de um investidor que VENDE uma PUT (Strike: R$ 12, preço R$ 0,50) e COMPRA uma PUT (Strike R$ 14, preço R$ 1,00).  
+10    12   13   14   15   16
+Lucro543210-1-2-3-4Prejuízo
+Lucro Máximo
+Resultado  da operação Put SpreadVENDAPUTCOMPRAPUTLucros/ Perdas10-1,503 1,5120,51 1,5130,50 0,5140,5-1 -0,5150,5-1 -0,5160,5-1 -0,5

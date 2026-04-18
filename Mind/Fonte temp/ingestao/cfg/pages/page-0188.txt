@@ -1,0 +1,14 @@
+=== PAGE 188 ===
+365CFG – Certificação de Fundamentos de Gestão
+Modigliani
+-
+MillerCom ImpostosQuando consideramos impostos, as proposições de Modigliani-Miller são ajustadas para refletir o benefício fiscal da dívida, já que os juros pagos sobre a dívida são dedutíveis do imposto de renda. Isso faz com que a estrutura de capital com dívida seja mais vantajosa, pois reduz a carga tributária da empresa.Com a inclusão dos impostos, o valor de uma empresa alavancada é maior do que o valor de uma empresa não alavancada, devido ao benefício fiscal da dívida.Porém, na prática não é recomendável que uma empresa se financie apenas com capital de terceiros. Nesse sentido, surge a "Static Trade-Off Theory" (Teoria da Troca Estática), que sugere que as empresas buscam uma estrutura de capital ótima ao equilibrar os benefícios fiscais da dívida com os custos de falência e outros custos financeiros associados ao endividamento.Essa teoria postula que há um ponto de equilíbrio em que o valor presente dos benefícios fiscais da dívida é exatamente compensado pelo valor presente dos custos esperados de falência e outros custos financeiros associados à dívida. Nesse ponto, a estrutura de capital da empresa é otimizada.
+366CFG – Certificação de Fundamentos de Gestão
+CMPC 
+–
+ 
+Custo Médio Ponderado de CapitalConceito
+CMPC =!"!"	$	%×#$+%!"	$	%×#&×'−)#
+q Onde:Ø PL: Patrimônio Líquido    Ø D: Dívidas    Ø PL + D = Total de Ativos   
+Peso doCapital de TerceirosPeso doCapital Próprio Benefício FiscalCusto do Capital de TerceirosRetorno Requerido pelos acionistas (CAPM)Ø RP: Retorno do Capital Próprio (CAPM das ações)Ø RT: Retorno de Terceiros (YTM de debentures)Ø IR = Alíquota do imposto de renda
+O CMPC (em inglês WACC – Weighted Average Capital Cost) representa a média do custo decapitais próprios e de capitais de terceirosde uma empresa. São esses capitais que sustentam a companhia, seja por meio de financiamento (capital de terceiros) ou investimentos internos (capital próprio), sendo que cada fonte tem um peso na Estrutura de Capital.

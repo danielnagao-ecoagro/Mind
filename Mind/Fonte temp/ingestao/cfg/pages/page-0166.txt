@@ -1,0 +1,23 @@
+=== PAGE 166 ===
+CFG – Certificação de fundamentos de Gestão322
+Política Cambial
+`$	V,9P`$	V,PX	=9+9V%%,#$9+..×P,V[
+c1Td4TQ=e01f×9+;<=!"#$#9+..×^.NOP9+..×P,V[=	9,P9YPY9123
+..=P,P[O9OY=[,OV%	4.4.4
+q EXEMPLO 2:  O contrato futuro de dólar, com vencimento em 90 dias corridos (63 dias úteis), está sendo negociado a R$ 2,10. Sabendo que o dólar spot está sendo negociado a R$ 2,07, a taxa livre de risco Brasil está em 12,00%a.a, qual o valor do Cupom Cambial?
+`$	V,9P=`$	V,PX×9+9V%'(#$#9+..×ZPNOP
+9,P9YYZN=9,PVWXNX9+..×P,V[9,P9YYZN	h9+..×P,V[=9,PVWXNX5
+6789
+9+..×P,V[=9,PVWXNX9,P9YYZN
+..×P,V[=	9,P9YPY9−9..=P,P9YPY9P,V[10
+Cupom Cambial: Cálculo Fórmula 2
+CFG – Certificação de fundamentos de Gestão323
+q EXEMPLO 3: Sabendo que faltam 90 dias corridos (63 dias uteis) para do contrato futuro de dólar, que a taxa spot do dólar está em R$ 3,18, o cupom cambial em 6,00% ao ano e a taxa livre de risco brasil em 11,25% ao ano, qual o valor do forward do dólar?
+c1Td4TQ=`$	N,9W×9,99V[%,#$9+P,P9[
+c1Td4TQ=e01f×9+;<=!"#$#9+..×^.NOPc1Td4TQ=`$	N,9W×9+99,V[%'(#$#9+O%×ZPNOP
+c1Td4TQ=`$	N,9W×9,PVXP999,P9[
+c1Td4TQ=`$	N,9W×9+P,99V[%,#$9+P,PO×P,V[
+1 52 63 74
+Dólar Forward: Cálculo Fórmula 2
+c1Td4TQ=`$	N,9W×9,P99WNNc1Td4TQ=`$	N,V9XONP
+Política Cambial

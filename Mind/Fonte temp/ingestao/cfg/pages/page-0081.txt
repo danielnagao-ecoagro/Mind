@@ -1,0 +1,11 @@
+=== PAGE 81 ===
+CFG – Certificação de fundamentos de Gestão152
+MicroeconomiaPrincípiosFalando agora da curva da oferta, definimos a quantidade ofertada de um bem como sendo a quantidade que os vendedores desejam e podem vender desse bem. Porém, a oferta pode ser maior ou menor, a depender de uma série de fatores, mas principalmente do preço do bem em questão.Então podemos enumerar outra definição, a Lei da Oferta: com tudo o mais constante (coeteris paribus, sempre ele! ;)), se o preço de um bem aumenta, a quantidade ofertada desse bem aumenta. E, de forma inversa, se o preço do bem diminui, a quantidade ofertada diminui.
+02468101214
+0 2 4 6 8 1012
+Preço
+Quantidade
+CFG – Certificação de fundamentos de Gestão153
+MicroeconomiaDeslocamentos da curva de demandaA demanda por determinado bem pode sofrer alterações ao longo do tempo. Por exemplo, vacinas contra a gripe registraram grande aumento de procura em função da pandemia da COVID-19. Exemplos como esses fazem a curva se deslocar para a direita, pois representam um aumento da demanda.Agora, se as temperaturas no verão de determinado ano ficarem abaixo das médias, é possível que a demanda por sorvetes diminua. Isso levaria a curva da demanda a se deslocar para a esquerda. Aumento da demandaRedução da demanda
+Preço
+Quantidade

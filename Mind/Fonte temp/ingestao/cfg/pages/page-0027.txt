@@ -1,0 +1,7 @@
+=== PAGE 27 ===
+CFG – Certificação em Fundamentos de Finanças45
+Em JUROS COMPOSTOS, usamos TAXA EQUIVALENTE. Isso significa que as taxas de juros não são proporcionais, ou seja, uma taxa de 12% ao ano é não é equivalente a 1% ao mês. Teoricamente, taxa equivalente significa que, aplicadas ao mesmo capitaldurante o mesmo período de tempo, através de diferentes períodos de capitalização, produzem o mesmo montante final. Diante disso, necessitamos usar conceitos exponenciais para fazermos a conversão de taxas equivalentes e sua fórmula é:
+q Regra do QUERO/TENHO:Ø	iQ = taxa de juros cujo resultado se pretende encontrar (taxa que “eu quero”).Ø	iT = taxa de juros cujo resultado já sabemos (taxa que “eu tenho”).Ø q = período em que está expressa a taxa cujo resultado se pretende encontrar (prazo que “eu quero”).Ø t = período em que está expressa a taxa cujo resultado já se sabe (prazo que “eu tenho”).
+Equivalência de Taxas: Juros CompostosFórmula
+CFG – Certificação em Fundamentos de Finanças46
+Equivalência de Taxas: Juros CompostosModelo 1 (Fórmula)Qual a taxa equivalente ao mês de 12% ao ano?Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Digite [1] e pressione [ENTER]Ø (3) Digite [0.12] e pressione [+] Ø (4) Digite [12], aperte            e pressione Ø (5) Digite [1]  e pressione [-] Ø (6) Digite [100] e aperte [x]Ø Resposta: 0,948879

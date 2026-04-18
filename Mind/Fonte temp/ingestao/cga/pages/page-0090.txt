@@ -1,0 +1,7 @@
+=== PAGE 90 ===
+174CFG – Certificação de Fundamentos de Gestão
+BulletLadderBarbellFlattening3º2º1ºSteepening1º2º3ºPequena mudança paralela1º1º1ºMudança paralela significativa (efeito convexidade)3º2º1º
+/Curva de jurosEstratégia
+Estratégias de Gestão de Carteiras de RFPerformance das EstratégiasConsiderando carteiras com mesma duration, mas diferentes estratégias, temos: 
+175CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFEstratégias de curvas de jurosPor fim, temos a Butterfly. O nome remete a uma borboleta mesmo, em que as taxas de curto e longo prazo são alteradas pela mesma magnitude, que por sua vez é diferente da mudança sobre as taxas de médio prazo. A Butterfly pode se configurar de duas formas:ØPositiva, em que as taxas das extremidades sobem mais que as taxas intermediárias da curva, ou mesmo as taxas das extremidades sobem e a da intermediária, cai. Nesse caso, a melhor estratégia seria a Bullet na taxa de médio prazo (taxa deve cair ou subir menos) e a pior, Barbell nas extremidades (taxas devem subir);ØNegativa, quando as taxas das extremidades sobem menos que as taxas intermediárias da curva, ou mesmo quando as taxas das extremidades caem e a da intermediária, sobe. No cenário oposto, a melhor estratégia seria a Barbell (taxas das extremidades devem cair ou subir menos) e a pior, Bullet na taxa de médio prazo (taxas devem subir).

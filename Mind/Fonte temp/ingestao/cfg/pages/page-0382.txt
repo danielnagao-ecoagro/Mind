@@ -1,0 +1,10 @@
+=== PAGE 382 ===
+748CFG – Certificação de Fundamentos em Gestão
+Covariância e Coef (ρ): FórmulasAgora que sabemos os conceitos de Covariância e de Coeficiente de Correlação, entraremos nas fórmulas, lembrando sempre que quando tratarmos de População deve ser dividido por “N termos” e quando tratarmos de Amostra, deve-se dividir por “N – 1”.q Covariância: A covariância poderá ser calculada  através de duas maneiras:Ø(1) COV(X,Y)	=	∑!"##$"%&$×("%&() ;     OU     ∑!"##$"%&$×("%&()%*;Ø(2)	COV(X,Y) = DP(X)×DP(Y)	×	Coef	(X,Y);	quando se tem o Coeficiente.q Coeficiente de Correlação: O coeficiente de correlação é calculado através:	 	 										Coef	(X,Y)=+,-($,()12(3)×12(4)
+Fronteira Eficiente de Markowitz
+749CFG – Certificação de Fundamentos em Gestão
+Ø Coef (a,b) = 0: Quando o coeficiente de correlação for igual a “0”, percebemos que as duas variáveis estarão se movendo sem nenhuma correlação, independente uma da outra (como se elas tivessem vidas próprias). Importante ressaltar que mesmo o coeficiente sendo zero, há diversificação da carteira de investimentos.
+Ø Coef (a,b) = +1: Quando o coeficiente de correlação for igual a “+1”, percebemos que as duas variáveis estarão se movendo na mesma direção e na mesma intensidade. Ou seja, quando um cai, a outra também cai. Quando uma sobe, a outra também sobe.
+Ø Coef (a,b) = - 1: Quando o coeficiente de correlação for igual a “‒1”, percebemos que as duas variáveis estarão se movendo em direções opostos, porém, na mesma intensidade. Ou seja, quando um cai, a outra sobe. Quando uma sobe, a outra cai.
+Coeficiente de Correlação: GráficoPara enxergarmos essa relação, vejamos os gráficos abaixo com suas devidas explicações:
+Fronteira Eficiente de Markowitz

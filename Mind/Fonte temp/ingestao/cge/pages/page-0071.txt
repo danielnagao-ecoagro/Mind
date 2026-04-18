@@ -1,0 +1,11 @@
+=== PAGE 71 ===
+130CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Collaterized Debt Obligation (CDO)Agora temos a principal diferença entre CMO e CDO: enquanto no CMO temos apenas recebíveis imobiliários como lastro, no CDO é possível securitizar praticamente qualquer fluxo de recebíveis. Isso engloba, por exemplo, recebíveis de cartões de crédito, de financiamento de automóveis, de empréstimos estudantis, de empréstimos para aeronaves e dívidas corporativas. Como os CMOs, a divisão das partes do empréstimo é estruturada de sênior para júnior com alguma supervisão de agências de classificação que atribuem classificações de grau como um único título de emissão. As tranches subordinadas ou juniores absorverão todas as perdas até o seu valor antes que as tranches seniores comecem a sofrer perdas. Para equilibrar essa desvantagem, as tranches subordinadas normalmente têm rendimentos superiores do que as tranches seniores (a exemplo do que ocorre com os FIDCs no Brasil).Por fim, o que pode levar a um substancial aumento de risco é que os CMOs podem ser “ressecuritizados” e adquiridos por CDOs, fazendo uma espécie de “looping infinito” em termos de alavancagem em cima do mesmo lastro.
+Securitização de Recebíveis
+131CGE – Certificação de Gestores Anbima para Fundos Estruturados
+5.4 ETF (
+Exchange 
+Traded
+ 
+Fund
+)131

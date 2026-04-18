@@ -1,0 +1,12 @@
+=== PAGE 162 ===
+315CGA – Certificação de Gestores Anbima
+Medidas de 
+DispersãoVariância e Desvio PadrãoA Variância e o Desvio Padrão são medidas estatísticas que medem o grau de dispersão de um conjunto de dados em relação a sua média, ou seja, o risco dos dados não darem a média do grupo. Quanto maior a Variância ou Desvio Padrão, maior será o risco, já que a distância entre cada ponto até a média será maior. A Variância é calculada através da MÉDIA DO QUADRADO DA DISTÂNCIA DE CADA PONTO ATÉ A MÉDIA DO GRUPO, e o Desvio Padrão será a raiz quadrada deste número.                       Este passo-a-passo deixará um pouco mais claro:Ø (1) Calcular a média do grupo;Ø (2) Calcular a distância de cada ponto até a média;Ø (3) Elevar cada uma destas distâncias ao quadrado (Motivo: deixar todos os números positivos);Ø (4) Calcular a média desses números que foram elevados ao quadrado.                             Este número será a Variância Populacional.Ø (5) Desvio Padrão = Raiz quadrada da Variância. Ou seja, da Variância chegamos no Desvio Padrão, consequentemente, do Desvio Padrão chegamos na Variância.
+316CGA – Certificação de Gestores Anbima
+Medidas de 
+DispersãoVariância e Desvio Padrão: Exemplo Gráfico
+0123456
+12345
+Retorno Mensal (%)
+Fundo AMédiaRisco de Volatilidade(Distância entre o ponto e a média )
+Agora calcularemos a Variância e o Desvio Padrão dos retornos do Fundo de “A” no qual teve retornos de  (+3%, +1%, +3%, +3%, +5%). Mas primeiro, vamos “enxergar” o risco de cada retorno em não dar a média do retorno, que seria o “padrão” do grupo. Perceba que os retornos nos meses 1, 3 e 4 foram exatamente a média, portanto “não há risco”.

@@ -1,0 +1,12 @@
+=== PAGE 199 ===
+CFG - Certificado de Fundamentos de Gestão386-R$ 50.000
+R$ 20.0000 Ano 1R$ 20.000Ano 2R$ 20.000Ano 3R$ 20.000Ano 4Fluxo 1 renderá 10% por mais 3 anos (até o ano  4)Fluxo 2 renderá 10% por mais 2 anos (até o ano  4)Fluxo 3 renderá 10% por mais 1 ano(até o ano  4)Encerramento do projeto
+TIRM 
+–
+ 
+Taxa Interna de Retorno Modificada Solução do ExemploPara resolvermos este problema, primeiro precisamos corrigir todos os fluxos positivos para o último ano e soma-los (caso houvesse algum negativo, este deveria ser trazido a valor presente e somado ao CF0). Desta forma, ao invés de termos 4 fluxos positivos, teremos somente 1 fluxo no último ano. 
+CFG - Certificado de Fundamentos de Gestão387
+TIRM 
+–
+ 
+Taxa Interna de Retorno Modificada Solução do ExemploConforme mencionado, devemos corrigir os R$ 20.000,00 dos anos 1, 2 e 3 até o último período, e acrescentar o ano 4, transformando assim tudo em um só valor no último ano. Este cálculo possui o mesmo significado que “uma pessoa irá investir durante 4 anos,               R$ 20.000 a uma taxa de 10%a.a. Qual o valor final que ela terá?”q CÁLCULO:Ø n = 4 (anos)Ø i  = 10  (ao ano)Ø PV = 0Ø PMT = -20.000 [CHS]Ø FV = ? = 92.820,00

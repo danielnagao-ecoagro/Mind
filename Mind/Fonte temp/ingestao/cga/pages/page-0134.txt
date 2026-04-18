@@ -1,0 +1,10 @@
+=== PAGE 134 ===
+260CFG – Certificação de Fundamentos de Gestão
+ConceitoO conceito básico de atribuição de desempenho é identificar e quantificar as fontes de retorno que são diferentes do benchmark designado. Há duas formas básicas de atribuição de performance: macro e micro atribuição.A macro atribuição de performance é feita no nível do patrocinador do fundo (o administrador do fundo, por exemplo); já a micro atribuição de performance é feita no nível do gestor de recursos.O objetivo da atribuição macro é fornecer informações sobre as decisões feitas pelo patrocinador do fundo e medir os efeitos de tais decisões na carteira. Uma das decisões do patrocinador é, por exemplo, quais gestor contratar e como esses gestores estão performando.Já o objetivo da atribuição micro é analisar as decisões individuais de um gestor e determinar como o gestor adicionou ou destruiu valor para o patrocinador.
+Atribuição Macro 
+x
+ 
+Micro
+261CFG – Certificação de Fundamentos de Gestão
+ConceitoHá 3 principais fatores relacionados à atribuição macro:ØPolítica de alocação: é decisão do patrocinador determinar as categorias de ativos e os pesos, assim como alocar os recursos totais dentre os gestores de recursos. Há exemplo do que acontece no desenvolvimento de uma política de investimentos, as alocações serão determinadas pela tolerância a risco do patrocinador, suas expectativas de longo prazo e os passivos com que o fundo precisa arcar;ØRetornos da carteira do benchmark: o patrocinador pode usar índices de mercado amplos como benchmarks para categorias de ativos e usar índices mais focados para os estilos do gestor de recursos;ØRetorno dos ativos, valuations e fluxos de caixa externos: o patrocinador pode tomar decisões sobre a seleção do gestor ao avaliar os termos percentuais dos retornos dos ativos. Além disso, informações de valuations e fluxos de caixa externos são necessárias para calcular os impactos da tomada de decisões da política de investimento do patrocinador.
+Atribuição Macro

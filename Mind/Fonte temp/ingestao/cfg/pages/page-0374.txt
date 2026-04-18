@@ -1,0 +1,16 @@
+=== PAGE 374 ===
+732CFG – Certificação de Fundamentos em Gestão
+Teoria da Utilidade EsperadaAplicação no Mercado de CapitaisO conceito de Teoria da Utilidade Esperada, que diz que o consumidor deseja ter a maior quantidade de consumo de Produtos & Serviços disponíveis para a sua renda, também pode ser aplicada no mercado de capitais (nas combinações de risco e retorno do investidor). No entanto, ao invés de maximizar todas as variáveis da cesta de combinações de Produtos & Serviços, como diz a Teoria da Utilidade Esperada, nos investimentos o investidor racional procura AUMENTAR O RETORNOe DIMINUIR O RISCO. Desta forma, as curvas serão côncavas no plano retorno em função do risco, podendo ser sintetizados os três perfis do API:Ø Conservador (Avesso ao risco): conforma-se com retornos mais limitados, em troca do conforto da segurança;Ø Arrojado (Propenso ao risco): aceita ter mais risco em troca de melhores resultados financeiros;Ø Moderado (Neutro ao risco): uma mescla entre os dois anteriores.O grau de aversão ao risco de cada investidor é representado pela sua função de utilidade, implicando uma relação positiva entre retorno e risco.
+733CFG – Certificação de Fundamentos em Gestão
+Teoria da Utilidade EsperadaRetorno (R)
+U1
+Risco Total (!)
+1075 21 Menor Utilidade
+Maior UtilidadeU2U3Gráfico 1
+Retorno (R)
+U1
+Risco Total (!)
+1075 21 Menor Utilidade
+Maior UtilidadeU2U3
+Gráfico 2
+Aplicação no Mercado de CapitaisAplicando a teoria no mercado de capitais, temos os produtos financeiros disponíveis dos segmentos dos bancos (U1 = private; U2 = alta renda; e U3 = varejo). Desta forma, as curvas mais acima, possuem uma relação risco x retorno melhor que as curvas mais abaixo. Já em relação ao perfil de risco de um investidor, esta é uma análise baseada na inclinação das curvas do gráfico. Assim, podemos perceber que investidores que possuem um comportando do gráfico 1, são muito mais avessos ao risco, que investidores do gráfico 1, pois o Gráfico 1é mais inclinado que o Gráfico 2. Desta forma, percebemos que o perfil do cliente é baseado na inclinação do gráfico e a utilidade está na sua devida altura (acesso a produtos de investimentos).

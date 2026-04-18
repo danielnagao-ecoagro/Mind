@@ -1,0 +1,6 @@
+=== PAGE 195 ===
+CFG - Certificado de Fundamentos de Gestão378
+4.1 Orçamento de Capital
+378
+CFG - Certificado de Fundamentos de Gestão379
+Método de Análise de InvestimentosConceitoA Análise de Investimentos busca identificar qual a melhor alocação para os recursos financeiro entre as diversas alternativas existentes . Podemos afirmar que essa análise é de suma importância ao se considerar a realização de um investimento, pois as ferramentas utilizadas conseguem mensurar de forma clara, investimentos com prazos, taxas e fluxos de pagamentos distintos, sendo uma ótima ferramenta de apoio a decisão do investidor. Os métodos de análise de investimento cobrados na prova são:Ø Taxa Interna de Retorno (TIR);Ø Taxa Interna de Retorno Modificada (TIRM);Ø Valor Presente Líquido (VPL);Ø Payback Simples;Ø Payback Descontado.

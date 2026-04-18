@@ -1,0 +1,29 @@
+=== PAGE 124 ===
+240CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money 
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoPrimeiro cenário: investidor não faz qualquer solicitação de aporte ou resgate.Perí-odoInícioRentabili-dade (%) Rentabilidade ($$)Movimenta-çãoFinal1R$ 1.000.00010%R$ 100.0000R$ 1.100.0002R$ 1.100.000-5%- R$ 55.0000R$ 1.045.000FLUXOTECLAMOTIVORESULTADO1.000.000CHSCF0: [g][PV]Fluxo de Caixa ZERO, ou seja, Valor Presente0CFj: [g][PMT]Recebimento do Ano 11.045.000CFj: [g][PMT]Recebimento do Ano 2TIRIRR: [f][FV]Retorno do Investimento2,23% a.a
+241CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money 
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoSegundo cenário: investidor faz uma solicitação de aporte de R$ 200.000.Perí-odoInícioRentabili-dade (%) Rentabilidade ($$)Movimenta-çãoFinal1R$ 1.000.00010%R$ 100.000200.000R$ 1.300.0002R$ 1.300.000-5%- R$ 65.0000R$ 1.235.000FLUXOTECLAMOTIVORESULTADO1.000.000CHSCF0: [g][PV]Fluxo de Caixa ZERO, ou seja, Valor Presente200.000CHSCFj: [g][PMT]Recebimento do Ano 11.235.000CFj: [g][PMT]Recebimento do Ano 2TIRIRR: [f][FV]Retorno do Investimento1,58% a.a

@@ -1,0 +1,6 @@
+=== PAGE 707 ===
+1389CFG – Cer(ﬁcação de Fundamentos de Gestão
+Tributação: Renda VariávelExemplo 6: Day TradeRafael compra R$ 5.000,00 em ações da RToro Education S/A na bolsa de valores e as vende no mesmo dia por R$ 20.000,00. Sabendo que ele pagou R$ 100,00 em cada operação, qual o IRRF, o Imposto de Renda e a DARF a ser recolhido por Rafael? q Resposta: Rafael fez 2 operações (uma de compra e uma de venda). Assim:Ø IR da operação (investidor): Não há isenção em Day Trade.o + VENDAS  −  COMPRAS − CUSTOS  = LUCRO / REJUÍZOo +R$ 20.000,00 – R$ 5.000,00 –  2x(R$ 100,00) = L /Po +R$ 20.000,00 – R$ 5.200,00 = R$ 14.800,00 (Lucro)o Imposto Total: R$ 14.800,00 × 20% = R$ 2.960,00Ø IRRF (instituição financeira): 1% sobre o lucroo IRRF = 1% × R$ 14.800,00 = R$ 148,00Ø DARF: IR total descontado do IRRF, a ser pago no mês posterior a venda.o DARF: R$ 2.960,00 – R$ 148,00 = R$ 2.812,00
+1390CFG – Certificação de Fundamentos de Gestão
+1390
+12.4 Tributação de Renda Fixa

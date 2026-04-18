@@ -1,0 +1,10 @@
+=== PAGE 64 ===
+122CFG – Certificação de Fundamentos de Gestão
+Gráfico Preço x Taxa de Juros
+R$300R$400R$500R$600R$700R$800R$900R$1.000R$1.100R$1.200
+0%5%10%15%20%25%30%7%Ø PV na HP 12C (@7% ao ano): o FV = R$ 1.000; o PMT = R$ 50; o n = 5 anos;o i = 7% ao anoo PV = ? = - 918.
+R$ 918Se as taxas de juros subirem de 5% para 7%, ocorrerá o seguinte:
+123CFG – Certificação de Fundamentos de Gestão
+Duration
+ 
+de MacaulayCom a elevação da taxa de juros de 5% para 7%, o preço do título caiu de R$ 1.000 para R$ 918, o que representa uma redução de 8,20%. Podemos calcular essa variação no preço do título também através da Duration Modificada. Mas, para isso, precisamos calcular primeiro a Duration de Macaulay:Fluxo (FV)Prazo (n)TaxaPVPV x Prazo5015%47,6247,625025%45,3590,705035%43,19129,585045%41,14164,541.05055%822,704.113,51Soma1.000,004.545,95Ø Duration de Macaulay = 4.545,95 ÷ 1.000,00 = 4,55 anos.

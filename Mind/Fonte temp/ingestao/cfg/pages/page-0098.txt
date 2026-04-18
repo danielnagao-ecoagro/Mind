@@ -1,0 +1,23 @@
+=== PAGE 98 ===
+CFG – Certificação de fundamentos de Gestão186
+MicroeconomiaLimites de PreçosPreço
+Quantidade
+PE
+QE
+Salário mínimoSe o salário mínimo for estabelecido abaixo do preço de equilíbrio, seu efeito será inócuo.Preço
+Quantidade
+Salário mínimoDesempregoAgora, se o preço máximo for estabelecido acima do preço de equilíbrio, haverá desemprego.QD QO
+PE
+QE
+CFG – Certificação de fundamentos de Gestão187
+MicroeconomiaImpostosPreçoPE A cobrança de impostos sobre os vendedores desloca a curva de oferta para a esquerda. Isso irá mudar o Preço de Equilíbrio (PE) para o Preço com Impostos pago pelos compradores (PIC), que será maior que o de equilíbrio. Já os vendedores receberão o Preço (PIV), menor que o preço de equilíbrio. E a quantidade demandada será inferior (QI).Já a cobrança de impostos incidente sobre os compradores desloca a curva de demanda para a esquerda. Apesar de incidir agora sobre os compradores, os efeitos serão idênticos: o Preço de Equilíbrio (PE) mudará para o Preço com Impostos pago pelos compradores (PIC), que será maior que o de equilíbrio. Já os vendedores receberão o Preço (PIV), menor que o preço de equilíbrio. E a quantidade demandada será igualmente inferior (QI). Ou seja, consumidores e vendedores sempre dividirão o ônus do tributo.
+QI
+PIC
+PreçoPE
+QIPIV
+QE
+QE
+PIV
+PIC
+Quantidade
+Quantidade

@@ -1,0 +1,9 @@
+=== PAGE 139 ===
+270CFG – Certificação de Fundamentos de Gestão
+ConceitoPor fim temos a Seleção Dentro do Setor. O retorno agregado pode ser obtido a partir dessa equação:
+Em que:WB,i = Peso no benchmark do setor iRP, i = Retorno no portfólio do setor iRB,i = Retorno no benchmark do setor iN = Número de setores
+Atribuição Micro
+271CFG – Certificação de Fundamentos de Gestão
+ExemploConsidere o seguinte exemplo da tabela abaixo. Qual o efeito da Seleção Dentro do Setor?
+Ações: 0,1 x (15% – 6%) = 0,1 x 9% = 0,90%Renda Fixa: 0,4 x (5% – 6%) = 0,4 x - 1% = - 0,40%Caixa: 0,5 x (1% - 1%) = 0,5 x 0% = 0%Efeito Total da Seleção Dentro do Setor = 0,90% - 0,40% = 0,50%Este retorno calcula o impacto no desempenho atribuído apenas às decisões de seleção de títulos. O retorno da seleção dentro do setor pressupõe que o gestor pondera cada setor da carteira na mesma proporção que no benchmark.
+Atribuição MicroClasse de ativosPeso na carteiraPeso no benchmarkRetorno da carteiraRetorno do benchmarkAções0,20,115%6%Renda Fixa0,50,45%6%Caixa0,30,51%1%

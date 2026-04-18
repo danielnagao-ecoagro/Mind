@@ -1,0 +1,22 @@
+=== PAGE 387 ===
+758CFG – Certificação de Fundamentos em Gestão
+Retorno (R)
+Risco Total ())
+Fronteira EficienteCML
+TLRDM Z
+A
+- Carteira D é preferível à A;- D está emprestando parte dos seus recursos (menor risco que a carteira do mercado M);- Z está alavancado.
+Gráfico
+CML 
+–
+ 
+Capital Market 
+Line
+759CFG – Certificação de Fundamentos em Gestão
+A teoria moderna de carteiras parte de uma série de hipóteses: ausência de custos de transação e impostos, impossibilidade de venda de ativos a descoberto, possibilidade de os investidores financiarem os investimentos à taxa livre de risco sem restrições e que todos os investidores têm expectativas homogêneas sobre retornos, variâncias e covariâncias dos ativos.Se a primeira hipótese for relaxada, ou seja, se custos de transação e impostos forem considerados, o ajuste de portfólios se torna mais complexo. Custos de transação podem desincentivar a reestruturação frequente de portfólios e criar uma diferença entre o retorno teórico e o retorno real. Impostos podem reduzir os retornos líquidos dos investimentos, afetando a escolha entre ativos e, por conseguinte, a inclinação da CML. Portanto, a CML pode não ser tão inclinada, e a carteira ótima pode se deslocar.
+Relaxamento das hipóteses
+CML 
+–
+ 
+Capital Market 
+Line

@@ -1,0 +1,12 @@
+=== PAGE 9 ===
+CFG – Certificação em Fundamentos de Finanças9
+Ø Tecla para acionar os comandos em azul.Ø Tecla para acionar os comandos em laranja.Ø Para mudar o sinal de um númeroØ Teclas para operações (somar, subtrair, multiplicar e dividir). Vale a ressalva em relação a operação de subtração, pois esta tecla serve para diminuir um número de outro e NÃO mudar o sinal do número para negativo. Para mudar o sinal de um número, utilizamos a tecla [CHS].
+Teclas inicias importantes
+HP
+-
+12C 
+CFG – Certificação em Fundamentos de Finanças10
+q Zerando o visor: Clicar em [CLX]q Zerando os registros armazenados:(1) Apertar [f](2) Clicar em [CLX]
+HP
+-
+12C Zerando a CalculadoraCom o visor da HP 12C possui apenas uma linha, você precisa tomar cuidado com os valores armazenados anteriormente (e que você não estará enxergando), para que não haja interferências equivocadas nos nossos cálculos. Para isso, antes de começar a calcular, deve-se zerar os registros da HP 12C e não somente o visor.

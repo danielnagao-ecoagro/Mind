@@ -1,0 +1,8 @@
+=== PAGE 18 ===
+CFG – Certificação em Fundamentos de Finanças27
+PERÍODOJUROS COMPOSTOSPrincipalR$ 100.000,00Após 1 ano100.000 + (0,10) × 100.000 = 110.000Após 2 anos110.000 + (0,10) × 110.000 = 121.000Após 3 anos121.000 + (0,10) × 121.000 = 133.100Após 4 anos133.100 + (0,10) × 133.100 = 146.410
+Regimes de Capitalização: Juros CompostosExemplo 1q PERGUNTA: Qual o valor total, ano após ano (durante 4 anos), se aplicarmos                        R$ 100.000,00 a uma taxa de juros compostos de 10% ao ano?Para facilitar o entendimento, vamos demonstrar o crescimento do valor aplicado, ano após ano, através da seguinte tabela:
+CFG – Certificação em Fundamentos de Finanças28
+q EXEMPLO: Qual o valor a ser aplicado hoje, para que em 48 meses, a uma taxa de 10% ao ano, eu tenha R$ 146.410,00?q RESPOSTA:Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Digite [146.410]  e pressione [FV]Ø (3) Digite [10] e pressione [i]Ø (4) Digite [48] e [ENTER], digite [12], pressione [÷] e pressione [n]Ø (5) Aperte [PV]Ø Resposta: ꟷ R$ 100.000,00Precisamos aplicar (saída de caixa) R$ 100.000,00 para podermos RECEBER (entrada de caixa) de R$ 146.410,00.
+Exemplo 2 (PV)
+Regimes de Capitalização: Juros Compostos

@@ -1,0 +1,13 @@
+=== PAGE 21 ===
+37CGA - Certificação de Gestores Anbima
+Market NeutralExistem duas principais estratégias Market Neutral: ØArbitragem Fundamental: se baseia na análise fundamentalista para escolher quais ativos investir.ØArbitragem Estatística: se vale de algoritmos e métodos quantitativos com o objetivo de identificar discrepâncias de preços em ativos com base em dados históricos.
+Long
+ 
+and
+ 
+Short
+38CGA - Certificação de Gestores Anbima
+EstilosDe forma genérica, uma estratégia Long Only refere-se à gestão de carteiras pautada pela busca de retornos exclusivamente através da compra (long) de ativos. Assim, o mais importante desse tema são os seis estilos de Long Only:ØGrowth;ØValue;ØBlend;ØCapitalização; ØGARP (Growth at a Reasonable Price); eØDividendos.Vamos abordar cada um deles em detalhes.
+Long
+ 
+only

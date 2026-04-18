@@ -1,0 +1,9 @@
+=== PAGE 49 ===
+CFG – Certificação em Fundamentos de Finanças89
+Medidas de associação entre 2 variáveis
+Ø Coef (a,b) = 0: Quando o coeficiente de correlação for igual a “0”, percebemos que as duas variáveis estarão se movendo sem nenhuma correlação, independente uma da outra (como se elas tivessem vidas próprias). Importante ressaltar que mesmo o coeficiente sendo zero, há diversificação da carteira de investimentos.
+Ø Coef (a,b) = +1: Quando o coeficiente de correlação for igual a “+1”, percebemos que as duas variáveis estarão se movendo na mesma direção e na mesma intensidade. Ou seja, quando um cai, a outra também cai. Quando uma sobe, a outra também sobe.
+Ø Coef (a,b) = - 1: Quando o coeficiente de correlação for igual a “‒1”, percebemos que as duas variáveis estarão se movendo em direções opostos, porém, na mesma intensidade. Ou seja, quando um cai, a outra sobe. Quando uma sobe, a outra cai.
+Coeficiente de Correlação: GráficoPara enxergarmos essa relação, vejamos os gráficos abaixo com suas devidas explicações:
+CFG – Certificação em Fundamentos de Finanças90
+Medidas de associação entre 2 variáveisCovariância e Coef(ρ): ResumoOs principais pontos da Covariância e do Coeficiente de Correlação são:Ø São variáveis para demonstrar o risco entre ativos e não o risco de cada ativo. Por tanto, eles diminuem o Risco Não-Sistêmico, também chamado de Risco Diversificável;Ø A Covariância nos dirá “somente” se os ativos se movimentam para a mesma direção ou para direções contrárias. Ø O Coeficiente de Correlação no dirá a direção e a intensidade de como os ativos se relacionam. Ø Todo ativo que possuir Coeficiente de Correlação MENOR que +1, diversificará a carteira de investimentos.ØQuanto menor for o Coeficiente de Correlação, maior o benefício da diversificação que este ativo estará gerando a carteira de investimentos.Ø Ativos com Coeficiente igual a ZERO, diversificam a carteira. No entanto, não se sabe o que irá ocorrer entre eles.

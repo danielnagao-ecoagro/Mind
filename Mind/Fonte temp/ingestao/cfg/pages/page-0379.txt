@@ -1,0 +1,14 @@
+=== PAGE 379 ===
+742CFG – Certificação de Fundamentos em Gestão
+Mesmo RISCO mas com MENOR retornoMesmo retorno mas com maior risco
+Retorno (R)
+Risco Total ())
+Carteiras Inatingíveis
+Carteiras Ineficientes
+Fronteira Eficiente
+Carteira não eficienteCarteira de Variância Mínima
+GráficoPodemos notar que pontos abaixo da linha verde são carteiras consideradas ineficientes, pois o investidor terá na Fronteira Eficiente, opções melhores. Já acima, são opções inatingíveis.
+Fronteira Eficiente de Markowitz
+743CFG – Certificação de Fundamentos em Gestão
+Cálculo do Risco de 2 AtivosConforme demonstrado no gráfico anterior, toda carteira de investimentos possui um ponto na fronteira eficiente com o menor risco possível (menor desvio padrão com um dado retorno, chamado de Carteira de Variância Mínima). Pontos abaixo da fronteira eficiente são chamados de Carteiras Ineficientes, já que não fazem sentido tendo outra alternativa com o mesmo risco e com maior retorno. Markowitz chegou nesse resultado através de uma fórmula matemática no qual leva em consideração peso de cada ativo (W), o risco total de cada ativo (mensurado pelo Desvio Padrão, que possui o símbolo !) e o risco interligado dos dois ativos (o coeficiente de correlação – ϑ).q FÓRMULA: σ(*,+)=/*,×σ*,+/+,×σ+,+1/*/+×σ*σ+ϑ
+Fronteira Eficiente de Markowitz

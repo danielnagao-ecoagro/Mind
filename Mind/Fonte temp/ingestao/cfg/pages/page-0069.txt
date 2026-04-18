@@ -1,0 +1,10 @@
+=== PAGE 69 ===
+CFG – Certificação em Fundamentos de Finanças129
+Teste de HipótesesRegra de Rejeição de H0Dessa forma, podemos concluir a regra de rejeição da hipótese nula para um dado nível de significância a em um teste bicaudal:ØRejeitamos H0 se o valor-p ≤a.ØRejeitamos H0 se z ≤−	Ya/2 ou se z ≥	Ya/2.No nosso exemplo, temos valor-p = 0,2380, superior ao a de 0,05 (nível de significância escolhido), o que nos permite concluir que NÃO podemos rejeitar H0. Da mesma forma, o z encontrado pela estatística do teste, de 1,18, é inferior ao za/2 de 1,96 (também conhecido por valor crítico). E como encontramos esse za/2? Voltando à tabela da distribuição normal, temos que procurar nas células a área de 0,975, corresponde a 1 – 0,975 = 0,025 em cada cauda. Como é um teste bicaudal, isso representa 0,05 em ambas as caudas. E o número equivalente é 1,96.
+CFG – Certificação em Fundamentos de Finanças130
+Teste de HipótesesResumo
+Exemplo do teste BicaudalEstatística do teste (z) = 1,18. Como caiu na área de não rejeição de H0, não temos evidências suficientes para dizer que a média amostral é diferente da média populacional.
+Exemplo do teste UnicaudalEstatística do teste (z) = 2,83. Como caiu na área de rejeição de H0, temos evidências suficientes para dizer que a média populacional não é igual ou inferior a 10 litros por galão.
+P(z ≤-1,96) = 0,025z = - 1,960z = + 1, 96P(z ≥	1,96) = 0,025
+Não rejeita H0Rejeita H0 Rejeita H0a/2 a/21,18
+z = 2,330aNão rejeita H0 Rejeita H02,83

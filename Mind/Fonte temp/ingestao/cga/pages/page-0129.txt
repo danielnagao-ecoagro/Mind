@@ -1,0 +1,8 @@
+=== PAGE 129 ===
+250CFG – Certificação de Fundamentos de Gestão
+ConceitoSão 7 as principais características que tornam válido um benchmark:ØEspecificado antecipadamente: o benchmark é especificado antes do início do período de avaliação;ØAdequado: é consistente com o estilo de investimento do gestor ou área de especialização;ØMensurável: o retorno do benchmark é facilmente calculável em uma base razoavelmente frequente;ØSem ambiguidade: as identidades e pesos dos títulos na carteira teórica são claramente definidos;ØReflete as opiniões de investimento atuais: o gestor tem conhecimento atual dos títulos no benchmark;ØResponsável: O gestor de recursos está ciente e aceita a responsabilidade pelos ativos constituintes e pelo desempenho do benchmark; eØInvestível: É possível investir no benchmark (como, por exemplo, na gestão passiva).
+Benchmark válido
+251CFG – Certificação de Fundamentos de Gestão
+ConceitoSão 7 as principais tipos de benchmark:ØAbsoluto;ØUniverso de gestores;  ØÍndices amplos de mercado;ØÍndices de Estilo; ØModelo baseado em fatores;ØBaseado em retornos; eØCustomizados.O tipo de benchmark Absoluto refere-se basicamente a um objetivo de retorno. É simples e fácil de se calcular, mas um objetivo de retorno absoluto não é um benchmark investível.
+Tipos 
+de Benchmarks

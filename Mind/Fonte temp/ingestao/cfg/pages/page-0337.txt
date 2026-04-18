@@ -1,0 +1,8 @@
+=== PAGE 337 ===
+660CFG – Certificado em Fundamentos de Gestão
+ExemploContinuando o nosso exemplo, a RToro Education S/A assina um SWAP com as seguintes condições com o banco: Ø Taxa prefixada: 10% ao ano. Ø Taxa pós-fixada: 100%  do CDIDesta forma, a RToro Education S/A ficará no swap ATIVA em pós-fixada e PASSIVA em prefixada, já o banco estará ao contrário: ATIVO em prefixada e PASSIVO em pós-fixada. Agora que temos o contrato firmado, vamos simular exatamente alguns cenários e saber o que irá ocorrer no contrato de swap!
+Swap
+Taxa de Juros no vencimentoPonta Ativa do Swap Pós-fixadaPonta Passiva do Swap PrefixadaResultado do SWAP8,00%+ R$ 1.080.000- R$ 1.100.000- R$ 20.000RToro Education PAGA10,00%+ R$ 1.100.000- R$ 1.100.000R$ 0,00Não há fluxo12,00%+ R$ 1.120.000- R$ 1.100.000+ R$ 20.000RToro Education RECEBE
+661CFG – Certificado em Fundamentos de Gestão
+[204364] Um exportador está temendo a flutuação no câmbio que pode vir a acontecer no médio prazo. Diante disso, ele procura um profissional para lhe ajudar a fazer um hedge. O profissional financeiro deveria recomendar a:a) Venda de dólar através de NDF.b) Compra de dólar através de NDFc) Compra de Opção de Compra de dólard) Compra de Dólar no mercado a vista
+Como a prova tem cobrado!

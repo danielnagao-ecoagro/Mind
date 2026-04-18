@@ -1,0 +1,9 @@
+=== PAGE 16 ===
+27CGA - Certificação de Gestores Anbima
+De maneira genérica, há três métodos chamados alternativos de indexação. Ou seja, através deles, o gestor consegue implementar uma estratégia passiva visando a acompanhar determinado índice de referência:Ø Full Replication;Ø Amostragem Estratificada; eØ Otimização.Na Full Replication, ou Replicação Total, gestor replica totalmente o índice de referência, comprando todos os ativos do índice e na mesma proporção da carteira teórica.  Dessa forma, o tracking error é praticamente zero, indicando uma excelente gestão passiva; contudo, os custos de transação podem ser um grande desafio, principalmente se o índice possuir muitos ativos e com baixa liquidez. Além disso, a carteira deve ser constantemente reconstituída e rebalanceada para acompanhar fielmente a carteira teórica do índice de referência.
+Conceito
+Métodos Alternativos de Indexação
+28CGA - Certificação de Gestores Anbima
+Já a Amostragem Estratificada é alternativa para evitar os altos custos de transação de uma replicação total. Na amostragem estratificada, o gestor define um subconjunto do índice, selecionando os ativos de forma a replicar as condições de retorno e risco do índice. São criados subconjuntos entre as ações constituintes que são mutuamente exclusivas e exaustivas. Esses subconjuntos, também chamados de estratos (daí o nome, estratificada), são frequentemente formados em várias dimensões. Quanto mais dimensões forem usadas, menor será o tracking error. No entanto, conforme o erro de rastreamento diminui à medida que o tamanho da amostra aumenta, a estratégia se parece muito mais com a replicação completa. Dessa forma, o gestor comprará primeiro as ações mais líquidas e de menor custo e, depois, avaliará a relação benefício/custo de adicionar ações menos líquidas e de menor representatividade no índice.
+Conceito
+Métodos Alternativos de Indexação

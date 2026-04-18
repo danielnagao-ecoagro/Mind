@@ -1,0 +1,4 @@
+=== PAGE 368 ===
+722CFG – Certificado em Fundamentos de Gestão
+ExemploPara montar o delta hedge, o investidor deverá vender 1.000.000 ações x 0,80 (delta) x R$ 5,00/ação = R$ 4.000.000,00. Nesse cenário, um aumento de 1% no preço da ação resultará numa perda de R$ 4.000.000 x 1% = R$ 40.000,00, por conta da posição vendida, neutralizando o ganho de R$ 40.000,00 calculado acima.Já se o investidor possuir uma opção de venda, o resultado será oposto. Sendo o delta da opção de venda de -0,80, ele deveria comprar 4.000.000 de ações. Isso porque, se o preço da ação subir 1%, a variação do financeiro da carteira será de R$ 5,00/ação x 1.000.000 ações x - 0,80 (delta) x 1,01 (variação de 1% no preço da ação) = - R$ 40.000,00. Como ele está comprado em 4.000.000 ações, 1% de alta significa R$ 40.000,00 de ganhos, neutralizando a perda calculada acima.
+Delta Hedge

@@ -1,0 +1,11 @@
+=== PAGE 66 ===
+CFG – Certificação em Fundamentos de Finanças123
+Teste de HipótesesExemploA área de qualidade da empresa fez testes em 50 galões, assumiu que os dados populacionais são normalmente distribuídos e que o desvio-padrão dessa população (conhecido) era de 0,25. Nos testes com os galões, chegaram a um volume médio de 10,1 litros por galão e o nível de significância adotado foi de 0,01. Temos então o seguinte:H0: µ ≤	10 (hipótese que se deseja rejeitar); Ha: µ >	10.Aplicando a estatística do teste, temos:
+     z = 2,83.
+10,1 - 10 0,2550z =0,10,03536z =
+CFG – Certificação em Fundamentos de Finanças124
+Teste de HipótesesA Tabela de Probabilidade da Curva Normal
+Devemos procurar, na tabela da Distribuição Normal Padrão, o valor correspondente a 2,83. Na coluna à esquerda, procuramos os dois primeiros números (2,8) e, então, seguimos nessa linha até a coluna 0,03, encontrando o valor de 0,9977.
+= 10µ0 x = 10,1
+0z = 2,83
+Valor-p = 1 – 0,9977 Valor-p = 0,0023

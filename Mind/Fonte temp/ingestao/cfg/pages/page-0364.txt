@@ -1,0 +1,9 @@
+=== PAGE 364 ===
+714CFG – Certificado em Fundamentos de Gestão
+Modelo Black
+-
+Scholes: as GregasConceitoAs chamadas gregas são derivadas do modelo de precificação de ativos de Black-Scholes com o objetivo de medir o comportamento do preço da opção em relação a quatro fatores: Ø Preço do ativo-objeto – Delta (Δ);Ø Tempo – Theta (Θ);Ø Volatilidade do ativo objeto – Vega (8); eØ Taxa de juros livre de risco – Rhô (9).Há ainda uma quinta grega, o Gamma (Γ), que mede a taxa de variação do delta em relação ao preço do ativo-objeto.
+715CFG – Certificado em Fundamentos de Gestão
+Modelo Black
+-
+Scholes: as GregasConceitoGregaRelacionamentoDelta (Δ) Preço da opção x preço do ativo-objetoTheta (Θ) Preço da opção x tempoVega (8) Preço da opção x volatilidade do ativo-objetoRhô (9) Preço da opção x taxa livre de riscoGamma (Γ) Delta x preço do ativo-objeto

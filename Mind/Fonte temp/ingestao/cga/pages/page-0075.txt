@@ -1,0 +1,7 @@
+=== PAGE 75 ===
+144CFG – Certificação de Fundamentos de Gestão
+Gestão de Carteiras RF em relação a passivosSpread DurationOutra estratégia de imunização de carteiras é através da chamada Spread Duration, que mede a sensibilidade do preço de um título privado a mudanças em seu spread de crédito. O spread de crédito é a diferença entre o rendimento de um título e o rendimento de uma taxa de referência (geralmente título público livre de risco para o mesmo vencimento).Taxa de Juros (%)
+tempo (t)
+Spread ATítulo Público (benchmark)Título Privado ATítulo Privado BSpread B
+145CFG – Certificação de Fundamentos de Gestão
+Gestão de Carteiras RF em relação a passivosConvexidadeOs preços dos títulos apresentam uma relação não linear com as taxas de juros. Ao formato da curva que expressa graficamente essa relação, damos o nome genérico de Convexidade. Especificamente nesse caso do gráfico de preço com relação a taxa de juros, a curva tem uma convexidade positiva.A convexidade dá um passo à frente com relação à duration, que assume justamente essa premissa de linearidade entre preço e taxa de juros de títulos prefixados de renda fixa.A duration funciona bem para pequenas mudanças nas taxas de juros. Porém, para mudanças maiores, a aproximação começa a ficar muito grosseira e precisamos fazer um ajuste para resolver esse problema. O ajuste vem justamente da convexidade.

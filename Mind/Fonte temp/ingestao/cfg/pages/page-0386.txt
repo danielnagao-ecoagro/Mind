@@ -1,0 +1,12 @@
+=== PAGE 386 ===
+756CFG – Certificação de Fundamentos em Gestão
+Já para o retorno, Markowitz utilizou o cálculo do Retorno Esperado através da média ponderada. Desta forma, no exemplo anterior, no qual “a ação A tem um desvio padrão de 10% e um retorno esperado de 11%. Já a ação de B possui um Desvio Padrão de  13% e  um retorno esperado de 12%. Se o peso de A na carteira for 75% e de B 25%...”, devemos utilizar somente os retornos, ignorando a informação do risco (desvio padrão).qRESPOSTA: Para calcularmos o desvio padrão da carteira, devemos aplicar a seguinte fórmula:
+Retorno Esperado de 2 Ativos
+Fronteira Eficiente de Markowitz
+ATIVORETORNO ESPERADOPESORETORNO PARA A CARTEIRAEmpresa A+11,00%75%+ 8,25%Empresa B+12,00%25%+ 3,00%RETORNO ESPERADO DA CARTEIRA → + 11,25%+
+757CFG – Certificação de Fundamentos em Gestão
+CML 
+–
+ 
+Capital Market 
+LineAdição do Ativo Livre de RiscoA introdução de um ativo livre de risco, cujo retorno chamaremos de  TLR e que não tem correlação alguma com os outros títulos (covariância e correlação = 0), faz com que a antiga “fronteira eficiente” (uma curva) mude para uma RETA chamada Capital Market Line (CML), sendo desta forma, uma evolução da fronteira eficiente!Conforme gráfico a seguir, a adição deste ativo livre de risco faz com esta reta em algum momento tangencie a “curva da fronteira eficiente” (ponto M), sendo este ponto uma carteira com 100% dos recursos investidos em ativos COM risco.Carteiras a esquerda do ponto M não estão alocando todos os recursos em ativos com risco (emprestam dinheiro, já que estão investindo em renda fixa) e pontos a direita de M estão tomando recursos emprestados para comprar mais ativos com risco (alavancados), vide que o somatório sempre deve ser 100%.q OBS: A relação risco-retorno das carteiras na reta CML dominam aquelas na antiga fronteira eficiente.

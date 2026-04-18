@@ -1,0 +1,11 @@
+=== PAGE 73 ===
+CFG – Certificação em Fundamentos de Finanças137
+Gráficos
+Regressão Linear SimplesEntão, utilizamos o Método dos Mínimos Quadrados para calcular a equação de regressão estimada. Esse método utiliza dados amostrais para produzir os valores b0 e b1 que minimizam a soma dos quadrados dos desvios entre os valores observados da variável dependente y e os valores estimados da variável dependente y.Utilizando um software, como o MS Excel, chegamos que a reta de regressão estimada para os dados plotados no gráfico abaixo é de: y = 6,6857 + 1,4571x.
+0510152025
+0 2 4 6 8 1012Variável independente (x)
+Variável dependente (y)
+ Assim, se x = 6, substituímos na equação e teríamos que o valor estimado de y seria:y = 6,6857 + 1,4571 x 6y = 15,43.
+CFG – Certificação em Fundamentos de Finanças138
+Medidas de associação entre 2 variáveisCoeficiente de Determinação (R2)O Coeficiente de Determinação (R2) nada mais é que o valor do coeficiente de correlação entre dois ativos (A,B) elevado ao quadrado, e portanto, nunca será um número negativo. Ele serve para mostrar quanto da variação de A é explicada pela variação de B e quanto da variação de A é devida a fatores aleatórios.O R² irá variar entre 0 e 1, sendo indicado em porcentagem. Quanto maior o R², mais explicativo é o modelo, ou seja, melhor ele se ajusta à amostra. Por exemplo, se o R² de um modelo é 0,9312, isto significa que 93,12% da variável A é dependente da variável B. q FÓRMULA:
+q OBSERVAÇÃO: Essa relação é válida somente em Regressões Lineares Simples.R!=#(#,%)!

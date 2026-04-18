@@ -1,0 +1,9 @@
+=== PAGE 24 ===
+CFG – Certificação em Fundamentos de Finanças39
+Através desta tabela, podemos perceber como a HP-12C chegou no valor final (FV) de             R$ 2.460,81. Os juros (i) sempre são aplicados sobre o TOTAL do período anterior (juros do período 2, veio através da multiplicação da taxa pelo TOTAL do período 1). Outro ponto que fica claro é que, em relação ao último aporte, não há aplicação de juros, ele apenas será somado, conforme demonstrado pelo gráfico anterior apresentado.
+Exemplo 8 (PMT Postecipado - Tabela)
+Regimes de Capitalização: Juros Compostos
+PeríodoAPORTE (PMT)JUROS (1%)TOTAL (FV)0 0 0 01 R$ 400,000 R$ 400,002 R$ 400,00R$ 4,00R$ 804,003 R$ 400,00R$ 8,04R$ 1.212,044 R$ 400,00R$ 12,12R$ 1.624,165 R$ 400,00R$ 16,24R$ 2.040,406 R$ 400,00R$ 20,40R$ 2.460,81
+CFG – Certificação em Fundamentos de Finanças40
+Exemplo 9 (PMT Antecipado)q EXEMPLO: Rafael assinou um plano de previdência de R$ 400,00 por mês, com aportes antecipados, onde rendeu 1% ao mês. Qual foi o valor total após 6 meses?q RESPOSTA:Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Pressione [g] e depois [7] → Informa a função “BEGIN” (depósitos antecipados)Ø (3) Digite [6] e pressione [n] Ø (4) Digite [1] e pressione [i] Ø (5) Digite [400][CHS] e pressione [PMT]Ø (6) Aperte [FV]Ø Resposta: R$ 2.485,41 ao mêsq OBSERVAÇÃO: Após realizar algum exercício que necessite utilizar a função Begin, volte para a função END [g][8]. O normal na vida é termos parcelas postecipadas.
+Regimes de Capitalização: Juros Compostos

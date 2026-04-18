@@ -1,0 +1,9 @@
+=== PAGE 332 ===
+650CFG – Certificado em Fundamentos de Gestão
+Qual o cupom cambial de um papel com 90 dias corridos (63 DU), a TLR é igual a                     12% a.a. (base 252), a taxa spot é R$ 2,07/U$ e o forward para 3 meses é R$ 2,10/U$?                (1 + Taxa Real)(DU/252)                                                                          
+                                                                         (1 + Cupom Cambial × (DC/360))Fórmula: Forward =  Spot × !$	$,&'!$	$,'(	=&,'$*(+(&+--×/'+0'!$	$,&'=!$	$,'(×&+&$%!"#$#&+--×/'+0'&,'&22/+×&+--×/'+0'=&,'$*(+(&+--×/'+0'=&,'$*(+(&,'&22/+&+--×',$3=	&,'&2'2&--×',$3=	&,'&2'2&−&
+1 23 45 6--=','&2'2&÷',$3 --=','30&02=3,0$%	6.6.7 8
+Cupom Cambial: Cálculo
+Contrato Futuro
+651CFG – Certificado em Fundamentos de Gestão
+Contrato FuturoFRA de Cupom CambialConforme a definição da B3, “O Forward Rate Agreement (FRC) é um produto estruturado que combina a negociação de dois contratos futuros de Cupom Cambial, com natureza opostas, de forma a expor o investidor à um Cupom Cambial à termo, ou seja, com início em uma data futura. Esse mecanismo auxilia os investidores a negociar uma taxa de juro referenciada em dólar à termo sem correr o risco de execução em livros de ofertas distintas para cada Futuro de Cupom Cambial”.q PRINCIPAIS VANTAGENS: Ø Auxilia o cliente a realizar proteção de taxa de juros referenciada em dólar.Ø Elimina o risco de execução ao combinar em uma única operação dois vencimentos distintos de Futuro de Cupom Cambial. Ø Auxilia investidores a alongar a exposição cambial com baixo risco de execução se combinado com Contratos Futuros de Dólar e de DI.

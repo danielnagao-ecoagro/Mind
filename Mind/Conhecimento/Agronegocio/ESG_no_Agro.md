@@ -14,4 +14,8 @@ A [[CPR_Cedula_Produto_Rural|CPR Verde]] é um título de crédito destinado a r
 - Utilização de sensoriamento remoto (satélites) para monitoramento de áreas.
 - Certificações como RTRS (soja), Bonsucro (cana-de-açúcar) e selos de bem-estar animal.
 
+## Referências e Links
+- [[Juridico_e_Regulatorio/Regulacao_e_Autorregulacao_ASG|Regulação e Autorregulação ASG]]
+- [[Fundos_Investimento/FIAGRO/FIAGRO_Conceitos|FIAGRO Conceitos]]
+
 #agro #esg #sustentabilidade #cpr-verde #governanca

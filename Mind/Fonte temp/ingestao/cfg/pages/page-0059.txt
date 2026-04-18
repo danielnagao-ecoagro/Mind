@@ -1,0 +1,6 @@
+=== PAGE 59 ===
+CFG – Certificação em Fundamentos de Finanças109
+[503203] O intervalo com 99% de confiança para os possíveis retornos de um ativo com média de 40%, desvio padrão de 5% e t crítico de 2,33 éa) 35%; 45%.b) 37,33%; 42,67%.c) 28,35%; 51,65%.d) 188,35%; 211,65%.
+Como a prova tem cobrado!
+CFG – Certificação em Fundamentos de Finanças110
+ProbabilidadeDistribuição LognormalA distribuição lognormal é gerada pela função ex, em que x é normalmente distribuído. Conforme abaixo, essa distribuição é distorcida (skewed) para a direita e é limitada por zero, de modo que é útil para modelar preços de ativos, que nunca assumem valores negativos.

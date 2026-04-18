@@ -1,0 +1,8 @@
+=== PAGE 51 ===
+CFG – Certificação em Fundamentos de Finanças93
+Desvio Padrão do Retorno EsperadoQuando estamos tratando de Retornos Esperados, os dados utilizados serão as projeções das rentabilidades, que englobam cenários com probabilidades, ou seja, possuem pesos diferentes. Com isso, a HP-12C não terá tamanha valia e o cálculo deverá ser feito manualmente. A estratégia a ser utilizada para calcularmos o Desvio Padrão dos Retornos Esperados continuará sendo a mesma: montar o “quadro” com o mesmo passo-a-passo. Porém, devemos ficar atento nos seguintes itens:Ø A média a ser utilizada não será mais a simples, mas sim, a média ponderada;Ø Continuaremos elevando o risco de cada ponto ao quadrado;Ø No entanto, ao invés de fazermos a média dos riscos ao quadrado, deveremos multiplicar estes resultados pela sua probabilidade e somar. A fórmula acaba sendo:
+Risco & Retorno Esperado
+CFG – Certificação em Fundamentos de Finanças94
+Estado da EconomiaProbabilidadeRetorno Esperado Toro CursosRetorno  EsperadoART EducationÓtimo20%-5% 35%Bom30%25%20%Normal40%30%15%Fraco10%35%0%
+Desvio Padrão: ExemploAs empresas de educação financeira “T oro Cursos” e a “ART Education” possuem as seguintes expectativas de retorno para os quatros estados da economia. Desta forma, calcule o retorno esperado e o desvio padrão de cada uma delas.
+Risco & Retorno Esperado

@@ -1,0 +1,16 @@
+=== PAGE 349 ===
+684CFG – Certificado em Fundamentos de Gestão
+Preço: Ativo-Objeto
+Preço: Opção de Compra
+Modelo BinomialÁrvore BinomialO exemplo abaixo demonstra a ideia da Árvore Binomial, no qual temos o cenário de uma ação que está valendo no mercado hoje R$ 50,00 e que em 1 ano poderá valer R$ 60,00 ou R$ 40,00, com uma certa probabilidade em cada um desses cenários. Não entraremos no detalhe do cálculo, mas apenas da ideia deste modelo.
+R$ 50,00R$ 40,00R$ 60,00Hoje1 ano depois
+Preço: Ativo-ObjetoS dSuSt t + 11 - pp
+?R$ 0,00R$ 10,00
+Hoje1 ano depois
+Preço: Opção de CompraC Cd = Max [0, dS - X]Cu = Max [0, uS - X]
+t t + 11 - pp probabilidadeprobabilidade
+EXEMPLO
+685CFG – Certificado em Fundamentos de Gestão
+Modelo Black
+-
+ScholesConceitoO modelo Black& Scholes desenvolvido em 1973 por Fischer Black e Myron Scholes é o mais utilizado pelo mercado financeiro para precificar do tipo EUROPEIA. Este  conceito utiliza algumas premissas para seus cálculos, tais como:Ø Não há custos de transação ou impostos;Ø Não há oportunidade de arbitragem sem risco;Ø A opção só poderá ser exercida na data do vencimento;Ø As ações não possuem dividendos;Ø Custo de empréstimo é igual ao custo de captação;Ø Volatilidade (medida pelo desvio padrão) é constante; Ø A TLR é constantes e idêntica a qualquer prazo.;Ø O retorno esperado do investimento ativo-objeto é constantes.

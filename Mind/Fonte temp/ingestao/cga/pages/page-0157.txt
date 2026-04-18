@@ -1,0 +1,6 @@
+=== PAGE 157 ===
+305CGA – Certificação de Gestores Anbima
+Risco de CréditoDESCRIÇÃOSTANDAR & POOR’SFITCHMOODY’S“Grau de Investimento”Baixo risco de CaloteAAAAAAAaaAAAAAaAAA“Grau de Investimento”Pequeno risco de CaloteBBBBBBBaa“Grau Especulativo”Moderado risco de CaloteBBBBBaBBB“Grau Especulativo”Elevado risco de CaloteCCCCCCCaaCCCCCaCCCDDDDICA: Quanto mais “As”, melhor é o Rating da empresa
+Ratings
+306CGA – Certificação de Gestores Anbima
+Risco de CréditoImpactos na Mudança de RatingQuando uma empresa tem sua nota de crédito piorada (por exemplo A para BB), os investidores novos exigirão um maior prêmio para investir nos títulos de dívida desta companhia. Caso ocorra o contrário, a empresa tenha seu rating melhorado, os investidores novos exigirão um retorno menor para investir nos mesmos tipos de dívidas. O ponto central é que existem os títulos já emitidos pela empresa negociados no mercado secundário (com uma taxa já definida) e existe também a possibilidade da empresa emitir novas dívidas.  Desta forma, precisamos compreender o que ocorre em cada um dos casos e para isso, criamos uma tabela para você compreender esses impactos! RATINGRETORNO EXIGIDOEMISSÕES NOVASEMISSÕES ANTIGASELEVAÇÃO DO RATINGRETORNO EXIGIDO DIMINUITAXA EMITIDAMENORPREÇO DO TÍTULO SOBE(AGIO)DIMINUIÇÃO DO RATINGRETORNO EXIGIDO AUMENTATAXA EMITIDAMAIORPREÇO DO TÍTULO CAI(DESÁGIO)

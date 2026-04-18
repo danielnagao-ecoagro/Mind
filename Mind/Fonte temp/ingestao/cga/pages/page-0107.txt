@@ -1,0 +1,7 @@
+=== PAGE 107 ===
+207CGA - Certificação de Gestores Anbima
+Títulos Americanos de Renda Fixa
+CY=Cupom	em	dinheiro	anual Valor	de	Mercado	do	Ativo
+Medidas de RetornoqYield to Maturity (YTM): É a taxa interna de retorno (TIR) dada ao ano dos fluxos de caixa do título, incluindo o valor da compra, os cupons e o valor no vencimento, considerada a taxa de mercado do título negociado. Esta metodologia é mais precisa que o Current Yield.q Current Yield: Corresponde a soma de todos os recebimentos em dinheiro pagos pelos juros do título ao credor em um ano em relação ao preço do título. Esta metodologia não considera a hipótese de reinvestimento e nem o recebimento final da dívida (desconsidera o ágio ou deságio da compra de um ativo). Sua fórmula é:
+208CGA - Certificação de Gestores Anbima
+Títulos Americanos de Renda FixaMedidas de RetornoqYield to Call (YTC): É a taxa interna de retorno (TIR) que o investidor recebe até o momento em que o emissor exerce o direito de comprar de volta o título, uma vez que possui uma opção de compra.q Yield to Put (YTP): É a taxa interna de retorno (TIR) que o investidor recebe até o momento em que ele exerce o direito de vender de volta o título ao emissor, uma vez que possui uma opção de venda.q Yield to Worst (YTW): É o rendimento no pior cenário, isto é, a taxa interna de retorno (TIR) que o investidor obterá ao comprar um título com opção de compra embutida e mantê-lo até o vencimento ou resgate (exercício da opção de compra pelo emissor). O YTW considera o menor valor entre o YTM e o YTC.

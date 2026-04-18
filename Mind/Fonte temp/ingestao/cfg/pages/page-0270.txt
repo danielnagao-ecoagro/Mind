@@ -1,0 +1,9 @@
+=== PAGE 270 ===
+526CFG – Certificado em Fundamentos de Gestão
+Estrutura a Termo da Taxa de Juros
+Parte que deve ser subtraídaHP 12C: Parte que deve ser subtraída:Ø 100 [ENTER]Ø 3 [%] [+]Ø 4 [%] [+]Ø 100 [-]Ø Resposta: 7,12%
+HP 12C: Taxa Spot desejadaØ 109,26 [FV]Ø 107,12 [CHS] [PV]Ø 1 [n]Ø clicar em iØ Resposta final: 2% a.a1 2
+Exemplo 2: Cálculo HP12CComo percebemos, (1) a taxa total de um período é o somatório das taxas intermediárias, e (2) um “pedaço” dessa taxa é a taxa total subtraída das taxas que não queremos, lembrando que em juros compostos, “subtração” significa “divisão”.
+527CFG – Certificado em Fundamentos de Gestão
+5.2.1 Títulos Públicos Federais
+527

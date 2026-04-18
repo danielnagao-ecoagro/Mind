@@ -1,0 +1,17 @@
+=== PAGE 214 ===
+414CFG – Certificado em Fundamentos de Gestão
+BDR’S
+: 
+Brazilian
+ 
+Depositary
+ 
+ReceiptsPrograma de BDRPoderão ser instituídos programas de BDRs, patrocinados ou não pela companhia aberta, ou assemelhada, emissora dos valores mobiliários objeto do certificado de depósito, os quais deverão ser previamente registrados na CVM. Desta forma, fica claro que todos os programas necessitam ser registrados, mas não que as empresas precisam ser registradas na CVM (como veremos a seguir). Estes programas podem ser classificados como:Ø BDR Patrocinado Nível I: Não há registro da empresa na CVM (regra geral).§ Negociados no mercado de balcão não organizado ou em segmentos específicos de BDRs nível I em mercados de balcão organizado ou bolsa (B3);§ Divulgação, no Brasil, pela instituição depositária, das informações que a companhia emissora está obrigada a divulgar em seu país de origem e no país em que o valor mobiliário é admitido à negociação;§ Dispensa de registro de companhia na CVM, ressalvada a hipótese de BDR com lastro em títulos representativos de dívida emitidos por emissores nacionais com registro na CVM;§ Possibilidade de oferta pública sujeita ao rito automático de distribuição, nos termos da regulamentação específica, hipótese na qual a negociação deve obrigatoriamente ocorrer em segmentos específicos para BDR Nível I de entidade de mercado de balcão organizado ou bolsa de valores.
+415CFG – Certificado em Fundamentos de Gestão
+BDR’S
+: 
+Brazilian
+ 
+Depositary
+ 
+ReceiptsPrograma de BDR(...) Continuação Ø BDR Patrocinado Nível II: Registro da companhia na CVM.§ Não há emissão de ações;§ Negociados na bolsa de valores ou no mercado de balcão organizado;§ Possibilidade de oferta pública sujeita ao rito automático de distribuição, nos termos da regulamentação específica.Ø BDR Patrocinado Nível III: Há emissão de ações (através de oferta pública).§ Possibilidade de distribuição por oferta pública registrada na CVM, nos termos da regulamentação específica; § Negociados na bolsa de valores ou no mercado de balcão organizado;§ Registro da companhia na CVM;§ Mais completo e oneroso. Ø BDR NÃO Patrocinado: Não há envolvimento da companhia estrangeira.§ Instituído por uma ou mais instituições depositárias ou emissoras de certificado, sem envolvimento da companhia estrangeira emissora dos valores mobiliários lastro, e só pode ser classificado como Nível I. Desta forma, este nível é parecido ao BDR Nível I, mas sem o envolvimento da companhia.

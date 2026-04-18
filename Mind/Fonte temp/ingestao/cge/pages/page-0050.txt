@@ -1,0 +1,13 @@
+=== PAGE 50 ===
+90CGE – Certificação de Gestores Anbima para Fundos Estruturados
+FIDC
+ 
+–
+ 
+Direitos CreditóriosGestão de Risco de CréditoØProvisões e Reservas: o FIDC pode conshtuir reservas ou provisões para cobrir possíveis perdas decorrentes de inadimplência ou deterioração da qualidade dos ahvos. Essas reservas ajudam a proteger o fundo contra perdas e garantem a estabilidade de seus retornos;ØReavaliação da Carteira: periodicamente, a gestão do FIDC reavalia a qualidade e o desempenho dos ahvos da carteira, ajustando a composição da carteira conforme necessário para reﬂehr as condições de mercado e minimizar os riscos; eØAvaliação de Garanlas: quando aplicável, a gestão do FIDC avalia a qualidade e a suﬁciência das garanhas associadas aos direitos creditórios, garanhndo que o fundo tenha proteção adequada em caso de inadimplência.
+91CGE – Certificação de Gestores Anbima para Fundos Estruturados
+FIDC
+ 
+–
+ 
+Direitos CreditóriosProvisão para Devedores Duvidosos (PDD)A Provisão para Devedores Duvidosos (PDD) em Fundos de Investimento em Direitos Creditórios (FIDCs) é uma reserva financeira constituída para cobrir possíveis perdas relacionadas à inadimplência ou à deterioração da qualidade dos ativos da carteira do fundo. Alguns aspectos importantes da PDD são:ØConstituição da PDD: a gestão do FIDC calcula a PDD com base em uma avaliação da qualidade e do risco de crédito dos ativos da carteira. Essa avaliação considera fatores como a probabilidade de inadimplência dos devedores, a qualidade das garantias associadas aos créditos e as condições econômicas e de mercado;ØMétodos de Cálculo: existem diferentes métodos para calcular a PDD em FIDCs, sendo os mais comuns o método de provisão direta e o método de provisão por faixas de atraso. no método de provisão direta, a PDD é calculada com base em uma porcentagem fixa aplicada ao valor dos ativos da carteira. No método de provisão por faixas de atraso, a PDD é calculada com base na idade das dívidas em atraso, sendo aplicadas taxas diferentes para diferentes faixas de atraso;ØImpacto nos Resultados: a constituição da PDD reduz os resultados do FIDC, uma vez que representa uma despesa contábil. Ao provisionar para devedores duvidosos, o fundo reconhece a possibilidade de perdas futuras e prepara-se para enfrentar essas eventualidades.

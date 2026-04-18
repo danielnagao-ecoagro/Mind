@@ -1,0 +1,11 @@
+=== PAGE 59 ===
+107CGE – Certificação de Gestores Anbima para Fundos Estruturados
+ETF 
+–
+ 
+Fundos de ÍndiceCaracterísticasExistem algumas diferenças importantes entre ETFs e fundos de investimento tradicionais (também conhecidos como fundos mútuos), embora ambos sejam veículos populares de investimento:ØNegociabilidade: os ETFs são negociados em bolsa, o que significa que os investidores podem comprar e vender suas participações ao longo do dia de negociação, enquanto aplicações em fundos mútuos são realizadas uma vez por dia;ØTransparência: os ETFs geralmente divulgam suas participações diariamente, permitindo aos investidores ver exatamente quais ativos estão incluídos no fundo. Os fundos mútuos divulgam suas carteiras, mas com menor frequência;ØCustos: os ETFs tendem a ter custos operacionais mais baixos do que os fundos mútuos, em parte devido à sua estrutura de negociação em bolsa. Além disso, muitos ETFs são passivamente gerenciados e buscam replicar um índice específico, o que reduz os custos de gestão em comparação com os fundos mútuos ativamente gerenciados.
+108CGE – Certificação de Gestores Anbima para Fundos Estruturados
+ETF 
+–
+ 
+Fundos de ÍndiceETFs ASGOs ETFs (Exchange Traded Funds), conhecidos também como Fundos de Índice, são fundos abertos que buscam obter retorno semelhante com base em determinado índice, com a diferença que suas cotas são negociadas em bolsa ou mercado de balcão, como se fossem ações ou fundos fechados. Estes fundos devem manter 95%, no mínimo, de seu patrimônio líquido aplicado em valores mobiliários de renda fixa ou outros ativos de renda variável autorizados pela CVM. Em se tratando de um ETF ASG, no Brasil é possível estruturá-lo, por exemplo, seguindo o Índice S&P/B3 Brasil ESG. Esse índice tem como objetivo medir a performance das empresas com as melhores práticas de sustentabilidade baseadas em critérios ASG. O índice adota como principal fator de ponderação as notas ASG das companhias elegíveis à carteira teórica, através de uma metodologia proprietária da Standard&Poor’s, que também é utilizada no índice Dow Jones Sustainability. Além disso, o índice exclui ações com base na sua participação em certas atividades comerciais, no seu desempenho em comparação com o Pacto Global da ONU e também empresas sem pontuação ASG da S&P DJIA.

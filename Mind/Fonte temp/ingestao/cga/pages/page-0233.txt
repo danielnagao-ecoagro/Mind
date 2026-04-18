@@ -1,0 +1,7 @@
+=== PAGE 233 ===
+455CGA – Certificação de Gestores Anbima
+Resolução CVM 175A classe tipificada como CAMBIAL deve ter como principal fator de risco de carteira a variação de preços de moeda estrangeira ou do cupom cambial.Além disso, no mínimo 80% da carteira deve ser composta por ativos relacionados diretamente, ou sintetizados via derivativos, ao fator de risco que dá nome ao tipo.
+Fundos Cambiais
+456CGA – Cer5ﬁcação de Gestores Anbima
+Resolução CVM 175A classe tipificada como MULTIMERCADO deve ter política de investimento que envolva vários fatores de risco, sem compromisso de concentração em nenhum fator em específico.Os investimentos feitos pela classe Multimercado em ações e assemelhados não estão sujeitos aos limites de concentração por emissor no Anexo Normativo I da Resolução CVM 175, desde que assim esteja expressamente previsto no regulamento e o termo de adesão contenha alerta de que a carteira pode estar exposta ao risco de concentração em ativos de poucos emissores. 
+Fundos Multimercado

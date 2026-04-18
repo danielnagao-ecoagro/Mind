@@ -1,0 +1,9 @@
+=== PAGE 50 ===
+CFG – Certificação em Fundamentos de Finanças91
+1.5 Risco & Retorno Esperado
+91
+CFG – Certificação em Fundamentos de Finanças92
+RentabilidadeObservadaRentabilidadeEsperadaHojePassadoFuturoLinha do Tempo
+A RENTABILIDADE OBSERVADA de um investimento está relacionada com o conceito de passado, com o seu devido histórico. Ela é muito comum aparecer quando se quer demonstrar o retorno de investimento até o exato momento. Por exemplo, “o fundo de investimentos XYZ rendeu 2% ao mês, nos últimos 36 meses”. Quando ela é apresentada a um investidor através do retorno passado de um vendo, a lei exige que junto seja incluído a frase “retornos passados, não são garantias de retornos futuros”.Já a RENTABILIDADE ESPERADA condiz com a expectativa futura de um retorno. Seu cálculo leva em consideração as possibilidades de cenários futuros ocorreram e os pesos dos ativos. Mas não se preocupa, cálculos não caem na prova, somente o conceito! 
+Rentabilidade Observada x Esperada
+Risco & Retorno Esperado

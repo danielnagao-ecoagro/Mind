@@ -1,0 +1,8 @@
+=== PAGE 290 ===
+566CFG – Certificado em Fundamentos de Gestão
+5.2.3 Índices do Mercado de 
+Renda Fixa566566566566
+567CFG – Certificado em Fundamentos de Gestão
+IMA-GeralMédia ponderada dos retornos diários do IMA-B, IMA-C, IMA-S e IRF-MIMA-Geral ex-CMédia ponderada dos retornos diários do IMA-B, IMA-C, IMA-S e IRF-MIMA-BComposição NTN-B (IPCA)IMA-CComposição NTN-C (IGP-M) IRF-MComposiçãoLTN e NTN-F(Prefixado)IMA-SComposição LFT* (Taxa Selic)IMA-C 5+ComposiçãoNTN-CPrazo ≥ 5 anosIMA-B 5ComposiçãoNTN-BPrazo < 5 anosIMA-B 5+ComposiçãoNTN-BPrazo ≥ 5 anosIMA-C 5ComposiçãoNTN-CPrazo < 5 anosIRF-M 1+ComposiçãoLTN e NTN-FPrazo ≥ 1 anoIRF-M 1ComposiçãoLTN e NTN-FPrazo < 1 ano
+*Não inclui LFT-A e LFT-B
+Índices de Renda Fixa AnbimaGráfico

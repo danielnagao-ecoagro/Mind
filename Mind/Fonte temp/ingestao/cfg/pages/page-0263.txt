@@ -1,0 +1,6 @@
+=== PAGE 263 ===
+512CFG – Certificado em Fundamentos de Gestão
+5.2 RENDA FIXA
+512
+513CFG – Certificado em Fundamentos de Gestão
+Renda FixaIntroduçãoOs títulos derenda fixasão contratos onde de um lado alguém está precisando de dinheiro e do outro, a contraparte aceita emprestar os recursos cobrando uma certa taxa de juros, podendo ela ser conhecida desde o início (juro prefixado) ou indexada (IPCA, IGP-M, CDI, Selic,...). Quando este devedor for o governo federal, dizemos que é um título público federal, sendo o emissor da dívida o Tesouro Nacional. Já quando for um agente privado (bancos, padarias, lojas,...), classificamos como títulos privados. Portanto, este mercado está relacionado à gestão de títulos de crédito, sendo os seus instrumentos de renda fixa geridos e fiscalizados pelo Banco Central, juntamente com a Comissão de Valores Mobiliários (CVM), quando se tratar, principalmente de ofertas públicas.Atualmente, os títulos do Governo Federal possuem a maior relevância dentre o mercado de renda fixa nacional, movimentando aproximadamente 95% do volume financeiro. Isso demonstra que os títulos privados de crédito ainda possuem pouca relevância no mercado nacional. Vale ressaltar que o Governo Federal também utiliza os títulos do Tesouro Nacional como ferramenta para a rolagem da dívida pública federal.

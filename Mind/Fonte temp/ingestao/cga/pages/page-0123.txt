@@ -1,0 +1,29 @@
+=== PAGE 123 ===
+238CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money 
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoQuando vamos medir o desempenho de um gestor, os eventuais fluxos de caixa resultantes de solicitações de aportes e de resgates pelos clientes pode impactar o retorno final de uma carteira.Temos duas formas genéricas de avaliar esse desempenho:Ø MWRR (Money Weighted Rate of Return): nada mais é do que a TIR e seu resultado é influenciado por fluxos de caixa externos.Ø  TWRR (Time Weigthed Rate of Return): mede a rentabilidade da carteira sem considerar os fluxos de caixa externos.
+239CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money 
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoVamos a um exemplo com 3 cenários para entender melhor o impacto desses fluxos de caixa, sempre com um aporte inicial de R$ 1.000.000,00.Ø  Primeiro cenário: investidor não faz qualquer solicitação de aporte ou resgate;Ø  Segundo cenário: investidor faz uma solicitação de aporte de R$ 200.000,00;Ø  Segundo cenário: investidor faz uma solicitação de resgate de R$ 200.000,00.Vamos simular dois períodos: no primeiro, o fundo registrou rentabilidade positiva de 10% e, no segundo, negativa de 5%. As eventuais solicitações de movimentações ocorrem sempre ao final do ano 1. Com isso, desconsiderando as movimentações o retorno do fundo é a composição das rentabilidades de cada período:Retorno Total =1+0,10×1−0,05−1×100 = 4,5% a.p.

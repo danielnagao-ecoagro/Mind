@@ -27,6 +27,8 @@ O histórico de crédito (Cadastro Positivo, SCR do Banco Central) é o principa
 - [[Credito_e_Risco/Indice_Credito|Voltar para Crédito e Risco]]
 - [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC e Cotas]]
 - [[Estruturacao_e_Operacoes/Originacao|Originação de Ativos]]
+- [[Analise_Financeira_e_Corporativa/Analise_das_Demonstracoes_Contabeis|Análise das Demonstrações Contábeis]]
+- [[Metodos_Quantitativos/Regressao|Regressão]]
 
 ---
 [[Mind/Conhecimento/indice|Índice Principal]]

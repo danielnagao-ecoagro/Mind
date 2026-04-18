@@ -1,0 +1,18 @@
+=== PAGE 174 ===
+339CGA – Certificação de Gestores Anbima
+ConceitoAgora, considere que a carteira tenha agora R$ 5.000.000, sendo R$ 3.000.000 do ativo X e R$ 2.000.000 do ativo Y. Perceba que temos a seguinte proporção: 3 unidades do ativo X e 2 unidades do ativo Y. Sendo ainda VaR(X) = R$ 5.000,  VaR(Y) = R$ 7.000 e $ (X,Y) = 0,5, o VaR da carteira será:
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) de carteiras com dois ativos
+VaR3X+2Y=(3>5.000)2+(2>7.000)2+2	>	3>5.000	>	2>7.000	>	0,5VaR3X+2Y=225.000.000+196.000.000+210.000.000VaRX+Y=631.000.000!"#$+&=-H.CCI,JC
+340CGA – Certificação de Gestores Anbima
+ConceitoRisk Budgeting, ou Orçamento de Risco, é o processo de determinar quais riscos são aceitáveis e como o risco total da empresa (ou de um fundo de investimento, por exemplo) é alocado entre as unidades de negócios ou gestores de carteira. Através de um ERM (Enterprise Risk Management ou Sistema de Gerenciamento de Riscos Corporativos), a alta administração aloca diferentes quantias de capital entre os gerentes de carteira.Nesse sentido, a alta administração determina o montante de capital e VaR associado alocado aos gestores de carteiras, com base na desejada para cada setor e para cada gestor (em se tratando, por exemplo, de Fundo de Fundos).Com isso, é possível monitorar continuamente o orçamento de riscos para que quaisquer desvios sejam imediatamente identificados. Outra vantagem do uso de um ERM é a possibilidade de comparar o desempenho de cada gestor em relação ao montante de capital e risco alocado.
+Risk
+ 
+Budgeting

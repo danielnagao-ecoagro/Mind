@@ -1,0 +1,11 @@
+=== PAGE 23 ===
+41CGA - Certificação de Gestores Anbima
+EstilosPor sua vez, o Estilo Blend é uma combinação de características dos estilos Growth e Value. Temos ainda o Estilo baseado no grau de Capitalização de uma empresa, que pode ser entendido como o tamanho da empresa, geralmente medido pelo produto entre o número de ações em circulação e o valor de cada ação. Podem ser:ØSmall Caps: empresas de menor capitalização. Normalmente são ativos com maior risco, ou seja, maior desvio-padrão e menor liquidez. Geralmente são companhias com capitalização entre US$ 300 milhões e US$ 2 bilhões;ØMid-Caps: empresas com capitalizações maiores (entre US$ 2 bilhões e US$ 10 bilhões), maior liquidez e menor desvio padrão que os small caps; eØLarge Caps: empresas com capitalização superior a US$ 10 bilhões, costumam apresentar menores desvios-padrão e grande liquidez. São as empresas predominantes nos índices Dow Jones Industrial Average e S&P 500. Geralmente companhias classificadas como blue chip, de grande estabilidade financeira.
+Long
+ 
+only
+42CGA - Certificação de Gestores Anbima
+EstilosAlém desses, ainda temos o estilo Growth at a Reasonable Price (GARP), ou Crescimento a um Preço Razoável, uma estratégia de investimento que busca combinar princípios dos estilos Value e Growth para selecionar ações. Os investidores GARP procuram empresas que apresentem um crescimento consistente dos lucros acima dos níveis gerais do mercado (mais em linha com o estilo Growth), excluindo as empresas que têm avaliações muito altas (característica do estilo Value). O objetivo é evitar os dois extremos de cada estratégia Value e Growth. Dessa forma, investidores que seguem o estilo GARP costumam focar em ações com expectativas de crescimento dos múltiplos preço/lucro (P/L), optando por ativos que possuem tal múltiplo relativamente baixo.Por fim, temos as empresas com o estilo de Alto Dividend Yield, que pagam dividendos acima da média de mercado.
+Long
+ 
+only

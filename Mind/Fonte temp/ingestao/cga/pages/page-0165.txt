@@ -1,0 +1,13 @@
+=== PAGE 165 ===
+321CGA – Certificação de Gestores Anbima
+Medidas de 
+DispersãoAnalisando duas Aplicações
+01234567
+012345678910
+Fundo BFundo AMédia
+Para as finanças, o Desvio Padrão e a Variância nos indicam o Risco de Mercado do ativo. Este risco é conhecido também por Volatilidade, que nada mais é que a sua oscilação perante a média de retornos. No entanto, quanto maior o risco, maior o retorno exigido por aquele investimento e caso dois investimento possuam o mesmo retorno, devemos escolher o que possui o menor risco. Por exemplo, dois fundos que possuam um retorno médio de 3% e que apresentem os retornos abaixo, deve-se escolher o Fundo A, pois possui menor oscilação e, consequentemente, menor Desvio Padrão que o Fundo B.
+322CGA – Certificação de Gestores Anbima
+Medidas de 
+DispersãoVariância e Desvio Padrão: Resumo
+VARIÂNCIA POPULACIONALVARIÂNCIA AMOSTRAL
+Os principais pontos a serem destacados do Desvio Padrão e da Variância são :Ø Medem o risco de mercado (volatilidade ou oscilação) de um ativo;Ø Quanto maior o desvio padrão/variância, maior será o risco do investimento (mais ele estará se “desviando do seu padrão”).Ø A Variância sempre será um número positivo;Ø O Desvio Padrão é tanto um número positivo, quanto negativo;Ø O Símbolo do Desvio Padrão é o Sigma (σ)Ø A Variância é representada pelo Sigma ao quadrado (σ2)q FÓRMULAS:

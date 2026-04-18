@@ -1,0 +1,6 @@
+=== PAGE 320 ===
+626CFG – Certificado em Fundamentos de Gestão
+626
+5.4 Derivativos
+627CFG – Certificado em Fundamentos de Gestão
+DerivativosConceitoUm dos principais pilares de uma gestão financeira é o conceito e a mensuração de risco. Isto por que, sob a ótica de uma empresa, as expectativas de lucro nos empreendimentos devem ser analisados juntamente com os riscos envolvidos no negócio, por exemplo, não basta uma empresa brasileira vender sua mercadoria aos estados unidos sem analisar a exposição do risco de descasamento entre o recebimento em dólares e o custo de produção (ocorrido em reais).Para as incertezas ocorridas na vida das pessoas (falecimento, doenças, incêndio) foram criados produtos específicos pelo mercado segurador. Já para as incertezas ocorridas nos mercados financeiros (variação cambial, de taxas de juros, valor das ações, ...), surgiram os contratos derivativos, assunto deste capítulos.Portanto, os derivativos são instrumentos financeiros, cujo preço deriva de um ativo ou instrumento financeiro de referência (ativo-objeto), sendo um mercado de Liquidação Futura.

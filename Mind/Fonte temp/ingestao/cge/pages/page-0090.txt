@@ -1,0 +1,9 @@
+=== PAGE 90 ===
+166CGE – Certificação de Gestores Anbima para Produtos Estruturados
+-R$ 100.000
+0 R$ 70.000Ano 5
+Avaliação de DesempenhoExemploUm investidor aplicou R$ 100.000 em um fundo de Private Equity, sendo o único cotista desse fundo. Passados cinco anos do aporte, o fundo distribui R$ 70.000 ao investidor e, ao final do ano 6, mais R$ 100.000. O fundo continua operando, com um Net Asset Value (NAV) de R$ 300.000. A Taxa Interna de Retorno (TIR) anual para esse investidor até o momento é de aproximadamente quanto?
+R$ 100.000Ano 6R$ 300.000
+167CGE – Certificação de Gestores Anbima para Produtos Estruturados
+FLUXOTECLAMOTIVORESULTADO100.000CHSCF0: [g][PV]Fluxo de Caixa ZERO, ou seja, Valor Presente0CFj: [g][PMT]Recebimento do Ano 14Nj: [g][FV]Número de vezes que o fluxo de caixa se repete70.000CFj: [g][PMT]Recebimento do Ano 5400.000CFj: [g][PMT]Recebimento do Ano 6TIRIRR: [f][FV]Retorno do Investimento30,4% a.a
+Avaliação de DesempenhoSolução do ExemploComo os fluxos de caixa são distintos, necessitamos calcular inserindo fluxo por fluxo na HP-12C. Desta forma, utilizaremos a função [g] das teclas [PV], [PMT], [FV] para inserir dados e a função [f], para a resposta dos dados inseridos.

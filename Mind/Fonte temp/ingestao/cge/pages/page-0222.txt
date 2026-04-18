@@ -1,0 +1,13 @@
+=== PAGE 222 ===
+426CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175Somente são permitidas as operações de incorporação e fusão entre classes de cotas que tenham como políticas de investimento o mesmo índice de referência.A classe de cotas do fundo de índice somente pode ser transformada em classe de fundo de investimento financeiro.A cisão será admitida somente na hipótese de criação de classes de cotas, que sigam novos índices de referência, compostos unicamente de parte dos ativos financeiros do índice de referência original.É facultado ao cotista detentor de cotas cujo valor seja inferior ao do lote padrão exigir o resgate em dinheiro em caso de liquidação da classe de cotas.
+Incorporação, Fusão, Cisão, Transformação, Liquidação e Encerramento do Fundo
+427CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175Entende-se por:ØCertificados de Depósito de Cotas de Fundos de Índice – BDR-ETF: certificados representativos de cotas de fundo de índice admitidas à negociação em mercados organizados de valores mobiliários no exterior, emitidos por instituição depositária no Brasil;ØAdministrador: pessoa jurídica que represente o fundo de índice cujas cotas sirvam de lastro para a emissão de BDR-ETF, independentemente da forma de estruturação do veículo de investimento;ØCota: fração ideal do patrimônio do fundo de índice que sirva de lastro para a emissão de BDR-ETF, podendo tal fração ser uma ação, uma cota ou qualquer unidade semelhante;ØInstituição Custodiante: a instituição sediada no exterior, autorizada por órgão similar à CVM a prestar serviços de custódia; eØInstituição Depositária: a instituição que emitir, no Brasil, o correspondente certificado de depósito, com base nas cotas de fundos de índice custodiadas no exterior.
+BDR-ETF

@@ -1,0 +1,12 @@
+=== PAGE 347 ===
+680CFG – Certificado em Fundamentos de Gestão
+LucroEx: Ativo = 130 Strike = 150, Prêmio = 10
+10070    80   90  100   110  120 130  140   150   160
+Preço de Equilíbrio = (Preço de compra do ativo) – (Prêmio)
+Ativo3020Lucro Máx = ganho até strike + prêmio
+Operações Estruturadas
+Resultado para o Financiamento CobertoPVOpçãoAçãoOperação100+10-30-20110+10-20-10120+10-100130+100+10140+10+10+20150+10+20+301600+30+30170-10+40+30180-20+50+30Venda Call
+Ativo no vencimento(PV)Estratégia Final
+Financiamento (Lançamento Coberto)Este é o gráfico do resultado financeiro de um investidor que COMPRA uma AÇÃO por      R$ 130,00 e VENDE uma OPÇÃO DE COMPRA, recebendo um prêmio de R$ 10,00.
+681CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasBox de 4 PontasA operação Box de 4 pontas tem como objetivo ganhar uma taxa de juros previamente estabelecida. Desta forma, ela É CONSIDERADA UMA OPERAÇÃO DE RENDA FIXA prefixada, ou seja, possui tributação da tabela regressiva da Renda Fixa.A realização da operação ocorre da seguinte forma:Ø Compra Call de exercício menor (X1) e vende Call de exercício maior (X2), ambas de mesmo vencimento.Ø Compra Put de exercício maior (X2) e vende Put de exercício menor (X1).q Resultado: O investidor exerce ou será exercido de modo que comprará ativo a X1 e exerce ou será exercido de modo que venderá ativo a X2.. O seu resultado financeiro será a diferença dos strikes, descontado do valor investido.

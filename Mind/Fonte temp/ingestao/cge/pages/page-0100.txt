@@ -1,0 +1,9 @@
+=== PAGE 100 ===
+184CGE – Certificação de Gestores Anbima para Produtos Estruturados
+Os riscos de cauda incluem eventos que têm uma pequena probabilidade de se materializar e ocorrem em ambas as extremidades de uma curva de distribuição normal.O gráfico abaixo mostra três curvas de crescente assimetria à direita (right skewness), com caudas “gordas” para baixo – e que diferem da forma de curva de sino simétrica tradicional da distribuição normal.
+Tail Risk
+Gestão de Riscos
+185CGE – Certificação de Gestores Anbima para Produtos Estruturados
+Embora os eventos de cauda que impactam negativamente as carteiras não sejam tão frequentes, eles podem gerar significativas perdas. Dessa forma, é importante se proteger (hedge) contra esses eventos. Uma forma de se proteger é elaborar estruturas que buscam aumentar os retornos no longo prazo, ainda que haja custos desse tipo de estrutura no curto prazo. Por exemplo, o investidor pode ficar comprado em straddles ou strangles, em operações denominadas compra de volatilidade.Outra forma é diversificar a carteira, conforme as teorias das finanças tradicionais (Teoria Moderna de Carteiras, de Harry Markowitz).
+Tail Risk
+Gestão de Riscos

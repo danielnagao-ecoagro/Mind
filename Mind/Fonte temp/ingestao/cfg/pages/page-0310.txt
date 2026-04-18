@@ -1,0 +1,14 @@
+=== PAGE 310 ===
+606CFG – Certificado em Fundamentos de Gestão
+Estrutura Geral
+Private 
+Equity
+Firma de Private Equity(General Partner) Investidores(Limited Partners)
+Fundo Private Equity(Limited Partnership)
+Gestão do investimentoProprietários do fundo (recursos)
+Companhia InvestidaCompanhia InvestidaCompanhia Investida
+607CFG – Certificado em Fundamentos de Gestão
+A estrutura de taxas normalmente consiste em Taxa de Administração e de Performance a serem pagas ao GP, sendo os parâmetros mais comuns 2% sobre o capital investido a título de taxa de administração, para pagar despesas fixas da estrutura, e 20% de taxa de performance sobre o excesso de lucros proporcionados pela gestão do GP. Essa taxa de performance, no mercado de Private Equity, recebe o nome de Carried Interest, e geralmente representa a maior parte do ganho do General Partner.Além disso, há dois importantes componentes das taxas a serem pagas aos General Partners:Ø Hurdle Rate: também conhecido como Retorno Preferencial, é a taxa anual mínima de retorno (“taxa-piso”) que os Limited Partners devem obter para o General Partner  passar a ter direito de receber o Carried Interest; Ø Clawback: em tradução livre, cláusula de restituição, permite que os Limited Partners recuperem parte do Carried Interest pago ao General Partner no caso de eventuais perdas subsequentes que reduzam o retorno agregado do fundo abaixo da Hurdle Rate.
+Taxas
+Private 
+Equity

@@ -1,0 +1,7 @@
+=== PAGE 293 ===
+572CFG – Certificado em Fundamentos de Gestão
+Como dissemos anteriormente, para fazer o cálculo para mensurar qual o valor justo atual de um título de renda fixa, basta trazer a valor presente todos os fluxos de caixa, conforme fórmula abaixo. É desta forma, que avaliamos o quanto devemos pagar em um título que já foi emitido. Mas não se preocupe, a HP-12C fará esse cálculo para nós através das teclas (n, i, PV, PMT, FV)
+q Em que:Ø VP = valor presenteØ Fc = cupom do título, ou seja, fluxo de caixa para o período n Ø i = taxa de descontoØ n = número de fluxos de caixa a serem avaliadosØ P = principal
+Precificação de títulos de Renda FixaFórmula
+573CFG – Certificado em Fundamentos de Gestão
+Precificação de títulos de Renda FixaPasso a PassoDesta forma, o passo a passo para se calcular um título de renda fixa é:Ø (1) Estimar o fluxo de caixa da vida do título:§ Cupom de pagamentos (PMT). Este valor é definido no momento da emissão do título e não no mercado secundário. § Retorno do principal (FV)Ø (2) Determinar a taxa de desconto mais adequada:§ A taxa (i) que será utilizada deve sempre considerar o risco de recebimento do fluxo de caixa e o principal do investimento no título, ou seja, o risco de crédito do título.Ø (3) Calcular o valor presente dos fluxos de caixa estimados, incluindo o     principal, e somar cada um deles. § Com as demais variáveis definidas acima (1) e (2), basta utilizamos o prazo do título e clicar em PV.

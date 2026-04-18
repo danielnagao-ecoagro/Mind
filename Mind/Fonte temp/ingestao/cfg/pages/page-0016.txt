@@ -1,0 +1,7 @@
+=== PAGE 16 ===
+CFG – Certificação em Fundamentos de Finanças23
+q EXEMPLO: Qual a taxa anual que devemos ter para obter R$ 40.000,00 de juros após  4 anos , se aplicarmos R$ 100.000,00 no Regime de Capitalização Simples?Ø(1) J = C x i x nØ(2) R$ 40.000,00 = R$ 100.000,00 × i × 4 anosØ(3) i=!$	$%.%%%,%%!$	(%%.%%%,%%	×$	*+,-Ø(4) i = 0,10 = 10% a.a
+Regimes de Capitalização: Juros SimplesExemplo 2
+CFG – Certificação em Fundamentos de Finanças24
+Exemplo 3 q EXEMPLO: Um cheque de R$ 3.000,00 é descontado por fora (juros simples), 6 meses antes do seu vencimento, a uma taxa de 2% ao mês. Qual o valor do desconto e o valor atual do título?(1) Primeiramente, devemos calcular o valor do desconto:Ø Desconto  = (Valor Nominal) × (Taxa de juros) × (Prazo)Ø Desconto = (R$ 3.000,00) × (2% ao mês) × (6 meses)Ø Resposta: Desconto = R$ 360,00 (2) A partir do desconto, subtraímos este resultado do valor nominalØ Valor Presente = (Valor nominal) – (Desconto)Ø Valor Presente = 3.000,00 – R$ 360,00Ø Resposta: Valor Presente = R$ 2.640,00
+Regimes de Capitalização: Juros Simples

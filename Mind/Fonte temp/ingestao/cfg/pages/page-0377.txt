@@ -1,0 +1,11 @@
+=== PAGE 377 ===
+738CFG – Certificação de Fundamentos em Gestão
+Retorno Total Retorno Mínimo de qualquer Aplicação
+Retorno Excedente à TLR, que é o retorno que teve risco, pois os primeiros 5% não tiveram risco
+RiscoTLR
+RetornoA583
+2
+Retorno ExcedenteO RETORNO EXCEDENTE à taxa livre de risco  do país (TLR) é a parte do rendimento do ativo que foi gerado por causa do risco do ativo, sendo esta parte a ser utilizada nas nossas Medidas de Performance. Por exemplo, um ativo teve retorno total de 8%. No entanto, a TLR estava em 5%. Assim, o RETORNO EXCEDENTE foi de 3%. São estes 3% que serão analisados com o risco que a carteira teve no período (risco 2, conforme gráfico abaixo), pois os primeiros 5% o investidor teria aplicando em um ativo sem risco (TLR).
+Princípio da Dominância
+739CFG – Certificação de Fundamentos em Gestão
+Modelos de Precificação de AtivosConceitosDentro dos modelos de precificação de ativos, estudaremos os seguintes:Ø Fronteira Eficiente (Markowitz): Risco total sem a inclusão do ativo livre de risco.Ø CML (Capital Market Line): Risco total com a adição do ativo livre de risco.Ø SML (Security Market Line): Mudança do tipo de risco no qual será utilizado nas análises. Agora, não utilizaremos mais o risco total (desvio padrão), mas sim o risco sistêmico do ativo (Beta). Este cálculo será  realizado através do modelo CAPM.Ø APT (Arbitrage Pricing Theory): Modelo que utiliza diversos fatores de risco, utilizando o risco Beta de cada um destes fatores

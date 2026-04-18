@@ -1,0 +1,25 @@
+=== PAGE 173 ===
+337CGA – Certificação de Gestores Anbima
+ConceitoPodemos também calcular a perda máxima (VaR) de uma carteira com dois ativos, por exemplo, X e Y, através da seguinte fórmula:
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) de carteiras com dois ativos
+Em que:VaR(X) = VaR do Ativo X;VaR(Y) = VaR do Ativo Y;$ (X,Y) = coeficiente de correlação entre os ativos X e Y.
+!"#$+&=()*+!+()*,!+-	/	()*+/()*,/0(+,,)
+338CGA – Certificação de Gestores Anbima
+ConceitoPor exemplo, seja uma carteira composta por R$ 2.000.000, sendo R$ 1.000.000 no título X e R$ 1.000.000 no título Y. Se  VaR(X) = R$ 5.000,  VaR(Y) = R$ 7.000 e $ (X,Y) = 0,5, o VaR da carteira será:
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) de carteiras com dois ativosVaRX+Y=5.0002+7.0002+2	>	5.000	>	7.000	>	0,5VaRX+Y=25.000.000+49.000.000+35.000.000VaRX+Y=109.000.000!"#$+&=CD.EED,FCNote a materialização do efeito diversificação, em função do coeficiente de correlação! Se não fosse esse efeito, teríamos que o VaR da carteira seria VaR de X (R$ 5.000) + VaR de Y (R$ 7.000), totalizando R$ 12.000. Porém, por conta da diversificação, o VaR da carteira foi de apenas R$ 10.440,31.

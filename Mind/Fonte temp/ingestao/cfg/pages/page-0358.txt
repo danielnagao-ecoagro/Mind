@@ -1,0 +1,10 @@
+=== PAGE 358 ===
+702CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasLong StraddleA operação “Long Straddle” também é conhecida como “Compra de Volatilidade”. Está operação consiste em comprar uma CALL (opção de compra) de um preço de exercício qualquer + uma compra de uma PUT (opção de venda) com preço de exercício igual (mesmo strike). Detalhe: ambas necessitam ser do mesmo vencimento.Esta operação consiste em que o investidor espera que o ativo se mova acentuadamente em qualquer direção (alta volatilidade), pois se cair demasiadamente ele ganhará na compra da PUT e se o ativo (ação) subir muito ele ganhará na CALL. Desta forma, o lucro é ilimitado e o prejuízo limitado (custo das opções). O investidor perderá seu dinheiro caso o ativo fique estável (não haja volatilidade)
+703CFG – Certificado em Fundamentos de Gestão
+Operações Estruturadas
+78      82                 86       
+Lucro Ex: C Call 82 – R$ 2,00      C Put 82 – R$ 2,00543210-1-2-3-4Prejuízo
+Cenário Atual+VencimentoCALLPUT
+Resultado  da operação Long StraddlePVStrikeCALLPUTLucros/ Perdas1082-2+70+687682-2+4+27882-2+208082-20-28282-2-2-484820-2-28682+2-209082+6-2+49982+15-2+13
+Long StraddleEste é o gráfico do resultado financeiro de um investidor que COMPRA uma CALL e também COMPRA uma PUT por R$ 2,00 cada, com o mesmo strike (no caso R$ 82,00). Com isso, ele desembolsou (PAGOU) R$ 4,00 para fazer a operação.

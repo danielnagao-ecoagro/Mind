@@ -1,0 +1,9 @@
+=== PAGE 249 ===
+484CFG – Certificado em Fundamentos de Gestão
+Preço/Fluxo de CaixaO índice Preço sobre Fluxo de Caixa (P/FC) é uma métrica usada na análise fundamentalista para avaliar a relação entre o preço de uma ação e o fluxo de caixa operacional gerado pela empresa.Pode ser calculado dividindo o preço atual da ação pelo fluxo de caixa operacional por ação. Um índice baixo pode indicar que a ação está subvalorizada ou que a empresa tem um fluxo de caixa operacional forte em relação a seu preço. Por sua vez, um índice alto pode sugerir sobrevalorização ou que o fluxo de caixa operacional é fraco em relação ao preço da ação.q FÓRMULA: 
+Análise Fundamentalista
+"/jk=Preçf	lm	Açãfno	pgqhmrsftmu	gfh	içãf
+485CFG – Certificado em Fundamentos de Gestão
+PEG (P/E-to-Growth)O índice P/E-to-Growth (PEG) é uma extensão do índice P/L (Preço/Lucro) ajustado pelo crescimento dos lucros da empresa. O PEG fornece uma visão mais completa do valor de uma ação, pois leva em consideração tanto o seu preço em relação aos lucros atuais quanto sua taxa de crescimento esperada dos lucros.O PEG < 1 pode indicar que a ação está subvalorizada em relação ao seu potencial de crescimento. Já o PEG = 1 indica que a ação está corretamente precificada, enquanto o PEG > 1 pode sugerir que a ação está sobrevalorizada em relação a seu crescimento projetado.q FÓRMULA: 
+Análise Fundamentalista
+"/jk= v/wxmym	lq	ohqzrs{qt|f	lfz	w}rhfz

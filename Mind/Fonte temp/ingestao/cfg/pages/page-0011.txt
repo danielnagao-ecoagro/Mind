@@ -1,0 +1,11 @@
+=== PAGE 11 ===
+CFG – Certificação em Fundamentos de Finanças13
+qTecla de Porcentagem: esta tecla serve para nos dar o resultado de uma porcentagem. Por exemplo, quanto equivale 10% de R$ 200,00?Ø 200 [ENTER]Ø 10 [%]Ø Resposta: 20qVariação Porcentual: com este botão, podemos saber qual foi a variação porcentual de um número para outro. Por exemplo, quanto rendeu a carteira do meu cliente que investiu R$ 100,00 e hoje tem R$ 250,00? Ø 100 [ENTER]Ø 250 [∆%]Ø Resposta: 150qPorcentagem Total: tem a função de encontrar a totalidade, a partir da porcentagem o valor que está sendo representado, ou seja, ela é o processo inverso da “tecla porcentagem”. Ø 10 [ENTER]Ø 20 [%T]Ø Resposta: 200
+HP
+-
+12C Teclas com Porcentagem
+CFG – Certificação em Fundamentos de Finanças14
+Exemplo: [%]q EXEMPLO: Rafael foi a uma loja comprar uma camiseta no valor de R$ 150,00. No momento de pagar, o vendedor comentou que, caso ele pagasse a vista, teria 20% de desconto. Desta forma, qual o valor do desconto?Ø [f] [ClX] -> limpando os registros Ø 150 [ENTER]Ø 20[%] Ø Resposta: R$ 30,00 (desconto)Qual o valor que Rafael pagou na roupa?Ø Com o número 30 no visor, basta clicar [ ꟷ ], pois a HP-12C mantém o número inicial (150) no seu registro.Ø Resposta: R$ 120,00 valor final
+HP
+-
+12C

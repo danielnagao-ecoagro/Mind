@@ -1,0 +1,9 @@
+=== PAGE 30 ===
+CFG – Certificação em Fundamentos de Finanças51
+Taxa de Juros Real
+PASSO A PASSO NA HP-12CØ(1) Pressione [f][CLx], para zerar a HPØ(2) Digite [15] e pressione [ENTER]Ø(3) Digite [100] [÷] Ø(4) Digite [1] [+]Ø(5) Digite [10] e pressione [ENTER]Ø(6) Digite [100] [÷]Ø(7) Digite [1] [+]Ø(8) Pressione [÷]Ø(9) Digite [1] [‒]Ø(10) Digite [100] [×]ØTaxa Real: 4,55% ao ano
+$%	&'(l=!"!#%!"!%%−1×100 1$%	&'(l=!,!#!,!%−1×100 $%	&'(l=/,1233−1×100 $%	&'(l=1,1233×100 $%	&'(l=4,55%
+qCálculo da Taxa Real:234R
+Cálculo: Modelo 1EXEMPLO: Qual a taxa real de uma aplicação que rendeu 15% e a inflação foi 10%?
+CFG – Certificação em Fundamentos de Finanças52
+Taxa de Juros RealCálculo: “Fórmula de Toro”Neste modelo, vamos calcular através das teclas [n], [i], [PV] e [FV], da seguinte forma:Ø n: sempre receberá o valor [1]Ø PV: aqui será inserido o valor da inflação, adicionado o valor 100. Este valor deverá ser inserido como sendo negativo, ou seja, clicando em [CHS]Ø FV: aqui será inserido o valor da taxa nominal, adicionado o valor 100Ø PMT: não precisa inserir nada, já que sempre iremos zerar a HP antes do cálculoØ i: nossa respostaq EXEMPLO: Qual a taxa real de uma aplicação que rendeu 15% e a inflação foi 10%?Ø [f] [CLx] → zerar a hp-12cØ 100 [ENTER] 10 [+] [CHS] [PV] → Lançar o número “- 110”, entrada negativaØ 100 [ENTER] 15 [+] [FV] → Lançar o número “115”, entrada positivaØ 1 [n] → Prazo sempre será 1Ø [i] → Esta será a nossa resposta: 4,55%q OBS: Esta maneira de calcular serve para toda vez que for necessária “descontar taxas” (divisão de taxas) em juros compostos.

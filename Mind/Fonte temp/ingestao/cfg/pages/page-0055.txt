@@ -1,0 +1,7 @@
+=== PAGE 55 ===
+CFG – Certificação em Fundamentos de Finanças101
+1.6 Conceitos Básicos de 
+Probabilidade
+101
+CFG – Certificação em Fundamentos de Finanças102
+ProbabilidadeVariáveis aleatóriasUma Variável Aleatória Discreta é aquela para a qual o número de resultados possíveis pode ser contado e para cada resultado possível existe uma probabilidade mensurável e positiva. Por exemplo, o número de dias em que um investimento superou seu benchmark é uma variável aleatória e discreta.Já uma Variável Aleatória Contínua é aquela para a qual o número de resultados possíveis é infinito, mesmo que existam limites inferior e superior. Por exemplo, o quanto varia uma ação de um período para outro. Há uma infinidade de possíveis resultados para isso.

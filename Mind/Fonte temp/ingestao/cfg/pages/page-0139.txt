@@ -1,0 +1,11 @@
+=== PAGE 139 ===
+CFG – Certificação de fundamentos de Gestão268
+B3 S/A 
+–
+ 
+Brasil, Bolsa e Balcão Principais CaracterísticasAs principais características da B3 – Brasil, Bolsa e Balcão são:Ø Desenvolve, implanta e provê sistemas e serviços de negociação e pós-negociação (compensação e liquidação) de ações, derivativos de ações, financeiros e de mercadorias, títulos de renda fixa, moedas à vista e commodities agropecuárias;Ø É uma sociedade de capital aberto, cujas ações B3SA3 são negociadas no Novo Mercado, sendo uma das 5 maiores bolsas de valores do mundo;Ø Possui receita também através de Emolumentos;Ø Possui tanto pregão eletrônico, quanto mercado de balcão;Ø Realiza o registro, negociações e pós-negociações de ações, títulos de renda fixa câmbio pronto e contratos de derivativos referenciados em ações, ativos financeiros, índices, taxas, mercadorias, moedas entre outros.Ø É associada mantenedora da BSM Supervisão de Mercados (BSM), uma associação civil que dentre uma das suas funções, fiscaliza a atuação da B3, dos devidos participantes do mercado e suas operações.
+CFG – Certificação de fundamentos de Gestão269
+Agentes de Clearing.B3SELIC
+Clearing House
+Títulos Privados:ØTítulos de Renda Fixa (LCI, CRI, ...);Ø Valores Mobiliários (ações, fundos...);Ø Mercado de balcão (swaps, termo de moeda e opções flexíveis);Ø Commodities;Ø Demais títulos.
+B3Conforme mencionado, a B3 tem como principais funções administrar os mercados organizados de títulos, valores mobiliários e contratos futuros (interfinanceiro). Além disso, ela presta o serviço de registro, depositária central, compensação e liquidação, chegando atuar até mesmo como contraparte em alguns tipos de negociação.

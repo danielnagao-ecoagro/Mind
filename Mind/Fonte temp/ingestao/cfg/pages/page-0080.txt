@@ -1,0 +1,9 @@
+=== PAGE 80 ===
+CFG – Certificação de fundamentos de Gestão150
+MicroeconomiaPrincípiosCoeteris Paribus: expressão de origem latina que significa tudo o mais constante. É um dos princípios básicos da microeconomia, pois analisa as situações de forma isolada, assumindo que todas as demais variáveis são constantes. Ela difere portanto da Macroeconomia, pois essa última analisa as situações econômicas como um todo, assumindo que tudo está inter-relacionado de alguma forma.Por exemplo, na Macroeconomia, a elevação do PIB de um país em determinado período pode estar associado a diversos fatores, como aumento da renda, elevação dos preços dos produtos de exportação, crescimento populacional, entre outros.Já na Microeconomia, analisaremos a elevação do PIB somente em função de outra variável, assumindo que todas as demais são constantes.
+CFG – Certificação de fundamentos de Gestão151
+MicroeconomiaPrincípiosOutros dois princípios básicos da Microeconomia são as curvas de oferta e de demanda.Começando pela demanda, definimos a quantidade demandada de um bem como sendo a quantidade que os compradores desejam e podem adquirir desse bem. Porém, a demanda pode ser maior ou menor, a depender de uma série de fatores, mas principalmente do preço do bem em questão.Então podemos enumerar outra definição, a Lei da Demanda: com tudo o mais constante (coeteris paribus, sempre ele! ;)), se o preço de um bem aumenta, a quantidade demandada desse bem diminui. E, de forma inversa, se o preço do bem diminui, a quantidade demandada aumenta.
+02468101214
+0 2 4 6 8 1012
+Preço
+Quantidade

@@ -1,0 +1,11 @@
+=== PAGE 267 ===
+520CFG – Certificado em Fundamentos de Gestão
+Estrutura a Termo da Taxa de JurosConceitoA estrutura a termo de taxas de juros (ETTJ), também chamada de curva de juros, representa a expectativa de retornos nas aplicações de renda fixa, levando em consideração a relação entre tempo e taxa. A ideia é conseguir compreender que cada período de tempo possui uma certa taxa e que os retornos não são sempre os mesmos em todo o período (mesmo que a gente acredite nisso). Por exemplo, imagine que estamos no início de 2021 e que a expectativa de juros para Brasil no ano de 2021 seja de 2% e a que a expectativa de juros para o ano de 2022 seja de 3%. Se você aplicar hoje R$ 100,00 e tiver esses retornos, ao final do ano de 2021 terá R$ 102,00 e ao final de 2022, terá R$ 105,06 (3% sobre os R$ 102,00), ou seja, terá um retorno total de 5,06% para todo o período (ou 2,498780% por ano → conversão de taxa).Tecnicamente a taxa SPOT do ano 1 é de 2%,  que a taxa a TERMO entre os anos 1 e 2 é de 3% e que a taxa SPOT dos dois primeiros anos é de 2,498780% por ano. Diante disso, podemos compreender que taxa SPOT é uma taxa que inicia HOJE e que taxa a termo é uma taxa que NÃO inicia hoje. Outro ponto relevante é que mesmo a gente dizendo que a taxa spot de 2 anos é de 2,498780% ao ano, isso não quer dizer que rendeu essa taxa TODOS os anos, pois ela foi uma composição de taxas (2% ano 1 e 3% no ano 2).
+521CFG – Certificado em Fundamentos de Gestão
+ARQUEADAretorno
+Tempo
+NORMAL (Ascendente) retorno
+Tempo
+INVERTIDA (Descendente)retorno
+Tempo
+Estrutura a Termo da Taxa de JurosGráficoAs taxas juros podem ter diversos gráficos para o longo prazo. O normal é quanto mais longo for o empréstimo, maior o retorno por ano (ASCENDENTE). No entanto, podemos ter fases em que as taxas de juros de um país estão decrescentes (INVERTIDA), quando temos uma política monetária expansionista. Mas o relevante em se analisar estas curvas no mercado financeiro é que elas demonstram as expectativas futuras de taxas de juros de longo prazo.

@@ -1,0 +1,7 @@
+=== PAGE 65 ===
+CFG – Certificação em Fundamentos de Finanças121
+Teste de HipótesesNível de Significância e Estatística do Teste2) Estatística do teste: precisamos aplicar uma fórmula para conseguirmos concluir nosso teste de hipóteses. Se a população da qual extraímos a amostra está normalmente distribuída (e, consequentemente, a amostra também), temos a seguinte estatística para nosso teste:Em que:x = média amostralµ0 = média populacional     = desvio-padrão populacional (conhecido)n = número de observações da amostra         = erro padrão da média         s
+x - µ0 s6z =
+sX
+CFG – Certificação em Fundamentos de Finanças122
+Teste de HipótesesExemploUma engarrafadora de agua mineral comercializa galões de 10 litros. Contudo, como o processo de engarrafamento é totalmente automatizado, é possível que alguns galões eventualmente tenham pequenas variações no conteúdo de água. A empresa reconhece essa possibilidade mas, de acordo com as regras de proteção ao consumidor, o volume médio populacional deve ser de no mínimo 10 litros. Se essa condição for satisfeita, eventuais variações são toleráveis pelos órgãos de proteção ao consumidor.Logo, a empresa gostaria de rejeitar a hipótese de que a média do volume dos galões da população (ou seja, de toda a sua produção) seja igual ou inferior a 10 litros. Com isso, podemos enunciar as seguintes hipóteses:H0: µ ≤	10;Ha: µ >10.

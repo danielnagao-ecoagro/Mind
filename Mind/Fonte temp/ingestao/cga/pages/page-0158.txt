@@ -1,0 +1,9 @@
+=== PAGE 158 ===
+307CGA – Certificação de Gestores Anbima
+Relação entre Títulos Públicos e Privados
+Taxa de Juros (%)
+Tempo (t)
+Spread ATítulo Público (benchmark)Título Privado ATítulo Privado BSpread B
+Spread de CréditoO Spread de Crédito é uma medida que representa a probabilidade de inadimplência do emissor do título, quando comparado com o Ativo Livre de Risco. Quando maior for a diferença de taxas, maior o risco de inadimplência desde emissor. Em nosso exemplo, título B tem maior risco de crédito, comparado com o título A.
+308CGA – Certificação de Gestores Anbima
+Risco de LiquidezConceitoTrata-se da DIFICULDADE DE VENDER um determinado ativo pelo preço e no momento desejado. A realização da operação, se ela for possível, implica numa alteração substancial nos preços do mercado. Portanto, caracteriza-se quando o há poucos compradores, ou seja, uma dificuldade de encontrar um comprador pelo preço justo de mercado.  Um investidor pode criar este risco propriamente, quando ele possui uma fatia (percentual) considerável de um ativo específico. Por exemplo, ter 20% de uma empresa, já que se ele desejar vender sua posição, precisará de muito tempo para conseguir os recursos desejados (ou terá que vender a um preço menor que o ofertado pelo mercado). Por isso, é muito importante um planejamento das necessidades de caixa, para que, caso se necessite recursos, não seja necessária a venda de um ativo por um preço menor do que o de valor de mercado, simplesmente por não haver liquidez.q EXEMPLOS: investimento em imóveis, ações de pequenas empresas, ativos com carência.

@@ -1,0 +1,15 @@
+=== PAGE 124 ===
+CFG – Certificação de fundamentos de Gestão238
+PIB 
+–
+ 
+Produto Interno BrutoConceitoO Produto Interno Bruto (PIB) é uma medida de tudo que é produzido dentro de um país em um determinado ano, sendo assim, a riqueza de um país. Mankiw (2007) definiu PIB como “o valor de mercado de TODOS OS BENS E SERVIÇOS FINAIS produzidos em um país em um dado período de tempo”, portanto, exclui-se da conta todos os bens de consumo intermediários, ou somasse somente o valor agregado de cada parte.Este indicador é considerado o melhor medidor de bem estar econômico de uma sociedade, pois ele considera tudo o que foi gerado (Carros, pães, livros, computadores, ingressos de cinema, refeições) em um determinado ano.O cálculo do seu valor não é uniforme e os dois principais aspectos são:Ø Ótica do Consumo (Despesa);Ø Ótica da Produção;
+CFG – Certificação de fundamentos de Gestão239
+PIB 
+–
+ 
+Produto Interno Bruto
+MARCENEIRO
+R$ 500R$ 1.500FÁBRICACONSUMIDOR
+PIB TOTAL GERADO:R$ 2.000,00
+PIB e o Valor AgregadoNo cálculo do PIB são considerados somente os bens e serviços finais, ou seja, os bens e serviços intermediários são desconsiderados para não haver sobreposição de valores. No entanto, cada bem vendido ou serviço prestado está gerando PIB. Para facilitar o entendimento, vamos supor que um (1) MARCENEIRO vendeu por                    R$ 500,00 madeiras para uma (2) FÁBRICA construir uma cama. Após isso, esta fábrica vendeu por R$ 2 mil a cama. O PIB total gerado foi de R$ 2 mil, no entanto,  o marceneiro gerou R$ 500 e sobre a madeira, a fábrica AGREGOU mais R$ 1.500,00 de PIB.

@@ -1,0 +1,11 @@
+=== PAGE 253 ===
+492CFG – Certificado em Fundamentos de Gestão
+q EXEMPLO: A empresa RToro Education S/A não paga dividendos, mas espera-se que em 4 anos pague R$ 2,00 por ação e que a partir daí, esses dividendos cresçam a uma taxa de 4% ao ano. Qual seria o preço adequado dessa ação para hoje? Dada a característica da empresa, a taxa de desconto adequada é de 10%aa.q RESPOSTA: Podemos calcular o preço desse ativo a partir do modelo de Gordon. No entanto, foi informado o dividendo em t = 4, então o modelo de Gordon nos dará o valor da ação no ano 3 (o modelo de Gordon utiliza como variável D1 para o cálculo de P0). Como a questão solicita o preço em P0, teremos que trazer o preço calculado no modelo de Gordon a valor presente.(1) Aplicar Modelo de GordonØ Preço Ano 3 =    D4__                    (r – g)Ø Preço Ano 3 = R$ 2,00                   (10% - 4%)Ø Preço Ano 3 =  R$ 33,33
+(2) Trazer a valor presenteØ n = 3Ø i = 10Ø FV = 33,33Ø PMT = 0Ø PV = ? =  R$ 25,04
+Modelo de Gordon: Exemplo 2
+Análise Fundamentalista
+493CFG – Certificado em Fundamentos de Gestão
+q EXEMPLO: Estima-se que a empresa Rtoro Education S/A distribuirá em dividendos nos próximos 3 anos os valores de R$ 1,00, R$ 2,00  e R$ 3,00 e depois seus dividendos crescerão 5% por ano. Considerando a taxa de risco adequada de 11% ao ano, qual o valor justo dessa empresa hoje?q RESPOSTA: Iremos fazer 2 cálculos. O primeiro, iremos calcular qual o valor justo para o fluxo de crescimento perpétuo (perceba que este fluxo ocorrerá no quarto ano em diante, assim, estaremos calculando quanto vale a empresa no terceiro ano e também precisamos crescer o dividendo 3 em 5%, totalizando R$ 3,15 para poder utilizar o modelo de gordon). Depois, somaremos o valor da empresa no ano 3 e traremos todos os valores a valor presente
+Modelo de Gordon: Exemplo 3
+Análise Fundamentalista
+(1) RENDA PERPÉTUA COM CRESCIMENTO DE 5%:Ø 3 [ENTER]Ø 5 [%] [+]R = R$ 3,15(2) TAXA EXIGIDA DE RETORNO (ks – g)Ø 11 [ENTER]Ø 5 [−]R = 6%(3) VALOR HOJE CALCULAR POR [%T]:Ø 6 [ENTER]Ø 3,15 [%T]R: R$ 52,50.

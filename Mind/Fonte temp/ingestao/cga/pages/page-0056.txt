@@ -1,0 +1,13 @@
+=== PAGE 56 ===
+106CFG – Certificação de Fundamentos de Gestão
+A Duration Modificada (DM) visa apresentar em termos percentuais a sensibilidade do preço do título a variações nas taxas de juros, ou seja, o quanto opreço dos ativos de renda fixairão mudar em função da elevação ou redução dos juros no mercado. Para calcularmos a DM, devemos aplicar a seguinte fórmula:
+A partir da Duration Modificada, podemos calcular qual o impacto da mudança na taxa de juros em uma carteira (ou título) de renda fixa, através do seguinte fórmula:
+Com isso, podemos agora confirmar o impacto da mudança da taxa de juros no exemplo das LTN de 10 anos e 20 anos, no qual houve um aumento de 1% na taxa SELIC.
+Risco de Taxa de Juros
+@A=	(CDEF) (=+:ID)
+JKLMKÇÃP	@P	QÍQSTP=−@A×(WEXYEçã\	]E	^E_E	]`	abX\c)
+Duration Modificada
+107CFG – Certificação de Fundamentos de Gestão
+A Effective Duration (ED) é um cálculo de duration para títulos que possuem opções embutidas. Portanto, a Effective Duration leva em consideração o fato de que os fluxos de caixa esperados flutuarão à medida que as taxas de juros mudam. Isso porque, dependendo da movimentação das taxas de juros, as opções podem entrar no dinheiro e, com isso, ser exercidas. Nesse sentido, um título com opções embutidas reflete maior incerteza quanto aos fluxos de caixa Ela se aproxima muito da duration modificada, no sentido que também mede a variação esperada do preço do título para a variação de 1% na taxa de juros, conforme abaixo:
+Risco de Taxa de JurosEffective Duration
+dC=	PV−	−	PV+ >	f	gh#	_	ijqEm que:PV- = Valor presente do ativo quando a taxa de juros cai;PV+ = Valor presente do ativo quando a taxa de juros sobe;PV0 = Valor presente inicial do ativo; eΔy = Variação da taxa de juros.

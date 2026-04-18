@@ -1,0 +1,8 @@
+=== PAGE 6 ===
+7CGA - Certificação de Gestores Anbima
+Estratégias PassivasConceitoEstratégias passivas são aquelas que buscam acompanhar um índice de referência (benchmark). Quando falamos em estratégias passivas de Renda Variável, podemos implementá-las da seguinte forma: Ø Fundos de Investimentos de Ações Indexados;Ø Futuros de Ações;Ø Total Return Equity Swap; eØ ETFs (Exchange Traded Funds).Vamos detalhar melhor cada uma dessas formas de implementação de gestão passiva de Renda Variável.
+8CGA - Certificação de Gestores Anbima
+Fundo de Ações 
+-
+ 
+PassivoCaracterísticasFundos Passivos: procuram acompanhar o benchmark (índice de referência). Estes fundos possuem dificuldades de replicação dos seus benchmarks por questões custos, impostos, dinâmica de cálculo da rentabilidade do fundo, regras de contabilização a mercado e necessidade de liquidez para resgates. Para minimizar estes impactos, eles utilizam como estratégias derivativos para proteção de carteiras (em inglês, hedge).Veremos mais adiante formas mais detalhadas de replicação da carteira visando a uma gestão passiva.

@@ -1,0 +1,12 @@
+=== PAGE 229 ===
+440CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175A instituição depositária pode formular pedido de cancelamento do registro do programa de BDR-ETF, desde que cumpra os procedimentos fixados para esse fim pela entidade administradora de mercados organizados de valores mobiliários.O pedido deve ser encaminhado à Superintendência competente e será automaticamente concedido, se instruído com os documentos que evidenciem o cumprimento de tais procedimentos.A instituição depositária e o diretor responsável por ela indicado respondem perante a CVM por irregularidades relacionadas ao programa e à prestação contínua de informações sobre os BDR-ETF.Nos casos em que vier a exercer o direito de voto das cotas dos fundos de índice que sirvam de lastro para programas de BDR-ETF, a instituição depositária deve atuar na forma instruída pelos titulares de BDR-ETF sempre que os contratos relativos ao programa permitam, ou no melhor interesse dos titulares de BDR-ETF, quando tais contratos impeçam o voto por eles instruído.
+BDR-ETF
+441CGE – Certificação de Gestores Anbima para Fundos Estruturados
+ETF 
+–
+ 
+Fundos de ÍndiceTributaçãoOs fundos de investimentos de índice (ETF) podem ser classificados de duas formas:Ø ETF de Renda Variável: Composição idêntica aos fundos de ações, mas tributado como se fossem ações (alíquota total de 15%, sendo recolhido através de DARF pelo investidor e com IRRF de 0,005%). Detalhe: as pessoas físicas não possuem o benefício de vendas de até R$ 20 mil por mês, como nas ações.Ø ETF de Renda Fixa: Composição devendo ser por ativos financeiros que busquem refletir as variações e a rentabilidade de índices de renda fixa e cujos regulamentos determinem que suas carteiras sejam compostas, no mínimo, por 75% de ativos financeiros que integrem o índice de renda fixa de referência. Já a sua tributação é baseada no prazo médio da carteira com as seguintes alíquotas:§ Prazo médio da carteira igual ou inferior a 180 dias: 25% de IR§ Prazo médio da carteira entre 181 e 720 dias: 20% de IR§ Prazo médio da carteira de 721 dias ou mais: 15% de IR§ OBS: Os ETFs de renda fixa não possuem IOF e tampouco come-cotas. Além disso, a responsabilidade do recolhimento dependerá do fato gerador. Caso seja por alienação no mercado secundário, a responsabilidade recairá sobre a instituição financeira que intermediou a operação e caso seja por outro motivo, será pelo administrador do fundo.

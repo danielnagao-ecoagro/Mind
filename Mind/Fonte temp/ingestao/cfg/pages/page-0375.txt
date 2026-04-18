@@ -1,0 +1,9 @@
+=== PAGE 375 ===
+734CFG – Certificação de Fundamentos em Gestão
+Formato das curvas
+Teoria da Utilidade EsperadaRetorno (R)
+Risco Total (!) 
+Alta aversão a riscoMédia aversão a riscoBaixa aversão a riscoNeutro ao riscoPropenso a risco
+735CFG – Certificação de Fundamentos em Gestão
+SaciabilidadeO conceito desaciabilidade(ousaciamento) relacionado às curvas de utilidade esperada refere-se à ideia de que há um limite na quantidade de satisfação ou utilidade que um investidor pode obter com o aumento da riqueza. Isso implica que, à medida que a riqueza aumenta, a utilidade marginal (ou seja, a utilidade adicional obtida com uma unidade adicional de riqueza) diminui. Este conceito está intimamente ligado àutilidade marginal decrescente.A utilidade marginal decrescente significa que, conforme um investidor adquire mais riqueza, o aumento de satisfação ou utilidade que ele obtém de cada unidade adicional de riqueza diminui.Por exemplo, para uma pessoa que já possui uma riqueza considerável, ganhar uma quantia adicional de dinheiro pode não aumentar sua satisfação tanto quanto aumentaria para alguém com menos riqueza.A forma côncava da curva de utilidade representa graficamente a utilidade marginal decrescente. A inclinação da curva diminui à medida que a riqueza aumenta.
+Teoria da Utilidade Esperada

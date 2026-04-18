@@ -1,0 +1,24 @@
+=== PAGE 168 ===
+327CGA – Certificação de Gestores Anbima
+Value
+-
+at
+-
+Risk 
+(
+VaR
+) Analítico ou Paramétrico
+Var=V!×a×DP×t
+FórmulaO Cálculo do VaR Analítico ou Paramétrico nada mais é que a multiplicação de quatro variáveis, que são:Ø Valor Financeiro da carteira (V0)Ø Intervalo de confiança (a) – para 95%, a = 1,65; para 99%, a = 2,33Ø Desvio padrão da Carteira (DP = σ)Ø Horizonte de Retorno (t)Desta forma,quanto maior forem estas variáveis, maior será o VaR!q FÓRMULA:
+328CGA – Certificação de Gestores Anbima
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) Analítico ou Paramétrico
+Prejuízos maiores que R$ 8.250,005%95%
+ExemploDetermine o VaR analítico (ou paramétrico) de uma carteira de investimentos de R$ 100.000,00, para um Intervalo de Confiança de 95% (a = 1,65), horizonte de 1 mês e desvio padrão dos retornos para este período da carteira sendo de 5%.q RESPOSTA: VaR = (R$ 100.000,00)x(1,65)x(0,05)x√1= R$ 8.250,00, Desta forma, a carteira terá um prejuízo máximo em um mês de R$ 8.250,00, com 95% de confiança. Ou seja, possui 5% de possibilidade de perder mais de R$ 8.250,00.

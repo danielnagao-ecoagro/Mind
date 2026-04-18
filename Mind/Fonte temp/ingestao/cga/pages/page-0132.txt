@@ -1,0 +1,7 @@
+=== PAGE 132 ===
+256CFG – Certificação de Fundamentos de Gestão
+Modelo baseado em fatoresComo vantagens, podemos citar:ØApropriado para avaliação de desempenho, pois considera vários fatores e as respectivas sensibilidades com relação à contribuição ao retorno da carteira;ØConsegue explicar melhor o estilo do gestor a partir da mensuração da exposição a fatores que realmente afetam a performance da carteira.Porém, há algumas desvantagens:ØAs informações e a modelagem nem sempre estão disponíveis e ainda podem ser caras para implementação;ØFocar em exposição a fatores de riscos pode não ser tão intuitiva para todos os gestores.
+Tipos de Benchmarks
+257CFG – Certificação de Fundamentos de Gestão
+Modelo baseado em retornosBenchmarks desenvolvidos a partir de modelos baseados em retornos são construídos usando o retorno da carteira durante períodos específicos e os correspondentes retornos de diferentes índices de estilos pelos mesmos períodos.Essas séries de retornos são submetidas a um algoritmo de alocação que resolve as combinações de índices de estilo de investimento que mais acompanham os retornos da carteira.Como vantagens, podemos citar:ØFácil uso e intuitivo;ØÉ considerado um benchmark válido; eØBastante útil quando estão disponíveis apenas as informações de retorno da carteira.Porém, há algumas desvantagens:ØOs índices de estilo podem não refletir fielmente o estilo do gestor;ØNecessário número elevado de retornos para se obter um padrão estatístico confiável;ØNão funciona bem quando o gestor muda de estilo.
+Tipos de Benchmarks

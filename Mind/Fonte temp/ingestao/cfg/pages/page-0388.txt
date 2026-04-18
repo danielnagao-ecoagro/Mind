@@ -1,0 +1,17 @@
+=== PAGE 388 ===
+760CFG – Certificação de Fundamentos em Gestão
+A teoria moderna de carteiras parte de uma série de hipóteses: ausência de custos de transação e impostos, impossibilidade de venda de ativos a descoberto, possibilidade de os investidores financiarem os investimentos à taxa livre de risco sem restrições e que todos os investidores têm expectativas homogêneas sobre retornos, variâncias e covariâncias dos ativos.Se a primeira hipótese for relaxada, ou seja, se custos de transação e impostos forem considerados, o ajuste de carteiras se torna mais complexo. Custos de transação podem desincentivar a reestruturação frequente de portfólios e criar uma diferença entre o retorno teórico e o retorno real. Impostos podem reduzir os retornos líquidos dos investimentos, afetando a escolha entre ativos e, por conseguinte, a inclinação da CML. Portanto, a CML pode não ser tão inclinada, e a carteira ótima pode se deslocar.
+Relaxamento das hipóteses
+CML 
+–
+ 
+Capital Market 
+Line
+761CFG – Certificação de Fundamentos em Gestão
+Se for possível vender a descoberto, os investidores podem usar estratégias mais flexíveis e potencialmente obter retornos ajustados ao risco mais elevados. A inclusão da possibilidade de vendas a descoberto permite que a fronteira eficiente e a CML se tornem mais inclinadas, oferecendo uma maior gama de opções para melhorar o perfil risco-retorno dos portfólios. A capacidade de vender a descoberto também pode ajudar a alcançar uma melhor combinação entre o ativo livre de risco e a carteira de mercado.Por sua vez, caso não seja possível financiar à taxa livre de risco ou se houver restrições, a capacidade dos investidores de criar portfólios combinando o ativo livre de risco com a carteira de mercado será limitada. Isso pode fazer com que a CML se desvie da linha ideal e afete o retorno ajustado ao risco. Os investidores podem ter que encontrar outras formas de financiamento, possivelmente a taxas mais altas, o que comprometeria a eficiência do portfólio e o perfil de risco-retorno.Por fim, se os investidores tiverem expectativas diferentes, isso pode levar a divergências na construção de portfólios e nas percepções de risco e retorno. A fronteira eficiente pode não ser uniforme, e a CML pode se desviar das previsões teóricas. Investidores com expectativas diferentes podem criar portfólios distintos, o que pode levar a uma maior variabilidade na forma como a CML é visualizada e utilizada na prática.
+Relaxamento das hipóteses
+CML 
+–
+ 
+Capital Market 
+Line

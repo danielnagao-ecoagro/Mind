@@ -1,0 +1,16 @@
+=== PAGE 344 ===
+674CFG – Certificado em Fundamentos de Gestão
+Resultado do Exercício para o lançador da CallPVStrikePrêmioLucros e Perdas80120+10+1090120+10+10100120+10+10110120+10+10120120+10+10125120+10+5130120+100140120+10-10150120+10-20160120+10-30In the Money(ITM)Lucro/PerdaOut of the Money(OTM)
+10070     80    90   100    110  120   130   140   150   160
+Preço de Equilíbrio: strike + Prêmio =    120 + 10 = 130Ativo no vencimento                   (PV)
+Operações BásicasShort Call - ExemploEste é o gráfico do resultado financeiro de um investidor que VENDE uma OPÇÃO DE COMPRA (CALL) recebendo um prêmio de R$ 10,00 e com preço de exercício a R$ 120,00. Opção de Compra (Call) Strike R$ 120,00           Prêmio R$ 10,00Lucro
+675CFG – Certificado em Fundamentos de Gestão
+70    80   90   100  110  120   130  140   150   160
+In the Money(ITM)
+PayoffLucro/Perda
+Out of the Money(OTM)
+-100
+Resultado do Exercício para o titular da PUTPVStrikePrêmioLucros e Perdas80120-10+3090120-10+20100120-10+10110120-100115120-10-5120120-10-10130120-10-10140120-10-10150120-10-10
+Preço de Equilíbrio: strike + Prêmio =    120 - 10 = 110
+Ativo no vencimento(PV)
+Operações BásicasLong PUT - ExemploEste é o gráfico do resultado financeiro de um investidor que COMPRA uma OPÇÃO DE VENDA (PUT) pagando um prêmio de R$ 10,00 e com preço de exercício a R$ 120,00. Opção de Venda (PUT) Strike R$ 120,00           Prêmio R$ 10,00Lucro

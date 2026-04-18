@@ -1,0 +1,7 @@
+=== PAGE 58 ===
+CFG – Certificação em Fundamentos de Finanças107
+Intervalo de Confiança
+1 DP(R)	=	68,26%2 DP(R)	=	95,44%3 DP(R)	=	99,74%1,96 DP(R)	=	95%
+GráficoA  partir da média  (µ), quanto mais nos afastamos dela, maior a probabilidade de um evento ocorrer. Este afastamento é baseado pela quantidade de desvios padrões (σ). Importante ressaltar que não importa a quantidade de desvios padrões utilizarmos, jamais teremos 100% de certeza. A curva de distribuição normal é apresentada desta forma:
+CFG – Certificação em Fundamentos de Finanças108
+Distribuição Normal e Intervalo de ConfiançaExemploUm fundo de ações possui retorno médio anual de 40% e um desvio padrão de 5%. Para um intervalo de confiança de 95%, qual a variação esperada aproximada?q RESPOSTA:  para cada desvio padrão utilizado, o fundo deverá se distanciar da sua média 5%, tanto para mais, quanto para menos. Lembrando que:Ø Para 68% de Intervalo de Confiança, se utiliza UM Desvio Padrão;Ø Para 95% de Intervalo de Confiança, se utiliza DOIS Desvios Padrão;Ø Para 99% de Intervalo de Confiança, se utiliza TRÊS Desvios Padrão;Assim, devemos nos “desviar” 2 vezes da média, sendo que cada desvio equivale a 5%:Ø Intervalo de Confiança = Média ± n x DPo IC Mínimo = 40% ‒ 2 × 5% = 30%o IC Máximo = 40% + 2 × 5% = 50%Desta forma, podemos dizer que esperamos que o fundo de tenha uma variação entre 30% e 50%, com 95% de confiança.

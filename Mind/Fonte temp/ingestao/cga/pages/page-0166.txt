@@ -1,0 +1,10 @@
+=== PAGE 166 ===
+323CGA – Certificação de Gestores Anbima
+Risco Total (DP = σ) Risco Sistêmico
+Risco Não-Sistêmico
+Risco Total = Sistêmico + Não Sistêmico
+Número de Ações na CarteiraBeta
+Risco TOTAL (Desvio Padrão)
+Risco TotalRisco Sistêmico e Risco Não SistêmicoNo gráfico abaixo, percebemos que quanto mais ativos tivermos na carteira, menos será o risco total da mesma, gerados pelo benefício da “Diversificação”.
+324CGA – Certificação de Gestores Anbima
+Risco TotalRisco Sistêmico e Risco Não SistêmicoPodemos destrinchar o risco total de um investimento, dois grandes grupos, que são chamados de:Ø Risco sistêmico (risco NÃO DIVERSIFICÁVEL): Ele é o risco gerado pelos sistemas econômico, político e social, no qual impacta a economia como um todo. Suas principais características são:§ Medido pelo Beta;§ Não pode ser evitado pela diversificação dos ativos;§ Exemplos: impeachment, grandes mudanças na taxa de juros ou câmbio.Ø Risco não-sistêmico (risco DIVERSIFICÁVEL ou próprio): Este é o risco individual do ativo ou do seu setor. Suas principais características são:§ Pode ser diminuído com a elaboração de uma carteira com diversos ativos com Coeficiente de Correlação menores que +1;§ Exemplos: risco de crédito ou de liquidez de uma companhia.Ø RISCO TOTAL (Risco Sistêmico + Risco Não Sistêmico): O risco total de uma carteira (ou de um ativo) é medido pelo desvio-padrão. Ele pode ser considerado também como a soma do “Risco Sistêmico” com o “Risco não-sistêmico”.

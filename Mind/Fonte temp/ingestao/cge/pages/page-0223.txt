@@ -1,0 +1,13 @@
+=== PAGE 223 ===
+428CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175Os BDR-ETF somente podem ser lastreados em cotas de fundos de índice admitidas à negociação em mercados organizados de valores mobiliários e custodiadas em países cujos órgãos reguladores tenham celebrado com a CVM acordo de cooperação sobre consulta, assistência técnica e assistência mútua para a troca de informações, ou sejam signatários do memorando multilateral de entendimentos da Organização Internacional das Comissões de Valores – OICV. É admitido que as cotas sejam custodiadas e negociadas em países distintos, desde que os órgãos reguladores de ambos os países atendam a tais requisitos.Caso as cotas que sirvam de lastro para a emissão de BDR-ETF sejam negociadas em mais de um país, tais requisitos se aplicam ao país em que as cotas tenham maior volume de negociação.A CVM pode determinar o ajuste ou cancelamento de emissões de certificados lastreados em cotas admitidas à negociação ou custodiadas em países cujo órgão regulador seja, ou passe a ser considerado pela CVM, como não-cooperante, para fins de assistência mútua para a troca de informações.
+BDR-ETF
+429CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175É vedada a emissão de BDR-ETF lastreados em cotas de fundos de índice não identificados por um código ISIN – International Securities Identification Number.O administrador do fundo de índice cujas cotas sirvam de lastro para a emissão de BDR-ETF não responde pela prestação das informações previstas no Anexo Normativo V da Resolução CVM 175, porém o programa de BDR-ETF não pode ser realizado sem sua concordância expressa.A instituição depositária deve celebrar com o administrador contrato que assegure a disponibilização das informações que devem ser divulgadas.Os fundos de índice cujas cotas sirvam de lastro para a emissão de BDR-ETF e seus respectivos índices de referência devem observar os critérios e as vedações previstas no Anexo Normativo V da Resolução CVM 175.Os fundos de índice cujas cotas sirvam de lastro para emissão de BDR-ETF ficam dispensados de registro junto à CVM e suas cotas não podem ser objeto de distribuição por oferta pública no Brasil.
+BDR-ETF

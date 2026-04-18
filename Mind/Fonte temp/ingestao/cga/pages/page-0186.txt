@@ -1,0 +1,6 @@
+=== PAGE 186 ===
+363CGA – Certificação de Gestores Anbima
+5.5 Riscos de Derivativos e Risco 
+Operacional363
+364CGA – Certificação de Gestores Anbima
+Riscos de DerivativosConceitoPodemos elencar os seguintes riscos associados a operações com derivativos:ØTaxa de jurosØDe BaseØDe FinanciamentoØDe CréditoØDe LiquidezØDe Volatilidade.O risco de taxa de juros é um componente fundamental do risco geral associado aos instrumentos derivativos, especialmente aqueles que possuem um ativo subjacente sensível a flutuações nas taxas de juros, como títulos de renda fixa ou swaps de taxa de juros. Esse risco surge da possibilidade de que alterações nas taxas de juros impactem negativamente o valor do derivativo.

@@ -1,0 +1,20 @@
+=== PAGE 58 ===
+110CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de Juros
+1.100
+                      Preço
+YTMY*
+Erro de Precificação
+Erro de Precificação
+Preço Correto do Titulo com a mudança na taxa (YTM)
+8%9%10%∆i=+1%
+∆p∆p9001.000
+∆i=-1%
+Preço estimado baseado na Duration
+Duration: Gráfico
+111CFG – Certificação de Fundamentos de Gestão
+                      Preço
+YTM
+Risco de Taxa de Juros Gráfico com opção de compra (call) embutida
+Strike
+Call embutida

@@ -1,0 +1,16 @@
+=== PAGE 14 ===
+23CGA - Certificação de Gestores Anbima
+Total 
+Return
+ 
+Equity
+ 
+SwapConceitoAparte que recebe o retorno total recebe qualquer receita gerada pelo ativo e se beneficia se o preço do ativo se valorizar ao longo da vida do swap. Em troca, deve pagar ao proprietário do ativo a taxa definida ao longo da vida do swap.PASSIVO EM UMA TAXA DEFINIDA (PRÉ OU PÓS)PASSIVO NO RETORNO DO ÍNDICERToro Education S/ABANCOATIVO NO RETORNO DO ÍNDICE
+ATIVO EM UMA TAXA DEFINIDA (PRÉ OU PÓS))TOTAL RETURN EQUITY SWAPSe, no exemplo acima, o índice subir, a Rtoro Education S/A receberá do banco (proprietário do ativo) o valor pelo qual esse ativo subjacente subiu. Assim, a Rtoro assume o risco sistemático ou de mercado. Por outro lado, o banco perde o risco associado ao desempenho do título referenciado, mas assume a exposição de crédito a que a RToro possa estar sujeita, recebendo a taxa definida (pré ou pós).
+24CGA - Certificação de Gestores Anbima
+Total 
+Return
+ 
+Equity
+ 
+SwapConceitoEm resumo, em um Total Return Equity Swap:ØUma parte faz pagamentos de acordo com uma taxa definida, enquanto a outra parte faz pagamentos com base na taxa de um ativo subjacente ou de referência.ØA parte que recebe o retorno total se beneficie do ativo de referência sem possuí-lo, recebendo também qualquer receita gerada pelo ativo; contudo em troca, deve pagar uma taxa fixa ao longo da vida útil do swap.ØO recebedor do retorno do ativo subjacente assume o risco sistemático do ativo, enquanto o pagador não assume nenhum risco de desempenho, mas assume a exposição de crédito a que o recebedor pode estar sujeito (no caso de o recebedor do retorno do ativo subjacente não conseguir pagar a taxa definida – pré ou pós).

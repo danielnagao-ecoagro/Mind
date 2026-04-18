@@ -1,0 +1,7 @@
+=== PAGE 205 ===
+CFG - Certificado de Fundamentos de Gestão398
+Período0 1 2 3 4Fluxo A (R$)-50.000+9.090,91+16.528,93+22.529,44+27.320,54Somatório A-50.000-40.909,10-24.380,20-1.850,72+25.469,82
+!"#$"%&	456%789":7=;.<=),>((>.+(),=?=),)>	/012++	/012=+,)>	/012
+Payback 
+Modificado (Descontado)Solução do ExemploAgora que temos o novo fluxo, fazemos a mesma tabela para do Payback Simples, mas utilizando o valor presente de cada fluxo de caixa:
+Trazendo os fluxos a valor presente a uma taxa de 10% ao ano, o Payback saiu de 2 anos e pouco, para mais de 3 anos. Da mesma forma, por ter ficado um saldo positivo, devemos fazer uma regra de três com o que faltou do “ano 3” com o valor recebido do ano 4 (ano que zerou o fluxo e ficou positivo):

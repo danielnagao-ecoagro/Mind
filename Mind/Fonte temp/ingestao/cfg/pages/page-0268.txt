@@ -1,0 +1,11 @@
+=== PAGE 268 ===
+522CFG – Certificado em Fundamentos de Gestão
+Como a ETTJ é uma curva de juros (juros compostos), a sua fórmula se baseia na multiplicação de cada fator de retorno para se encontrar o retorno total do período. Após isso, apresentamos o retorno total do período ao ano. Sabemos que a grande maioria, quando olha a fórmula apresentada abaixo, sente calafrios. Mas não se preocupe, pois podemos transformar todos os cálculos exigidos na fórmula em “soma” e “subtração”. Ou seja, será mais importante a compreensão do conteúdo e saber montar os gráficos, do que decorar a devida fórmula. q FÓRMULA:Ø Zn: taxa spot anualizado do período totalØ Z1: é a taxa spot para 1 ano  Ø f1: é a taxa a termo de um anoØ fn: taxa a termo para n períodos
+Estrutura a Termo da Taxa de JurosFórmula
+("+$$)$	="+$%×"+)&×⋯×("+)$)
+523CFG – Certificado em Fundamentos de Gestão
+0 (hoje)1 ano2 anos3 anos
+2% 3% 4%
+??? 
+Taxa spotTaxa Termo 1ATaxa Termo 2A
+Estrutura a Termo da Taxa de JurosExemplo 1Se a taxa spot atual de um ano é 2%, a taxa a termo de 1 ano (entre o primeiro e o segundo ano) é 3% e a taxa a termo de 2 anos (entre o segundo e o terceiro ano) é de 4%, qual a taxa spot de 3 anos?

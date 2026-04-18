@@ -1,0 +1,6 @@
+=== PAGE 701 ===
+1377CFG – Certificação de Fundamentos de Gestão
+1377
+12.3 Tributação de Renda Variável
+1378CFG – Certificação de Fundamentos de Gestão
+Tributação: Renda VariávelIntroduçãoA Receita Federal considera para tributação do Imposto de Renda como renda variável os ganhos líquidos auferidos por qualquer beneficiário (inclusive pessoas jurídicas isentas), em operações realizadas nas Bolsas de Valores, de Mercadorias, de Futuros e assemelhados, existentes no Brasil. Os principais ativos que veremos são:Ø Alienação de Ações;Ø Alienação de BDRs (Brazilian Depositary Receipts) em bolsa;Ø Derivativos:o Mercado a Termo;o Mercado Futuro;o Mercado de Opções.Relembrando que o derivativo Swap e a operação com opções na estratégia “box de 4 pontas” são tributados como renda fixa.

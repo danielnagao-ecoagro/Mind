@@ -1,0 +1,11 @@
+=== PAGE 12 ===
+CFG – Certificação em Fundamentos de Finanças15
+Exemplo: [Δ%]q EXEMPLO 1: Um investidor comprou ações por R$ 100 mil e as vendeu por R$ 77 mil. Qual o percentual do prejuízo?Ø 100.000 [ENTER]Ø 77.000Ø Pressione[Δ%] Ø Resposta: - 23,00%q EXEMPLO 2: Um investidor comprou uma LTN (Tesouro Prefixado) por R$ 943,00 e recebeu no vencimento R$ 1.000,00. Qual foi sua rentabilidade?Ø 943 [ENTER]Ø 1000Ø Pressione[Δ%] Ø Resposta: 6,04% (clicando em [f][6], irá ver que a rentabilidade foi 6,044539%)q OBS: Perceba que a utilização dessa tecla é “da onde eu estou, para onde eu vou”.
+HP
+-
+12C
+CFG – Certificação em Fundamentos de Finanças16
+Exemplo: [%T]q EXEMPLO 1: Rafael viver de renda quando suas aplicações financeiras lhe proporcionarem uma renda de R$ 10.000,00 por mês. Qual o valor que ele precisa ter acumulado, sabendo que as aplicações rendem 1% ao mês?Ø 1 [ENTER] Ø 10.000Ø Pressione[%T] Ø Resposta: R$ 1.000.000,00q EXEMPLO 2: Um título de renda fixa isento de imposto de renda rendeu 8% no período. Considerando um imposto de 20% sobre o lucro, qual deveria ser a rentabilidade de uma renda fixa com imposto?Ø 100 [ENTER] → a totalidade sempre tem valor de 100Ø 20 [ꟷ] → estamos retirando a parte do “governo” da totalidadeØ 8 [%T] Ø Resposta: 10 (dez por cento)qOBS: Perceba que a tecla segue a lógica da sua escrita. Primeiro o “%” (o quanto se tem da totalidade de 100) e depois o “T” , que representa o Total que você quer.
+HP
+-
+12C

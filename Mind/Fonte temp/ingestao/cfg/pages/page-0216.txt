@@ -1,0 +1,20 @@
+=== PAGE 216 ===
+418CFG – Certificado em Fundamentos de Gestão
+ADR’S
+: 
+American
+ 
+Depositary
+ 
+ReceiptsProgramas de ADR(...) Continuação Ø ADR Nível III (Fully Registred): Há emissão de novas ações (mercado primário).§ Necessita de registro completo na SEC.§ Obrigatório o registro em uma Bolsa de Valores americana.§ Deve atender as normas contábeis americanas (USGAAP).§ Programa de divulgação institucional de alta qualidade.§ Mais completo e oneroso.Ø ADR 144A (Rule 144A): Não há necessidade de registro na SEC.§ Negociados em balcão, através do sistema PORTAL.§ Permite captação de recursos apenas para QIB - Qualified Institutional Buyers, que são Investidores institucionais qualificados.§ Menos oneroso que o nível III.§ Do ponto de vista legal, a empresa necessita apenas cumprir as regras exigidas no ADR Nível I, a diferença principal está na desvantagem de tornar a empresa conhecida apenas por um grupo restrito de investidores (QIB).
+419CFG – Certificado em Fundamentos de Gestão
+INVESTIDOR BRASILEIRO1. Emite ordem de compra (R$)CORRETOR BRASILEIRO9. Entrega BDRBANCO DEPOSITÁRIO(emite BDR)8. Entrega BDRAtravés de uma Instituição Financeira que atue nos dois países e opere com câmbio.   
+2. R$
+3. U$6. Entrega ações7. Notifica o DepositárioCORRETOR AMERICANO4.5. AçõesBolsa de ValoresBANCO CUSTODIANTE(custódia de ações)
+BDR’S
+: 
+Brazilian
+ 
+Depositary
+ 
+ReceiptsCiclo Operacional

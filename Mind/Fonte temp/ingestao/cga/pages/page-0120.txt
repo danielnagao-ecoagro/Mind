@@ -1,0 +1,9 @@
+=== PAGE 120 ===
+232CFG – Certificação de Fundamentos de Gestão
+4.1 Medição de Desempenho 
+(
+Performance 
+Measurement
+)
+233CFG – Certificação de Fundamentos de Gestão
+Fluxos ExternosConceitoA taxa de retorno de um ativo ou de uma carteira é a variação percentual no valor de mercado desse ativo ou carteira durante um período de tempo definido. A taxa de retorno precisa levar em consideração os fluxos de caixa externos. Os fluxos de caixa externos referem-se a contribuições e retiradas feitas para e/ou de uma conta, em oposição aos fluxos de caixa internos, como juros ou dividendos.Se o fluxo de caixa externo ocorre no início do período de medição, o retorno do ativo ou da carteira deve ser calculado da seguinte forma: Retorno = !"#$%	'()"#	*(!"#$%	,)(-("#.'#/0$	12	3"(0"	4052%)$)!"#$%	,)(-("#.'#/0$	12	3"(0"	4052%)$Se o fluxo de caixa externo ocorre no final do período de medição, o retorno do ativo ou da carteira deve ser calculado da seguinte forma:Retorno = !"#$%	'()"#	*'#/0$	12	3"(0"	4052%)$*	!"#$%	,)(-("#!"#$%	,)(-("#

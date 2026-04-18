@@ -1,0 +1,8 @@
+=== PAGE 334 ===
+654CFG – Certificado em Fundamentos de Gestão
+Resumo 2: Contratos Futuros
+CONTRATOVALORÚLTIMO DIA DE NEGOCIAÇÃOVENCIMENTODI 1R$ 100 milÚltimo dia útil do mês anterior ao do mês de vencimentoQuatros primeiros meses subsequentes à realização da operação. A partir daí, meses de início de trimestreDOLU$ 50 milÚltimo dia útil do mês anterior ao do mês de vencimentoTodos os meses.DDI e FRAUS$ 50 milÚltimo dia útil do mês anterior ao do mês de vencimentoQuatros primeiros meses subsequentes à realização da operação. A partir daí, meses de início de trimestreINDFUTCotação Futuro x R$ 1,00Quarta-feira mais próxima do dia 15 do mês de vencimentoMeses Pares
+Tabela
+655CFG – Certificado em Fundamentos de Gestão
+655
+5.4.2 Modalidade: Swap

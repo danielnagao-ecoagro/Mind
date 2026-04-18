@@ -1,0 +1,10 @@
+=== PAGE 8 ===
+11CGA - Certificação de Gestores Anbima
+O Preço Futuro (F)  de qualquer é o seu preço à vista (S – spot) acrescido da taxa de juros livre de risco. Assumindo que a taxa de juros livre de risco (i) é constante e igual para todos os vencimentos (t), temos:
+Um conceito importante é o de BASE, que é a diferença entre o preço futuro de uma mercadoria para um vencimento qualquer e o seu preço a vista.Preços
+(t)Preço FuturoPreço à vistaBaseData de vencimento do contrato futuro
+Contrato Futuro
+!=#	×&+(!
+Formação de Preço
+12CGA - Certificação de Gestores Anbima
+Contrato FuturoIbovespa FuturoO ÍNDICE FUTURO DE IBOVESPA é o principal contrato futuro cobrado em provas. Este contrato consiste em negociar a cesta de ações composta do índice Bovespa, em uma data futura, sem a necessidade realizar a compra de cada ação que compõe este índice. Como característica, este contrato é negociado através dos pontos do Ibovespa mais uma taxa de juros. Cada ponto do contrato vale R$ 1,00, portanto, se o índice futuro está 60.000 pontos, ele está valendo R$ 60 mil.q PRINCIPAIS VANTAGENS:Ø Mecanismo de proteção (hedge) contra oscilações ou para alavancagem no mercado financeiro, quando se trata de renda variável;Ø Por ser um contrato futuro, não necessita de desembolso financeiro para replicar o comportamento do principal índice brasileiro, o Ibovespa. Somente da margem de garantia e dos possíveis ajustes diários;Ø Baixo custo de transação, por se tratar de um derivativo; Ø Possibilidade de arbitragem entre as ações no mercado à vista, quando os devidos preços não condizerem com o seu valor mais taxa de juros brasil (SELIC).

@@ -1,0 +1,11 @@
+=== PAGE 127 ===
+CFG – Certificação de fundamentos de Gestão244
+DI 
+–
+ 
+Depósito InterbancárioConceitoA taxa DI, que significa Depósito Interbancário, é a taxa média ponderada das operações realizadas entre instituições financeiras pelo prazo de um dia. Essas operações são chamadas de CDI (Certificados de Depósito Interbancário), sendo um contrato privado de empréstimo restrito ao mercado interbancário. Como de praxe, a taxa DI também é expressa de forma anual e com base em 252 dias úteis.No entanto, com o passar dos anos, esta operação ficou cada vez menos comum, gerando um problema para a indústria de renda fixa, pois o CDI é muito utilizado como parâmetro de rentabilidades (remuneração de CDB, LCI, LCA e também como benchmark para a remuneração de taxa performance de diversos fundos de investimentos). Desta forma, a CETIP (atual B3) criou um novo modelo de fallback (plano B) quando não há operações suficientes para cálculo do DI (ocorrer menos de 100 operações ou o somatório dos volumes das operações elegíveis para o cálculo da Taxa DI for inferior a               R$ 30 bilhões), ela será igual à Taxa SELIC Over divulgada no dia.
+CFG – Certificação de fundamentos de Gestão245
+CDI 
+–
+ 
+Certificado de Depósito InterbancárioConceitoOs Certificados de Depósito Interbancário são os títulos de emissão das instituições financeiras, que lastreiam as operações do mercado interbancário. Suas características são idênticas às de um CDB, mas sua negociação é restrita ao mercado interbancário. Sua função é, portanto, transferir recursos de uma instituição financeira para outra. Em outras palavras, para que o sistema seja mais fluido, quem tem dinheiro sobrando empresta para quem não tem. A taxa média diária do CDI é utilizada como parâmetro para avaliar a rentabilidade de fundos, como os DI, por exemplo. O DI é utilizado para avaliar o custo do dinheiro negociado entre os bancos, no setor privado e, como o CDB (Certificado de Depósito Bancário), essa modalidade de aplicação pode render taxa de prefixada ou pós-fixada.

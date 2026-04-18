@@ -1,0 +1,10 @@
+=== PAGE 55 ===
+104CFG – Certificação de Fundamentos de Gestão
+Ø Duplicata (1):§ PV × n§ R$ 9.708,74 × 1§ 9.708,74Ø Duplicata (1):§ PV × n§ R$ 18.851,92 × 2§ 37.703,84Ø Duplicata (3):§ PV × n§ R$ 27.454,25 × 3§ 82.362,75Ø Duplicata (4):§ PV × n§ R$ 35.539,48 × 4§ 142.157,92
+ETAPA 2: Multiplicar cada valor presente calculado pelo seu prazo
+Ø Somatório dos PV × n = 9.708,74 + 37.703,84 + 82.362,75 + 142.157,92Ø Somatório dos PV × n = R$ 271.933,25ETAPA 3: Somar todos os resultados da Etapa 2
+Ø Somatório dos PV = 9.708,74 + 18.851,92 + 27.454,25 + 35.5369,48Ø Somatório dos PV = 91.554,39ETAPA 4: Calcular o Valor Presente da Carteira (soma dos VP da ETAPA 1)
+Ø Duration de Macaulay = 271.933,25 ÷ 91.554,39 = 2,97 meses ou 89 dias.ETAPA 5 – FINAL!: Dividir Etapa 3 pela Etapa 4!!!
+Risco de Taxa de JurosDuration de Macaulay - Passo a Passo
+105CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosDuration: LimitaçõesA Duration é uma boa aproximação da mudança de preço de um título de renda fixa para pequenas variações na taxa de juros, mas não para grandes variações, pois pressupõe que as taxas de juros de mercado são flat (para qualquer prazo, as taxas de juros serão sempre as mesmas). Porém, como ela é uma estimativa linear de alteração de alteração de preço, não possibilita estimativas adequadas por não modelar precisamente a curvatura existente entre a variação porcentual do valor de um título prefixado e a variação percentual da taxa de juros de mercado. Sendo assim, a Convexidade é utilizada como medida correção!Já a média ponderada é uma boa aproximação da Duration de Macaulay, vide nosso exemplo no qual a Média ponderada resultou em 90 dias (3 meses) e a Duration em 89 dias (2,97 meses).

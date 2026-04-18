@@ -1,0 +1,14 @@
+=== PAGE 99 ===
+CFG – Certificação de fundamentos de Gestão188
+MicroeconomiaCotas e SubsídiosPreçoPE A introdução de uma cota de produção, que geralmente é definida para regular mercados, estabelecendo um limite máximo de produção, tem como efeitos a redução da quantidade ofertada de QE para QC e, consequentemente, a elevação do preço de PE para PC, assumindo que a cota foi definida como sendo uma quantidade inferior à de equilíbrio. Se a cota for definida a uma quantidade superior à de equilíbrio, o efeito será inócuo.QEQC
+PC
+Preço
+QE
+Já o estabelecimento de subsídios desloca a curva de oferta para a direita. Com isso, a quantidade ofertada sobe de QE para QS. Já os novos preços se comportam da seguinte forma: os vendedores passam a receber um preço maior, PSV, por conta do subsídio que recebem, e os consumidor passam a pagar um preço inferior, PSC.PE
+QS
+PSVPSC
+Quantidade
+Quantidade
+CFG – Certificação de fundamentos de Gestão189
+2.1.2 Demanda do consumidor
+189

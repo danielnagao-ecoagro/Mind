@@ -1,0 +1,12 @@
+=== PAGE 327 ===
+640CFG – Certificado em Fundamentos de Gestão
+NDF 
+–
+ 
+Non
+ 
+Deliverable
+ 
+ForwardConceitoO NDF (Non Deliverable Forward) é um contrato a termo de moedas, negociado em mercado de balcão, cujo objetivo é fixar, antecipadamente, uma taxa de câmbio em uma data futura e são registrados na B3. No vencimento, a liquidação (exclusivamente financeira em reais) ocorre pela diferença entre a taxa a termo contratada e a taxa de mercado definida como referência.Sua utilização ocorre principalmente em cenários onde se deseja proteger contra oscilações cambiais ou simplesmente participar ativamente da variação de uma moeda, ou seja, muito utilizado como instrumento de hedge por importadores e exportadores. Sua vantagem em relação ao contrato futuro de câmbio é que não há ajuste diário, somente chamada de margem. 
+641CFG – Certificado em Fundamentos de Gestão
+Contrato FuturoConceitoO CONTRATO FUTURO é caracterizado por ser um contrato PADRONIZADO (característica do ativo, tamanho do contrato, vencimento pré-definido), no qual ambas as partes possuem obrigações, tendo o vendedor a obrigação de entregar o ativo, e o comprador a obrigação de pagar na data futura. Este é o único contrato que possui AJUSTE DIÁRIO, pois ele NÃO TEM RISCO DE CONTRAPARTE, já que todo vendedor vende para a clearing B3 e todo comprador compra da clearing B3.Estes contratos se encerram por Liquidação Financeira (pagamento ou recebimento da diferença de preços do ativo, sem necessidade de entrega física), que é a forma mais comum, ou pela Liquidação Física (entrega do ativo negociado).Os contratos futuros mais relevantes para a prova são:Ø Ibovespa Futuro;Ø DI Futuro;Ø Futuro de Dólar;Ø Cupom Cambial;Ø FRA de Cupom (FRC).

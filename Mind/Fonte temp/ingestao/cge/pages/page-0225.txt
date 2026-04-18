@@ -1,0 +1,13 @@
+=== PAGE 225 ===
+432CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175A instituição depositária deve divulgar, no Brasil, todas as informações a respeito do fundo de índice cuja divulgação seja obrigatória em seu país de origem.A instituição depositária deve ainda manter ou informar a página na rede mundial de computadores em que constem, obrigatoriamente, as seguintes informações:Øqualificação dos prestadores de serviços essenciais;Øqualificação do custodiante e da depositária;Øentidades administradoras de mercados organizados de valores mobiliários em que as cotas e os BDR-ETF estejam admitidos à negociação;Øregulamento ou documento de natureza similar;Ødescrição do índice de referência ao qual a política de investimento esteja associada, incluindo sua metodologia de cálculo;Øpolítica de investimento, público-alvo, metas e objetivos de gestão do fundo, incluindo informação específica sobre como o fundo acompanha as variações e a rentabilidade do índice de referência, se por replicação integral da composição da carteira do índice ou por métodos de otimização da composição da carteira.
+BDR-ETF
+433CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175Continuação:Øriscos envolvidos, incluindo a descrição de fatores que podem afetar a aderência do desempenho do fundo ao índice;Ødados estatísticos, contendo, no mínimo:Øtabela comparativa da evolução diária do valor patrimonial da cota, do patrimônio líquido, bem como do valor do índice subjacente desde a data de início de funcionamento do fundo até a data da última cota disponível;Øtabela contendo a rentabilidade mensal da classe de cotas comparada ao índice subjacente, contendo pelo menos os últimos 24 meses; Øgráfico da evolução da rentabilidade acumulada da classe de cotas comparada ao índice subjacente, desde a admissão para negociação em mercado organizado de valores mobiliários até a última cota disponível; eØinformações relativas a erros de aderência ou diferença de rentabilidade, incluindo o número de dias úteis decorridos desde o início do desenquadramento;Øfatos relevantes relacionados aos BDR-ETF que envolvam o custodiante ou a instituição depositária.
+BDR-ETF

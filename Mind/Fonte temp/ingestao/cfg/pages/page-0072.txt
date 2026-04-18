@@ -1,0 +1,18 @@
+=== PAGE 72 ===
+CFG – Certificação em Fundamentos de Finanças135
+Regressão Linear SimplesGráficos
+b0
+E(y)
+x
+A inclinação de b1 é positiva
+Regressão Linear positivab0E(y)
+x
+A inclinação de b1 é negativaRegressão Linear negativa
+b0E(y)
+xA inclinação de b1 é zeroSem relação
+CFG – Certificação em Fundamentos de Finanças136
+Gráficos
+Regressão Linear SimplesE como fazemos para calcular os valores b0 e b1 na equação de regressão estimada?Primeiro plotamos os dados em um gráfico, de modo a obter um diagrama de dispersão. Nesse gráfico, temos a variável independente (x) no eixo horizontal e a variável dependente (y) no eixo vertical. A partir da análise do diagrama, podemos observar os dados em um formato gráfico e, com isso, já tirar algumas conclusões prévias.
+0510152025
+0 2 4 6 8 1012Variável independente (x)
+Variável dependente (y)

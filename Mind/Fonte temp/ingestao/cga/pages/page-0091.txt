@@ -1,0 +1,9 @@
+=== PAGE 91 ===
+176CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosButterfly Positiva                      Yield
+Prazo
+Taxas das extremidades sobem e da intermediária, cai.
+177CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosButterfly Negativa                      Yield
+Prazo
+Taxas das extremidades caem e da intermediária, sobe.

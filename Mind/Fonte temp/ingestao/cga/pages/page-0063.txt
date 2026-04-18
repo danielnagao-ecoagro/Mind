@@ -1,0 +1,9 @@
+=== PAGE 63 ===
+120CFG – Certificação de Fundamentos de Gestão
+Risco de Resgate AntecipadoConceitoO risco de resgate antecipado ocorre de duas formas: Ø Se a taxa de juros cair, os títulos com opção de Call embutida, podem ser resgatados antecipadamente pelo emissor. Com isso, os recursos do investidor passam ser reinvestidos em títulos com retornos mais baixos; ouØ Os títulos de renda fixa possuem prazo de vencimento e muitas vezes a rentabilidade contratada só é garantida se o investidor mantiver o título até o final do prazo. Assim, a rentabilidade paga pode não ser exatamente aquela que foi contratada. Isso ocorre quando se vende um título no mercado secundário (o que pode gerar prejuízos ou retornos acima do esperado, já que se trata de oferta e demanda) ou, por exemplo, quando uma instituição financeira  aceita pagar 100% do CDI, mas se  o investidor resgatar antes do prazo, a rentabilidade é menor (90% do CDI).
+121CFG – Certificação de Fundamentos de Gestão
+Risco de Taxa de JurosConvexidadeComo vimos, a duration é uma boa aproximação da mudança no preço do título em função de pequenas variações nas taxas de juros. Isso porque a relação entre taxa de juros e preço não é linear. Vamos a um exemplo para ficar mais claro.Seja um título de Renda Fixa com essas características:
+1.000
+505012
+1.050
+5505034Ø YTM na HP 12C: o PV = - R$ 1.000 [CHS];o FV = R$ 1.000; o PMT = R$ 50; o n = 5 anos;o i (YTM) = ? = 5% ao ano

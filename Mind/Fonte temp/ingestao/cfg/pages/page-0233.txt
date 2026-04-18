@@ -1,0 +1,6 @@
+=== PAGE 233 ===
+452CFG – Certificado em Fundamentos de Gestão
+5.1.5 Índices da Bolsa de Valores
+452
+453CFG – Certificado em Fundamentos de Gestão
+Índices de Bolsa de ValoresDefiniçãoOs Índices das bolsas de valores, também chamados de índices bursáteis, são cestas de ações representativas do mercado como um todo ou setor econômico específico e com metodologia específica. Eles são de suma importância para utilização de benchmarks e os principais grupos de índices brasileiros são:Ø IBOVESPA: Índice BovespaØ IBrX: Índice BrasilØ MLCX: Índice MidLarge Cap Ø SMLL: Índice Small CapØ ISE: Índice de Sustentabilidade EmpresarialØ IEE: Índice de Energia ElétricaØ IGC: Índice de Ações com Governança Corporativa DiferenciadaØ IGCT B3: Índice de Governança Corporativa TradeØ IGC NM B3: Índice de Governança Corporativa Novo MercadoØ ICO2 B3: Índice Carbono Eficiente B3Ø ITAG B3: Índices de Ações com Tag Along DiferenciadoØ IDIV: Índice de DividendosØ IFIX: Índice de Fundos de Investimentos ImobiliáriosAlém dos índices brasileiros, iremos ver alguns índices internacionais também.

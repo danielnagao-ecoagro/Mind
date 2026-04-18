@@ -1,0 +1,10 @@
+=== PAGE 361 ===
+708CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasShort StrangleO Short Strangle, também chamada de MESA, é uma estratégia que consiste em vender uma CALL fora do dinheiro e vender uma Put também Out-The-Money, com diferentes preços de exercícios mas com o mesmo prazo de vencimento.Ao contrário da Long Strangle, esta operação busca ter ganhos em um mercado ESTÁVEL, sem grandes oscilações. Esta estratégia também possui o problema do prejuízo ilimitado, já que estará vendida em uma CALL. 
+709CFG – Certificado em Fundamentos de Gestão
+Operações Estruturadas
+77  78  79  80   81   82   83   84   85   86   87
+Lucro Ex: V Call 84 – R$ 1,00      V Put 80 – R$ 1,00543210-1-2-3-4Prejuízo
+Lucro Máximo
+CALLPUT
+Short StrangleEste é o gráfico do resultado financeiro de um investidor que VENDE uma CALL e também VENDE uma PUT por R$ 1,00 cada, porém, com strikes diferentes (no caso R$ 84 e R$ 80, respectivamente). Assim, ele RECEBEU R$ 2,00 para fazer a operação.Resultado  da operação Long StraddlePVStrikeCALLPUTLucros/ Perdas1084/80+1-69-687084/80+1-9-87684/80+1-3-28084/80+1+1+28284/80+1+1+28484/80+1+1+28684/80-1+109084/80-5+1-49984/80-14+1-13

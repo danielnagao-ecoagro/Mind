@@ -1,0 +1,9 @@
+=== PAGE 121 ===
+234CFG – Certificação de Fundamentos de Gestão
+Fluxos ExternosExemploUma carteira foi avaliada em R$ 12.000,00 no início do mês. No final do mês, seu valor passou a ser de R$ 18.250,00. Durante o mês, a carteira recebeu um aporte de R$ 5.000,00.Se o aporte foi realizado no início do mês, o retorno da carteira seria de: Retorno = !".$%&	((!$.&&&	*%.&&&)!$.&&&*%.&&& = !".$%&	(	!,.&&&	!,.&&&	= 7,35%Agora, se o aporte foi realizado no final do mês, o retorno da carteira seria de: Retorno = !".$%&	(%.&&&(!$.&&&!$.&&& = !-.$%&	(	!$.&&&	!$.&&&	= 10,42%
+235CFG – Certificação de Fundamentos de Gestão
+TIR 
+–
+ 
+Taxa Interna de Retorno
+ConceitoA Taxa Interna de Retorno (TIR),  em do inglês Internal Rate of Return (IRR), é a taxa de desconto que faz com que o Valor Presente Líquido (VPL) de um projeto seja igual a zero, ou seja, é o retorno do investimento. Assim sendo, se utilizarmos a metodologia da TIR para analisarmos dois projetos, escolheremos aquele que possui a maior Taxa Interna de Retorno. Importante ressaltar que, se estivermos analisando fluxos anuais, a TIR será anual (sua periodicidade é a mesma dos fluxos analisados), se estivermos analisando fluxos mensais, ela será uma taxa mensal.Este estudo considera que os fluxos de caixa do projeto são reinvestidos pela própria TIR, o que acaba sendo um grande problema, pois dificilmente ocorrerá na prática.

@@ -1,0 +1,7 @@
+=== PAGE 47 ===
+88CFG – Certificação de Fundamentos de Gestão
+ANOFLUXO (Valor Futuro)YTM a 4% YTM a 6%YTM a 8%VALOR PRESENTE160,0057,6956,6055,56260,0055,4753,4051,44360,0053,3450,3847,63460,0051,2947,5344,1051.060,00871,24792,09721,42Current Yield5,51%6,00%6,52%Total (PV)1.089,041.000,00920,15
+Valor Presente, Valor Futuro e YTMExemploUm título com face igual a R$ 1.000,00, vencimento em 5 anos, cupom 6%aa. Qual Será o valor presente do título, caso o YTM (retorno do ativo) seja de 4%, 6% e 8%?
+++++
+89CFG – Certificação de Fundamentos de Gestão
+Títulos com Ágio ou Deságio Definiçãoq ÁGIO (prêmio): O título está “mais caro” do que quando foi emitido. Portanto:Ø Preço de mercado maior que o valor nominal;Ø YTM menor que a taxa do cupom do título;Ø Principais motivos: (1) A taxa livre de risco está MENOR atualmente em relação a data de emissão do título; e/ou (2) o Rating da empresa melhorou.q DESÁGIO (desconto): O título está “mais barato” em relação a sua emissão. Assim:Ø Preço de mercado menor que o valor nominalØ YTM maior que a taxa do cupom do títuloØ Principais motivos: (1) A taxa livre de risco está MAIOR atualmente em relação a data de emissão do título; e/ou (2) o Rating da empresa piorou.q AO PAR:Ø Preço de mercado igual ao valor nominalØ YTM igual a taxa do cupom do títuloØ Principais motivos: nada se alterou na economia ou na empresa.

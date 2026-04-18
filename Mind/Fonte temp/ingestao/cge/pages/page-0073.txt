@@ -1,0 +1,11 @@
+=== PAGE 73 ===
+134CGE – Certificação de Gestores Anbima para Fundos Estruturados
+ETF 
+–
+ 
+Exchange Traded FundsConceitoA oferta de cotas de ETF é regulada por meio de um mecanismo conhecido como Criação (Creation) e Resgate (Redemption), que envolve grandes investidores especializados chamados de Participantes Autorizados (Authorized Participants, ou simplesmente APs).Quando um ETF deseja emitir cotas adicionais, o AP compra ações do índice de referência e as vende ou troca para o ETF por novas cotas do ETF no mesmo valor. Por sua vez, o AP vende as cotas do ETF no mercado com lucro. Quando um AP vende ações ao administrador do ETF em troca de cotas do ETF, o bloco de cotas usado na transação é chamado uma Unidade de Criação (Creation Unit). Por exemplo, se um ETF que investe nas ações do S&P 500 e tem um preço de cota de US$ 201 no fechamento do mercado. Se o valor das ações que o ETF possui valer apenas US$ 200 por cota, o preço da cota do fundo de US$ 201 está sendo negociado com um prêmio (ágio) em relação ao NAV (Net Asset Value ou Valor Patrimonial Líquido).  
+135CGE – Certificação de Gestores Anbima para Fundos Estruturados
+ETF 
+–
+ 
+Exchange Traded FundsConceitoO AP tem então uma oportunidade de arbitragem: comprará no mercado ações que o ETF deseja manter em seu carteira e as venderá ao fundo em troca de cotas do ETF. Ou seja, o AP está comprando ações a US$ 200 e recebendo as cotas do ETF no valor de US$ 201. Esse processo é chamado de Criação (Creation) e aumenta o número de cotas de ETF no mercado. Se todas as demais variáveis permanecerem constantes, aumentar o número de cotas disponíveis no mercado reduzirá o preço do ETF e alinhará as ações com o NAV do fundo, fechando a janela de arbitragem.Por outro lado, o AP também pode comprar cotas do ETF no mercado. Ele irá então vender essas cotas de volta ao administrador do ETF em troca de ações individuais que o AP pode revender no mercado. Como resultado, o número de cotas do ETF é reduzido por meio do processo chamado de Resgate (Redemption).Concluindo, a quantidade de cotas criadas ou resgatadas é função da demanda de mercado e, em surgindo oportunidades de arbitragem, a tendência é que o preço da cota do ETF se alinhe com seu NAV, fechando a janela para novas arbitragens nesse preço.

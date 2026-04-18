@@ -1,0 +1,9 @@
+=== PAGE 203 ===
+CFG - Certificado de Fundamentos de Gestão394
+Período0 1 2 3 4Fluxo A (R$)-50.000+10.000+20.000+30.000+40.000Somatório A-50.000-40.000-20.000+10.000
+!"#$"%&=().)))+).)))=),--	/012+(	/012=(,--	/012
+PaybackSolução do ExemploA maneira mais fácil de se calcular o Payback é realizar uma tabela e ir somando os fluxos de caixa, até zerar a aplicação ou deixar positiva (para posteriormente, fazer a proporcionalidade do período):
+Podemos notar que o capital foi recuperado no terceiro ano e, além disso, que “sobrou” R$ 10 mil (o conceito de Payback é recuperar o capital investido). Ou seja, o que precisava para recuperar o capital investido, não eram os R$ 30 mil do terceiro ano, mas  R$ 20 mil (devemos olhar para o ano anterior ao fluxo que ficou positivo).  Desta forma, fazemos uma regra de três com o que faltou do “ano 2” com o valor recebido do ano 3:
+CFG - Certificado de Fundamentos de Gestão395
+Payback 
+Modificado (Descontado)ConceitoO “Payback Modificado (Descontado)” vem a consertar um problema primário do “Payback Simples”: o valor do dinheiro no tempo. Desta forma, o “Payback Descontado” traz a valor presente, todos os fluxos de caixa, para depois aplicar o mesmo conceito do “Payback Simples”, ou seja, ele é o período de tempo necessário para recuperar o investimento, avaliando-se os fluxos de caixa descontados.q CÁLCULO: para descobrirmos o Payback Descontado, devemos primeiramente, trazer cada fluxo de caixa, a valor presente ([n], [i], [PV], [PMT] e [FV]). Após sabermos isso, o cálculo passar o mesmo do “Payback Simples”, ou seja, somar os fluxos de caixa, com seus respectivos sinais (entradas, positivo; saídas, negativo) até ele ser zerado. Poderá ocorrer que, ao somar um dos fluxos de caixa, o valor ultrapasse o valor investido (tornar a soma positiva). Desta forma, devesse utilizar o valor financeiro do último período proporcional ao necessário para zerar o fluxo.

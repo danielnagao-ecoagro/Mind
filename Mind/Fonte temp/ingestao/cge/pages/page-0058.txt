@@ -1,0 +1,15 @@
+=== PAGE 58 ===
+105CGE – Cer(ﬁcação de Gestores Anbima para Fundos Estruturados
+ETF 
+–
+ 
+Fundos de ÍndiceCaracterísticasUma medida importante para ETFs é seu NAV (Net Asset Value) ou Valor Patrimonial Líquido.O preço de mercado de um fundo negociado em bolsa é o preço pelo qual as ações do ETF podem ser compradas ou vendidas em bolsas durante o horário de negociação. Como os ETFs são negociados como ações listadas em bolsas, o preço de mercado flutuará ao longo do dia à medida que compradores e vendedores negociam entre si. Se surgirem mais compradores do que vendedores, o preço geralmente subirá; caso contrário, esperamos um declínio no preço das negociações. O NAV de um ETF representa a somatória dos preços dos ativos que compõem a carteira, mais o caixa que o gestor deixou no fundo, no final do dia de negociação, deduzindo os valores a pagar.
+106CGE – Certificação de Gestores Anbima para Fundos Estruturados106
+ETF 
+–
+ 
+Fundos de ÍndiceCaracterísticasO cálculo do NAV segue a mesma lógica do cálculo de uma cota de um fundo tradicional:
+Em resumo, o preço de mercado do ETF é o preço pelo qual o ETF pode ser comprado ou vendido nas bolsas durante o horário de negociação. Já o NAV é o preço de fechamento baseado no valor de cada ativo constante do ETF, somando caixa e excluindo os valores a pagar, comparativamente com o total de cotas em emitidas. 
+NAV
+PATRIMÔNIO LÍQUIDO
+NÚMERO DE COTASq Patrimônio Líquido:    PL = Valor de Mercado dos Ativos + Caixa - Valores a Pagar

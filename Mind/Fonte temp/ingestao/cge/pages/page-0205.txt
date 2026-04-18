@@ -1,0 +1,11 @@
+=== PAGE 205 ===
+392CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175NegociaçãoContinuação:Ødivulgar, por meio do seu sistema de negociação e de informação, as mesmas informações sobre preços e volume que divulga para outros ativos listados, bem como as seguintes informações adicionais:Øconvocação de assembleia de cotistas; eØfatos relevantes; A entidade administradora do mercado organizado no qual as cotas estejam admitidas à negociação deve divulgar, diariamente, sempre que:Øverificar-se erro de aderência, calculado como o desvio padrão populacional das diferenças entre a variação percentual diária da cota e a variação percentual do valor de fechamento do índice de referência nos últimos 60 pregões, superior a 2 pontos percentuais, desde que tal erro de aderência não seja reenquadrado ao limite de 2 pontos percentuais até o 15º dia útil consecutivo subsequente à data de verificação do respectivo erro de aderência;
+393CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175NegociaçãoContinuação:Øa diferença entre a rentabilidade acumulada da classe de cotas e do valor de fechamento do índice de referência, em um período de 60 pregões, for superior a 2 pontos percentuais, desde que tal diferença de rentabilidade não seja reenquadrada ao limite de 2 pontos percentuais até o 15º dia útil consecutivo subsequente à data de verificação da respectiva diferença de rentabilidade; ouØa diferença entre a rentabilidade acumulada da classe de cotas e do valor de fechamento do índice de referência em um período de 12 meses for superior a 4 pontos percentuais, desde que tal diferença de rentabilidade não seja reenquadrada ao limite de 4 pontos percentuais até o 30º dia útil consecutivo subsequente à data de verificação da respectiva diferença de rentabilidade.

@@ -1,0 +1,9 @@
+=== PAGE 294 ===
+574CFG – Certificado em Fundamentos de Gestão
+Medidas de Retorno de Renda Rixa
+CY=Cupom	em	dinheiro	anual Valor	de	Mercado	do	Ativo
+Conceitosq Cupom: Equivale aos juros financeiros pagos periodicamente pelo título. Geralmente é  informado na questão através de uma taxa. Esta taxa deverá ser convertida para o período do cupom e multiplicada por R$ 1.000,00, encontrando assim, o Cupom de pagamento. q Yield to Maturity (YTM): É a taxa interna de retorno (TIR) dada ao ano dos fluxos de caixa do título, incluindo o valor da compra, os cupons e o valor no vencimento, considerada a taxa de mercado do título negociado. Esta metodologia é mais precisa que o Current Yield.q Current Yield: Corresponde a soma de todos os recebimentos em dinheiro pagos pelos juros do título ao credor em um ano em relação ao preço do título. Esta metodologia não considera a hipótese de reinvestimento e nem o recebimento final da dívida (desconsidera o ágio ou deságio da compra de um ativo). Sua fórmula é:
+575CFG – Certificado em Fundamentos de Gestão
+ANOFLUXO (Valor Futuro)YTM a 4% YTM a 6%YTM a 8%VALOR PRESENTE1 60,0057,6956,6055,562 60,0055,4753,4051,443 60,0053,3450,3847,634 60,0051,2947,5344,105 1.060,00871,24792,09721,42Current Yield5,51%6,00%6,52%Total (PV)1.089,041.000,00920,15
+Valor Presente, Valor Futuro e YTMExemploUm título com face igual a R$ 1.000,00, vencimento em 5 anos, cupom 6%aa. Qual será o valor presente do título, caso o YTM (retorno do ativo) seja de 4%, 6% e 8%?
+++++

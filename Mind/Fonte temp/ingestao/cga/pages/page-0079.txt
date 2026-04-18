@@ -1,0 +1,6 @@
+=== PAGE 79 ===
+152CFG – Certificação de Fundamentos de Gestão
+Gestão de Carteiras RF em relação a passivosImunizaçãoQuando falamos de imunização de múltiplos passivos, a estratégia Cash Flow Matching pode se tornar muito custosa e de difícil implementação.Uma forma de contornar esse problema é através da Duration Matching, que tem uma abordagem mais flexível e geralmente prática para financiar vários passivos. Assim como ocorre quando temos um único passivo para imunizar, quando temos vários é necessário também haver ativos suficientes para pagar os passivos. Mas o ponto principal da Duration Matching é que as durations dos ativos e passivos devem ser iguais. Para isso, o valor presente dos ativos deve ser igual ou maior o valor presente dos passivos, a dispersão dos fluxos de caixa e a convexidade dos ativos deve ser ligeiramente superior à dos passivos e é necessário rebalancear constantemente a carteira conforme as taxas de juros mudam.
+153CFG – Certificação de Fundamentos de Gestão
+2.5 Outras Estratégias de Gestão de Carteiras de 
+Renda Fixa153

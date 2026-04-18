@@ -1,0 +1,5 @@
+=== PAGE 429 ===
+CFG – Certificação de Fundamentos em Gestão839
+IPS InstitucionalObjetivos – Plano BDO principal objetivo de um plano de pensão do tipo BD é fazer com que os ativos gerem retorno suficiente para cobrir os passivos do plano, isto é, o pagamento de aposentadoria aos participantes que não estão mais na ativa.O retorno específico dependerá da tolerância ao risco e das restrições do plano.É possível que o gestor busque um retorno um pouco mais elevado, com o objetivo de aumentar o superávit, o que poderia inclusive implicar menores aportes do patrocinador. Contudo, tais objetivos mais arrojados não devem ser considerados em excesso, pois é importante que a gestão incorra em um nível adequado de risco capaz de minimamente proporcionar os retornos necessários para fazer frente ao pagamento das aposentadorias.
+CFG – Certificação de Fundamentos em Gestão840
+IPS InstitucionalRestrições – Plano BDAs principais restrições de um Plano BD são:ØLiquidezØHorizonte de TempoØImpostosØLegais e RegulatóriasØCircunstâncias ÚnicasVamos abordar como cada uma dessas características restringe a atuação do gestor de um Plano do tipo BD.

@@ -1,0 +1,7 @@
+=== PAGE 31 ===
+CFG – Certificação em Fundamentos de Finanças53
+Taxa de Juros NominalExemplo 1: Cálculoq EXEMPLO: Um investidor aplicou seus recursos em um título de renda fixa que está remunerando 4,55% ao ano + inflação. Após um ano, qual foi o retorno do investidor sabendo que a inflação durante foi de 10% no ano?Para calcularmos, precisamos utilizar a fórmula do juro nominal:
+Primeiro precisamos dividir todos os números por 100 e somar 1, para depois poder multiplicar, ou seja ( 4,55 /100 + 1) e (10 / 100 + 1). Com isso, teremos 1,0455 e 1,10 e desta forma poderemos chegar a resposta:Ø Taxa nominal = ( 1,0455 x 1,10 )Ø Taxa nominal = [(1,15) – 1] x 100Ø Taxa nominal = (0,15) x 100Ø Taxa nominal = 15%
+#$%$	,-./0$)=1+#$%$	'($)×1+102)$çã-−1×100	
+CFG – Certificação em Fundamentos de Finanças54
+Taxa de Juros NominalExemplo 1: “Base 100”Já vimos como utilizar a “fórmula de toro” par quando necessitamos dividir taxas. Agora utilizaremos de um “novo truque” para facilitar nosso cálculo quando tivermos que multiplicar taxas. Este truque se baseia em somar as taxas utilizando uma base 100, da seguinte forma:Ø 100 [ENTER] → numero que utilizaremos para a nossa baseØ 4,55 [%] [+]→ estamos somando a taxa real na nossa baseØ 10 [%] [+] → estamos crescendo 10% o número anteriorØ 100 [-] → estamos descontando a nossa baseØ Resposta: 15% é a nossa taxa nominalØ OBS: Esta maneira de calcular serve para toda vez que for necessário “somar taxas” (multiplicação de taxas) em juros compostos.

@@ -1,0 +1,25 @@
+=== PAGE 391 ===
+766CFG – Certificação de Fundamentos em Gestão
+Retorno (R)
+Risco Sistemático (β)
+Ação
+SML
+5%10%
+0,7
+12%
+Retorno Esperado
+Retorno Requerido
+Exemplo: Gráfico
+SML 
+–
+ 
+Security Market 
+Line
+767CFG – Certificação de Fundamentos em Gestão
+Escolhendo AtivosTítulos Subvalorizados(Ativos Baratos)Títulos Supervalorizados(Ativos Caros)Ø Retorno esperado é MAIOR que retorno exigido do ativo.Ø No gráfico, a ação está acima da SML.Ø Deve ser comprado.
+Ø Retorno esperado é MENOR que retorno exigido do ativo.Ø No gráfico, a ação está abaixo da SML.Ø Deve ser vendido.Não confunda RETORNO ESPERADO com  RETORNO REQUERIDO (RETORNO EXIGIDO) de um ativo. O primeiro é a expectativa de retorno do mercado financeiro para aquela ação (podendo ser calculado por média pondera), já o Retorno Requerido é quanto um investidor está exigindo de retorno mínimo baseado no risco sistêmico do ativo. 
+SML 
+–
+ 
+Security Market 
+Line

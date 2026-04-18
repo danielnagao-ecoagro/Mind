@@ -1,0 +1,7 @@
+=== PAGE 133 ===
+258CFG – Certificação de Fundamentos de Gestão
+CustomizadosOs benchmarks customizados são constituídos para refletir com a maior eficácia possível a alocação de ativos do gestor e o processo de investimento.Como vantagens, podemos citar:ØÉ considerado um benchmark válido;ØPermite contínuo monitoramento do processo de investimento; eØPermite a alocação efetiva de riscos através dos times de gestão.Porém, há algumas desvantagens:ØPode ser caro para construir e manter;ØUma eventual falta de transparência do gestor pode impossibilitar a construção de um benchmark customizado.
+Tipos de Benchmarks
+259CFG – Certificação de Fundamentos de Gestão
+ConceitoOs seguintes testes podem ser usados para avaliar a qualidade de um benchmark:ØMinimizar vieses sistemáticos: o benchmark e a carteira vão responder aos mesmos fatores de riscos sistemáticos;ØBaixo tracking error: se o desvio padrão do retorno ativo (diferença entre o retorno da carteira do gestor e do retorno do benchmark de estilo) é baixo, isso indica que o benchmark é muito relevante para explicar a performance do gestor;ØCaracterísticas do risco sistemático similares com às da carteira;ØAlta cobertura: uma grande porcentagem dos ativos da carteira são incluídos no benchmark. Se a cobertura for baixa, haveria baixa relação entre as decisões do gestor e o resultado do benchmark; eØBaixo turnover do benchmark: isso faz com que o benchmark seja uma alternativa passiva válida para o gestor ativo.
+Testes de Qualidade do Benchmark

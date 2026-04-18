@@ -16,4 +16,9 @@ O Custodiante é a instituição financeira responsável pela **guarda e valida�
 
 A independência entre essas figuras garante que quem cobra não é necessariamente quem valida a existência do título, mitigando fraudes.
 
+## Referências e Links
+- [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC]]
+- [[Fundos_Investimento/FIAGRO/FIAGRO_Conceitos|FIAGRO]]
+- [[Credito_e_Risco/Indice_Credito|Crédito e Risco]]
+
 #estruturacao #fidc #servicing #custodia #backoffice

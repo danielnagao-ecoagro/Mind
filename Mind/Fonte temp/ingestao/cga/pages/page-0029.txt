@@ -1,0 +1,11 @@
+=== PAGE 29 ===
+53CGA - Certificação de Gestores Anbima
+ConceitoDessa forma, a abordagem núcleo-satélite possui três grandes vantagens:ØCustos: apesar de a parte ativa (satélite) implicar maiores custos de transação, impostos e maior volatilidade em função da gestão ativa, o núcleo, gerado passivamente, diminuirá tais indicadores na carteira como um todo, por conta do menor número de transações e do reduzido desvio-padrão que proporcionará ao portfólio;ØVolatilidade: como grande parte da carteira é gerida passivamente, o beta (risco sistêmico) do portfólio não costuma ser muito elevado, assim como o risco total (desvio-padrão) também é bem controlado. Além disso, adicionar ao satélite ativos com baixa correlação com o mercado ajudará ainda mais para manter o risco da carteira em um patamar relativamente baixo; eØRetornos: os ganhos relativamente baixos da estratégia passiva podem ser turbinados pelos retornos maiores da gestão ativa, proporcionando um bom desempenho para a carteira como um todo.
+Outras Estratégias Ativas e Agnósticas
+54CGA - Certificação de Gestores Anbima
+ConceitoA Lei Fundamental da Gestão Ativa afirma que a produtividade de um gestor ativo depende da qualidade de suas habilidades e da frequência com que essas habilidades são aplicadas.  Nesse sentido, um bom gestor ativo seria aquele que proporcionasse um elevado Information Ratio (IR), índice de desempenho que relaciona o Retorno Ativo com o Risco Ativo. A fórmula para cálculo desse índice leva em consideração:Ø Information Coefficient (Coeficiente de Informação): mede a habilidade do gestor a partir da correlação entre suas previsões e os retornos efetivamente obtidos;Ø Breadth: reflete a frequência, ou seja, o número de tentativas independentes (ou seja, tomadas por ele mesmo) que o gestor efetuou com base em suas previsões.Portanto, para produzir um alto Information Ratio, o gestor precisa ter boa habilidade para transformar previsões em resultados e fazer um grande número de tentativas corretas!
+Fundamental Law 
+of
+ 
+Active Management
+IR =)*	×+,-./01q FÓRMULA:

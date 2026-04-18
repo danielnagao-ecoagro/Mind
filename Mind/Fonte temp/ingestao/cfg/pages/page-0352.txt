@@ -1,0 +1,8 @@
+=== PAGE 352 ===
+690CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasCovered Call e Protective PutUm investidor cria uma Covered Call comprando o ativo-objeto e vendendo uma opção de compra. Tal estratégia é utilizada para gerar rendimento adicional à carteira quando o investidor acredita que o preço da ação subjacente permanecerá inalterado no curto prazo.Já uma Protective Put é construída mantendo uma posição comprada no ativo objeto e comprando uma opção de venda. Essa estratégia pode ser usada para limitar o risco de queda ao custo do prêmio da opção de venda. O investidor ainda poderá se beneficiar dos aumentos no preço da ação, mas o ganho será menor por conta do valor pago pela opção de venda.
+691CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasCovered CallEste é o gráfico do resultado financeiro de um investidor que COMPRA O ATIVO a R$ 5,00 e VENDE uma CALL (Strike R$ 7,00, preço R$ 2,00).  Resultado  da operação Covered CallCOMPRAATIVOVENDACALLLucros/ Perdas0-5 2 -32-3 2 -13-2 2 050 2 272 2 494 0 42      3      5             7              9   
+Lucro
+6420-1-2-3-4Prejuízo
+Lucro Máximo

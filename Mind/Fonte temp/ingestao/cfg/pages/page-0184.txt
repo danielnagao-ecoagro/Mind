@@ -1,0 +1,10 @@
+=== PAGE 184 ===
+357CFG – Certificação de Fundamentos de Gestão
+Grau de AlavancagemExemplo
+RubricaQueda das vendasCenário BaseAumento das vendasVariação das vendas (em relação ao cenário base)-10% +10%(a) Receita (vendas)2.880.000,003.200.000,003.520.000,00(b) Custo do Produto Vendido (50% vendas)- 1.440.000,00- 1.600.000,001.760.000,00(c) Despesas fixas (Alavancagem Operacional)- 600.000,00- 600.000,00- 600.000,00(a) – (b) – (c) Lucro antes de Juros e IR (LAJIR)840.000,001.000.0001.160.000,00Variação LAJIR (em relação ao cenário base)-16% +16%(d) Despesas financeiras (Alavancagem Financeira)-200.000,00-200.000,00-200.000(a) – (b) – (c) – (d)  Lucro antes de IR (LAIR)640.000,00800.000,00960.000,00Variação LAIR (em relação ao cenário base)-20% +20%
+Antes de entrarmos no conceito propriamente dito de alavancagem, vamos analisar o exemplo abaixo, em que variamos em 10%, para mais e para menos, o volume de vendas e calculamos o impacto no LAJIR (Lucro Antes de Juros e IR) e LAIR (Lucro Antes de IR).
+358CFG – Certificação de Fundamentos de Gestão
+Grau de AlavancagemExemplo
+RubricaQueda das vendasCenário BaseAumento das vendasVariação das vendas (em relação ao cenário base)-10% +10%(c) Despesas fixas (Alavancagem Operacional)- 600.000,00- 600.000,00- 600.000,00Variação LAJIR (em relação ao cenário base)-16% +16%(d) Despesas financeiras (Alavancagem Financeira)-200.000,00-200.000,00-200.000Variação LAIR (em relação ao cenário base)-20% +20%
+Antes de entrarmos no conceito propriamente dito de alavancagem, vamos analisar o exemplo abaixo, em que variamos em 10%, para mais e para menos, o volume de vendas e calculamos o impacto no LAJIR (Lucro Antes de Juros e IR) e LAIR (Lucro Antes de IR).
+Note que o LAJIR variou 16% em relação ao cenário base, em função de uma variação de 10% do volume de vendas. E o LAIR variou 20% em relação ao cenário base, em função de uma variação de 10% do volume de vendas.

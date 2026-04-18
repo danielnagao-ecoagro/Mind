@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pdf-to-markdown"
+version = "1.0.0"
+description = "Converte PDFs em Markdown usando Claude"
+requires-python = ">=3.10"
+dependencies = [
+    "pdfplumber>=0.10.0",
+    
+]

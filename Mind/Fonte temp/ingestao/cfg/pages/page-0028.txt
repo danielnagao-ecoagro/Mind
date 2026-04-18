@@ -1,0 +1,8 @@
+=== PAGE 28 ===
+CFG – Certificação em Fundamentos de Finanças47
+Equivalência de Taxas: Juros CompostosModelo 2 (Programação Hp-12c)
+CFG – Certificação em Fundamentos de Finanças48
+Qual a taxa anual equivalente ao mês de 12% ao ano?
+qResposta: 0,948879% ao mês.q OBS: Este método é sendo pela programação inserida. Após inserirmos o passo-a-passo anterior, não será mais necessário imputar a programação (ela é feita apenas uma vez), a não ser que a HP-12C desprograme, que pode ocorrer por “limpar” a programação                    (f PRGM) ou haja algum outro problema, devendo ser necessário inserir o passo-a-passo novamente.
+PRESSIONAROBJETIVOVISOR12i Introduzir a taxa que desejo converter no [i]12,000360nIntroduzir o prazo em dias, correspondente do [i]360,00030Prazo desejado (dias que você quer 30). Caso seja em dias úteis, 1 mês =21 dias; e 1 ano = 252 dias)30R/SExecuta o programa0,948879
+Equivalência de Taxas: Juros CompostosModelo 2 (Programação Hp-12c)

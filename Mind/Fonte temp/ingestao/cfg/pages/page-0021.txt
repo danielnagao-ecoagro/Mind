@@ -1,0 +1,11 @@
+=== PAGE 21 ===
+CFG – Certificação em Fundamentos de Finanças33
+q EXEMPLO: Levando em consideração as mesmas condições do exemplo anterior, porém agora o banco irá fornecer uma rentabilidade de 2% a.m. Qual deverá ser o aporte mensal que Rafael necessitará fazer para atingir seu objetivo?q RESPOSTA:Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Digite [200.000][CHS] e pressione [PV]Ø (3) Digite [2] e pressione [i]Ø (4) Digite [20] e [ENTER], digite [12], pressione [x] e pressione [n]Ø (5) Digite [1.000.000]  e pressione [FV] Ø (6) Aperte [PMT]Ø Resposta: + R$ 3.860,73
+Exemplo 6 (PMT)
+Regimes de Capitalização: Juros Compostos
+CFG – Certificação em Fundamentos de Finanças34
+-R$ 200.000240nR$ 1.000.000R$ 3.860,73
+Taxa de juros (i) = 2,00 a.m.0
+Neste caso, ao invés de Rafael necessitar aportar, ele poderá resgatar todos os meses                   R$ 3.860,73 e mesmo assim chegará no objetivo de R$ 1.000.000,00 em 20 anos. Este é um exemplo claro de que devemos SEMPRE fazer o fluxo de caixa, já que normalmente o PV e o PMT possuem o mesmo sinal, o que poderia nos levar ao equívoco da questão.
+Exemplo 6 (PMT - Gráfico)
+Regimes de Capitalização: Juros Compostos

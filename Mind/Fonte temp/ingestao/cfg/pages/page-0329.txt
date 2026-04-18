@@ -1,0 +1,16 @@
+=== PAGE 329 ===
+644CFG – Certificado em Fundamentos de Gestão
+Resultado
+Preço do Ativo(PV)PrejuízoLucro60.000
+RESULTADO DA COMPRA DO CONTRATO FUTUROPVCustoLucros e Perdas por contrato (R$)Total (10 contratos)58.00060.000- 2.000-20.00059.00060.000-1.000-10.00059.50060.000-500-5.00060.00060.0000 060.50060.000+ 500+ 5.00061.00060.000+ 1.000+ 10.00062.00060.000+ 2.000+ 20.000
+Resultado Financeiro
+Exemplo: Compra de Contrato FuturoRafael COMPROU 10 contratos futuros de Ibovespa a 60.000. Se o índice subir 2.000 pontos, ele estará ganhando 2.000 pontos (que equivalem R$ 2 mil) por contrato. Assim, ele lucrará R$ 20 mil reais ao total. Já caso o índice cair e vier para 58.000 pontos, ele perderá R$ 20 mil reais, conforme demonstração na tabela.
+Contrato Futuro
+645CFG – Certificado em Fundamentos de Gestão
+Resultado
+PrejuízoLucro
+RESULTADO DA VENDADO CONTRATO FUTUROPVCustoLucros e Perdas por contrato (R$)Total (10 contratos)58.00060.000+2.000+20.00059.00060.000+1.000+10.00059.50060.000+500+5.00060.00060.0000 060.50060.000-500-5.00061.00060.000-1.000-10.00062.00060.000-2.000-20.000
+Preço do Ativo(PV)60.000
+Resultado Financeiro
+Exemplo: Venda de Contrato FuturoRafael VENDEU 10 contratos futuros de Ibovespa a 60.000. Se o índice cair 2.000 pontos, ele estará ganhando 2.000 pontos (que equivalem R$ 2 mil) por contrato. Assim, ele lucrará R$ 20 mil reais ao total. Já caso o índice subir e for para 62.000 pontos, ele perderá R$ 20 mil reais, conforme demonstração na tabela.
+Contrato Futuro

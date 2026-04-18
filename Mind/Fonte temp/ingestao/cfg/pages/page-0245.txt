@@ -1,0 +1,9 @@
+=== PAGE 245 ===
+476CFG – Certificado em Fundamentos de Gestão
+Valor Patrimonial por Ação (VPA)O VALOR PATRIMONIAL POR AÇÃO (VPA) é um indicar para mostrar quanto cada ação vale pelo seu Patrimônio Líquido, ou seja, se vendesse todos os seus ativos e quitasse todas as dívidas, quanto sobraria por ação. Por exemplo, a empresa RToro Education S/A possui 1.000.000 ações, R$ 15 milhões em ativos e R$ 10 milhões em passivos, portanto, seu Patrimônio Líquido é de R$ 5 milhões. Desta forma, podemos afirmar que seu VPA é de R$ 5,00 por ação, já que basta dividir o Patrimônio Líquido pelo número de ações.q FÓRMULA:
+Análise Fundamentalista
+>"#=Patrimônio	LíquidoNúmero	Total	de	Ações
+477CFG – Certificado em Fundamentos de Gestão
+P/L: Preço sobre o LucroO P/L (Preço sobre o Lucro) é o múltiplo mais comum para avaliar se uma ação está barata ou cara. Este indicador significa “quanto tempo vou demorar para recuperar o capital investido, através do lucro líquido anual da empresa”. Na análise de projetos, chamamos esse conceito de Payback. Desta forma, quanto menor o índice, maior a atratividade de se investir na ação (mais “barata” está, pois mais rápido você receberá o capital investido de volta).Por exemplo, uma empresa A está sendo negociada na bolsa por R$ 10,00 e possui um lucro por ação igual a R$ 2,00, possuindo desta forma um P/L de 5 (anos). Já a empresa B está sendo negociada por R$ 18,00, tem um lucro por ação igual a R$ 6,00, assim, seu               P/L é de 3 (anos). Portanto, a empresa B está mais barata que a empresa A!q FÓRMULA: 
+Análise Fundamentalista
+"/!=Preço	de	MercadoLUCRO	LÍQUIDO

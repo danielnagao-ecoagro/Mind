@@ -1,0 +1,8 @@
+=== PAGE 68 ===
+CFG – Certificação em Fundamentos de Finanças127
+Teste de HipótesesTeste BicaudalDe forma genérica, o teste de hipóteses bicaudal engloba as seguintes hipóteses:H0: µ =	µ0;      Ha: µ ≠	µ0.Suponha que um pesquisador gostaria de verificar se a média populacional é igual a 300. Ele então assume um nível de significância de 5% (a = 0,05) e coleta uma amostra de 50 observações, na qual verifica uma média amostral de 302, com desvio-padrão de 12. Uma vez definidos as hipóteses e o nível de significância, devemos agora calcular a estatística do teste:
+z = 1,18.
+302 - 3001250z =21,6971z =
+CFG – Certificação em Fundamentos de Finanças128
+Teste de HipótesesTeste BicaudalVamos agora interpretar os resultados encontrando o valor-p e o valor crítico.Devemos procurar na coluna da esquerda pelo número 1,1 e, nessa linha, seguirmos para a direita até a coluna 0,08. Encontramos 0,8810. Isso significa p (z <	1,18) é 0,8810. Logo, p(z ≥	1,18) é de 1 – 0,8810 = 0,1190.Para calcularmos o valor-p, devemos duplicar esse número, pois temos duas caudas. Logo, valor-p = 2 x 0,1190 = 0,2380. 
+P(z ≤-1,18) = 0,1190z = - 1,180z = + 1,18P(z ≥	1,18) = 0,1190

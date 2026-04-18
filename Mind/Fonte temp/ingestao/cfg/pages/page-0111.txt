@@ -1,0 +1,12 @@
+=== PAGE 111 ===
+CFG – Certificação de fundamentos de Gestão212
+Microeconomia
+MicroeconomiaCompetição PerfeitaCustos e Receita
+Quantidade
+Preço = Receita Marginal. Como são tomadores de preço, os vendedores não conseguem praticar outro preço que não esse.
+Custo MarginalCusto Total Médio
+Custo Variável MédioQMAX
+P = RMg
+Enquanto a Receita Marginal (RMg) for maior que o Custo Marginal (CMg), o produtor continuará aumentando sua produção. Porém, se o Custo Marginal se tornar superior à Receita Marginal, então não fará sentido aumentar mais a produção. Portanto, o ponto de maximização dos lucros ocorrerá no momento em que a Receita Marginal for igual ao Custo Marginal.
+CFG – Certificação de fundamentos de Gestão213
+MicroeconomiaMonopólioO monopólio é uma estrutura de mercado em que uma empresa detém todo o mercado de um bem. Isso altera totalmente as estruturas que vimos há pouco nos mercados em concorrência perfeita.O Monopólio é caracterizado pelos seguintes fatores:Ø Uma única empresa detém todo o mercado e, portanto, é formadora de preços (ao contrário da competição perfeita, em que os vendedores eram tomadores de preços);Ø O monopolista aufere lucros econômicos, mesmo no longo prazo;ØHá enormes barreiras de entrada, o que leva ao monopolista se manter como único vendedor de seu mercado.Ø Recurso-chave necessário para a produção é exclusivo de uma empresa;Ø Regulamentação do governo: concessão a uma única empresa do direito exclusivo de produzir determinado bem;Ø Economia de escala (monopólio natural): uma única empresa consegue fornecer determinado bem a um custo significativamente inferior.

@@ -1,0 +1,12 @@
+=== PAGE 94 ===
+CFG – Certificação de fundamentos de Gestão178
+MicroeconomiaCurvas de Demanda e a Elasticidade-PreçoDemanda elástica: elasticidade > 1
+20Aumento no preço em 22% diminuiu a quantidade demandada em 28,6%.
+15
+Demanda perfeitamente elástica: elasticidade infinita
+8
+Ao preço de R$ 8, os consumidores comprarão qualquer quantidade. Acima de R$ 8, a demanda é zero e, abaixo de R$ 8, infinita.
+Quant.Quant.
+Preço
+CFG – Certificação de fundamentos de Gestão179
+MicroeconomiaOutras ElasticidadesAlém da elasticidade-preço da demanda, podemos também enunciar pelo menos outras três:ØElasticidade-renda da demanda: mede o quanto varia a quantidade demandada em função de uma alteração na renda do consumidor.Ø Bens normais: elasticidade-renda da demanda positiva, isto é, quando a renda aumenta, a quantidade demanda por determinado bem também aumenta;Ø Bens inferiores: elasticidade-renda da demanda negativa, isto é, quando a renda aumenta, a quantidade demanda por determinado bem diminui;Ø Bens necessários: elasticidade-renda positiva, mas baixa, pois são bens que precisam ser consumidos, ainda que em menor quantidade;Ø Bens supérfluos: elasticidade-renda positiva e bem elevada, pois os consumidores podem passar um tempo sem consumi-los.Elasticidade-renda da demanda =Variação percentual na quantidade demandadaVariação percentual na renda

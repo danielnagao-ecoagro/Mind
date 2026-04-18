@@ -14,10 +14,10 @@ Existem dois tipos de Selic:
 2. **Selic Meta:** É a taxa definida pelo **Copom**, que serve como alvo para a Selic Over.
 
 ## Copom
-O Comitê de Política Monetária (Copom) reúne-se a cada 45 dias para definir a meta da Taxa Selic. Suas decisões baseiam-se na análise da inflação, atividade econômica e cenário internacional. 
+O Comitê de Política Monetária (Copom) reúne-se a cada 45 dias para definir a meta da Taxa Selic. Suas decisões baseiam-se na análise da inflação, atividade econômica e cenário internacional.
 
 ## Impacto no CDI
-O **CDI (Certificado de Depósito Interbancário)** é uma taxa que os bancos cobram para emprestar dinheiro entre si. Na prática, o CDI caminha quase colado à Taxa Selic Over (geralmente 0,10 ponto percentual abaixo da Selic Meta). Como a maioria dos investimentos de renda fixa (como os ativos em um [[Fundos_Investimento/FIAGRO|FIAGRO]] ou [[Fundos_Investimento/FIDC|FIDC]]) é indexada ao CDI, variações na Selic impactam diretamente a rentabilidade do portfolio.
+O **CDI (Certificado de Depósito Interbancário)** é uma taxa que os bancos cobram para emprestar dinheiro entre si. Na prática, o CDI caminha quase colado à Taxa Selic Over (geralmente 0,10 ponto percentual abaixo da Selic Meta). Como a maioria dos investimentos de renda fixa (como os ativos em um [[Fundos_Investimento/FIAGRO/FIAGRO_Conceitos|FIAGRO]] ou [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC]]) é indexada ao CDI, variações na Selic impactam diretamente a rentabilidade do portfolio.
 
 ## Referências e Links
 - [[Mercado_Financeiro/Indice_Mercado|Voltar para Mercado Financeiro]]

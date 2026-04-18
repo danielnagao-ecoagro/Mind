@@ -1,0 +1,8 @@
+=== PAGE 202 ===
+CFG - Certificado de Fundamentos de Gestão392
+PaybackConceitoO Payback, também chamado de “Payback Simples”, éo período de tempo necessário para que as entradas de caixa do projeto se igualem ao valor a ser investido, ou seja, o tempo de recuperação do investimento realizado. Diferentemente das análises de VPL e da TIR, no qual, entre dois projetos, escolhemos aquele que der o maior resultado, pela análise do Payback, devemos escolher aquele que dará o menor número. Importante ressaltar que, após o retorno do capital, o Payback ignora todos os fluxos de caixa de restante, seguindo a premissa de “depois que recuperar meu capital, o que vier é lucro”.q CÁLCULO: para descobrirmos o Payback, devemos somar os fluxos de caixa, com seus respectivos sinais (entradas, positivo; saídas, negativo) até ele ser zerado. Poderá ocorrer que, ao somar um dos fluxos de caixa, o valor ultrapasse o valor investido (tornar a soma positiva). Desta forma, devesse utilizar o valor financeiro do último período proporcional ao necessário para zerar o fluxo.
+CFG - Certificado de Fundamentos de Gestão393
+Payback
+-R$ 50.000
+R$ 10.0000 Ano 1R$ 20.000Ano 2R$ 30.000Ano 3R$ 40.000Ano 4Ainda faltam R$ 40.000 a serem recuperadosAinda faltam R$ 20.000 a serem recuperadosNeste ano foi Recuperado o capital  investido e, ainda por cima, ultrapassou R$ 10.000.
+ExemploUm investidor aplica R$ 50.000 em um projeto A que prevê fluxos de caixa anuais positivos de: R$ 10.000,00 no primeiro ano; R$ 20.000,00 no segundo ano; R$ 30.000,00 no terceiro ano; e R$ 40.000,00 no quarto ano. Qual o Payback do investimento?

@@ -1,0 +1,8 @@
+=== PAGE 17 ===
+29CGA - Certificação de Gestores Anbima
+Por fim, a Otimização é uma forma alternativa de indexação que utiliza como base a teoria moderna de carteiras para resolver o problema de minimização do tracking error.Essa alternativa de indexação busca a combinação de ativos, com base em dados históricos, visando a minimizar o tracking error e maximizar o retorno. A principal desvantagem desse método é justamente que se baseia em dados históricos. Por sua vez, as vantagens das técnicas de otimização é que normalmente apresentam baixo tracking error e exploram eficientemente as correlações entre os ativos e a consequente diversificação da carteira.
+Conceito
+Métodos Alternativos de Indexação
+30CGA - Certificação de Gestores Anbima
+[511201] A estratégia de gestão de carteira de Renda Variável de replicação de um índice (full replication) é geralmentea) mais barata que a otimização, mas com menor tracking error.b) mais cara que a otimização, mas com menor tracking error.c) mais barata que a otimização, mas com maior tracking error.d) mais cara que a otimização e com maior tracking error.
+Como a prova tem cobrado

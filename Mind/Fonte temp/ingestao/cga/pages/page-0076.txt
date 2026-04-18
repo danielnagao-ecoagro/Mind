@@ -1,0 +1,16 @@
+=== PAGE 76 ===
+146CFG – Certificação de Fundamentos de Gestão
+Gestão de Carteiras RF em relação a passivos
+1.100
+                      Preço
+YTMY*
+Erro de Precificação
+Erro de Precificação
+Preço Correto do Titulo com a mudança na taxa (YTM)
+8%9%10%∆i=+1%
+∆p∆p9001.000
+∆i=-1%
+Preço estimado baseado na Duration
+Duration: Gráfico
+147CFG – Certificação de Fundamentos de Gestão
+Gestão de Carteiras RF em relação a passivosConvexidadeA boa notícia é que, como a curva de preços e taxa de juros apresenta convexidade positiva, podemos dizer que o seguinte: Ø Aumento da taxa de juros: o preço do título cai mais lentamente; Ø Redução da taxa de juros: o preço do título sobe mais rapidamente.Ou seja, a convexidade positiva ajuda tanto na alta como na queda das taxas de juros!Além disso, quanto maior a duration, maior a convexidade. Assim, por conta do efeito convexidade, quanto mais convexo for o título, maior a valorização do preço do título em oscilações negativas de taxas de juros e menor a redução de preços em oscilações positivas dos juros.  Para concluir sobre convexidade, essa sensibilidade é mais alta para títulos sem cupom, por conta da maior duraton, e menor para títulos com cupons (menor duration).

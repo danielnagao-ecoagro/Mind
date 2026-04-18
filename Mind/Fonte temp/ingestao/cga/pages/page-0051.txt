@@ -1,0 +1,9 @@
+=== PAGE 51 ===
+96CFG – Certificação de Fundamentos de Gestão
+Ø (1) TR:o 100 [ENTER]o 1,38 [%] [+]o 0,27 [%] [+]o 100 [-]R: 1,65%
+Ø (1) CDB 10%aa:o 10 [i]o 252 [n]o 42o [R/S]R: 1,60%
+Ø (2) Rentabilidade TOTAL:o 100 [ENTER]o 1,65 [%] [+]o 1,60 [%] [+]o 100 [-]R: 3,28% no período
+Precificação de AtivosTítulos Híbridos: Exemplo de CálculoJoão aplica em R$ 100 mil em um CDB que está remunerando TR + 10% a.a. Após dois meses (60 dias corridos e 42 dias úteis), ele decide resgatar sua aplicação. Qual foi a sua remuneração, sabendo que a TR foi de 1,38% e 0,27% em cada mês?q SOLUÇÃO: Quando os títulos são híbridos (remuneração fixa MAIS uma taxa), como por exemplo Poupança e NTN-B, aparecerá o sinal +. Porém, já vimos que este MAIS significa vezes por ser de juros compostos. Assim, devemos (1) descobrir o retorno de cada variável no período desejável e depois; (2) multiplicar os resultados, conforme ensinado em Módulo I - Fundamentos de Finanças. Desta forma:
+97CFG – Certificação de Fundamentos de Gestão
+2.2 Riscos em Aplicações de Renda 
+Fixa97

@@ -1,0 +1,33 @@
+=== PAGE 92 ===
+178CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFBull Steepening
+0,0 0%
+0,5 0%
+1,0 0%
+1,5 0%
+2,0 0%
+2,5 0%
+3,0 0%
+3,5 0%
+4,0 0%
+4,5 0%
+5,0 0%
+1 2 3 4 5
+Bull Steepening
+Antes De po is
+A curva de juros pode também apresentar outros movimentos.No Bull Steepening (gráfico ao lado), o juro de curto prazo cai mais rápido que o de longo prazo. Portanto, montar uma posição na parte mais curta da curva resultaria em uma estratégia mais lucrativa, embora posições de longo prazo também seriam beneficiadas não somente pela queda dos juros, ainda que menor, mas também pela maior duration dos vencimentos.
+179CFG – Certificação de Fundamentos de Gestão
+Estratégias de Gestão de Carteiras de RFBull FlatteningNo Bull Flattening (gráfico ao lado), o juro de longo prazo cai mais rápido que o de curto prazo.Portanto, montar uma posição na parte mais longa da curva resultaria em uma estratégia mais lucrativa, embora posições de curto prazo também seriam beneficiadas (por uma queda, ainda que menor, dos juros curtos). 0,0 0%
+0,5 0%
+1,0 0%
+1,5 0%
+2,0 0%
+2,5 0%
+3,0 0%
+3,5 0%
+4,0 0%
+4,5 0%
+5,0 0%
+1 2 3 4 5
+Bull Flattening
+Antes De po is

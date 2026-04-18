@@ -1,0 +1,15 @@
+=== PAGE 254 ===
+494CFG – Certificado em Fundamentos de Gestão
+???????
+R$ 1,000 Ano 1
+R$ 2,00
+Ano 2Ano 3Dividendo 1Dividendo 2Dividendo 3 +Valor justo da Ação pela sua perpetuidade
+Modelo de Gordon: Exemplo 3 (Gráfico)
+Análise Fundamentalista
+R$ 3,00R$ 52,50
+495CFG – Certificado em Fundamentos de Gestão
+FLUXOTECLAMOTIVORESULTADO1 CFj: [g][PMT]Recebimento do Ano 12 CFj: [g][PMT]Recebimento do Ano 255,50CFj: [g][PMT]Recebimento do Ano 311 [i] Retorno ExigidoVPLNPV: [f][]Valor Presente Líquido(VALOR JUSTO)43,11
+Como os fluxos de caixa são distintos, necessitamos o valor justo da empresa através do mesmo cálculo do VPL, imputando ZERO (ou não imputando) no fluxo zero. Assim, a HP vai dizer qual o valor justo para receber a taxa que colocamos como comparação.
+Assim, chegamos a conclusão que o valor justo da ação para o risco do ativo e para o recebimento dos dividendos, considerando a partir do quarto ano um crescimento constante e perpétuo, o valor de R$ 43,11.
+Modelo de Gordon: Exemplo 3 (Cálculo)
+Análise Fundamentalista

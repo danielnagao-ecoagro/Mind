@@ -1,0 +1,14 @@
+=== PAGE 365 ===
+716CFG – Certificado em Fundamentos de Gestão
+Put
+-
+call
+ 
+ParityConceitoO termo Put-call parity refere-se a um princípio que define a relação entre o preço das opções europeias de venda e de compra da mesma classe, isto é, opções que têm os mesmos ativo subjacente, preço de exercício e data de vencimento.Esse conceito afirma que manter simultaneamente uma posição vendida em put europeia e outra comprada em call também europeia e da mesma classe fornecerá o mesmo retorno que manter um contrato a termo sobre o mesmo ativo subjacente, com o mesmo vencimento e um preço a termo igual ao preço de exercício da opção. Se os preços das opções de compra e venda divergem de forma que essa relação não se mantenha, surgirá uma oportunidade de arbitragem  A equação que expressa a put-call parity é:Em que:C = preço da opção de compra (call);PV (x) = Valor presente do preço de exercício (x), descontado pela taxa livre de risco;P = preço da opção de venda (put);S = preço à vista (spot) do ativo subjacente.
+C + PV(x) = P + S
+717CFG – Certificado em Fundamentos de Gestão
+Put
+-
+call
+ 
+ParityExemploO preço de uma opção de venda (put) do tipo europeia sobre determinado ativo-objeto é de R$ 10, com vencimento em um ano. O ativo objeto está sendo negociado atualmente por 50. Se a taxa de juros livre de risco é de 5% ao ano e o preço de exercício dessa put é de R$ 55, de acordo com a Paridade Put-Call, qual será o preço aproximado de uma opção de compra (call) da mesma classe?C + PV(x) = P + SC + !!(#$%,%!) = 10 + 50C + 52,38 = 60C = 60 – 52,38 = 7,62.

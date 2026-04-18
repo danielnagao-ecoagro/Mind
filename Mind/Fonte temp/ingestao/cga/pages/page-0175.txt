@@ -1,0 +1,11 @@
+=== PAGE 175 ===
+341CGA – Certificação de Gestores Anbima
+Conceito
+Risk
+ 
+Budgetingq TÓPICO DE PROVA: Por conta da correlação entre os ativos e, especificamente nesse caso, entre gestores de ativos, a soma do risco alocado será maior ou igual ao orçamento total de risco. Vamos a um exemplo para ficar mais claro. A alta administração de uma asset management decide que irá alocar sua carteira, avaliada em R$ 100 milhões, entre dois gestores, ficando R$ 50 milhões com cada um deles, que irão gerir sua parte com estratégias diferentes.A alta administração aprova um risco total de 17% e um VaR de R$ 5.000.000. Contudo, decide alocar os recursos entre os gestores A e B, cujos retornos apresentam correlação positiva de 0,2, da seguinte forma:OrçamentoPesoGestor AGestor BSomaDesvio-padrão17%50%15%25%20%VaRR$ 5.000.00050%R$ 2.500.000R$ 3.500.000R$ 6.000.000
+342CGA – Certificação de Gestores Anbima
+ExemploO desvio-padrão da carteira formada por R$ 50 milhões (50%) geridos pelo gestor A e R$ 50 milhões (50%) pelo gestor B será:
+Risk
+ 
+BudgetingσA,B=0,52>0,152+0,52>0,252+2	>	0,5	>	0,5	>	0,15	>	0,25	>0,2%!,#='(,*'%VaRA+B=2.500.0002+3.500.0002+2	8	2.500.000	8	3.500.000	80,2Já o VaR da carteira será:VaRA+B=9$	4.690.416OrçamentoSomaCarteiraDesvio-padrão17%20%15,81%VaRR$ 5.000.000R$ 6.000.000R$ 4.690.416

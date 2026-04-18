@@ -1,0 +1,10 @@
+=== PAGE 47 ===
+CFG – Certificação em Fundamentos de Finanças85
+Medidas de associação entre 2 variáveisCovariância: CálculoSabemos empiricamente que quanto mais alto estão os juros (SELIC), menos as pessoas tendem a comprar (o crédito fica mais caro). No entanto, podemos provar essa relação inversa com o cálculo da Covariância entre a Taxa de Juros versus Consumo. Por exemplo, calcule a Covariância entre “Consumo & Taxa de Juros”, sabendo que nos últimos quatro anos, foram coletados os seguintes dados:Ø Consumo por pessoa: {R$ 800; R$ 700; R$ 600; R$ 500}Ø Taxa SELIC: {10%; 11%; 13%; 14%}Para calcularmos Covariância entre dois ativos (A,B), devemos seguir este Passo-a-Passo:Ø (1) Calcular a média do “Ativo A” e do “Ativo B”;Ø (2) Em cada ativo, calcular a distância de cada ponto até a sua média (“RISCO”);Ø (3) Multiplicar o “RISCO” ´de cada período do “Ativo A” com o respectivo RISCO do mesmo período do “ativo B”;Ø (4) Para calcular a Covariância Populacional, deve-se somar o resultado destas multiplicações e dividir por “N”, ou seja, calcular a média destas multiplicações. Caso seja uma amostra, a divisão deverá ser por “n – 1” .
+CFG – Certificação em Fundamentos de Finanças86
+Primeiramente, devemos notar que o exemplo nos passa a informação dos “últimos quatro anos”, portanto, uma amostra. Para termos a população entre “Consumo & Taxa de Juros” deveríamos ter todos os dados desde a primeira vez que alguém consumiu no Brasil (uma coleta de dados impossível). Assim, nossa soma final será divida por 3 (n – 1).Seguindo o passo-a-passo, chegamos na seguinte tabela:
+A conclusão para nossos estudos é que a COV (Consumo, Selic) é negativa, portanto, possuem relação inversa (quando um sobe, o outro diminui).
+Consumo (A)ETAPA 2: Retorno – MédiaSELIC (B)ETAPA 2: Retorno – MédiaETAPA3:Multiplicar Riscos800+15010‒2(150×-2)= ‒300700+5011‒1(50×-1)= ‒50600‒5013+1(-50×1)= ‒50500‒15014+2(-150×2)= ‒300ETAPA 1:Média: 650(ETAPA 1)Média: 12ETAPA 4:Cov (A,B) = ‒233
+Medidas de associação entre 2 variáveis
++++(-700 ÷ 3)
+Cálculo Covariância: Passo a Passo

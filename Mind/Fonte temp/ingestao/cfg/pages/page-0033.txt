@@ -1,0 +1,6 @@
+=== PAGE 33 ===
+CFG – Certificação em Fundamentos de Finanças57
+1.4 Conceitos Básicos de Estatística
+57
+CFG – Certificação em Fundamentos de Finanças58
+EstatísticaConceitoA Estatística é a ciência das probabilidades, que através de um conjunto de regras matemáticas, nos permite fazer previsões sobre determinado grupo estudado, a partir de uma amostra significativa. Elatem por objetivocoletar, organizar, analisar e interpretar as informações de um problema que está sendo estudado, para desta forma, auxiliar natomada de decisão.Para as finanças, usamos a estatística para analisar o risco e o retorno dos investimentos, com certo grau de confiança. Desta forma, precisaremos entender os seguintes conceitos:Ø Diferença entre Amostra e PopulaçãoØ Medidas de Posição Central: Média, Moda e Mediana (As “Três Marias”)Ø Medidas de Dispersão: Desvio Padrão e VariânciaØ CovariânciaØ Coeficiente de CorrelaçãoØ Intervalo de Confiança: Distribuição Normal

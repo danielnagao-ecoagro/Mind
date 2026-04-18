@@ -1,0 +1,9 @@
+=== PAGE 197 ===
+385CGA – Certificação de Gestores Anbima
+Regular e Percentual
+Rebalanceamento
+ 
+de CarteirasAlém disso, podemos citar ainda as seguintes características:Ø Custos: o rebalanceamento regular ou calendário tende a envolver menores custos comparativamente ao rebalanceamento percentual ou por corredor, pois esse último pode ser precipitado mais de uma vez entre as datas de rebalanceamento por calendário;Ø Desvio da alocação estratégica: como o rebalanceamento percentual ou corredor é acionado quando a composição da carteira sofre alguma mudança significativa (a ser definida pelo investidor), esse formato tende a minimizar desvios da alocação estratégica comparativamente ao rebalanceamento regular ou calendário, principalmente em cenários de maior volatilidade;Ø Aversão a riscos: existe uma relação inversa entre a aversão a risco do investidor e o corredor para rebalanceamento. Assim, quanto maior/menor a aversão a riscos do investidor, menor/maior será o corredor, disparando assim o rebalanceamento mais rapidamente/lentamente em caso de maior volatilidade.Dentro dos rebalanceamento, veremos as três estratégias cobradas no Exame:Ø Buy-and-Hold;Ø Constant Mix;Ø CPPI.
+386CGA – Certificação de Gestores Anbima
+Estratégias Dinâmicas de 
+RebalanceamentoBuy-and-HoldAo invés de uma estratégia dinâmica, através da qual o gestor deve rebalancear a carteira de acordo com alguma regra, a estratégia de BUY AND HOLD é uma estratégia PASSIVA em que não se deve fazer nada. O gestor aloca os ativos da carteira de acordo com a Política de Investimentos (IPS) e depois não altera mais.q PRINCIPAIS CARACTERÍSTICAS:Ø Tolerância de risco diretamente relacionada à riqueza, Ø Possui valor de piso (valor formado com todos os recursos investidos em títulos públicos de curto prazo).Ø Estratégia linear;Ø Potencial de alta ilimitado.Ø Eficiente fiscalmente (sem muitas transações).

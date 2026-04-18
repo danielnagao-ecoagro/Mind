@@ -1,0 +1,9 @@
+=== PAGE 350 ===
+686CFG – Certificado em Fundamentos de Gestão
+FATORES DETERMINANTESEFEITO NA CALLRELAÇÃOS: (preço à vista)Quanto maior, maior o prêmioDIRETAT: (tempo até o vencimento)Quanto maior, maior o prêmioDIRETAS:  (volatilidade esperada)Quanto maior, maior o prêmioDIRETAR: (taxa de juros)Quanto maior, maior o prêmioDIRETAX: (preço do exercício )Quanto maior, MENOR o prêmioINVERSAD: (dividendos esperados durante a vida da opção )Quanto maior, MENOR o prêmioINVERSA
+Modelo Black
+-
+ScholesFatores que determinam o preço de uma CallAntes do vencimento, existem seis fatores que afetam o preço de uma opção de compra:
+687CFG – Certificado em Fundamentos de Gestão
+[204365] Em relação as premissas do modelo Black-Scholes, podemos afirmar que:I – O modelo considera que as opções podem ser exercidas a qualquer momento.II – Leva em consideração que não há oportunidades de arbitragem sem risco.III – Considera em seus cálculos que a volatilidade (medida pelo desvio padrão) e a taxa livre de risco são constantes.Está correto o que se afirma apenas em:a) Ib) IIc) II e III.d) I, II e III
+Como a prova tem cobrado!

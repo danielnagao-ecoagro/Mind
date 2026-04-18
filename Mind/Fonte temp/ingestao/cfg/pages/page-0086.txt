@@ -1,0 +1,16 @@
+=== PAGE 86 ===
+CFG – Certificação de fundamentos de Gestão162
+MicroeconomiaCurvas de Oferta e Demanda: o equilíbrioNo gráfico a seguir, note que o preço de equilíbrio é de R$ 6 para uma quantidade de equilíbrio de 6 unidades. Esse é justamente o ponto de intersecção das curvas de oferta e demanda.
+02468101214
+0 2 4 6 8 1012
+PREÇO
+QUANTIDADE
+OfertaDemanda
+CFG – Certificação de fundamentos de Gestão163
+MicroeconomiaFora do equilíbrioPorém, pode haver situações em que o mercado não esteja em equilíbrio. Nesses casos, dizemos que há um excesso de oferta ou de demanda.Por exemplo, ao preço de R$ 2,00, os vendedores ofertarão 2 unidades, mas os compradores demandarão 10 unidades. Isso representa um excesso de demanda, pois 8 unidades não serão comercializadas para a atender toda a demanda.
+02468101214
+0 2 4 6 8 1012
+PREÇO
+QUANTIDADE
+OfertaDemanda
+Excesso de demanda

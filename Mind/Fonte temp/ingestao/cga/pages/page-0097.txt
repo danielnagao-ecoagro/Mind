@@ -1,0 +1,9 @@
+=== PAGE 97 ===
+187CGA - Certificação de Gestores Anbima
+Títulos de Renda FixaConceitoOs famosos Bonds, nada mais são do quetítulosemitidos por um país (treasury bonds) ou por empresas (corporate bonds) e demais instituições privadas, ou seja, são os títulos de dívidas.Desta forma, é um contrato onde o emissor do título concorda em pagar uma determinada taxa de juro por um período de tempo predeterminado para o portador do título (a pessoa que compra e recebe os juros).Nem todos os títulos pagam cupom, alguns deles simplesmente têm um desconto sobre o valor de face, ex: você paga 980 dólares pelo direito de receber 1.000 dólares em um ano (portanto, o preço do BOND é o seu Valor Presente). Os títulos dos EUA ainda são uma das opções mais seguras, pois tem um baixo risco de inadimplência do mundo. Os EUA nunca entraram em moratória, ou seja, nunca deixou de pagar a sua dívida.Mesmo que seja um dos países mais endividados do mundo ainda é considerado um porto seguro, desta forma, é considerado a TLR (taxa livre de risco) dos investimentos no mundo.Dentre os títulos americanos, temos 3: T-Bills, T-Notes, T-Bonds e as TIPS.
+188CGA - Certificação de Gestores Anbima
+As TREASURY BILLS (T-BILLS)tem como principal característica que o seu VENCIMENTO É DE ATÉ UM ANO. Assim sendo, suas características são:Ø Maturidade menor que um ano.Ø Mais comuns: 1,3 e 6 meses (Duration Curta)Ø Usados como estimativas de taxa de retorno livre de risco (TLR)Ø Não paga cupom (devido ao curto prazo)Ø T-bills possuem um desconto sobre seu valor de face (como se fosse uma LTN)Ø Os preços são cotados como uma percentagem do valor de face.Ø A taxa de desconto não é a mesma coisa que a taxa de retorno (yield). qFÓRMULA:  
+Títulos do Governo Americano
+JUROS SIMPLES
+Treasury Bills
+!"#$%&'%=)*+*	(%)×12*3	*)4	5	64782947)5360

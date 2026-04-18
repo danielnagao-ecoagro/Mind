@@ -1,0 +1,9 @@
+=== PAGE 196 ===
+383CGA – Certificação de Gestores Anbima
+383
+5.8 Rebalanceamento de Carteiras
+384CGA – Certificação de Gestores Anbima
+Regular e Percentual
+Rebalanceamento
+ 
+de CarteirasEstas são duas maneiras de modificar os ativos nas carteiras  de investimentos. Conforme o próprio nome diz, o REBALANCEAMENTO REGULAR, também chamado de CALENDÁRIO, ocorre periodicamente (mensalmente, trimestralmente, ...). É muito comum de ser visto em carteira de ações de corretoras (exemplo: Carteira Recomendada Mensal de Ações).Já o tipo PERCENTUAL DA CARTEIRA, também conhecido por CORREDOR, é uma forma de equilíbrio de risco, por não estar mais exposto ao previsto inicialmente no IPS em algum tipo de mercado (ações, renda fixa, imobiliário,...) ou em algum ativo específico. Por exemplo, a carteira de investimentos de um cliente está posicionada em 5% na ação XYZ. Após alguns dias, a empresa valoriza 100%. Com isso, este ativo passa a ter uma posição muito mais expressiva do que o inicial (aproximadamente de 10% agora),  fazendo com que a carteira seja rebalanceada por motivo percentual.

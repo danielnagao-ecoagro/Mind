@@ -1,0 +1,10 @@
+=== PAGE 448 ===
+874CFG – Certificação de Fundamentos de Gestão
+Novas Tecnologias em FinançasBlockchainUma das aplicações mais conhecidas da tecnologia DLT é o Blockchain, um banco de dados distribuído que é compartilhado em uma rede de computadores. Assim como um banco de dados, um blockchain armazena informações eletronicamente em formato digital. O blockchain é mais conhecido por ser a base dos sistemas de criptomoedas, como Bitcoin, mantendo um registro seguro e descentralizado de transações. Uma das grandes inovações do blockchain é que ele garante a fidelidade e a segurança de um registro de dados, gerando confiança sem a necessidade de um terceiro como, por exemplo, um órgão regulador.O blockchain coleta informações em grupos, conhecidos como "blocos". Esses blocos, por sua vez, têm capacidades limitadas de armazenamento e, quando preenchidos, são fechados e vinculados ao bloco previamente preenchido, formando uma cadeia (“chain”) de dados conhecida como "blockchain". Todas as novas informações que seguem aquele bloco recém-adicionado são compiladas em um bloco recém-formado, que também será adicionado à cadeia depois de preenchido.
+875CFG – Certificação de Fundamentos de Gestão
+Novas Tecnologias em FinançasBlockchain – como funciona?O objetivo do blockchain é permitir que as informações digitais sejam registradas e distribuídas, mas não editadas. Dessa forma, um blockchain é a base para livros-razão imutáveis ou registros de transações que não podem ser alterados, excluídos ou destruídos. É por isso que os blockchains também são uma aplicação da chamada Distributed Ledger Techonology (Tecnologia Distribuída do Livro-Razão, em uma tradução livre).
+Uma nova operação é iniciada
+A operação é transmitida para uma rede de computadores peer-to-peer distribuídos ao redor do mundo
+A rede de computadores resolve equações para confirmar a validade da operação
+Uma vez confirmada a operação como legítima, ela é reunida em blocos juntamente com outros.Os blocos então são conectados em uma cadeia criando um longo histórico permanente de todas as operações
+A operação está finalizada!

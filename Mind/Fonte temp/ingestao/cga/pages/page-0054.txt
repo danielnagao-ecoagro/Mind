@@ -1,0 +1,12 @@
+=== PAGE 54 ===
+102CFG – Certificação de Fundamentos de Gestão
+Valor de Face da DuplicataPESO DO TÍTULONúmero de meses para o vencimentoDIAS X PESOR$ 10.000,0010.000 ÷ 100.000 = 10%1 mês (30 dias)30d × 10% = 3R$ 20.000,0020.000 ÷ 100.000 = 20%2 mês (60 dias)60d × 20% = 12R$ 30.000,0030.000 ÷ 100.000 = 30%3 mês (90 dias)90d × 30% = 27R$ 40.000,0040.000 ÷ 100.000 = 40%4 mês (120 dias)120d × 40% = 48Total = 100.000Prazo Médio de Recebimento = 90 dias ou seja, a Duration aproximada da carteira é de 90 dias
++++
+Risco de Taxa de JurosDuration: ExemploQual a Duration da carteira abaixo de duplicatas no valor total de R$ 100.000,00 na data de hoje, sendo que a taxa de desconto dos títulos é de 3,00% a.m? Podemos aproximar o valor da Duration através do Cálculo do Prazo Médio, ou seja, encontraremos o ponto de equilíbrio do prazo dos títulos, levando em consideração somente os pesos de cada fluxo.
+103CFG – Certificação de Fundamentos de Gestão
+Ø Duplicata (1):o n = 1o i = 3o FV = 10.000o PMT = 0 o PV = 9.708,74
+Ø Duplicata (2):o n = 2o i = 3o FV = 20.000o PMT = 0 o PV = 18.851,92
+Ø Duplicata (3):o n = 3o i = 3o FV = 30.000o PMT = 0 o PV = 27.454,25
+Ø Duplicata (4):o n = 4o i = 3o FV = 40.000o PMT = 0 o PV = 35.539,48
+ETAPA 1 = Calcular valor presente dos títuos
+Risco de Taxa de JurosDuration de Macaulay - Passo a PassoPara calcularmos a (2) Duration de Macaulay da carteira de R$ 100.000,00 com 4 títulos dados no problema, devemos seguir os seguintes passos:Ø Etapa 1: Calcular o valor presente de cada recebimento;Ø Etapa 2: Multiplicar cada valor presente calculado pelo seu prazo;Ø Etapa 3: Somar todos os resultados da Etapa 2;Ø Etapa 4: Utilizar o Valor Presente da Carteira (soma do Valor Presente de cada recebimento, portanto, soma da ETAPA 1) ou, se for dito, será o seu valor de mercado.Ø Etapa 5: Dividir o resultado da ETAPA 3 pelo resultado da ETAPA 4. Este será o resultado da Duration de Macaulay!

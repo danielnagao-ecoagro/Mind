@@ -1,0 +1,10 @@
+=== PAGE 385 ===
+754CFG – Certificação de Fundamentos em Gestão
+AtivoRetornoValor InvestidoLucroBanco do Brasil+4,00%R$ 10.000,00R$ 400,00Itaú+3,00%R$ 20.000,00R$ 600,00Bradesco+2,00%R$ 30.000,00R$ 600,00Santander+1,00%R$ 40.000,00R$ 400,00+++Lucro: R$ 2.000,00
+Média Ponderada: ExemploRafael investiu R$ 100 mil em 4 ações, investindo valores diferentes em cada uma delas. No último mês, ele viu que estas empresas tiveram retornos diferentes, sendo eles 1%, 2%, 3% e 4%. Desta forma, quando ele fez a média do retorno (1 + 2 +  3 + 4, totalizando 10%, divididos por 4), percebeu que o retorno calculado foi de 2,5%, mas o lucro gerado pelas empresas foi de apenas R$ 2.000,00, ou seja, de 2%. Por quê?
+q RESPOSTA: Quando Rafael dividiu os retornos por 4, ele calculou a média simples. Porém, os retornos possuem pesos diferentes (por exemplo, Itaú possui um peso de 20%, pois foi investido R$ 20 mil do total de R$ 100 mil). O que deveria ser feito é multiplicar o peso de cada ativo pelo retorno e somar todos os valores, gerando os 2% de média.
+Fronteira Eficiente de Markowitz
+755CFG – Certificação de Fundamentos em Gestão
+FLUXOTECLAMOTIVOVISOR4ENTER10.000[∑+]1º número do grupoNúmero 13ENTER20.000[∑+]2º número do grupoNúmero 22ENTER30.000[∑+]3º número do grupoNúmero 31ENTER40.000[∑+]4º número do grupoNúmero 4Média Ponderada-.w: [g][6]Média Ponderada2,00%
+Média Ponderada: HP 12CPara calcular o conjunto anterior  na HP 12C, devemos lançar “quem desejamos” clicar em [ENTER] e depois lançar  “quem é o peso”. Neste caso, “quem desejamos” é o retorno [%] e “quem é o peso” é o valor financeiro investido.
+Fronteira Eficiente de Markowitz

@@ -19,5 +19,14 @@ A escolha da taxa de desconto é crítica e geralmente reflete:
 
 Se o Valor Presente (PV) calculado for superior ao custo do investimento, o projeto é teoricamente atrativo.
 
+## Referências e Links
+- [[Contabilidade_e_Controle/Indice_Contabilidade|Voltar para Contabilidade e Controle]]
+- [[Metodos_Quantitativos/Valor_do_Dinheiro_no_Tempo|Valor do Dinheiro no Tempo]]
+- [[Analise_Financeira_e_Corporativa/Orcamento_de_Capital|Orçamento de Capital]]
+- [[Mercado_Financeiro/Precificacao_de_Acoes|Precificação de Ações]]
+- [[Analise_Financeira_e_Corporativa/Indice_Analise_Corporativa|Análise Financeira e Corporativa]]
+
 ---
+[[Mind/Conhecimento/indice|Índice Principal]]
+
 #valuation #dcf #contabilidade #financas #valorpresente

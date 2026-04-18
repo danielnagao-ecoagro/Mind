@@ -1,0 +1,8 @@
+=== PAGE 116 ===
+225CGA - Certificação de Gestores Anbima
+Hedge 
+FundsSurvivorship BiasOutro ponto muito relevante a se analisar antes de investir em Hedge Funds é verificar os retornos médios do mercado como um todo. Muitas vezes, essas informações não estão amplamente disponíveis e há ainda o risco de tomar uma decisão equivocada em função do Survivorship Bias.Esse Viés de Sobrevivência é a tendência de conferir o desempenho de fundos existentes no mercado como uma amostra sem considerar aqueles que saíram do mercado por terem tido desempenho insatisfatório. Assim, ao analisar as informações somente dos fundos sobreviventes, podemos superestimar o desempenho histórico de concorrentes de mercado e dos atributos gerais de um fundo ou índice de mercado.
+226CGA - Certificação de Gestores Anbima
+Principais Estratégias
+Hedge 
+FundsPRINCIPAISESTRATÉGIASCONCEITOGlobal Macro Posições compradas ou vendidas em diversos mercados a partir de antecipações sobre a evolução das variáveis macroeconômicas.Long/Short Equities Posições compradas ou vendidas sobre ações susceptíveis de alta ou queda, sem nunca ficar neutro.Equity Short BiasPosições compradas e vendidas, sempre mantém uma posição líquida mais vendida.Equity Market NeutralNeutraliza o Beta para zerar a exposição da carteira ao risco de mercado, ficando neutro ao risco de mercado ou valor financeiro.Convertible Arbitrage Procura ganhar com a compra de debêntures conversíveis aliada à venda de ações da mesma empresa para fins de proteção.Event DrivenCapitaliza as oportunidades geradas por possíveis flutuações de cotações devido a situações como a reorganização, as fusões/aquisições ou a falência de uma empresa

@@ -1,0 +1,8 @@
+=== PAGE 265 ===
+516CFG – Certificado em Fundamentos de Gestão
+Relação entre Títulos Públicos e PrivadosFormação de Preços e a TLRCada título de dívida possui uma taxa de juros relacionada, que considera uma taxa livre de riscos (TLR) mais um prêmio pelo risco. Chamamos de Taxa Livre de Risco o investimento que possui o menor risco de crédito possível (no Brasil, utilizamos os títulos públicos e como referência a LFT – Tesouro Selic, que é um título pós-fixado atrelado a taxa básica da economia brasileira). Essa taxa é importante pois a partir dela, balizamos todos os outros investimentos (Princípio da Dominância).Isso por que os títulos públicos possuem uma avaliação de risco, via de regra, menor do que os privados. Por exemplo, o risco soberano de um país é menor do que o risco de uma empresa desse país. Dessa forma, os títulos privados costumam pagar um juro (remuneração) superior aos títulos públicos, devido ao seu prêmio por risco de crédito ser maior. Sendo assim, cada título de dívida possui uma taxa de juros relacionada, que considera uma taxa livre de riscos mais um prêmio pelo risco e esta diferença a chamamos de Spread.
+517CFG – Certificado em Fundamentos de Gestão
+Taxa de Juros (%)
+tempo (t)
+Spread ATítulo Público (benchmark)Título Privado ATítulo Privado BSpread B
+Relação entre Títulos Públicos e PrivadosSpread de CréditoO Spread de Crédito é uma medida que representa a probabilidade de inadimplência do emissor do título, quando comparado com o Ativo Livre de Risco. Quando maior for a diferença de taxas, maior o risco de inadimplência desde emissor. Em nosso exemplo, título B tem maior risco de crédito, comparado com o título A.

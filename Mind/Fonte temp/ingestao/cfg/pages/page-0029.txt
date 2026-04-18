@@ -1,0 +1,11 @@
+=== PAGE 29 ===
+CFG – Certificação em Fundamentos de Finanças49
+Taxas de JurosConceitoAlém compreender as formas dos regimes de capitalização através dos juros simples e dos juros compostos, é importante compreender que as taxas de juros também podem ser classificadas como taxa de juros específicas, sendo elas chamadas de:Ø Taxa Nominal: é uma taxa de juros onde a unidade referencial não coincide com a unidade de tempo da capitalização, como por exemplo, uma taxa de 12% ao ano, capitalizada mensalmente No entanto, também podemos definir a taxa nominal como sendo a taxa contratada ou declarada em uma operação financeira.Ø Taxa Efetiva: é a taxa de juros onde a unidade referencial coincide com a unidade de tempo da capitalização, como por exemplo, uma taxa de 1% ao mês, capitalizada mensalmente.Ø Taxa Real: esta taxa apura o quanto uma pessoa tem de ganho (ou perda) além da inflação. Portanto, esta taxa representa de fato o quanto um investidor está ganhando em poder de compra.A seguir, iremos aprender como calcular cada uma dessas taxas de forma simples para podermos compreender melhor as suas representações.
+CFG – Certificação em Fundamentos de Finanças50
+Para calcularmos a taxa real, utilizamos a fórmula de Fischer:
+Importante dizer que, o retorno nominal é o retorno total do investimento. Ressaltamos isso, pois vamos ver adiante, produtos que rendem um “fixo MAIS inflação”, como na  NTN-B. No entanto, este “MAIS” não deverá ser utilizado como soma, mas sim, como MULTIPLICAÇÃO. Provamos isso, reorganizando a fórmula de Fischer, no qual a Taxa Nominal de um investimento, será dada pela Taxa Real e pela Inflação:
+Mas não se preocupe, te ensinaremos de uma forma fácil como calcular!
+Taxa de Juros Real
+#$%$	'($)=1+#$%$	,-./0$)1+102)$çã-−1×100
+#$%$	,-./0$)=1+#$%$	'($)×1+102)$çã-−1×100	
+Fórmula

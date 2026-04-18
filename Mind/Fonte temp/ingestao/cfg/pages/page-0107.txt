@@ -1,0 +1,7 @@
+=== PAGE 107 ===
+CFG – Certificação de fundamentos de Gestão204
+Receita Total e Receita MédiaAReceitaTotaléovalortotaldasvendasdeumaempresa,calculadomultiplicandoopreçodevendapelaquantidadevendida.Representaototaldedinheiroqueaempresarecebedeseusclientespelavendadeseusprodutosouserviços.Afórmulaédadapor:RT = PxQEm que:RT = Receita Total, P = Preço e Q = QuantidadeAReceitaMédiaéareceitaporunidadevendida,calculadadividindoareceitatotalpelaquantidadevendida.Éumamedidadareceitaqueaempresaobtémemmédiaporcadaunidadevendida. Afórmulaédadapor: !"=!"#Em que:RM = Receita Média, RT = Receita Total e Q = Quantidade
+Receita
+CFG – Certificação de fundamentos de Gestão205
+ConceitoAReceitaMarginaléamudançanareceitatotalresultantedavendadeumaunidadeadicionaldeumbemouserviço.Éumamedidaimportanteporqueindicaquantoareceitatotalaumentacomavendadeumaunidadeextra.Afórmulaédadapor: !"$=∆!"∆#Em que:RMg = Receita Marginal, ∆RT = Variação da Receita Total e ∆Q = Variação da QuantidadePor fim, o Custo Marginal é a mudança no custo total resultante da produção de uma unidade adicional de um bem ou serviço. A fórmula é dada por: %&'=∆%&∆'Em que:CMg = Custo Marginal, ∆CT = Variação do Custo Total e ∆Q = Variação da Quantidade
+Receita Marginal e Custo Marginal

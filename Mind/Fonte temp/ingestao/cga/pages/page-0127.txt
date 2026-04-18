@@ -1,0 +1,13 @@
+=== PAGE 127 ===
+246CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+: CálculoConceitoSegundo cenário: investidor faz uma solicitação de aporte de R$ 200.000.Perí-odoInícioRentabili-dade (%) Rentabilidade ($$)Movimenta-çãoFinal1R$ 1.000.000R$ 200.000R$ 1.300.0002 0R$ 1.235.000Sempre que houver um fluxo de caixa, devemos recalcular o TWRR:Primeiro período =!.-&&.&&&	(!.&&&.&&&($&&.&&&	!.&&&.&&& =!&&.&&&!.&&&.&&& = 10% Segundo período =!.$-%&&&	(!.-&&.&&&!.-&&.&&& =(/%.&&&!.-&&.&&& = - 5% Retorno Total =1+0,10×1−0,05−1×100 = 4,5% a.p.
+247CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+: CálculoConceito
+Sempre que houver um fluxo de caixa, devemos recalcular o TWRR:Primeiro período =0&&.&&&	(!.&&&.&&&*$&&.&&&	!.&&&.&&& =!&&.&&&!.&&&.&&& = 10% Segundo período ="%%.&&&	(0&&.&&&0&&.&&& =(.%.&&&0&&.&&& = - 5% Retorno Total =1+0,10×1−0,05−1×100 = 4,5% a.p.
+Terceiro cenário: investidor faz uma solicitação de resgate de R$ 200.000.Perí-odoInícioRentabili-dade (%) Rentabilidade ($$)Movimenta-çãoFinal1R$ 1.000.000-R$ 200.000R$ 900.0002 0R$ 855.000

@@ -1,0 +1,11 @@
+=== PAGE 257 ===
+500CFG – Certificado em Fundamentos de Gestão
+500
+5.1.9 Melhor Execução de Ordens 
+(
+Best 
+Execution
+)
+501CFG – Certificado em Fundamentos de Gestão
+Best 
+ExecutionConceitoA Melhor Execução de Ordens (Best Execution) é um conceito importante porque impacta o desempenho da carteira do cliente. O CFA Institute publicou as Diretrizes de Gestão de Negociação (Trade Management Guidelines) para buscar a melhor execução. O Instituto compara a melhor execução à prudência. E prudência, por sua vez, refere-se à seleção dos títulos mais adequados para um investidor, enquanto a melhor execução se refere aos melhores meios para comprar ou vender esses títulos. São semelhantes no sentido de que ambos tentam melhorar o desempenho da carteira e cumprir as responsabilidades fiduciárias. O relatório do Instituto especifica quatro características de melhor execução.Primeiro, a melhor execução não pode ser avaliada independentemente da decisão de investimento. Uma estratégia pode ter custos de transação elevados, mas isso por si só não significa que a estratégia não deva ser implementada, desde que gere o valor pretendido.

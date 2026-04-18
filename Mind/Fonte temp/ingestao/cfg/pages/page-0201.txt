@@ -1,0 +1,15 @@
+=== PAGE 201 ===
+CFG - Certificado de Fundamentos de Gestão390
+-R$ 50.000
+R$ 10.0000Ano 1R$ 20.000Ano 2R$ 30.000Ano 3R$ 40.000Ano 4
+VPL 
+–
+ 
+Valor Presente LíquidoExemploUm investidor aplica R$ 50.000 em um projeto que prevê fluxos de caixa anuais positivos de: R$ 10.000,00 no primeiro ano; R$ 20.000,00 no segundo ano; R$ 30.000,00 no terceiro ano; e R$ 40.000,00 no quarto ano. Sabendo que o Taxa Mínima de Atratividade do investidor é a Taxa Selic, que está em 10% ao ano, qual o VPL deste projeto? 
+CFG - Certificado de Fundamentos de Gestão391
+FLUXOTECLAMOTIVORESULTADO50.000CHSCF0: [g][PV]Fluxo de Caixa ZERO, ou seja, Valor Presente10.000CFj: [g][PMT]Recebimento do Ano 120.000CFj: [g][PMT]Recebimento do Ano 230.000CFj: [g][PMT]Recebimento do Ano 340.000CFj: [g][PMT]Recebimento do Ano 410 [i] Taxa TMAVPLNPV: [f][PV]Valor Presente LíquidoR$ 25.479,82
+VPL 
+–
+ 
+Valor Presente Líquido
+Solução do ExemploPara calcularmos o VPL, precisamos utilizar a função [g] das teclas [PV], [PMT], [FV] para inserir dados e a função [f], para a resposta dos dados inseridos. Como o VPL é uma comparação com outro projeto, além das informações dos fluxos, precisamos inserir a TMA na taxa [i] também.

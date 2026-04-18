@@ -1,0 +1,11 @@
+=== PAGE 215 ===
+412CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175Divulgação de InformaçõesA comunicação eletrônica entre o administrador e os cotistas feitas por meio do endereço de correspondência eletrônico deve ser mantida pelo administrador pelo prazo de, no mínimo, 5 anos.O administrador deve zelar para que todas informações listadas anteriormente sejam divulgadas de forma contínua e atualizada, e que a página do fundo na rede mundial de computadores possua capacidade técnica de acesso simultâneo compatível com o número de cotistas do fundo. A troca da página eletrônica do fundo na rede mundial de computadores é considerada fato relevante.A divulgação da metodologia de cálculo do índice deve abranger:Øcritérios de inclusão e exclusão de ativos;Øfrequência de rebalanceamento;Øalterações em relação à metodologia previamente estabelecida pelo provedor de índice; eØcomposição, pesos de cada ativo financeiro e demais parâmetros necessários à replicação do índice (podem ser divulgadas até 3 meses após a data a que se refiram).
+413CGE – Certificação de Gestores Anbima para Fundos Estruturados
+Anexo Normativo V 
+-
+ 
+Resolução CVM 175Divulgação de InformaçõesO administrador deve divulgar, diariamente, à entidade administradora de mercado organizado na qual as cotas estejam listadas, o valor patrimonial da cota, a composição da carteira e o valor do seu patrimônio líquido.É facultada a divulgação de estimativas intradiárias, desde que a metodologia de cálculo dessas estimativas seja divulgada na página eletrônica do fundo na rede mundial de computadores.Os cotistas devem ser comunicados de suas posições pelo prestador de serviços de custódia ou pelo prestador de serviços de escrituração das cotas, conforme legislação em vigor para o mercado de ações.Os cotistas que integralizarem ou resgatarem cotas devem receber comunicação por escrito contendo, no mínimo, data, quantidade de cotas e valor da operação.

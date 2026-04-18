@@ -1,0 +1,7 @@
+=== PAGE 15 ===
+CFG – Certificação em Fundamentos de Finanças21
+No Regime de Capitalização Simples, também conhecido como Regime de Juros Simples, os juros incidem somente sobre o capital inicial. Desta forma, os cálculos só podem ser executados se o tempo de aplicação (n) for expresso na mesma unidade de tempo a que se refere a taxa (i), ou seja, considerando o prazo em ano, a taxa deve ser ao ano;  prazo em mês, taxa ao mês, etc. As suas fórmulas são:Ø FV (M) = C + JØ J = C × i × nØ FV (M) = C + (C × i × n) ouØ FV (M) = C × (1 + i × n)Sendo que:§ J = Juros; § C = Capital ou Valor Presente (PV)§ FV (M) = Montante ou Valor Futuro§ i = taxa de juros§ n = prazo ou período
+Regimes de Capitalização: Juros SimplesConceito
+CFG – Certificação em Fundamentos de Finanças22
+PERÍODOJUROS SIMPLESPrincipalR$ 100.000,00Após 1 ano100.000 + (1 × 0,10) × 100.000 = 110.000Após 2 anos100.000 + (2 × 0,10) × 100.000 = 120.000Após 3 anos100.000 + (3 × 0,10) × 100.000 = 130.000Após 4 anos100.000 + (4 × 0,10) × 100.000 = 140.000
+Regimes de Capitalização: Juros SimplesExemplo 1q PERGUNTA: Qual o valor total, ano após ano (durante 4 anos), se aplicarmos                         R$ 100.000,00 a uma taxa de juros simples de 10% ao ano?Para facilitar o entendimento, vamos demonstrar o crescimento do valor aplicado, ano após ano, através da seguinte tabela:

@@ -1,6 +1,6 @@
 # Covenants
 
-Covenants são cláusulas contratuais inseridas em instrumentos de dívida (como escrituras de debêntures ou regulamentos de [[FIDC_Conceitos|FIDC]]) que impõem obrigações ou restrições ao emissor. Seu objetivo principal é proteger o credor, garantindo que o tomador do crédito mantenha uma saúde financeira adequada durante a vigência da operação.
+Covenants são cláusulas contratuais inseridas em instrumentos de dívida (como escrituras de debêntures ou regulamentos de [[Fundos_Investimento/FIDC/FIDC_Conceitos|FIDC]]) que impõem obrigações ou restrições ao emissor. Seu objetivo principal é proteger o credor, garantindo que o tomador do crédito mantenha uma saúde financeira adequada durante a vigência da operação.
 
 ## Tipos de Covenants
 

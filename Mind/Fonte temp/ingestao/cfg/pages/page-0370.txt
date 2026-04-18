@@ -1,0 +1,6 @@
+=== PAGE 370 ===
+724CFG – Certificação de Fundamentos em Gestão
+6.1 Teoria Moderna de Carteiras
+724
+725CFG – Certificação de Fundamentos em Gestão
+Teoria de Finanças TradicionalIntroduçãoA Teoria de Finanças Tradicional, também conhecida como Teoria Moderna de Portfólio, leva em consideração que os mercados financeiros são eficientes e os investidores tomam decisões racionais (se o investidor tiver que escolher entre 2 portfólios com o mesmo nível de retorno esperado, ele escolherá o portfólio que possui o menor risco). Desta forma, os investidores possuem 3 características:Ø Aversão ao risco: minimizar risco e maximizar retornos.Ø Expectativas racionais: as avaliações e projeções do investidor refletem toda a informação relevante disponível. Assim, o investidor sempre analisará o risco x retorno de cada investimento.Ø Integração dos seus investimentos: o investidor avalia os seus investimentos como um todo (contexto da carteira)  e não ativo por ativo. Desta forma, o investidor busca pela diversificação da carteira de investimentos (reduzindo o risco não sistêmico).Portanto, a Teoria de Finanças Tradicional de Markowitz tem como base o postulado da racionalidade, assumindo que os indivíduos processam corretamente as informações quando tomam decisões, sem envolvimento emocional.

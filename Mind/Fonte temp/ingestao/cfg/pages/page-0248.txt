@@ -1,0 +1,10 @@
+=== PAGE 248 ===
+482CFG – Certificado em Fundamentos de Gestão
+A empresa RToro Education S/A, no último ano apresentou os seguintes números:Ø Dividendo: R$ 1,00Ø JCP: R$ 0,50Ø LPA (Lucro Por ação): R$ 6,00Com base nestes números, qual é o (1) índice de Payout e o (2) índice de retenção da empresa RToro Education S/A?q RESPOSTA: Primeiro devemos calcular o Índice de Payout (ver o quanto a empresa distribuiu de dividendos mais JCP , e dividir pelo lucro) e a partir dele chegaremos no índice de retenção da companhia.
+Análise FundamentalistaÍndice de Payout: Exemplo
+(1) ÍNDICE DE PAYOUT:Ø Payout = R$ 1,00 + R$ 0,50                               R$ 6,00Ø Payout = R$ 1,50                     R$ 6,00Ø Payout = 0,25 = 25%
+(2) ÍNDICE DE RETENÇÃO:Ø Retenção = 1 – 0,25Ø Retenção = 0,75 = 75%
+483CFG – Certificado em Fundamentos de Gestão
+Preço/VendasO índice Preço sobre Vendas (P/V) é um índice de avaliação que compara o preço das ações de uma empresa com suas receitas líquidas. É um indicador do valor atribuído a cada unidade monetária das vendas ou receitas de uma empresa.Pode ser calculado dividindo a capitalização de mercado da empresa por suas vendas totais em um período designado (geralmente doze meses) ou por ação, dividindo o preço das ações pelas vendas por ação. Como todos os índices, o índice P/V é mais relevante quando usado para comparar empresas do mesmo setor. Um índice baixo pode indicar que a ação está subvalorizada, enquanto um índice acima da média pode sugerir sobrevalorização.q FÓRMULA: 
+Análise Fundamentalista
+"/>=Valor	de	Mercado	por	AçãfVendas	gfh	içãf

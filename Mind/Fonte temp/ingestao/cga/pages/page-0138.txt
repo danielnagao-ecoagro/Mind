@@ -1,0 +1,8 @@
+=== PAGE 138 ===
+268CFG – Certificação de Fundamentos de Gestão
+ExemploConsidere o seguinte exemplo da tabela abaixo. Qual o efeito da Alocação Setorial Pura?
+Retorno do Benchmark: 0,1 x 6% + 0,4 x 6% + 0,5 x 1% = 0,6% + 2,4% + 0,5% = 3,5%Ações: (0,2 – 0,1) x (6% – 3,5%) = 0,1 x 2,5% = 0,25%Renda Fixa: (0,5 – 0,4) x (6% – 3,5%) = 0,1 x 2,5% = 0,25%Caixa: (0,3 – 0,5) x (1% - 3,5%) = - 0,2 x – 2,5% = 0,5%Efeito Total da Alocação Setorial Pura = 0,25% + 0,25% + 0,5% = 1,0%
+Atribuição MicroClasse de ativosPeso na carteiraPeso no benchmarkRetorno da carteiraRetorno do benchmarkAções0,20,115%6%Renda Fixa0,50,45%6%Caixa0,30,51%1%
+269CFG – Certificação de Fundamentos de Gestão
+ConceitoNote que o gestor aumentou a participação em setores do benchmark que tiveram um desempenho melhor que o benchmark (ações e renda fixa) e diminuiu o peso em caixa, setor que teve um desempenho pior que o do benchmark.Nesse sentido, o gestor estará agregando valor à carteira se aumentar a participação em setores que tiveram um desempenho melhor que o benchmark e reduzir a participação em setores com um desempenho pior que o do benchmark.Por sua vez, estará destruindo valor se aumentar a participação em setores que tiveram um desempenho pior que o benchmark e reduzir a participação em setores com um desempenho melhor que o do benchmark.
+Atribuição Micro

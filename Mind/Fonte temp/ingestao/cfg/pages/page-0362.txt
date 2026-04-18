@@ -1,0 +1,9 @@
+=== PAGE 362 ===
+710CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasLong ButterflyA Butterfly é uma estrutura com opções em que o investidor se beneficia o quando mercado apresenta baixa volatilidade. É possível se beneficiar tanto na alta como na baixa dos preços. O ganho vem justamente se o preço do ativo variar em um pequeno intervalo de preços.É possível montar uma long butterfly da seguinte forma com opções de compra (calls):Long ButterflyCompra uma call com strike inferior, in-the-money;Vende duas calls com strike intermediário, at-the-money;Compra uma call com strike superior, out-of-the-money.A proporção 1:2:1 deve sempre ser mantida!
+711CFG – Certificado em Fundamentos de Gestão
+Operações Estruturadas
+50  55      60     65   70
+Lucro543210-1-2-3-4Prejuízo
+Lucro Máximo
+Long ButterflyEste é o gráfico do resultado financeiro de um investidor que COMPRA uma CALL com strike R$ 55 por R$ 10, COMPRA uma CALL com strike R$ 65 por R$ 5 e VENDE duas CALLS com strike R$ 60 por R$ 7. Assim, ele PAGOU R$ 1,00 para fazer a operação.Resultado  da operação Long ButterflyCOMPRACALLSVENDACALLSLucros/ Perdas50-1514-155-1514-160-1014+465-5 +4-1705 -6 -1

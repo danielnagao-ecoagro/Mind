@@ -1,0 +1,10 @@
+=== PAGE 54 ===
+CFG – Certificação em Fundamentos de Finanças99
+Levando em consideração dois tipos de cenários (Expansão e Recessão), conforme dados abaixo, qual a Covariância dos retornos das empresas A e B?ESTADO DA ECONOMIAPROBABILIDADE DO CENÁRIORETORNO ESPERADOEmpresa A RETORNO ESPERADOEmpresa BExpansão80%+25%+20%Recessão20%+5%+10%
+Covariância: Exemplo
+Risco & Retorno Esperado
+CFG – Certificação em Fundamentos de Finanças100
+Empresa AETAPA 2:RISCO(Retorno – Média)Empresa BETAPA 2: RISCO(Retorno – Média)ETAPA3:Multiplicar Riscos80%25%(25 ‒ 21) = +480%20%(20 ‒ 18) = +2(+4)×(+2)×(80%)=6,420%5%(5 ‒ 21) = ‒1620%10%(10 ‒ 18) = ‒8(‒16)×(‒8)×(20%)= 25,6ETAPA 1:Média: 21%(ETAPA 1)Média: 18%ETAPA 4:Cov (A,B) = +32%
+Covariância: Respostaq RESPOSTA: Fazendo nossa tabela, concluímos que a Covariância das Empresas A & B será de +32%. Perceba novamente que primeiros calculamos o retorno esperado de cada empresa (Empresa A = + 21%; e Empresa B = + 18%), para posteriormente calcularmos o risco de “não dar esse retorno”. Com esses valores, multiplicamos os riscos pelas probabilidades dos cenários, somando-os no final. Assim chegamos no resultado de COV (A,B) = + 32%. 
++
+Risco & Retorno Esperado

@@ -1,0 +1,13 @@
+=== PAGE 213 ===
+412CFG – Certificado em Fundamentos de Gestão
+Depositary
+ 
+ReceiptsCustodiante & DepositárioDentre as figuras importantes no processo das DR’s, temos a Instituição Custodiante, a Instituição Depositária e a empresa patrocinadora, que possuem as seguintes funções:Ø Custodiante: a instituição que presta o serviço de custódia (faz a guarda da ação que estará servindo como lastro para a emissão da DR).Ø Depositária: a instituição que, no exterior, emite os correspondentes DR. Ela tem como responsabilidade garantir que os DRs de fato estejam lastreados nos valores mobiliários e que os mesmos estejam bloqueados para negociação no país de origem. Ela deverá garantir que não haja qualquer descasamento entre o saldo dos valores mobiliários no Exterior e dos DRs emitidos.Ø Empresa patrocinadora: a emissora sediada no País dos ativos que estão servindo como lastro do programa de DR e signatária de contrato específico com instituição depositária para a emissão de DR.Por exemplo, imagine que a Petrobrás (empresa patrocinadora) deseja ter 100.000 ADRs sendo negociadas na bolsa americana. Assim, caso a paridade ADR por ações seja um (1)               para um (1), 100.000 ações ficarão “guardadas” em uma Instituição Custodiante. Com isso, a Instituição Depositária fará a emissão de 100.000 ADRs nos EUA e ficará responsável por garantir que as 100.000 ações no Brasil não sejam negociadas.
+413CFG – Certificado em Fundamentos de Gestão
+BDR’S
+: 
+Brazilian
+ 
+Depositary
+ 
+ReceiptsTipos de CategoriasOs recibos BDRs possuem duas categorias: Ø Patrocinadas; e Ø Não Patrocinadas. Os certificados patrocinados são emitidos por uma instituição depositária contratada pela companhia estrangeira emissora dos valores mobiliários. Além disso, esta companhia é responsável por divulgar todas as informações necessárias, fazendo parte do processo. Outro ponto importante é que a categoria Patrocinada pode ser classificada como Nível I, Nível II ou Nível III. Já a categoria Não Patrocinado é emitido sem o envolvimento da empresa estrangeira, desta forma, só pode ser classificado como nível I. Vale ressaltar que, desde 22 de outubro de 2020, as BDRs Nível I estão dispostas a negociação a quaisquer investidores, desde que:Ø o mercado de maior volume de negociação desses ativos, nos últimos 12 meses, seja um ambiente de mercado estrangeiro classificado como “mercado reconhecido”; Ø o emissor dos valores mobiliários que servem de lastro aos BDR esteja sujeito à supervisão por parte da entidade reguladora do mercado de capitais do mercado de maior volume de negociação.

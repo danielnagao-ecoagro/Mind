@@ -1,0 +1,9 @@
+=== PAGE 196 ===
+CFG - Certificado de Fundamentos de Gestão380
+Custo de Oportunidade e TMAConceitoq TAXA MÍNIMA DE ATRATIVIDADE (TMA): representa o mínimo que um investidor se propõe a ganhar quando faz um investimento, ou o máximo que um tomador de dinheiro se propõe a pagar quando faz um financiamento. Em relação investimentos, ela deve ser maior que o Custo de Oportunidade, senão, o investidor racional não tem motivos para realizar. No Brasil, utilizamos muitas vezes a Taxa Selic como a TMA, já que ela é o investimento de menor risco do país. q CUSTO DE OPORTUNIDADE: é a opção que foi renunciada, entre as opções que poderiam ter sido feitas. Ela não representa necessariamente uma taxa, mas sim o que foi deixado de lado para ser realizada outra tarefa. No mundo dos investimentos, normalmente dizemos que é uma taxa de retorno, vide que sempre que um investidor realizado uma aplicação financeira, ele também está renunciando outras aplicações ou projetos. Importante notar que o custo de oportunidade é diferente para cada ser humano, vide que as pessoas não possuem as mesmas oportunidades.
+CFG - Certificado de Fundamentos de Gestão381
+TIR 
+–
+ 
+Taxa Interna de Retorno
+ConceitoA Taxa Interna de Retorno (TIR),  em do inglês Internal Rate of Return (IRR), é a taxa de desconto que faz com que o Valor Presente Líquido (VPL) de um projeto seja igual a zero, ou seja, é o retorno do investimento. Assim sendo, se utilizarmos a metodologia da TIR para analisarmos dois projetos, escolheremos aquele que possui a maior Taxa Interna de Retorno. Importante ressaltar que, se estivermos analisando fluxos anuais, a TIR será anual (sua periodicidade é a mesma dos fluxos analisados), se estivermos analisando fluxos mensais, ela será uma taxa mensal.Este estudo considera que os fluxos de caixa do projeto são reinvestidos pela própria TIR, o que acaba sendo um grande problema, pois dificilmente ocorrerá na prática.

@@ -1,0 +1,18 @@
+=== PAGE 200 ===
+CFG - Certificado de Fundamentos de Gestão388
+Agora que já calculamos qual o valor corrigido de todos os fluxos, podemos enxergar da seguinte forma o problema:
+Por fim, calcularemos o retorno (i) deste investimento,  que é o que buscamos:Ø PV = 50.000 [CHS]Ø PMT = 0Ø FV = + 92.820Ø n = 4 anosØ i = ? = 16,73% ao ano, esta é a TIR Modificada.
+TIRM 
+–
+ 
+Taxa Interna de Retorno Modificada 
+-R$ 50.0000 Ano 1Ano 2Ano 3Ano 4Encerramento do projeto
+R$ 92.820
+Exemplo
+CFG - Certificado de Fundamentos de Gestão389
+VPL 
+–
+ 
+Valor Presente Líquido
+ConceitoO VPL (Valor Presente Líquido), em inglês Net Presente Value (NPV) é o principal método de análise de investimentos. Ele consiste em trazer para a data zero todos os fluxos de caixa de um investimento e somá-los ao valor do investimento inicial, usando como taxa de desconto a TMA (Taxa Mínima de Atratividade) do investidor. Caso o cálculo do VPL seja negativo, isto significa que o projeto não é financeiramente viável (o retorno é pior que a TMA).
+O termo FC0 representa o fluxo de caixa do período zero (investimento inicial). Normalmente este termo entrará com sinal negativo na equação do VPL. q OBS: Quando estamos analisando dois projetos, escolheremos sempre aquele que possui o maior VPL.

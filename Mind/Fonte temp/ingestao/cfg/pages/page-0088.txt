@@ -1,0 +1,15 @@
+=== PAGE 88 ===
+CFG – Certificação de fundamentos de Gestão166
+MicroeconomiaDeslocamento da demanda: novo equilíbrioSuponha que houve um aumento na demanda por determinado bem. Com isso, há um deslocamento da curva de demanda para a direita e encontramos um novo ponto de equilíbrio: o mercado estaria agora satisfeito comprando 8 unidades ao preço de R$ 8 cada.
+02468101214
+0 2 4 6 8 1012
+PREÇO
+QUANTIDADE
+OfertaDemandaAumento da demanda
+CFG – Certificação de fundamentos de Gestão167
+MicroeconomiaDeslocamento da demanda: novo equilíbrioAgora, imagine que os custos de produção de determinado bem aumentaram significativamente. Como vimos, a lucratividade desses bens diminui e, com isso, os produtores reduzirão a quantidade ofertada. Isso implicará  um deslocamento da curva de oferta para a esquerda e encontramos um novo ponto de equilíbrio: o mercado estaria agora satisfeito comprando apenas 4 unidades ao preço de R$ 8 cada.
+02468101214
+0 2 4 6 8 1012
+PREÇO
+QUANTIDADE
+OfertaDemandaRedução da oferta

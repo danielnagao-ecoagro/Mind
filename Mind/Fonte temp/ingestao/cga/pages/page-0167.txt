@@ -1,0 +1,12 @@
+=== PAGE 167 ===
+325CGA – Certificação de Gestores Anbima
+Beta
+β(")=#$%(",%)%&'(%)OUβ(&)=DP(')DP(()×#+,-(",%)
+ConceitoO Beta é uma medida de risco sistêmico que calcula a volatilidade de determinado ativo em relação ao risco de mercado. Ele mede a sensibilidade deste ativo em relação aos fatos sistêmicos que ocorrem no mercado financeiro, como por exemplo, qual será o impacto na oscilação do preço da ação por fatos como pandemias, impeachment, guerras,... Como os eventos sistêmicos (positivos e negativos) atingem o mercado como um todo, dizemos que uma carteira teórica de ações (no Brasil, o Ibovespa), possui Beta igual a 1 e com isso, podemos interpretar o resultado do Beta de uma ação da seguinte forma:Ø Beta IGUAL a 1:  oscilará com a mesma intensidade que o mercado.Ø Beta MAIOR que 1: oscilará com mais intensidade que o mercado.Ø Beta MENOR que 1: oscilará com menos intensidade que o mercado.q Fórmula:
+326CGA – Certificação de Gestores Anbima
+Value
+-
+at
+-
+Risk 
+(VaR)ConceitoO VALUE-AT-RISK, ou simplesmente o VaR, é um indicador de risco para mensurar a perda financeira máxima possível de uma carteira de investimentos em um período, com um certo grau de confiança. Este é um cálculo estatístico, que diz qual o risco financeiro dos ativos (ou do ativo) em um dia, uma semana, uma mês ou até mesmo em um ano.Por exemplo, um fundo de investimentos informa que possui um VaR de R$ 1 milhão para 1 dia, com grau de confiança em 95%. Desta forma, compreendemos que este fundo poderá ter uma perda máxima de R$ 1 milhão de um dia para o outro, sendo que o grau de confiança desta informação é de 95%. Porém, como sua confiança é de 95%, quer dizer também que a possibilidade de perder mais que este valor de um dia para o outro é de 5%.Há três principais formas de calcular o VaR:Ø Analítico ou Paramétrico;Ø Histórico; eØ Monte Carlo.

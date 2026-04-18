@@ -1,0 +1,12 @@
+=== PAGE 346 ===
+678CFG – Certificado em Fundamentos de Gestão
+LucroPreço do ativo-objeto
+PrejuízoCompra de PUT
+Venda de PUTx Prêmio
+PUT 
+–
+ 
+Opção de VendaPeixe: Put
+ Gráfico
+679CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasFinanciamento (Lançamento Coberto)A operação FINANCIAMENTO, também conhecida como Lançamento Coberto ou Compra Coberta, é uma das operações mais comuns no mercado financeiro. Está operação consiste em ficar comprar uma ação e vender uma opção de compra (vender uma Call) ao mesmo tempo.Esta Operação tem como objetivo aumentar a rentabilidade caso o ativo comprado não suba muita, recebendo o prêmio da opção vendida, além de proteger uma leve queda. Em contrapartida, o lucro do investidor fica limitado ao teto do strike CALL vendido.O termo “coberto” significa que a ação cobre o prejuízo ilimitado que uma venda de uma CALL possa ter, já que o investidor possui a ação para entregar.

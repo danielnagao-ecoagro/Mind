@@ -1,0 +1,7 @@
+=== PAGE 154 ===
+CFG – Certificação de fundamentos de Gestão298
+Curva de PhillipsInflação
+DesempregoCurva de Phillips (curto prazo)
+Curva de Phillips (longo prazo)
+CFG – Certificação de fundamentos de Gestão299
+Política MonetáriaRegra de TaylorA regra de Taylor é um modelo de previsão usado para determinar quais devem ser as taxas de juros a fim de encaminhar a economia para preços estáveis e pleno emprego. É muito utilizada em países que utilizam o Regime de Metas de Inflação, como o Brasil.A regra recomenda que o Banco Central aumente as taxas de juros quando a inflação estiver alta ou quando o emprego exceder os níveis de pleno emprego. No outro sentido, quando os níveis de inflação e emprego são baixos, a regra de Taylor sugere que as taxas de juros devem ser reduzidas.Taxa nominal = r* + ∏t + 0,5 x (∏t - ∏*) + 0,5 x (yt – y*)Em que:Ør* = Taxa de juros real neutra (ou taxa de juros de equilíbrio)Ø∏t = Taxa de inflação atualØ∏* = Meta da taxa de inflação (taxa de inflação alvo)Øyt = PIB atualØy* = PIB potencial

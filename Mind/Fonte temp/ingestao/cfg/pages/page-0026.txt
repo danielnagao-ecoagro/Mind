@@ -1,0 +1,6 @@
+=== PAGE 26 ===
+CFG – Certificação em Fundamentos de Finanças43
+1.3 Convertendo taxa de uma forma 
+simples!43
+CFG – Certificação em Fundamentos de Finanças44
+Regimes de Capitalização: Juros SimplesProporcionalidade de TaxasEm JUROS SIMPLES, usamos TAXA PROPORCIONAL. Isso significa que, duas taxas são proporcionais quando os seus valores guardam uma proporção com o tempo a que elas se referem, portanto, é preciso reduzir o tempo a uma mesma unidade. Estes problemas envolvendo taxas proporcionais podem ser resolvidos por meio de “Regra de Três”.q EXEMPLO: Calcular a taxa mensal proporcional a 30% ao ano?Ø Primeiro passo é reduzir o tempo a uma mesma unidade (1 ano = 12 meses).Ø Depois, fazemos a “Regra de Três”:§  30% está para 12 meses, assim como X está para 1 mês, ou seja:

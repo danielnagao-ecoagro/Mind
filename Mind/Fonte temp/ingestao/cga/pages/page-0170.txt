@@ -1,0 +1,26 @@
+=== PAGE 170 ===
+331CGA – Certificação de Gestores Anbima
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) HistóricoExemploDetermine o VaR histórico de uma carteira de investimentos com 95% de confiança que apresentou o histograma de retornos abaixo.q RESPOSTA: Os 5% menos retornos foram: -3,5% (1% de frequência), - 3% (2% de frequência), - 2,5% (1% de frequência), totalizando 4% dos menores retornos. O seguinte, -2%, com 1% de frequência, acumula 5% dos menores retornos, configurando-se no VaR histórico com 95% de confiança. 
+1,0%2,0%1,0%1,0%3,0%4,0%5,0%6,0%10,0%9,0%8,5%8,0%7,5%7,0%6,5%6,0%5,5%5,0%4,0%0,0%2,0%4,0%6,0%8,0%10,0%12,0%
+-3,5%-3,0%-2,5%-2,0%-1,0%-0,5%0,5%1,0%2,0%3,0%4,0%6,0%6,5%7,0%7,5%8,0%8,5%9,0%9,5%
+Histograma de Retornos (frequência relativa)Frequência
+Retornos
+332CGA – Certificação de Gestores Anbima
+DefiniçãoA Simulação de Monte Carlo faz referência a um dos distritos do Principado de Mônaco, famoso por seus cassinos onde se jogam roletas, dados, entre outros. Isso porque o acaso e os resultados aleatórios são fundamentais tanto para os jogos no Principado, como para a técnica de modelagem que leva o nome desse local do sul da França.O método de Monte Carlo pode ser aplicado ao VaR a partir do uso de sistemas computacionais que conseguem gerar centenas ou mesmo milhares de possíveis resultados aleatórios baseados no formato de distribuição dos retornos definido pelo analista. Com os retornos em mãos, o cálculo do VaR Monte Carlo remete ao VaR Histórico: deve-se organizar tal dados em uma ordem e, após acumulá-los, simplesmente identificar os menores retornos, de acordo com o percentual de confiança desejado.Vantagens:Ø  Pode incorporar qualquer formato distribuição de retornos desejado pelo analista, assim como premissas sobre correlações, opções embutidas aos ativos, entre outras.Desvantagens:Ø Os dados de saída (outputs) são tão bons quanto à qualidade dos dados de entrada (inputs). É a famosa regra: garbage in, garbage out.Ø Requer uso intensivo de computação, o que pode tornar os custos inviáveis.
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) Monte Carlo

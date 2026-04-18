@@ -1,0 +1,11 @@
+=== PAGE 129 ===
+CFG – Certificação de fundamentos de Gestão248
+TLP 
+–
+ 
+Taxa de Longo Prazo
+TLPJuros ReaisPrefixados(“TLP-Pré”) Inflação(IPCA)=×
+ConceitoA TAXA DE LONGO PRAZO (TLP) É O PRINCIPAL CUSTO FINANCEIRO DOS FINANCIAMENTOS DO BNDES. Ela compõe a taxa de juros final, junto com as remunerações (spreads) do BNDES e dos bancos repassadores e a taxa de risco de crédito do cliente. A TLP mensal é composta de uma parcela de juros reais pré-fixados ("TLP-Pré") e da inflação (IPCA), sendo que a TLP-Pré será CALCULADA E DIVULGADA NO INÍCIO DE CADA MÊS PELO BANCO CENTRAL. A partir da data de início de vigência dos contratos em TLP , a parcela de juro real será fixa, ao longo da vida dos contratos, variando apenas o componente da inflação, que é o IPCA.
+CFG – Certificação de fundamentos de Gestão249
+2.2.2 Sistema Financeiro Nacional
+249

@@ -1,0 +1,9 @@
+=== PAGE 126 ===
+CFG – Certificação de fundamentos de Gestão242
+SELIC
+-
+METAConceitoA Selic-Meta é a taxa de juros definida pelo COPOM, que toma essa decisão com base na Meta de Inflação (IPCA). Ela será a META que o governo deseja para taxa de juros praticada pela economia brasileira em relação a dívida brasileira para aquele período. q PRINCIPAIS INFORMAÇÕES:Ø É a meta da taxa de Juros brasileira;Ø Definida pelo BACEN através do COPOM;Ø Alterada através de AGO (cada 45 dias) ou AGE;Ø Praticada pelo Governo.
+CFG – Certificação de fundamentos de Gestão243
+SELIC
+-
+OVERConceitoJá aSELIC-OVER é a taxa de juros apurada no SELIC (Sistema Especial de Liquidação e Custódia), obtida mediante o cálculo da taxa média ponderada e ajustada das operações de financiamento por um dia, lastreadas em Títulos Públicos Federais e cursadas no referido Sistema na forma de operações compromissadas. A tendência é que a SELIC-OVER tenda a convergir para à SELIC-META. Essa taxa é o que chamamos de TAXA LIVRE DE RISCO (TLR) da economia brasileira, que é o quanto um investidor está recebendo por emprestar recursos para o Brasil. Desta forma, a taxa cobrada nos demais segmentos de empréstimos existentes no mercado brasileiro é composta pela meta da taxa de juros Selic, acrescido pelo Risco de inadimplência e demais custos (custos administrativos, impostos, lucro, ...).q PRINCIPAIS INFORMAÇÕES:Ø É a média diária das negociações dos Títulos Públicos Federais (TPF);Ø É alterada diariamente (dias úteis) e anualizada;Ø Praticada pelo Mercado Financeiro.

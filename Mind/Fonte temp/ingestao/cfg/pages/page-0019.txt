@@ -1,0 +1,6 @@
+=== PAGE 19 ===
+CFG – Certificação em Fundamentos de Finanças29
+Exemplo 3 (FV)q EXEMPLO: Qual o total a ser pago em um empréstimo de R$ 100.000,00 hoje, a uma taxa de juros de 10% a.a, após 4 anos?q RESPOSTA:Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Digite [100.000] e pressione [PV]Ø (3) Digite [10] e pressione [i]Ø (4) Digite [4] e pressione [n]Ø (5) Aperte [FV]Ø Resposta: ꟷ R$ 146.410,00q OBS: A resposta desta vez está negativa, pois o valor inserido no PV foi positivo (entrou R$ 100.000,00 na nossa conta do banco) e precisamos pagar (saída de caixa) de                           R$ 146.410,00.
+Regimes de Capitalização: Juros Compostos
+CFG – Certificação em Fundamentos de Finanças30
+Regimes de Capitalização: Juros CompostosExemplo 4 (i)q EXEMPLO: Qual a taxa de juros compostos de uma aplicação de R$ 100.000,00 para que se tenha R$ 500.000,00 em um prazo de 5 anos?q RESPOSTA:Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Digite [100.000] [CHS] e pressione [PV] → aplicação = saída de caixaØ (3) Digite [500.000] e pressione [FV] → recebimento = entrada de caixa Ø (4) Digite [5] e pressione [n]Ø (5) Aperte [i]Ø Resposta: 37,97% ao anoq OBS: sabemos que a taxa está em ano, pois o prazo (n) foi inserido em anos: 5 anos. O prazo e a taxa SEMPRE devem estar no mesmo período (taxa em ano, prazo em ano; prazo em dias, taxa em dias).

@@ -1,0 +1,11 @@
+=== PAGE 393 ===
+770CFG – Certificação de Fundamentos em Gestão
+Modelos de fatores econômicos são uma categoria de modelos multifatores que utilizam variáveis macroeconômicas para explicar e prever os retornos dos ativos. Esses modelos reconhecem que os retornos dos ativos não são apenas influenciados por fatores específicos da empresa, mas também por mudanças no ambiente econômico geral.Esses modelos podem incorporar fatores econômicos como crescimento do PIB, inflação, taxas de juros, taxas de câmbio, entre outros.Esse modelo tem como vantagens a abrangência, pois captura uma ampla gama de influências econômicas que podem afetar os retornos dos ativos, e a flexibilidade, uma vez que pode ser ajustado para incluir diferentes fatores conforme as condições econômicas mudam.Como desvantagem, podemos citar a complexidade, já que a inclusão de múltiplos fatores pode tornar o modelo complexo e difícil de calibrar, e a necessidade de se obter dados macroeconômicos confiáveis e atualizados, o que pode ser difícil em alguns casos.
+Modelos de Fatores EconômicosConceito
+771CFG – Certificação de Fundamentos em Gestão
+APT 
+–
+ 
+Arbritrage
+ 
+Pricing TheoryConceitoO APT, ou teoria de precificação por arbitragem, é um modelo que considera a existência de várias fontes causadoras de risco de mercado. Como paralelo, podemos notar que o modelo CAPM utiliza somente uma variável como medida de risco: o Beta (risco sistêmico).O modelo APT considera a taxa de juros, a taxa de câmbio, a inflação, o PIB, o desemprego, entre outros, também são fontes geradoras de risco sistêmico. Assim, segundo o APT, podemos prever o comportamento de uma ação utilizando a relação entre aquele ativo e diversos fatores (F) de risco relacionados. São utilizados os beta específicos de cada fator utilizado na equação.q FÓRMULA:AB(*)=CDA+β+×F++β,×F,+... +β-×F-

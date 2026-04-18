@@ -1,0 +1,11 @@
+=== PAGE 316 ===
+618CFG – Certificado em Fundamentos de Gestão
+ETF 
+–
+ 
+Fundos de ÍndiceVantagensComo vantagens do investimento em ETFs, podemos listar:Ø Diversificação: é possível ter acesso a uma cesta de ações ou de ativos de Renda Fixa sem precisar comprar individualmente cada um deles.Ø Custo: por serem instrumentos de gestão passiva, as taxas de administração são baixas e permitem que o investidor acesse uma cesta de ativos de uma única vez, reduzindo custos operacionais associados às negociações desses ativos individualmente;Ø Liquidez: por serem negociados em bolsa ou em mercado de balcão organizado, o investidor pode comprar ou vender ETFs da mesma forma em que opera ações e outros ativos negociados nesses ambientes. Por fim, a estratégia passiva associada a baixos custos permite que ETFs tenham baixíssimos tracking errors, medida que reflete a diferença entre o desempenho do fundo, nesse caso, e seu benchmark. Em fundos abertos tradicionais passivos, essa medida também costuma ser baixa; porém, os ETFs têm custos ainda menores, reduzindo mais o tracking error para o investidor que aplica nesses fundos de índice.
+619CFG – Certificado em Fundamentos de Gestão
+ETF 
+–
+ 
+Fundos de Índice CaracterísticasHá também os chamados ETFs de Renda Fixa. Embora menos conhecidos, desde 2018 são negociados na B3 fundos de índice voltados a replicar benchmarks de Renda Fixa.Além das vantagens como diversificação, custo e liquidez, ETFs de Renda Fixa proporcionam ao investidor acessar a rentabilidade de índices de mercado com aplicações iniciais relativamente baixas.Outra vantagem de ETFs de Renda Fixa é que os cupons pagos por títulos que compõem a carteira são automaticamente reinvestidos.

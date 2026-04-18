@@ -1,0 +1,8 @@
+=== PAGE 354 ===
+694CFG – Certificado em Fundamentos de Gestão
+Collar DefiniçãoConsiste na combinação de um Cap e um Floor, em que se obtém tanto um limite inferior (determinado pelo preço de exercício do Floor) quanto um limite superior (determinado pelo preço de exercício do Cap) para a taxa de juro. É possível também montar uma operação de collar possuindo o ativo-objeto. O objetivo é proteger o investidor contra quedas do ativo-objeto; porém, em compensação, essa estrutura também limita os ganhos. Para montar essa estrutura, é necessário:Ø Comprar o ativo-objeto;Ø Comprar opção de venda (put) com strike próximo ao valor do ativo-objeto. Isso protegerá o investidor contra quedas abaixo desse strike;Ø Vende opção de compra (call) com strike superior, que será o limitador do lucro máximo.Essa operação geralmente não envolve desembolso inicial, pois o prêmio pago pela compra da put é praticamente subsidiado por completo pela venda da call.
+695CFG – Certificado em Fundamentos de Gestão
+Operações EstruturadasCollarEste é o gráfico do resultado financeiro de um investidor que COMPRA uma PUT (Strike: R$ 12,00), COMPRA DO ATIVO a R$ 12,00 e VENDE uma CALL (Strike R$ 14,00). Considerando o preço da call e da put iguais, não há desembolso inicial.
+10    12   13   14   15   16
+Lucro543210-1-2-3-4Prejuízo
+Lucro MáximoResultado da operação CollarCOMPRAPUTVENDACALLCOMPRA ATIVOLucros/ Perdas100 2 -2 012-2 2 0 013-2 2 1 114-2 2 2 215-2 1 3 216-2 0 4 2

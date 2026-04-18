@@ -1,0 +1,7 @@
+=== PAGE 179 ===
+347CFG – Certificação de Fundamentos de Gestão
+EBITDA (LAJIDA)ConceitoO Ebitda é um indicador financeiro bastante utilizado pelas empresas de capital aberto e pelos analistas de mercado. Esta sigla significa “Earnings Before Interest, Taxes, Depreciation and Amortization”, que traduzido para o português seria LucrosAntesde Juros,Impostos,Depreciação e Amortização, portanto, no Brasil, também o chamamos de LAJIDA.Este indicador representa a geração operacional de caixa da companhia, ou seja, o quanto a empresa gera de recursos apenas em suas atividades operacionais, sem levar em consideração os efeitos financeiros e de impostos.A utilização do EBITDA ganha importância, pois analisar somente o lucro ou prejuízo de uma companhia (o seu resultado final) tem sido insuficiente para avaliar seu real desempenho. Isto por que muitas empresas tem seu lucro ajustado por fatores puramente contábeis, ou por fatores que não são o “core business” da companhia (parte central da empresa), como por exemplo, ganhos de operações financeiras e não operacionais.
+348CFG – Certificação de Fundamentos de Gestão
+EBITDA (LAJIDA)Cálculo do EBITDA(+)RECEITA OPERACIONAL BRUTA(-)Impostos Incidentes sobre Vendas (tais como PIS/COFINS)(=)Receita Líquida de Vendas(-)Custo dos Produtos Vendidos(-)Despesas Operacionais (Vendas, Administrativas, Outras)(=)EBITDA (LAJIDA) = LUCRO OPERACIONAL AJUSTADO(-) Despesas Financeiras (tais como Juros e JCP)(-)Depreciação e Amortização(-)Tributos (IRPJ e CSLL)(=)RESULTADO LÍQUIDO
+SUBTRAIR O OPERACIONAL
+SOMAR O NÃO OPERACIONAL

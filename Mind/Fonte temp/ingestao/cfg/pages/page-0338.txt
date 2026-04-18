@@ -1,0 +1,8 @@
+=== PAGE 338 ===
+662CFG – Certificado em Fundamentos de Gestão
+[204351] Um importador faz uma operação de hedge com SWAP. Qual será a posição assumida por esse importador?a) Passiva em dólar e passiva em taxa do DIb) Ativa em taxa do DI e ativa em dólarc) Ativa em taxa do DI e passiva em dólard) Ativa em dólar e passiva em taxa do DI.
+Como a prova tem cobrado!
+663CFG – Certificado em Fundamentos de Gestão
+Credit
+ 
+Default SwapConceitoCredit Default Swap (CDS) é um contrato de derivativo financeiro que transfere o risco de crédito para uma contraparte em troca de um prêmio. Em outras palavras, os CDSs servem como seguro contra a inadimplência de um devedor.Durante o período do contrato, o COMPRADOR da proteção de crédito (comprador do CDS) faz pagamentos ao VENDEDOR do swap (vendedor do CDS) até a data de vencimento do contrato. Em troca, o vendedor concorda em compensar o comprador por perdas em produtos cobertos decorrentes de um evento de crédito, bem como todos os pagamentos de juros que teriam sido pagos se o título atingisse sua data de vencimento.CDSs requerem pelo menos três partes:ØInstituição que emite o título da dívida (EMISSOR), também chamado de devedor; ØCOMPRADOR da dívida (geralmente um investidor) que, para se proteger do risco de crédito, compra uma proteção (compra o CDS);ØVENDEDOR da proteção (quem vem o CDS), geralmente um banco ou seguradora que garante a dívida entre o EMISSOR e o COMPRADOR.

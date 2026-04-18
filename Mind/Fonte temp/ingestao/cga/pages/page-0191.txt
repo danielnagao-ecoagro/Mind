@@ -1,0 +1,14 @@
+=== PAGE 191 ===
+373CGA – Certificação de Gestores Anbima
+Alocação de Ativos (
+Asset
+ 
+Allocation
+)ConceitoO objetivo de construir um modelo eficiente de alocação é determinar quais serão as classes de ativos e os tipos de produtos que serão aplicados, com os seus devidos percentuais. Essa construção chamamos de ALOCAÇÃO DE ATIVOS, ou em inglês de Asset Allocation. Vale ressaltar que os clientes possuem acesso as mesmas classes de investimentos, mas não a mesma gama de produtos. Todos nós temos acesso a investimentos em ações, mas nem todos tem acesso a comprar ações de uma companhia fechada. Primeiramente, a ALOCAÇÃO DE ATIVOS é dividida entre a classe dos ativos, chamado deMACRO-ALOCAÇÃO, para posteriormente selecionar os produtos de investimentos daquelas classes, classificada comoMICRO-ALOCAÇÃO. Porém, existem as formas de como será feita a aplicação dos recursos, ou seja, se o investidor deseja buscar oportunidades de curto prazo ou apenas de longo prazo, se ele deseja que a carteira de investimentos possua muita movimentação financeira ou não. Neste sentido, a ALOCAÇÃO DE ATIVOS é dividida em Estratégica x Tática e Dinâmica x Estática, que veremos a seguir as suas diferenças.
+374CGA – Certificação de Gestores Anbima
+Alocação de Ativos (
+Asset
+ 
+Allocation
+)Conforme citamos, a ALOCAÇÃO DE ATIVOS pode ser segmentada entre:ØMACRO-ALOCAÇÃO: Esta é a parte que se escolhe as classes e as porcentagens dos ativos que farão parte da carteira de investimentos. Ela ocorre exatamente nesta Etapa 4 – Desenvolvimento de Recomendações e Apresentação ao Cliente. Para ficar mais claro, podemos classificar as classes dos ativos resumidamente como:§ Renda Fixa; § Renda variável; § Ativos Imobiliários;§ Investimentos Internacionais;§ Investimentos alternativos.ØMICRO-ALOCAÇÃO: Já esta parte é a escolha dos produtos de investimentos e ela ocorre após a apresentação ao cliente, portanto, ocorre na Etapa 5 - Implementação das recomendações de planejamento financeiro. Como exemplo, temos:§ Escolher entra LFT ou LTN;§ Investir no setor elétrico;§ Comprar o imóvel A ou o B.
+Macro e Micro-Alocação

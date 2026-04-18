@@ -1,13 +1,20 @@
-# FII - Fundos de Investimento Imobiliário
+﻿# FII - Fundos de Investimento Imobiliário
 
-Os **Fundos de Investimento Imobiliário (FII)** são veículos de investimento coletivo destinados à aplicação em ativos do setor imobiliário. Eles permitem que pequenos investidores tenham acesso a grandes empreendimentos, como shoppings, lajes corporativas e galpões logísticos.
+Os FIIs são veículos coletivos voltados à exposição ao setor imobiliário por meio de imóveis, recebíveis e cotas de estruturas relacionadas.
 
-## Tipos de FII
-1. **FII de Tijolo**: Investem em ativos físicos (imóveis reais). O lucro advém majoritariamente da locação desses imóveis. Ex: shoppings, hospitais, escolas.
-2. **FII de Papel (Recebíveis)**: Investem em títulos de dívida imobiliária, como [[Mercado_Financeiro/LCA_e_LCI|LCI]] e Certificados de Recebíveis Imobiliários (CRI). O lucro vem dos juros e correção monetária desses títulos.
-3. **FII Híbrido**: Mesclam a estratégia de tijolo e papel, podendo investir tanto em imóveis quanto em títulos ou cotas de outros fundos.
+## Tipos usuais
+- tijolo
+- papel
+- híbrido
 
-## Regra de Distribuição de Lucros
-Por força de lei, os FIIs devem distribuir, no mínimo, **95% do lucro líquido** auferido (regime de caixa) em cada semestre. A maioria dos fundos opta pela distribuição mensal desses dividendos.
+## Referências e Links
+- [[Fundos_Investimento/FII/Indice_FII|FII]]
+- [[Fundos_Investimento/FII/Investimentos_Imobiliarios|Investimentos Imobiliários]]
+- [[Fundos_Investimento/FII/Lei_8668_1993|Lei 8.668/1993]]
+- [[Fundos_Investimento/CVM_175|CVM 175]]
+- [[Juridico_e_Regulatorio/CVM_175_Anexo_II|CVM 175 - Anexo II]]
 
-#FII #Investimentos #MercadoImobiliario #RendaVariavel
+---
+[[Mind/Conhecimento/indice|Índice Principal]]
+
+#fii #imobiliario #fundos #mercado

@@ -1,0 +1,9 @@
+=== PAGE 242 ===
+470CFG – Certificado em Fundamentos de Gestão
+470
+5.1.7 Modelos
+ 
+de Precificação 
+de Ações
+471CFG – Certificado em Fundamentos de Gestão
+Precificação de ativosConceitosOs modelos de precificação de ativos servem para que o investidor de renda variável encontre o retorno exigido por ele para investir em uma determinada companhia, ou seja, qual o valor justo destas ações. Este Retorno Exigido, também chamado de Retorno Requerido, leva em consideração um conceito muito importante, o de “aversão ao risco”, que significa que quanto maior o risco, maior o Retorno Exigido.Os modelos de precificação de ativos cobrados na prova são:Ø Análise Fundamentalista: Modelo que leva em consideração os múltiplos de uma companhia (Lucro por Ação; Preço sobre o Lucro; EBITDA; etc), incluindo a análise de Fluxo de Caixa Descontado, que considera o valor de qualquer ativo pelo fluxo financeiro futuro que esse ativo proporcionará, trazido ao valor presente.Ø Análise Técnica: Baseada apenas nos preços e volumes negociados no passado.

@@ -1,0 +1,15 @@
+=== PAGE 104 ===
+201CGA - Certificação de Gestores Anbima
+Preço do título
+Título sem opçãoTítulo com opção embutida
+Valor da opção de compra
+Títulos Privados
+Y*
+Gráfico: Renda Fixa com CallDesta forma títulos com Call Embutida não possuem valorização “infinita”, quando as taxas de juros do mercado (ou título) diminuem, conforme gráfico abaixo. 
+Yield
+202CGA - Certificação de Gestores Anbima
+Títulos PrivadosGráfico: Renda Fixa com PUTPreço do título
+Y* Yield
+E títulos de renda fixa com cláusula de PUT Embutida não possuem desvalorização “infinita”, quando as taxas de juros do mercado (ou título) sobem, conforme gráfico abaixo.
+Título sem opção
+Título com opção de venda embutidaValor da opção de venda

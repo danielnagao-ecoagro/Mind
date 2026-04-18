@@ -1,0 +1,15 @@
+=== PAGE 171 ===
+333CGA – Certificação de Gestores Anbima
+Vantagens e LimitaçõesA principal crítica ao modelo é que o resultado do VaR NÃOconsegue capturar os prejuízos em períodos de stress do mercado, ou seja, o verdadeiro prejuízo de uma carteira pode ser muito maior do que o apontado pelo VaR. Esta medida de risco tem muita validade em períodos normais (cotidianos), já que é um modelo probabilístico, baseado em estatísticas históricas através do risco total do ativo (desvio padrão). Além disso, não considera os potenciais de ganhos de uma carteira e pode dar uma falsa sensação de segurança, por conta do uso de dados históricos.Esse problema pode ser superado pelo uso da Simulação de Monte Carlo mas, por sua vez, esse método pode implicar elevados custos de modelagem.Do lado positivo, se tornou uma medida de risco muito utilizada pelo mercado e por reguladores por conseguir agregar todo o risco em um único número, de fácil entendimento. Da mesma forma, fornece um valor numérico bem objetivo com relação à perda máxima de um ativo ou carteira.
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+)
+334CGA – Certificação de Gestores Anbima
+Stress 
+TestConceitoO STRESS TEST recalcula o valor da carteira para alguns cenários, ou combinação deles, representativos de SITUAÇÕES DE CRISES ou choques nos mercados que afetam a carteira, ou seja, ele é utilizado para compensar a deficiência do VaR e outras medidas de dispersão (desvio-padrão e variância). Com isso, o VaR e o Stress Test são ferramentas complementares para a avaliação de risco de mercado. O VaR utiliza a distribuição normal como parâmetro descritivo da distribuição de probabilidades no mercado financeiro (deficiente na previsão de movimentos bruscos ou distribuições não normais). O Stress Test testa a “cauda” da curva de sino (Distribuição Normal), ou seja, os prejuízos possíveis em caso seja atingido as suas extremidades.q RESUMO:Ø VaR (Value at Risk): Calcula o prejuízo em dias normais, o “risco cotidiano”;Ø Stress Test: Calcula o prejuízo “em uma situação de crise”.Ø Stress Test NÃO SUBSTITUI O VaR, mas sim, o complementa.

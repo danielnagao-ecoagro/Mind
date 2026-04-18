@@ -1,0 +1,23 @@
+=== PAGE 126 ===
+244CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+ 
+x
+ 
+Money
+-
+Weighted
+ 
+Rate 
+of
+ 
+ReturnConceitoEm resumo, pudemos concluir que os fluxos de caixa interferem na TIR ou MWRR de uma carteira. No nosso exemplo, o MWRR foi pior na carteira 2, pois o investidor fez um aporte de R$ 200.000 imediatamente antes de uma rentabilidade negativa.Por sua vez, o melhor cenário foi o 3, em que o investidor fez um resgate antes da rentabilidade negativa do segundo período.E, no primeiro cenário, em que não houve movimentações, a MWRR foi igual à TWRR. 
+Por fim, como o gestor não possui ingerência sobre fluxos de caixa externos (aportes e resgates), o mais correto seria avaliá-lo pelo TWRR.
+MétodoInfluenciado por fluxos de caixa externos?Recálculo a cada novo fluxo de caixaTWRRNãoSimMWRRSimNão
+245CFG – Certificação de Fundamentos de Gestão
+Time
+-
+Weighted
+: CálculoConceitoPrimeiro cenário: investidor não faz qualquer solicitação de aporte ou resgate.Perí-odoInícioRentabili-dade (%) Rentabilidade ($$)Movimenta-çãoFinal1R$ 1.000.0000R$ 1.100.0002 0R$ 1.045.000Sempre que houver um fluxo de caixa, devemos recalcular o TWRR em partes. Como nesse caso não há fluxos externos, basta compararmos o valor final da carteira com o inicial:Período total =!.&.%.&&&	(!.&&&.&&&!.&&&.&&& =.%.&&&!.&&&.&&& = 4,5%

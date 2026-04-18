@@ -1,0 +1,6 @@
+=== PAGE 110 ===
+213CGA - Certificação de Gestores Anbima
+Taxas de juros de referênciaSONIA e ESTRA taxa SONIA (Sterling Overnight Index Average) é bem parecida com a SOFR, mas para a libra esterlina. Assim como a SOFR, a SONIA é uma taxa de referência para empréstimos de curto prazo, representando a média de juros pagos por bancos britânicos em operações overnight (de um dia) com libras esterlinas (GBP).A SONIA surgiu como substituta da LIBOR na libra esterlina, assim como a SOFR fez para o dólar americano. É calculada e publicada diariamente pelo Banco da Inglaterra, o banco central britânico.Já a taxa ESTR (Euro Short-Term Rate) é a taxa de referência do mercado monetário do euro para o prazo overnight (de um dia). Ela também é considerada a taxa de juro sem risco do euro. A taxa ESTR é calculada diariamente pelo Banco Central Europeu (BCE) com base em transações reais de mercado.A metodologia de cálculo da taxa ESTR é transparente e robusta, o que aumenta sua confiabilidade. A taxa ESTR foi introduzida em 2019 para substituir a EONIA (Euro OverNight Index Average), que era considerada menos confiável por ser baseada em estimativas. A taxa ESTR é utilizada como referência para diversos produtos financeiros, como contratos de derivativos, linhas de crédito e empréstimos.
+214CGA - Certificação de Gestores Anbima
+3.2 Mercado 
+de Ações Internacional214

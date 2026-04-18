@@ -1,0 +1,8 @@
+=== PAGE 145 ===
+282CFG – Certificação de Fundamentos de Gestão
+Medidas de PerformanceTracking ErrorO Tracking Error, ou Erro de Rastreamento, é a divergência entre o comportamento dos retornos de um ativo e o do benchmark.  Com isso, o Tracking Error denota a consistência de um investimento em relação a um benchmark em um determinado período de tempo e, por isso, é muito utilizada para avaliar a qualidade da gestão passiva: quanto menor for o tracking error, melhor é a gestão passiva.Sendo Rp o retorno de uma carteira e Rb, o retorno de um benchark, o tracking error é calculado a partir o desvio padrão da diferença entre esses retornos:
+Tracking	ErPQP= RRp - Rb
+283CFG – Certificação de Fundamentos de Gestão
+Medidas de PerformanceInformation RatioO Information Ratio (IR) mede a relação entre o excesso de retorno, sobre o benchmark, em relação ao tracking error.  Em outras palavras, ele nos diz o quanto um determinado gestor superou o benchmark (retorno ativo), mas também quanto de risco ativo assumiu para isso (tracking error).Assim, um IR alto pode ser alcançado com elevados retornos e baixos tracking errors! Ou seja, um alto IR indica que o gestor conseguiu um resultado significativo em uma base ajustada ao risco.
+STUQPVWXYQT	ZWXYQ=Z[XQPTQ	\WPX[YPW	−Z[XQPTQ	][T^ℎVWP`RRp − Rb	
+Note que	)Rp − Rb.	= Tracking Error!

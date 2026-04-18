@@ -1,0 +1,9 @@
+=== PAGE 61 ===
+CFG – Certificação em Fundamentos de Finanças113
+1.7 Amostragem, Estimação e 
+Teste de Hipóteses113
+CFG – Certificação em Fundamentos de Finanças114
+População 
+x
+ 
+AmostraConceitoUma população é o conjunto completo de todas as pessoas, itens ou elementos que possuem características comuns e sobre os quais se deseja fazer inferências. Uma amostra, por sua vez, é um subconjunto selecionado dessa população. As amostras devem ser representativas da população, o que significa que devem refletir as características importantes da população em questão.Então, resumindo, a principal diferença entre população e amostra é que a população é o conjunto completo de todos os elementos de interesse, enquanto a amostra é apenas uma parte desse conjunto selecionada para análise.Já amostragem aleatória é um método de seleção de amostras em que cada elemento da população tem a mesma probabilidade de ser selecionado para fazer parte da amostra. Isso significa que cada membro da população tem uma chance igual de ser escolhido, garantindo assim que a amostra seja representativa da população como um todo.

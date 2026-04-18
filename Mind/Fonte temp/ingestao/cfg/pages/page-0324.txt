@@ -1,0 +1,6 @@
+=== PAGE 324 ===
+634CFG – Certificado em Fundamentos de Gestão
+Sistemas de GarantiasAjuste Diário: ExemploRafael comprou dólares através de um contrato futuro no dia 03/03/2019 a R$ 4,00. Neste dia, o preço de ajuste do fechamento foi de R$ 4,10 (ou seja o dólar se valorizou desde o momento da sua compra). Desta forma, a diferença de foi de R$ 0,10 a seu favor. Assim, no dia 04/03/2019 será CREDITADO um valor de R$ 0,10 por dólar na sua conta da corretora (agora o valor de R$ 4,10 será o novo preço base de Rafael).Neste dia 04/03/2019, no qual houve o crédito na sua conta, o preço de ajuste do fechamento foi de R$ 3,90 (ou seja, o dólar se desvalorizou neste dia). Como o preço base para o ajuste agora é de R$ 4,10, será DEBITADO um valor de R$ 0,20 por dólar na sua conta da corretora.Esse processo de AJUSTE DIÁRIO ocorre diariamente, fazendo com que se o ativo tiver se valorizado, o comprador terá um CRÉDITO e o vendedor terá um DÉBITO. Já se o ativo se desvalorizar, o comprador terá um DÉBITO e o vendedor terá um CRÉDITO.
+635CFG – Certificado em Fundamentos de Gestão
+635
+5.4.1 Modalidades: Termo & Futuro

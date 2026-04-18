@@ -1,0 +1,13 @@
+=== PAGE 269 ===
+524CFG – Certificado em Fundamentos de Gestão
+Estrutura a Termo da Taxa de JurosExemplo 1: RespostaPara encontrarmos a TAXA SPOT 0-3, vamos encontrar o retorno total e depois anualizar:
+0 (hoje)1 ano2 anos3 anos2% 3% 4%Taxa spotTaxa Termo 1ATaxa Termo 2A
+9,26% TOTAL2,997% a.a=
+(1) RETORNO TOTAL DO PERÍODO DE 0 A 3: §100 [ENTER]§ 2 [%] [+]§ 3 [%] [+]§ 4 [%] [+]§ 100 [-]R: 9,26%
+(2) TAXA SPOT 0-3: § 9,26 [i]§ 3 [n]§ 1 § [R/S]R: 2,997% ao ano
+525CFG – Certificado em Fundamentos de Gestão
+0 (hoje)1 ano2 anos3 anos
+??? 3% 4%
+9,26% ao período de 3 anos
+Taxa spotTaxa Termo 1ATaxa Termo 2A
+Estrutura a Termo da Taxa de JurosExemplo 2Sabendo que uma LTN com prazo de 3 anos rende 9,26% no período, a taxa a termo de 1 ano é de 3% (entre o primeiro e o segundo ano) e a taxa termo de 2 é 4% anos (entre o segundo e o terceiro ano), qual a taxa spot de 1 ano?

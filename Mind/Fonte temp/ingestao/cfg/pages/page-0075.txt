@@ -1,0 +1,6 @@
+=== PAGE 75 ===
+CFG – Certificação em Fundamentos de Finanças141
+Regressão Linear SimplesTabela ANOVAFonte de VariaçãoGraus de LiberdadeSoma dos QuadradosMédia da soma dos quadradosRegressão (explicada)p SQRQMR = 234' Erro (inexplicada)n – p - 1 SQEQMe = 2356	8'	8( Totaln - 1 SQTEm que n = número de observações, p = número de variáveis independentes (para Regressão Linear Simples, p = 1), QMR = Quadrado Médio da Regressão e QME = Quadrado Médio dos Erros 
+CFG – Certificação em Fundamentos de Finanças142
+Conceito
+Regressão MúltiplaComo falamos anteriormente, havendo duas ou mais variáveis independentes, usamos a Regressão Múltipla.Os procedimentos usados para estimar o valor médio de y e para prever um avalor individual de y na regressão múltipla são similares aos da análise de regressão que envolvem apenas uma variável independente (regressão simples).ExemploSeja a seguinte equação de regressão estimada:y = - 0,74 + 0,05x1 + 1,57x2. Sendo x1 = 100 e x2 = 200, o valor estimado de y será de:y = - 0,74 + 0,05 x 100 + 1,57 x 200 = - 0,74 + 5 + 314 = 318,26.

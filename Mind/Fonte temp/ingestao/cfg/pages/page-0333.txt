@@ -1,0 +1,6 @@
+=== PAGE 333 ===
+652CFG – Certificado em Fundamentos de Gestão
+‘ MERCADO À VISTAMERCADO FUTURO Preço de aberturaR$ 100,00R$ 105,00Preço de fechamentoR$ 120,00R$ 125,00Ganho líquidoR$ 20,00R$ 20,00Investimento inicialR$ 100,00 (pagos pela BOVA11)R$ 10,00(margem)Retorno20,00%200%
+Contrato FuturoAlavancagem: ExemploPreço à vista da do ETF BOVA11 (cesta de ações da Bovespa) é de R$ 100,00 e seu contrato futuro de R$ 105,00. Para comprar um contrato futuro, é necessário depositar como garantia R$ 10,00. Após alguns dias, o preço a vista subiu para R$ 120,00 e o contrato futuro, para R$ 125,0. Qual o retorno em cada mercado?
+653CFG – Certificado em Fundamentos de Gestão
+Resumo 1 : Contratos Futuros e a TermoCARACTERÍSTICASFUTUROTERMONegociaçãoBolsas OrganizadasBalcão (são privados)Mercado SecundárioSim NãoAjuste DiárioSim NãoMargem de GarantiaSim Às vezesVencimentoPadrãoNegociávelLotePadrãoNegociávelClearingSim Às vezesFormatoFixoA formatarRisco de CréditoNÃO (MOTIVO: B3)SimIntercambialidadeSim NãoLiquidezAltaPequenaRisco de LiquidezDiárioVencimentoParticipanteMembros da BolsaNegociam entre siDisseminação PreçoContínuaSob cotação

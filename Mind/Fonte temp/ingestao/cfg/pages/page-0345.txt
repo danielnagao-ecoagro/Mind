@@ -1,0 +1,18 @@
+=== PAGE 345 ===
+676CFG – Certificado em Fundamentos de Gestão
+70    80    90  100   110  120   130  140  150   160100
+In the Money(ITM)Out of the Money(OTM)Lucro/Perda
+Resultado do Exercício para o lançador da PUTPVStrikePrêmioLucros e Perdas80120+10-3090120+10-20100120+10-10110120+100115120+10+5120120+10+10130120+10+10140120+10+10150120+10+10
+(PV)Ativo no vencimento
+Preço de Equilíbrio: strike + Prêmio =    120 - 10 = 110
+Operações BásicasShort PUT - ExemploEste é o gráfico do resultado financeiro de um investidor que VENDE uma OPÇÃO DE VENDA (PUT) recebendo um prêmio de R$ 10,00 e com preço de exercício a R$ 120,00. Opção de Venda (PUT) Strike R$ 120,00           Prêmio R$ 10,00Lucro
+677CFG – Certificado em Fundamentos de Gestão
+Preço do ativo-objeto
+Venda de CALL
+Compra de CALLxPrêmio
+Prejuízo ilimitado!
+CALL 
+–
+ 
+Opção de CompraGráficoBoca do Crocodilo: Call
+LucroPrejuízo

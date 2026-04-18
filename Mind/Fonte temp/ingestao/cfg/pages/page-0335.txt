@@ -1,0 +1,11 @@
+=== PAGE 335 ===
+656CFG – Certificado em Fundamentos de Gestão
+O Swap é um contrato que estabelece a troca de fluxo de caixa e risco entre empresas/investidores, sendo um contrato de obrigações recíprocas, sendo que cada uma das partes possui uma posição Ativa (Credora) e a outra Passiva (Devedora). O valor inicial e a(s) data(s) de vencimento são livremente pactuados entre as partes, portanto, no início as taxas são estabelecidas por equilíbrio financeiro (equivalentes). A liquidação pode ser feita apenas no vencimento ou com ajuste periódico, no caso, calcula-se a variação dos indexadores (ativo e passivo) e a liquidação se dá pela diferença dos fluxos, conforme aplicado a fórmula abaixo:
+Sendo:Ø “Vi(A)” o Valor Inicial do Ativo A;Ø “i(A)”, variação do ativo A;Ø “Vi(B)”, o Valor Inicial do Ativo B;Ø “i(B)”, variação do ativo B. 
+Resultado = (Vi(A) × i(A)) – (Vi(B) × i(B))
+Swap Conceito
+657CFG – Certificado em Fundamentos de Gestão
+PAGA A VARIAÇÃODO CDIINSTITUIÇÃO AINSTITUIÇÃO BPAGA A VARIAÇÃO DO DÓLAR
+RECEBE A VARIAÇÃODO CDI
+RECEBE A VARIAÇÃO DO DÓLARTROCA DE FLUXOS
+Swap GráficoO Swap Pode ocorrer trocas de dois fluxos de caixa com taxa pós (exemplo: CDI x IPCA) ou pré com pós (exemplo: LTN x CDI) em várias datas futuras. Abaixo um exemplo de swap de Dólar por CDI.

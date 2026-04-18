@@ -1,0 +1,14 @@
+=== PAGE 8 ===
+CFG – Certificação em Fundamentos de Finanças7
+Ø Para ligar a calculadora: Aperte [ON];Ø Para desligá-la: Apertar a tecla [ON] novamente;Ø Para mudar de convenção BRA para USA, ou vice-versa: ligar a HP pressionando ao mesmo tempo o [.]. O visor trocará de ponto para vírgula, ou vice-versa.No seu visor, devem constar os termos: Ø D.MY (dia.mês ano)Ø C (calcular períodos fracionários) Para introduzi-los (caso não apareça no seu visor):Ø C: aperte [STO] e depois [EEX] Ø D.MY: pressione [g] e depois [4]
+D.MY    C
+Configuração Inicial
+HP
+-
+12C 
+CFG – Certificação em Fundamentos de Finanças8
+→ 
+HP
+-
+12C Configuração InicialPara definir o número de casas que desejamos enxergar no visor (arredondamento do número), devemos seguir os seguintes passos:Ø (1) Pressionar [f]Ø (2) Pressionar o “algarismo” que desejamos o número de casas.Por exemplo, se você clicar em [f] [5] deixará o visor com 5 casas decimais.
+Vale ressaltar que o visor mostra o arredondamento do número com a quantidade de casas que desejamos, mas na memória de cálculo da HP-12C, estará sempre sendo considerado todas as casas decimais. Como regra geral, trabalhe com 2 casas decimais, porém, existem cálculos que são necessários utilizar mais casas decimais, como por exemplo, nos cálculos de títulos públicos federais, que  são utilizadas 6 casas.

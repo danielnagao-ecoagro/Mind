@@ -1,0 +1,10 @@
+=== PAGE 48 ===
+CFG – Certificação em Fundamentos de Finanças87
+A HP-12C não calcula diretamente a Covariância, somente o Coeficiente de Correlação. No entanto, sabemos que ela também calcula o desvio padrão dos ativo. Desta forma, podemos aplicar a seguinte fórmula, lembrando que nossos resultados são sempre Amostrais: COV (a,b) =   DP(a)  ×  DP(b)  × Coeficiente de Correlação(a,b)qHP-12C - Passo-a-Passo:Ø (1) Zerar a Hp-12C com [f][CLx]Ø (2) Inserir um por um, os pares do grupo: Ativo A “ENTER” + Ativo B “[∑+]”, Com os grupos criados, podemos solicitar o cálculo do Coef (a,b), DP(a) e DP(b).Ø (3) Calcular Coef(A,B): [g][2] e posteriormente “inverter variáveis” [x><y]Ø (4) Calcular DP(B): [g][.]; a Hp-12 sempre nos mostra primeiro o “segundo ativo”.Ø (5) Calcular DP(A): [x><y]; inverter variáveis (você já pediu o DP(b), agora está pedindo para a HP somente inverter a variável)Ø (6) Calcular COV(A,B): multiplicar os itens anteriores (3)×(4)×(5).
+Medidas de associação entre 2 variáveis
+Risco ARisco BRisco relacionado entre A,B
+Cálculo HP-12C: Covariância e Coef(ρ) 
+CFG – Certificação em Fundamentos de Finanças88
+Medidas de associação entre 2 variáveis
+FLUXOTECLAMOTIVOVisor800ENTER10[∑+]1º número do grupo1700ENTER11[∑+]2º número do grupo2600ENTER13[∑+]3º número do grupo3500ENTER14[∑+]4º número do grupo4NO,r: [g][2]Correlação (r)1.210COEF (A,B)[x><y] Inverter resultado‒0,99DESVIO PADRÃO (B)S: [g][.]A HP calcula 1º segundo ativo1,83DESVIO PADRÃO (A)[x><y] Inverter o Ativo129,10COV(A,B)[×] [×] Multiplicar duas vezes, pois os valores do COEF, DP(a) e DP(b) já estão na memória da HP-233,33
+Cálculo HP-12C: Covariância e Coef(ρ) qAplicando o Passo-a-Passo:

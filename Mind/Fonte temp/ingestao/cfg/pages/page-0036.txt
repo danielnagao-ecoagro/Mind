@@ -1,0 +1,6 @@
+=== PAGE 36 ===
+CFG – Certificação em Fundamentos de Finanças63
+Medidas de Posição CentralMédia GeométricaA média geométrica é uma medida utilizada para calcular um valor médio entre um conjunto de dados. É necessário que o conjunto tenha pelo menos 2 elementos. Por exemplo, o preço de uma ação encerrou os últimos meses valendo os seguintes valores: 30, 28, 32, 34.A média geométrica é calculada a partir da seguinte fórmula:Média geométrica = !7#	8	7$	8	7%	8	…7:Em que X1, X2, X3 ... Xn são as observações e n refere-se ao número de observações.Retornando ao nosso exemplo, a média geométrica seria de:Média geométrica =";1	8	<=	8	;<	8	;2 =">/;.><1 = 30,92
+CFG – Certificação em Fundamentos de Finanças64
+Para calcular a média geométrica do conjunto anterior (30, 28, 32 e 34) na HP 12C, devemos seguir os seguintes passos:FLUXOTECLAMOTIVOVisor30 ENTERPrimeira observação30,0028 ENTERSegunda observação28,0032 ENTERTerceira observação32,0034Multiplicar n – 1 vezes (3 vezes)Quarta observação e multiplicando as anteriores913.920,00Média Geométrica4 ">/;.><130,92
+Medidas de Posição CentralMédia Geométrica: HP 12C

@@ -1,0 +1,13 @@
+=== PAGE 20 ===
+35CGA - Certificação de Gestores Anbima
+Long
+ 
+and
+ 
+ShortConceitoMarket Neutral, por sua vez, são carteiras cujo objetivo é neutralizar a exposição ao risco de mercado através de suas exposições long and short. Por exemplo, um fundo possui R$ 20 milhões (long) em um ativo com beta de 0,9 e está vendido (short) no valor de R$ 15 milhões em ativos com beta de 1,2. Isso significa que a exposição líquida será zero: + 20 x 0,9 – 15 x 1,2 = 0. Essa é a grande característica da estratégia Market Neutral.Com isso, esses fundos devem registrar menos volatilidade que as estratégias long only e baixa correlação com outros tipos de estratégias. O objetivo, então, é neutralizar o risco de mercado na medida em que o gestor acredita não conseguir gerar valor agregado à carteira a partir de suas previsão. Por conta disso, essa estratégia é mais usada para diversificação ao invés de busca de maiores retornos. Em outras palavras, o gestor foca em fazer apostas concentradas a partir das discrepâncias de preços, com o objetivo de obter um beta zero, ou seja, totalmente descorrelacionado com o mercado.Uma forma de construir carteiras Market neutral é através de pairs trading, em que ativos de companhias similares são comprados e vendidos para explorar potenciais desarranjos momentâneos de preços entre tais ativos.
+36CGA - Certificação de Gestores Anbima
+Long
+ 
+and
+ 
+ShortConceitoResumindo, a estratégia Long and short difere da Market Neutral, pois a última tenta explorar as diferenças nos preços das ações ficando long and short em ações intimamente relacionadas e que possuem características semelhantes.Nesse sentido, a estratégia Market Neutral tenta manter o valor total de suas participações long and short aproximadamente igual, pois isso contribui para diminuir o risco. Para isso, essa estratégia implica rebalanceamentos constantes. Assim, enquanto a estratégia long and short permite aos gestores lucrar com as tendências de mercado e até mesmo alavancar posições para amplificar tais ganhos, a Market Neutral está sempre estabilizando os retornos e aumentando o tamanho da posição oposta. Por isso, a estratégia Market Neutral visa principalmente investidores institucionais que buscam melhores retornos, mas sem necessariamente correrem tantos riscos como em fundos mais agressivos.

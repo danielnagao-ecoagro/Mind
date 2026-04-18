@@ -1,0 +1,7 @@
+=== PAGE 84 ===
+CFG – Certificação de fundamentos de Gestão158
+MicroeconomiaDeslocamentos da curva de demandaA oferta por determinado bem pode sofrer alterações ao longo do tempo. Por exemplo, o aço é utilizado na produção de automóveis. Se o preço do aço cair, a fabricação de automóveis se torna mais lucrativa, aumentando a oferta de carros no mercado. Exemplos como esses fazem a curva se deslocar para a direita, pois representam um aumento da oferta.Agora, se o preço do aço sobe, a fabricação dos carros já se torna menos lucrativa e, portanto, é de se esperar uma redução da oferta. Isso levaria a curva da oferta a se deslocar para a esquerda.
+Aumento da ofertaRedução da ofertaPreço
+Quantidade
+CFG – Certificação de fundamentos de Gestão159
+MicroeconomiaDeslocamentos da curva de ofertaA curva de oferta pode então se deslocar em função de uma série de fatores:Ø Preço dos insumos: a oferta de um bem é negativamente correlacionada com o preço dos insumos. Isso é, se o preço dos insumos sobe, a quantidade ofertada diminui, deslocando a curva de oferta para a esquerda. Agora, se o preço dos insumos cai, a quantidade ofertada aumenta, deslocando a curva de oferta para a direita;Ø Tecnologia: aqui já há uma relação diretamente proporcional entre tecnologia e quantidade ofertada. Isso porque, quanto mais avançada a tecnologia aplicada ao processo produtivo, menores os custos de produção e, consequentemente, maior a quantidade ofertada, deslocando a curva da oferta para a direita;

@@ -1,0 +1,11 @@
+=== PAGE 20 ===
+CFG – Certificação em Fundamentos de Finanças31
+q EXEMPLO: Rafael tem 30 anos e deseja se aposentar daqui 20 anos com um patrimônio financeiro de R$ 1.000.000,00. Atualmente ele possui R$ 200.000,00 em um fundo de previdência aplicados no banco com você a uma taxa de 0,5% ao mês. Qual deverá ser o aporte mensal que Rafael necessitará fazer para atingir seu objetivo?q RESPOSTA: Ø (1) Zerar os registros da HP 12C! Pressione [f][CLX]Ø (2) Digite [200.000][CHS] e pressione [PV]Ø (3) Digite [0,5] e pressione [i]Ø (4) Digite [20] e [ENTER], digite [12], pressione [x] e pressione [n]Ø (5) Digite [1.000.000]  e pressione [FV] Ø (6) Aperte [PMT]Ø Resposta: ꟷ R$ 731,45 
+Exemplo 5 (PMT)
+Regimes de Capitalização: Juros Compostos
+CFG – Certificação em Fundamentos de Finanças32
+-R$ 200.000240nR$ 1.000.000
+-R$ 731,45
+Taxa de juros (i) = 0,5 a.m.0
+Normalmente, em casos de acumulação para retirada futura, Valor Presente (PV) e Pagamentos (PMT) têm o mesmo sinal. Consequentemente, o Valor Futuro (FV) terá sinal contrário. Exemplo 5 (PMT - Gráfico)
+Regimes de Capitalização: Juros Compostos

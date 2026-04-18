@@ -1,0 +1,12 @@
+=== PAGE 256 ===
+498CFG – Certificado em Fundamentos de Gestão
+Modigliani
+-
+Miller Proposição IA Proposição I da Teoria de Modigliani-Miller estabelece que, sob certas condições, o valor de mercado de uma empresa não é afetado pela maneira como ela é financiada.Especificamente, a teoria afirma que, em um mercado perfeito, com ausência de impostos, custos de transação, assimetria de informações e outros fatores que possam distorcer o mercado, o valor de mercado de uma empresa é determinado apenas pelo fluxo de caixa gerado pelos seus ativos, independentemente de como ela é financiada (ou seja, através de dívida ou de capital próprio).Isso significa que, na ausência de distorções no mercado, não haveria vantagem em escolher uma determinada estrutura de capital (isto é, um mix de dívida e capital próprio) para a empresa, e que o valor da empresa seria o mesmo, independentemente de qual estrutura de capital fosse utilizada.Apesar de amplamente aceita, essa teoria parte de premissas que não são realistas (mercado perfeito), já que há vários fatores que podem afetar a estrutura de capital e o valor de mercado de uma empresa na prática. 
+499CFG – Certificado em Fundamentos de Gestão
+Modigliani
+-
+Miller 
+–
+ 
+Proposição IIProposição IIJá a proposição II de Modigliani-Miller (MM) afirma que o custo de capital próprio (ke) de uma empresa é uma função linear positiva da alavancagem financeira, ou seja, do nível de endividamento da empresa em relação ao seu patrimônio líquido. Segundo essa proposição, o custo de capital próprio aumenta na mesma proporção que a alavancagem financeira, o que significa que empresas com mais dívida têm um custo de capital próprio mais alto do que empresas com menos dívida.Isso ocorre porque os acionistas de uma empresa exigem um retorno mais alto sobre o investimento devido ao aumento do risco financeiro da empresa decorrente de uma maior alavancagem.  Assim como a proposição I, a proposição II assume condições ideais de mercado, como ausência de impostos, custos de falência, custos de transação e assimetria de informações. Na prática, esses fatores podem afetar a relação entre alavancagem financeira e custo de capital próprio. No entanto, a proposição II de MM é útil como um ponto de referência para entender o efeito da alavancagem financeira no custo de capital próprio de uma empresa.

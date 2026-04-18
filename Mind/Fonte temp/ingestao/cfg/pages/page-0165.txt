@@ -1,0 +1,10 @@
+=== PAGE 165 ===
+CFG – Certificação de fundamentos de Gestão320
+q EXEMPLO 1:  O contrato futuro de dólar, com vencimento em 90 dias corridos (63 dias úteis), está sendo negociado a R$ 2,10. Sabendo que o dólar spot está sendo negociado a R$ 2,07, a taxa livre de risco Brasil está em 12,00%a.a, qual o valor do Cupom Cambial?
+Política Cambial
+./012	.425647=9,PVWXNX9,P9YYZO−1MNOPZP123
+Cupom Cambial: Cálculo Fórmula 1
+./012	.425647=9+;<=!"#$#>ó@AB	CDEDBF>ó@AB	A	HIJEA−1MNOPQ64R	S1TT6Q1R
+./012	.425647=9,P9YPNW−1	M	Y4./012	.425647=P,P9YPNW	M	Y5./012	.425647=P,P[O9[P=[,OV%	41	4]1
+CFG – Certificação de fundamentos de Gestão321
+Política CambialCupom Cambial: Fórmula 2Como foi dito, o Cupom Cambial faz parte da fórmula básica da matemática financeira de juros compostos. Como assim? Exatamente isso, a fórmula básica nos diz que todo e qualquer valor futuro parte do valor presente pela correção de uma certa taxa de juros e o dólar futuro não é diferente.Para chegamos no dólar futuro (Forward), basta termos o dólar à vista e multiplicarmos por uma certa taxa. Mas qual taxa? Essa taxa será a divisão entre a taxa livre de risco Brasil, dividida pela taxa do Cupom Cambial, conforme fórmula abaixo. No entanto, aqui teremos que fazer a parte algébrica, necessitando “isolar” o Cupom Cambial para poder resolver o problema.q FÓRMULA: 0123425=6718×:+<=>^_V[V:+??×@?ABC

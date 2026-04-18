@@ -1,0 +1,10 @@
+=== PAGE 247 ===
+480CFG – Certificado em Fundamentos de Gestão
+Dividend YieldO Dividend Yield, exatamente na sua tradução literal é, o “Retorno dos Dividendos”, ou seja, qual o percentual de retorno que o investidor terá ao ano,  baseado no preço da ação e na distribuição de dividendos e de JCP (Juros sobre Capital Próprio). Por se tratar de um valor financeiro recebido em conta, este indicador é muito utilizado para fazer comparação com a renda fixa.Aqui vale ressaltar dois pontos importantes: Ø Este indicador ignora qualquer projeção de ganho de capital (comprar a ação por um preço e vender por valor mais caro); Ø Ele leva em consideração a distribuição do lucro (Dividendos mais JCP) e não em relação ao lucro da companhia!q FÓRMULA: 
+Análise Fundamentalista
+JKLKMNOM	PKNQM=(Dividendos+JCP)Preço	Atual	da	Ação
+481CFG – Certificado em Fundamentos de Gestão
+Índice de PayoutO ÍNDICE DE PAYOUT demonstra a proporção do lucro líquido que será distribuído aos acionistas na forma de dividendos, acrescidos da JCP. Ou seja, o quanto entra de dinheiro líquido na conta do acionista todos os anos, comparado com o lucro líquido da empresa na qual ele é sócio. O saldo remanescente do lucro líquido que ficou na companhia, chamamos de ÍNDICE DE RETENÇÃO!q FÓRMULA:
+q FÓRMULA:   
+Análise Fundamentalista
+ÍOMKXN	MN	YZ[\]^=(Dividendos+JCP)Lucro	LíquidoÍOMKXN	MN	_N`NOçãa=1	−Payout

@@ -1,0 +1,9 @@
+=== PAGE 43 ===
+CFG – Certificação em Fundamentos de Finanças77
+Medidas de Dispersão
+FLUXOTECLAMOTIVOVisor1 [∑+]1º número do grupoNúmero 13 [∑+]2º número do grupoNúmero 23 [∑+]3º número do grupoNúmero 35 [∑+]4º número do grupoNúmero 43 [∑+]5º número do grupoNúmero 5Desvio PadrãoA: [g][.]Desvio Padrão1,412 [YX] Variância2,00
+Variância e Desvio Padrão Amostral: HP-12CA Hp-12 calcula diretamente apenas o Desvio Padrão, sendo ele o Amostral. Mas com o Desvio Padrão, podemos chegar na Variância elevando-o ao quadrado. Primeiro, vamos “limpar” a HP-12C com “[F] [CLx]”.
+CFG – Certificação em Fundamentos de Finanças78
+Medidas de Dispersão
+FLUXOTECLAMOTIVOVisor1 [∑+]1º número do grupoNúmero 13 [∑+]2º número do grupoNúmero 23 [∑+]3º número do grupoNúmero 35 [∑+]4º número do grupoNúmero 43 [∑+]5º número do grupoNúmero 53 [∑+]Média adicionado ao grupoNúmero 6Desvio PadrãoA: [g][.]Desvio Padrão – População1,262 [YX] Variância – População 1,60
+Variância e Desvio Padrão Populacional: HP-12CPara podermos calcular através da população, devemos “enganar” a HP-12, adicionando um número extra que será a média do grupo.

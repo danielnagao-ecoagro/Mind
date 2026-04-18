@@ -1,3 +1,4 @@
+@AGENTS.md
 # Project Overview: Mind
 
 This repository contains an **Obsidian vault** located in the `Mind/` directory. It is used for personal knowledge management, daily journaling, and documentation. The project is a **Non-Code Project** focused on Markdown-based note-taking and utilizes the Obsidian ecosystem for organization and visualization.

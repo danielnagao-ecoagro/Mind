@@ -1,0 +1,9 @@
+=== PAGE 140 ===
+272CFG – Certificação de Fundamentos de Gestão
+ConceitoVamos analisar agora a Interação Alocação/Seleção. O retorno agregado pode ser obtido a partir dessa equação:
+Em que:WP, i = Peso no portfólio do setor iWB,i = Peso no benchmark do setor iRP, i = Retorno no portfólio do setor iRB,i = Retorno no benchmark do setor iN = Número de setores
+Atribuição Micro
+273CFG – Certificação de Fundamentos de Gestão
+ExemploConsidere o seguinte exemplo da tabela abaixo. Qual o efeito da Interação Alocação/Seleção?
+Ações: (0,2 – 0,1) x (15% – 6%) = 0,1 x 9% = 0,90%Renda Fixa: (0,5 – 0,4) x (5% – 6%) = 0,1 x - 1% = - 0,10%Caixa: (0,3 – 0,5) x (1% - 1%) = - 0,2 x – 0% = 0%Efeito Total da Interação Alocação/Seleção = 0,90% - 0,10% = 0,80%Este retorno envolve o efeito conjunto da atribuição de pesos aos setores e aos títulos individuais. A decisão de aumentar a alocação de um título específico, por exemplo, também aumentará o peso do setor ao qual o título pertence.
+Atribuição MicroClasse de ativosPeso na carteiraPeso no benchmarkRetorno da carteiraRetorno do benchmarkAções0,20,115%6%Renda Fixa0,50,45%6%Caixa0,30,51%1%

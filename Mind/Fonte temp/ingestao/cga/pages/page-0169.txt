@@ -1,0 +1,22 @@
+=== PAGE 169 ===
+329CGA – Certificação de Gestores Anbima
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) Analítico ou ParamétricoResumoEm resumo, o VaR Analítico ou Paramétrico é:Ø Uma medida dada em valor financeiro e quanto maior for a carteira, maior o VaR;Ø Diretamente proporcional ao horizonte de tempo (o VaR de uma semana será maior do que o de um dia);Ø Diretamente proporcional ao intervalo de confiança (um VaR com um intervalo de confiança de 99% será maior que um de 95%);Ø É um teste UNICAUDAL, portanto, os intervalos de confiança são diferentes da distribuição normal  (será fornecido o alfa na questão).Vantagens:Ø É fácil de calcular e de ser interpretado como uma medida única de risco; Ø Leva em consideração a correlação entre os ativos, o que proporciona um resultado prático mais confiável.Desvantagens:Ø Pressupõe que os retornos são normalmente distribuídos;Ø Utiliza dados dados históricos e, com isso, às vezes o modelo não será capaz de capturar as dimensões possíveis de movimentos bruscos ainda não observados;Ø O valor e a frequência das perdas podem ser subestimados, por conta de ativos cujos retornos, ainda que normalmente distribuídos, possuem um grande número de valores extremos, o que chamamos de fat tails.
+330CGA – Certificação de Gestores Anbima
+ConceitoO VaR Histórico, também chamado de Método de Simulação Histórica, é ainda mais simples do que o VaR Analítico ou Paramétrico. Para calcular o VaR Histórico, basta relacionar os retornos passados, organizá-los em uma ordem e, após acumulá-los, simplesmente identificar os menores retornos, de acordo com o percentual de confiança desejado.Vantagens:Ø Fáceis cálculos e entendimento;Ø Não assume que os retornos são normalmente distribuídos;Ø Pode ser aplicado para diferentes períodos de tempo de acordo com a decisão do analista.Desvantagens:Ø Utiliza dados dados históricos e, assim como o Var Analítico ou Paramétrico, às vezes o modelo não será capaz de capturar as dimensões possíveis de movimentos bruscos ainda não observados.
+Value
+-
+at
+-
+Risk
+ 
+(
+VaR
+) Histórico

@@ -1,13 +1,21 @@
-# Derivativos e Hedge
+﻿# Derivativos e Hedge
 
-Derivativos sÃ£o instrumentos financeiros cujo preÃ§o deriva do valor de um ativo subjacente, taxa de referÃªncia ou Ã­ndice. No agronegÃ³cio, sÃ£o fundamentais para o **Hedge** (proteÃ§Ã£o) contra a volatilidade de preÃ§os, juros e cÃ¢mbio.
+Derivativos são instrumentos cujo valor deriva de um ativo, índice, taxa ou evento de referência. Em gestão e estruturação, eles são usados para proteção, ajuste de exposição e estratégias táticas.
 
-## Principais Instrumentos
-- **Swap**: Contrato de troca de fluxos financeiros. Ex: Trocar uma variaÃ§Ã£o de juros pÃ³s-fixada (CDI) por uma taxa fixa, ou variaÃ§Ã£o cambial por CDI.
-- **NDF (Non-Deliverable Forward)**: Termo de moeda sem entrega fÃ­sica. Liquida-se apenas a diferenÃ§a financeira entre a taxa contratada e a taxa de mercado no vencimento. Essencial para exportadores travarem a receita em Reais.
-- **OpÃ§Ãµes**: Contratos que dÃ£o o direito (mas nÃ£o a obrigaÃ§Ã£o) de comprar (Call) ou vender (Put) um ativo a um preÃ§o determinado (Strike). Funcionam como um "seguro".
+## Principais instrumentos
+- [[Mercado_Financeiro/Termo_e_Futuro|Termo e Futuro]]
+- [[Mercado_Financeiro/Swap]]
+- [[Mercado_Financeiro/Opcoes|Opções]]
 
-## AplicaÃ§Ã£o no Agro
-Para o produtor ou trading exportadora, o uso de derivativos permite mitigar o risco de queda no preÃ§o das commodities ou a valorizaÃ§Ã£o excessiva do Real frente ao DÃ³lar, garantindo a margem da operaÃ§Ã£o.
+## Aplicações
+Permitem hedge de juros, câmbio, commodities e risco de preço, além de arbitragem e alavancagem controlada.
 
-#derivativos #hedge #risco_de_mercado #agro
+## Referências e Links
+- [[Mercado_Financeiro/Indice_Mercado|Mercado Financeiro]]
+- [[Economia/Cambio_e_Comercio_Internacional|Câmbio e Comércio Internacional]]
+- [[Mercado_Financeiro/Commodities]]
+
+---
+[[Mind/Conhecimento/indice|Índice Principal]]
+
+#derivativos #hedge #mercado #risco

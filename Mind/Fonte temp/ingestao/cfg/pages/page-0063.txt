@@ -1,0 +1,8 @@
+=== PAGE 63 ===
+CFG – Certificação em Fundamentos de Finanças117
+Teste de HipótesesConceitoResumo das hipótesesPodemos expressar, em linhas gerais, o teste de hipóteses de três formas:1) Teste UnicaudalH0: µ ≤	µ0;      Ha: µ >	µ0.2) Teste BicaudalH0: µ =	µ0;      Ha: µ ≠	µ.
+H0: µ ≥	µ0;      Ha: µ <	µ 0. IMPORTANTE!O termo de igualdade da expressão (≤,≥,=)	sempre aparece na hipótese NULA. Da mesma forma, os termos sem a igualdade (<,>,≠)	sempre aparecem na hipótese ALTERNATIVA.
+CFG – Certificação em Fundamentos de Finanças118
+Teste de HipótesesErros Tipo I e Tipo IIComo estamos tratando de procedimentos estatísticos, nunca conseguiremos 100% de certeza com relação às nossas conclusões dos Testes de Hipóteses.Assim, é possível que rejeitemos H0 quando ela for verdadeira, o que seria incorreto, ou ainda não rejeitemos H0 quando ela for falsa (outra conclusão equivocada). No primeiro caso, cometeríamos um Erro Tipo I e, no segundo caso, um Erro Tipo II.
+O Erro Tipo I também é conhecido por Nível de Significância (a), que mede justamente a probabilidade de cometermos um Erro Tipo I, ou seja, de rejeitarmos H0 quando ela é verdadeira. Já o resultado de (1 – probabilidade de cometermos um Erro Tipo 2) é conhecido por Poder do Teste (b), ou seja, 1 menos a probabilidade de não rejeitar H0 quando ela é falsa.
+H0 é verdadeiraH0 é falsaRejeitar H0 Erro Tipo I Conclusão corretaNão rejeitar H0 Conclusão corretaErro Tipo 2

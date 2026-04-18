@@ -1,0 +1,8 @@
+=== PAGE 186 ===
+361CFG – Certificação de Fundamentos de Gestão
+Grau de Alavancagem
+Grau de AlavancagemÉ possível também calcular os Graus de Alavancagem Operacional (GAO), Financeira (GAF) e Total (GAT) a partir das seguintes fórmulas:ÍndiceFórmulaInterpretaçãoGAOL	(5	−'C)L5	−'C−'OVariação do LAJIR em relação à variação das vendasGAF 3!PE03!PE0	−PQ0HAVariação do LAIR em relação à variação do LAJIR. Pode também ser calculado como ROE/ROI.GATGAO X GAFVariação do Lucro Líquido em relação à variação das vendasEm que: Q =Quantidade; P = Preço de Venda (por unidade); CV = Custo Variável (por unidade); CF = Custo Fixo Total
+Conceito
+362CFG – Certificação de Fundamentos de Gestão
+Fórmula DupontRetorno sobre Patrimônio Líquido
+Retorno sobre Patrimônio Líquido (ROE)=Lucro Líquido (LL)Patrimônio Líquido (PL)Retorno sobre Patrimônio Líquido (ROE)=Lucro Líquido (LL)Patrimônio Líquido (PL)Vendas LíquidasxVendas LíquidasAtivo TotalxAtivo TotalMargem LíquidaGiro do AtivoAlavancagem

@@ -1,0 +1,19 @@
+=== PAGE 389 ===
+762CFG – Certificação de Fundamentos em Gestão
+A SML (Security Market Line) é a evolução da CML, já que compreendemos que quando uma carteira é muito bem diversificada, o risco total da carteira de investimentos acaba sendo somente o risco sistêmico (o risco não-sistêmico acaba diluindo a zero). Com isso, não faz sentido calcularmos risco através de desvio padrão (risco total), mas sim, através do Beta (risco sistêmico).  Portanto, a principal evolução do modelo CML para o SML é a medida de risco utilizada, já que:Ø CML: usa RISCO TOTAL como medida de risco (medido pelo desvio padrão)Ø SML: usa  RISCO SISTÊMICO ou de mercado (medido pelo Beta – β).Desta forma, a equação do retorno requerido (exigido) do investidor neste modelo vem através da equação do CAPM (Capital Asset Pricing Model), que pode ser expressa de forma gráfica por meio de uma reta, onde definimos o retorno requerido por um ativo em função do beta, denominada de Security Market Line (SML). A SML expressa o prêmio de risco (o cálculo da taxa de retorno requerida dos ativos em um mercado em equilíbrio) e enfatiza que o risco de um ativo é uma função do seu beta.
+Conceito
+SML 
+–
+ 
+Security Market 
+Line
+763CFG – Certificação de Fundamentos em Gestão
+O CAPM (Capital Asset Pricing Model) é um modelo que mostra o retorno mínimo que um investidor aceitaria por investir em uma empresa levando em consideração risco sistemático (Beta) daquele ativo. A fórmula leva em consideração o mínimo que se deve ganhar no mercado financeiro, ou seja, Taxa Livre de Risco (Rf), acrescentado pelo retorno exigido pelo risco sistêmico da ação. Este modelo segue a premissa de aversão ao risco (quanto maior o risco, maior o retorno exigido)q FÓRMULA: 
+onde:Ø E(Ri) = Retorno Requerido (exigido) pelo acionistaØ Rf = taxa livre de risco;Ø β = medida de risco sistêmico da empresa;Ø Rm = retorno de mercado (no Brasil, retorno do Ibovespa).
+Prêmio de Risco
+SML 
+–
+ 
+Security Market 
+LineCAPM: Fórmula
+!(#$)=#3+β4#5−#6

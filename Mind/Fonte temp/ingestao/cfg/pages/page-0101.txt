@@ -1,0 +1,7 @@
+=== PAGE 101 ===
+CFG – Certificação de fundamentos de Gestão192
+ConceitoAs curvas de indiferença são utilizadas para representar as preferências dos consumidores entre diferentes combinações de bens. Uma curva de indiferença mostra todas as combinações de dois bens que proporcionam ao consumidor o mesmo nível de satisfação ou utilidade.As principais características das Curvas de Indiferença são:Ø Curvas Descendentes: as curvas de indiferença têm uma inclinação negativa, o que reflete o trade-off entre os dois bens. Se um consumidor consome mais de um bem, ele deve consumir menos do outro para manter o mesmo nível de satisfação;Ø Curvas Convexas em relação à origem dos eixos: reflete como as pessoas estão mais dispostas a trocar bens que tenham em abundância e menos dispostas a trocar bens que tenham em pouca quantidade;Ø Não se Cruzam: duas curvas distintas de indiferença nunca se cruzam. Se o fizessem, isso implicaria uma inconsistência nas preferências do consumidor; eØ Níveis de Utilidade Diferentes: curvas de indiferença mais afastadas da origem representam níveis mais altos de utilidade, pois correspondem a maiores quantidades de ambos os bens.
+Curvas de Indiferença
+CFG – Certificação de fundamentos de Gestão193
+ConceitoAinclinaçãodeumacurvadeindiferençaéchamadadeTaxaMarginaldeSubstituição(TMS).ATMSmedeaquantidadedeumbemqueumconsumidorestádispostoasacrificarparaobterumaunidadeadicionaldooutrobem,mantendoomesmoníveldesatisfação. 
+Curva de Indiferença

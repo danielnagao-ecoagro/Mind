@@ -1,0 +1,9 @@
+=== PAGE 50 ===
+94CFG – Certificação de Fundamentos de Gestão
+Uma debênture com vencimento em 10 anos, está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento anual, calcule qual é seu Current Yield?   q SOLUÇÃO: Como o Current Yield é somente a relação entre “os juros recebidos anualmente” pelo preço pago pelo título, devemos primeiramente saber qual o cupom que o investidor irá receber. Sendo assim, o cupom será a multiplicação da taxa do cupom por R$ 1.000,00 e não pelo valor pago no mercado. Lembre que o cupom é pago pelo que a empresa pegou emprestado (para as debêntures, o valor sempre é R$ 1.000,00) e não por quanto estão negociando seus títulos no mercado secundário.Ø Current Yield (CY) =      120,00 (cupom anual)          =  11,54%        1.040,00 (valor de mercado)  
+Precificação de AtivosCY: Exemplo de Cálculo 1 
+95CFG – Certificação de Fundamentos de Gestão
+Precificação de Ativos
+(1) CUPOM SEMESTRAL:Ø 12 [i]Ø 360 [n]Ø 180Ø R/SR = 5,830% ao semestreØ CUPOM: 5,83% × R$ 1.000R = R$ 58,30 ao semestre 
+(2) CURRENT YIELD (CY):Ø	78=!$	$%,'()!$	$%,'(!$	*.(,(,((Ø 78=!$	**-,-(!$	*.(,(,((Ø 9:=;,==>====,>=% ao ano!
+CY: Exemplo de Cálculo 2 Uma debênture com vencimento em 10 anos, está sendo negociada no mercado por R$ 1.040,00. Sabendo que sua taxa do cupom é de 12% ao ano, com pagamento semestral, calcule qual é seu Current Yield?   q SOLUÇÃO: Desta vez, o cupom é pago semestralmente. Assim, devemos encontrar esta taxa semestral, para multiplicarmos por R$ 1.000,00. Como são dois semestres por ano, ele receberá o cupom duas vezes, sem ser considerado o valor do dinheiro no tempo.

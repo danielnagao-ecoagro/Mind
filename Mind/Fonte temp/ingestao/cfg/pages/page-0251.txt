@@ -1,0 +1,10 @@
+=== PAGE 251 ===
+488CFG – Certificado em Fundamentos de Gestão
+(=) Lucro Líquido(+) Depreciações e Amortizações (-) Investimentos (CAPEX)(-) Variação de Capital de Giro(+) Captação de Recursos de Terceiros (Financiamentos)(-) Amortização das Parcelas do Principal dos Financiamentos(=) Fluxo de Caixa do Acionista (FCFE)
+Trata dos direitos somente dos proprietários do Patrimônio Líquido, ou seja, do capital próprio da empresa, ou seja, após o pagamento de juros para os credores. É o fluxo de caixa existente após o pagamento de despesas operacionais, das obrigações tributárias, das necessidades de investimento, do principal, de juros e de quaisquer outros desembolsos de capital necessários à manutenção da taxa de crescimento dos fluxos de caixa projetados, descontado pelo custo do capital próprio (Ke).
+Fluxo de Caixa Descontado do Acionista (FCFE)
+Análise Fundamentalista
+489CFG – Certificado em Fundamentos de Gestão
+Modelo de GordonO Modelo de Gordon, também chamado de Modelo de Desconto de Dividendos, utiliza os dividendos futuros previstos, descontando-os a valor presente por uma taxa, que será “retorno requerido pelo acionista MENOS taxa de crescimento dos dividendos”, para saber o valor justo de uma ação. Este modelo leva em consideração três variáveis:Ø D1 = dividendo ANUAL da ação, porém de 1 ano a frente do preço atualØ Ks = taxa de retorno requerida pela açãoØ g = taxa de crescimento dos dividendosq FÓRMULA:q OBS: Na prova pode ser dado D1 (estimativa de dividendos do próximo ano) ou D0 (dividendos distribuídos no último ano). Note que, a fórmula acima requer o fluxo de caixa ou dividendo do período 1. Portanto, se fornecido D0, é preciso aplicar a taxa de crescimento g para obter D1, ou seja, crescer o dividendo por 1 ano
+>~Qa	(Y!)	=(Ä")Ks	−g
+Análise Fundamentalista
