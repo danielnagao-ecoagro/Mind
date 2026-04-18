@@ -46,6 +46,10 @@ Esta nota centraliza a governança de atualização da base. O objetivo é reduz
 | [[Juridico_e_Regulatorio/Lei_do_Agro|Lei do Agro]] | Jurídico e Regulatório | alta | 2026-04-18 | 2026-06-18 | alteração legal ou regulamentar | Lei 13.986/2020 | vigente |
 | [[Mercado_Financeiro/Taxa_Selic|Taxa Selic]] | Mercado Financeiro | média | 2026-04-18 | 2026-07-18 | revisão de contexto macro ou política monetária | Banco Central do Brasil | vigente |
 | [[Mercado_Financeiro/NDF_Non_Deliverable_Forward|NDF - Non-Deliverable Forward]] | Mercado Financeiro | média | 2026-04-18 | 2026-10-18 | mudança de prática de hedge, produto ou marcação | material didático consolidado | vigente |
+| [[Mercado_Financeiro/Precificacao_de_NDF|Precificação de NDF]] | Mercado Financeiro | média | 2026-04-18 | 2026-10-18 | mudança de convenção de curva, prática de hedge ou metodologia de preço | material didático consolidado | vigente |
+| [[Mercado_Financeiro/Cupom_Cambial_e_Pontos_Forward|Cupom Cambial e Pontos Forward]] | Mercado Financeiro | média | 2026-04-18 | 2026-10-18 | mudança de convenção de curva, cupom ou prática de formação de preço | material didático consolidado | vigente |
+| [[Mercado_Financeiro/Caso_Numerico_de_NDF_com_Curva_e_MtM_Diario|Caso Numérico de NDF com Curva e MtM Diário]] | Mercado Financeiro | média | 2026-04-18 | 2026-10-18 | mudança de convenção, fórmula didática ou metodologia de fechamento | material didático consolidado | vigente |
+| [[Contabilidade_e_Controle/Marcacao_a_Mercado_Diaria_de_NDF|Marcação a Mercado Diária de NDF]] | Contabilidade e Controle | média | 2026-04-18 | 2026-10-18 | mudança de prática de fechamento, curva ou critério de MtM | material didático consolidado | vigente |
 
 ## Prioridade operacional
 - Priorize links e YAML apenas nas notas tocadas pelo lote.

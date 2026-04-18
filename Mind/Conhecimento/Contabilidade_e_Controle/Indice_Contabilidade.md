@@ -10,6 +10,8 @@ Rotinas contábeis, cálculo de cota, provisões e reconciliação de posições
 - [[COSIF]]
 - [[Fluxo_de_Caixa_Descontado_DCF|Fluxo de Caixa Descontado (DCF)]]
 - [[Marcacao_a_Mercado_vs_Curva|Marcação a Mercado vs. Curva]]
+- [[Marcacao_a_Mercado_Diaria_de_NDF|Marcação a Mercado Diária de NDF]]
+- [[Mercado_Financeiro/Caso_Numerico_de_NDF_com_Curva_e_MtM_Diario|Caso Numérico de NDF com Curva e MtM Diário]]
 - [[PDD_Provisao_Devedores_Duvidosos|PDD - Provisão para Devedores Duvidosos]]
 
 ## Pontes com FIDC

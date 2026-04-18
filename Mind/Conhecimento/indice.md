@@ -23,6 +23,10 @@ Bem-vindo à base de conhecimento da gestora. Este índice organiza os principai
 
 ## Trilhas aplicadas
 - [[Fundos_Investimento/FIDC/Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
+- [[Mercado_Financeiro/Precificacao_de_NDF|Precificação de NDF]]
+- [[Contabilidade_e_Controle/Marcacao_a_Mercado_Diaria_de_NDF|Marcação a Mercado Diária de NDF]]
+- [[Mercado_Financeiro/Cupom_Cambial_e_Pontos_Forward|Cupom Cambial e Pontos Forward]]
+- [[Mercado_Financeiro/Caso_Numerico_de_NDF_com_Curva_e_MtM_Diario|Caso Numérico de NDF com Curva e MtM Diário]]
 
 ---
 Última atualização: 2026-04-18

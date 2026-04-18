@@ -13,6 +13,7 @@ Definições curtas para termos recorrentes da base de conhecimento.
 - **Free float:** parcela das ações em circulação efetivamente disponível para negociação.
 - **Hipótese nula:** afirmação base a ser testada estatisticamente.
 - **NDF:** contrato a termo com liquidação financeira por diferença, sem entrega física do ativo.
+- **MtM (mark-to-market):** marcação a mercado que atualiza diariamente o valor econômico de um ativo ou derivativo.
 - **Preço unitário (PU):** valor econômico de um ativo ou fluxo na data de avaliação ou compra.
 - **Patrimônio líquido (PL):** diferença entre ativos e passivos de um fundo ou entidade.
 - **Sacado:** devedor final que deve pagar o crédito representado no título ou recebível.
@@ -30,6 +31,9 @@ Definições curtas para termos recorrentes da base de conhecimento.
 - [[Juridico_e_Regulatorio/CVM_30|CVM 30]]
 - [[Mercado_Financeiro/Duration_e_Convexidade|Duration e Convexidade]]
 - [[Mercado_Financeiro/NDF_Non_Deliverable_Forward|NDF - Non-Deliverable Forward]]
+- [[Mercado_Financeiro/Precificacao_de_NDF|Precificação de NDF]]
+- [[Mercado_Financeiro/Cupom_Cambial_e_Pontos_Forward|Cupom Cambial e Pontos Forward]]
+- [[Contabilidade_e_Controle/Marcacao_a_Mercado_Diaria_de_NDF|Marcação a Mercado Diária de NDF]]
 - [[Fundos_Investimento/FIDC/Calculo_de_PL_e_Cota_em_FIDC|Cálculo de PL e Cota em FIDC]]
 - [[Fundos_Investimento/FIDC/Matematica_Financeira_de_FIDC|Matemática Financeira de FIDC]]
 - [[Fundos_Investimento/FIDC/Desagio_Cessao_PU_e_Taxa_Compra|Deságio, Cessão, PU e Taxa de Compra]]

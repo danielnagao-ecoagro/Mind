@@ -8,12 +8,25 @@ Consiste em precificar o ativo pelo seu **valor de negociação atual** no merca
 - **Risco**: Alta volatilidade em momentos de estresse de mercado.
 
 ## Marcação na Curva (Accrual)
-Consiste em precificar o ativo pelo seu **valor teórico acumulado**, partindo do preço de aquisição e somando a taxa de juros (pro-rata die) contratada até o vencimento.
+Consiste em precificar o ativo pelo seu **valor teórico acumulado**, partindo do preço de aquisição e somando a taxa de juros contratada até o vencimento.
 - **Vantagem**: Estabilidade no valor da cota, sem oscilações diárias bruscas.
 - **Risco**: Pode esconder perdas se o risco de crédito do emissor aumentar significativamente ou se houver necessidade de venda antecipada.
 
 ## Quando usar cada um?
-- **MtM**: Obrigatória para ativos destinados à negociação (Trading) e fundos abertos com alta liquidez, garantindo que quem entra ou sai do fundo o faça pelo valor real de mercado.
-- **Curva**: Geralmente utilizada para ativos mantidos até o vencimento (Held-to-Maturity) em estruturas fechadas ou quando não há mercado secundário líquido, desde que autorizada pela regulamentação vigente.
+- **MtM**: Obrigatória para ativos destinados à negociação e para estruturas em que o preço justo diário é relevante para a transparência patrimonial.
+- **Curva**: Mais comum em ativos mantidos até o vencimento, quando a política contábil e regulatória permite essa abordagem.
+
+## Aplicação em derivativos
+Derivativos como [[Mercado_Financeiro/NDF_Non_Deliverable_Forward|NDF]] exigem atenção especial porque seu valor econômico decorre do preço justo corrente, e não de um carregamento linear na curva. Em prática operacional, isso aparece no fechamento de [[Marcacao_a_Mercado_Diaria_de_NDF|marcação a mercado diária de NDF]].
+
+## Referências e Links
+- [[Indice_Contabilidade|Contabilidade e Controle]]
+- [[Marcacao_a_Mercado_Diaria_de_NDF|Marcação a Mercado Diária de NDF]]
+- [[Mercado_Financeiro/Precificacao_de_NDF|Precificação de NDF]]
+- [[Mercado_Financeiro/NDF_Non_Deliverable_Forward|NDF - Non-Deliverable Forward]]
+
+---
+[[Indice_Contabilidade|Voltar para Contabilidade e Controle]]
+[[Mind/Conhecimento/indice|Índice Principal]]
 
 #contabilidade #mercado-financeiro #mtm #gestao-de-ativos
