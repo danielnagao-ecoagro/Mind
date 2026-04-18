@@ -1,9 +1,20 @@
+---
+categoria: Fundos de Investimento
+tags: [fidc, credito, recebiveis, securitizacao]
+fonte_principal: Resolução CVM 175
+fonte_tipo: norma_primaria
+ultima_atualizacao: 2026-04-18
+data_base_fonte: 2026-04-18
+status_revisao: vigente
+volatilidade: alta
+---
+
 # FIDC - Fundo de Investimento em Direitos Creditórios
 
-O FIDC é um fundo estruturado voltado à aquisição de [[Estruturacao_e_Operacoes/Tipos_de_Direitos_Creditorios|direitos creditórios]], transformando fluxos futuros de recebíveis em cotas com diferentes perfis de risco e retorno. Na prática, ele conecta originação de crédito, securitização, análise de risco e gestão de caixa.
+O FIDC é um fundo estruturado voltado à aquisição de [[Estruturacao_e_Operacoes/Tipos_de_Direitos_Creditorios|direitos creditórios]], transformando fluxos futuros de recebíveis em cotas com diferentes perfis de risco e retorno. Esta nota está conferida até 2026-04-18 e funciona como hub entre originação, securitização, análise de risco e gestão de caixa.
 
 ## O que são direitos creditórios
-Direitos creditórios são valores que uma empresa ou instituição tem a receber no futuro em decorrência de vendas a prazo, prestação de serviços, contratos de financiamento ou outros créditos cedíveis.
+Direitos creditórios são valores a receber no futuro em decorrência de vendas a prazo, prestação de serviços, contratos de financiamento ou outros créditos cedíveis.
 
 Exemplos frequentes:
 - duplicatas
@@ -23,69 +34,41 @@ Exemplos frequentes:
 O gestor seleciona e acompanha os ativos. O administrador fiduciário cuida da estrutura, controles, prestadores e conformidade regulatória.
 
 ### Custodiante, servicer e demais prestadores
-Dependendo da estrutura, há participantes responsáveis por guarda documental, cobrança, monitoramento, conciliação e suporte operacional.
+Dependendo da estrutura, há participantes responsáveis por guarda documental, cobrança, monitoramento, conciliação e suporte operacional, com interface direta com [[Estruturacao_e_Operacoes/Servicing_e_Custodia|Servicing e Custódia]].
 
 ## Tipos de cotas e absorção de perdas
 O FIDC pode emitir classes com prioridades diferentes de pagamento:
-- cota sênior: tem preferência em amortização e resgate
-- cota mezanino: fica entre a sênior e a subordinada
-- cota subordinada: absorve primeiro as perdas econômicas
+- cota sênior
+- cota mezanino
+- cota subordinada
 
-Esse escalonamento é uma forma de reforço de crédito. A subordinação protege as classes mais altas até certo limite, mas não elimina o risco da estrutura.
-
-## Classificações usuais
-### Por concentração
-- monocedente multisacado
-- multicedente monosacado
-- multicedente multisacado
-- monocedente monosacado
-
-Essa classificação ajuda a avaliar simultaneamente risco operacional e concentração de crédito.
-
-### Por natureza do lastro
-O FIDC pode investir em diferentes famílias de recebíveis, como fomento mercantil, financiamento, agronegócio, crédito corporativo, poder público e carteiras inadimplidas.
+Esse escalonamento é uma forma de reforço de crédito e deve ser lido em conjunto com [[Subordinacao_e_Reforco_Credito|Subordinação e Reforço de Crédito]].
 
 ## Pontos críticos de análise
-### Qualidade do lastro
-É preciso entender origem, validade jurídica, documentação, recorrência, aging e comportamento histórico dos recebíveis.
-
-### Critérios de elegibilidade
-A carteira deve obedecer filtros mínimos de prazo, sacado, concentração, formalização e performance. Critério frouxo demais tende a deteriorar a qualidade do fundo ao longo do tempo.
-
-### Subordinação e reforços de crédito
-A robustez da estrutura depende do volume de proteção subordinada, gatilhos, reservas, sobrecolateralização e regras de amortização.
-
-### Monitoramento
-FIDC não é estrutura para análise estática. É necessário acompanhar inadimplência, recompras, concentração, PDD, performance da cobrança e qualidade do cedente.
-
-## Riscos principais
-- risco de crédito do sacado
-- risco de originação e fraude
-- risco jurídico na cessão e documentação
-- risco operacional de cobrança e conciliação
-- risco de concentração por cedente, sacado ou setor
-- risco de liquidez das cotas
+- qualidade do lastro
+- critérios de elegibilidade
+- subordinação e reforços de crédito
+- monitoramento de inadimplência, recompras, concentração e PDD
 
 ## Relação com securitização
 O FIDC é um veículo de securitização via fundo, diferente das companhias securitizadoras emissoras de CRI e CRA. Em ambos os casos, há transformação de recebíveis em instrumentos para investidores, mas com arcabouço jurídico, regulatório e operacional distinto.
 
-## Aplicações práticas
-- financiar capital de giro de originadores
-- transformar recebíveis em funding de mercado
-- segmentar perfis de risco por classe de cotas
-- dar acesso a carteiras de crédito específicas para investidores
-
 ## Referências e Links
-- [[Fundos_Investimento/FIDC/Indice_FIDC|FIDC]]
-- [[Fundos_Investimento/FIDC/Subordinacao_e_Reforco_Credito|Subordinação e Reforço de Crédito]]
-- [[Fundos_Investimento/FIDC/Securitizacao_de_Recebiveis_Avancada|Securitização de Recebíveis Avançada]]
+- [[Indice_FIDC|FIDC]]
+- [[Subordinacao_e_Reforco_Credito|Subordinação e Reforço de Crédito]]
+- [[Securitizacao_de_Recebiveis_Avancada|Securitização de Recebíveis Avançada]]
 - [[Estruturacao_e_Operacoes/Securitizacao|Securitização]]
 - [[Estruturacao_e_Operacoes/Tipos_de_Direitos_Creditorios|Tipos de Direitos Creditórios]]
+- [[Estruturacao_e_Operacoes/Servicing_e_Custodia|Servicing e Custódia]]
 - [[Credito_e_Risco/Analise_de_Credito|Análise de Crédito]]
+- [[Credito_e_Risco/Limites_de_Concentracao|Limites de Concentração]]
 - [[Contabilidade_e_Controle/PDD_Provisao_Devedores_Duvidosos|PDD - Provisão para Devedores Duvidosos]]
+- [[Fundos_Investimento/CVM_175|CVM 175]]
+- [[Controle_de_Revisao_do_Conhecimento|Controle de Revisão do Conhecimento]]
+- Fonte principal: Resolução CVM 175, conferida até 2026-04-18.
 
 ---
-[[Fundos_Investimento/FIDC/Indice_FIDC|Voltar para FIDC]]
+[[Indice_FIDC|Voltar para FIDC]]
 [[Mind/Conhecimento/indice|Índice Principal]]
 
 #fidc #credito #recebiveis #securitizacao #fundos

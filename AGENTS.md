@@ -81,6 +81,8 @@ Every technical note should include:
 5. Navigation footer linking to the category index and master index
 6. Hashtags at the end
 
+Notes with higher change risk must also follow the governance fields defined in `Mind/REGRAS_CONHECIMENTO.md`, especially `fonte_principal`, `fonte_tipo`, `data_base_fonte`, `status_revisao`, and `volatilidade`.
+
 Default linking minimum for new notes:
 - 1 link to the category index
 - 1 link to `Mind/Conhecimento/indice`
@@ -92,6 +94,18 @@ Default linking minimum for new notes:
 - Cross-link related concepts across domains.
 - When creating a new concept cluster, update backlinks in relevant existing notes instead of only linking forward from the new notes.
 - If a topic becomes too broad, create a hub note plus smaller child notes by concept.
+- After relevant editing batches, run a global low-cost link review across `Mind/Conhecimento/`.
+- If a full-vault review already reads the files, opportunistically normalize YAML in touched notes when the change is mechanical and low-cost.
+
+### Freshness Governance
+- Treat regulatory, tax, operational, and market-sensitive notes as volatile content.
+- Use absolute dates instead of vague time references such as “currently” or “recently”.
+- Record `data_base_fonte` for volatile notes so the note states until when the source was verified.
+- Track high- and medium-volatility notes in `Mind/Conhecimento/Controle_de_Revisao_do_Conhecimento.md`.
+- Review cadence:
+  - high volatility: 30-90 days
+  - medium volatility: semiannual
+  - low volatility: annual or trigger-based
 
 ### Category Folder Purpose
 - `Mercado_Financeiro/`: macro, rates, indices, instruments, derivatives, valuation.
@@ -130,7 +144,8 @@ There is no build pipeline or automated test suite. Useful local commands are:
 ### Git & Version Control
 - `git status`
 - `git diff`
-- Do not commit `.obsidian/workspace.json` unless changes are intentional.
+- Do not commit machine-specific Obsidian state.
+- `Mind/.obsidian/graph.json` and `Mind/.obsidian/workspace.json` must stay out of commits permanently.
 
 ## Testing Guidelines
 
@@ -148,9 +163,10 @@ Testing is manual and performed in Obsidian:
 2. Create or edit: follow the mandatory structure and linking standards.
 3. Index: add new main topics to the appropriate `Indice_*.md`.
 4. Link: create forward links and update backlinks in impacted notes.
-5. Review: look for orphan notes, duplicate concepts, and missing category links.
-6. Validate: check links, hashtags, and encoding in Obsidian.
-7. Commit: use short imperative messages.
+5. Review: look for orphan notes, duplicate concepts, missing category links, and stale volatile notes.
+6. Run a low-cost global link review when the batch is large enough to justify it.
+7. Validate: check links, hashtags, encoding, and `data_base_fonte` where applicable.
+8. Commit: use short imperative messages.
 
 ## Commit & Pull Request Guidelines
 
@@ -169,7 +185,7 @@ Pull requests should include:
 
 - Do not commit secrets, API keys, or personal sensitive data to the vault.
 - Avoid committing machine-specific workspace state unless intentionally shared.
-- Review `.obsidian/workspace.json` before committing.
+- Keep `Mind/.obsidian/graph.json` and `Mind/.obsidian/workspace.json` ignored and untracked.
 - Verify UTF-8 encoding before committing Portuguese notes to prevent encoding mismatches.
 
 ## Specialized Skills & Tools

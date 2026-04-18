@@ -1,10 +1,30 @@
+---
+categoria: Mercado Financeiro
+tags: [rendafixa, investimentos, agro, lca, lci]
+ultima_atualizacao: 2026-04-18
+---
+
 # LCA e LCI
 
-As **Letras de Crédito do Agronegócio (LCA)** e as **Letras de Crédito Imobiliário (LCI)** são títulos de renda fixa emitidos por instituições financeiras com o objetivo de captar recursos para os setores agropecuário e imobiliário, respectivamente.
+As **Letras de Crédito do Agronegócio (LCA)** e as **Letras de Crédito Imobiliário (LCI)** são títulos de renda fixa emitidos por instituições financeiras para captar recursos destinados aos setores agropecuário e imobiliário.
 
-## Características Principais
-- **Isenção de IR**: Para investidores Pessoa Física (PF), os rendimentos são isentos de Imposto de Renda, o que torna esses ativos muito atrativos.
-- **Funding Setorial**: A LCA é fundamental para o financiamento do [[Agronegocio/Indice_Agro|Agronegócio]], permitindo que bancos ofereçam crédito aos produtores rurais. A LCI cumpre papel análogo para o mercado imobiliário.
-- **Garantia**: Geralmente contam com a proteção do FGC (Fundo Garantidor de Créditos) até os limites vigentes.
+## Características principais
+- **Isenção de IR:** para investidores pessoa física, os rendimentos são isentos de IR.
+- **Funding setorial:** a LCA ajuda a financiar o [[Agronegocio/Indice_Agro|Agronegócio]], enquanto a LCI cumpre papel análogo no imobiliário.
+- **Garantia:** costumam contar com proteção do FGC até os limites vigentes.
 
-#RendaFixa #Investimentos #Agro #LCA #LCI
+## Uso na base
+Esta nota deve ser lida em conjunto com [[Fundos_Investimento/Tributacao_Fundos|Tributação de Fundos]], [[Fundos_Investimento/CRA_Certificado_Recebiveis_Agro|CRA]] e instrumentos de funding do agro.
+
+## Referências e Links
+- [[Indice_Mercado|Mercado Financeiro]]
+- [[Agronegocio/Indice_Agro|Agronegócio]]
+- [[Fundos_Investimento/Tributacao_Fundos|Tributação de Fundos]]
+- [[Fundos_Investimento/CRA_Certificado_Recebiveis_Agro|CRA]]
+- [[Glossario/Glossario|Glossário]]
+
+---
+[[Indice_Mercado|Voltar para Mercado Financeiro]]
+[[Mind/Conhecimento/indice|Índice Principal]]
+
+#rendafixa #investimentos #agro #lca #lci

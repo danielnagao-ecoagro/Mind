@@ -1,4 +1,4 @@
-﻿# Jurídico e Regulatório
+# Jurídico e Regulatório
 
 Legislação aplicável, regras de conduta, ofertas e normas de fundos e gestão.
 
@@ -22,6 +22,7 @@ Legislação aplicável, regras de conduta, ofertas e normas de fundos e gestão
 - [[Compliance]]
 - [[Regulacao_e_Autorregulacao_ASG|Regulação e Autorregulação ASG]]
 - [[Codigos_Anbima|Códigos ANBIMA]]
+- [[Controle_de_Revisao_do_Conhecimento|Controle de Revisão do Conhecimento]]
 - [[Fundos_Investimento/Indice_Fundos|Fundos de Investimento]]
 - [[Gestao_de_Carteiras/Indice_Carteiras|Gestão de Carteiras]]
 - [[Tecnologia_e_Inovacao_Financeira/Indice_Tecnologia|Tecnologia e Inovação Financeira]]

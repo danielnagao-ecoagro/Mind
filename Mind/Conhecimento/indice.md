@@ -1,4 +1,4 @@
-﻿# Índice de Conhecimento
+# Índice de Conhecimento
 
 Bem-vindo à base de conhecimento da gestora. Este índice organiza os principais domínios de mercado, fundos, crédito, regulação, operações e gestão.
 
@@ -17,6 +17,9 @@ Bem-vindo à base de conhecimento da gestora. Este índice organiza os principai
 - [[Juridico_e_Regulatorio/Indice_Juridico|Jurídico e Regulatório]]
 - [[Estruturacao_e_Operacoes/Indice_Estruturacao|Estruturação e Operações]]
 - [[Glossario/Glossario|Glossário]]
+
+## Governança editorial
+- [[Controle_de_Revisao_do_Conhecimento|Controle de Revisão do Conhecimento]]
 
 ---
 Última atualização: 2026-04-18

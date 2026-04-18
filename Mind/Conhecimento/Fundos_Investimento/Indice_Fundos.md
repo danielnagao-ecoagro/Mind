@@ -1,4 +1,4 @@
-﻿# Fundos de Investimento
+# Fundos de Investimento
 
 Conceitos, estruturas, estratégias e regulação aplicáveis aos principais veículos de investimento.
 
@@ -13,6 +13,7 @@ Conceitos, estruturas, estratégias e regulação aplicáveis aos principais ve�
 - [[Tributacao_de_Renda_Variavel|Tributação de Renda Variável]]
 - [[CVM_175|Resolução CVM 175]]
 - [[CRA_Certificado_Recebiveis_Agro|CRA - Certificado de Recebíveis do Agro]]
+- [[Controle_de_Revisao_do_Conhecimento|Controle de Revisão do Conhecimento]]
 - [[Analise_Financeira_e_Corporativa/Indice_Analise_Corporativa|Análise Financeira e Corporativa]]
 - [[Gestao_de_Carteiras/Indice_Carteiras|Gestão de Carteiras]]
 - [[Tecnologia_e_Inovacao_Financeira/Indice_Tecnologia|Tecnologia e Inovação Financeira]]
